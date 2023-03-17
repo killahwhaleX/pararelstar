@@ -434,6 +434,8 @@ def main():
     wandb.run.summary['group-unacc'] = group_false_acc
 
     lm_results = parse_lm_results(results_dict, all_objects)
+    
+    # TODO: PREDICTION FILE READING HERE
 
     analyze_results(lm_results, patterns_graph)
     analyze_graph(patterns_graph)
