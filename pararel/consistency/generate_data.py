@@ -83,8 +83,8 @@ def generate_data(num_relations, relations_given, LAMA_path, format_prompt):
 
 def main():
     parser = argparse.ArgumentParser("")
-    parser.add_argument("--num_relations", "-nr", type=int, default=3, help="number of relations")
-    parser.add_argument("-relations_given", "-r", type=str, default="P138,P449,P37", help="which relations")
+    parser.add_argument("--num_relations", "-nr", type=int, default=31, help="number of relations")
+    parser.add_argument("-relations_given", "-r", type=str, default="P937,P1412,P127,P103,P276,P159,P140,P136,P495,P17,P361,P36,P740,P264,P407,P138,P30,P131,P176,P449,P279,P19,P101,P364,P106,P1376,P178,P37,P413,P27,P20", help="which relations")
     parser.add_argument("--LAMA_path", "-lama", type=str,
                         default="/mimer/NOBACKUP/groups/dsaynova/SKR/ParaRel/pararel/data/trex_lms_vocab/", help="number of tuples")
     parser.add_argument("--format", type=str, help="format to match for pararel queries", default="pararel")
