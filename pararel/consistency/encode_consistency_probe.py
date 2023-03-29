@@ -13,7 +13,7 @@ from pararel.consistency.utils import read_jsonl_file, read_graph
 
 
 def log_wandb(args):
-    pattern = args.data_file.split('/')[-1].split('.')[0]
+    pattern = args.data_file.split('/')[-1].split('.')[0].split('-')[0]
     lm = args.lm
 
     if args.baseline:
@@ -48,7 +48,7 @@ def log_wandb(args):
         config['model_name'] = model_name
 
     wandb.init(
-        entity='consistency',
+        #entity='consistency',
         name=f'{pattern}_consistency_probe_{lm}',
         project="consistency",
         tags=[pattern, 'probe'],

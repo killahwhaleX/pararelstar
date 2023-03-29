@@ -72,5 +72,31 @@ CUDA_VISIBLE_DEVICES=2, python -m debugpy --wait-for-client --listen 5678 -m par
 
        In the paper the authors say that they use 'original-language', while in their code it seems as though they use 'official-language'.
 
+Generated results from atlas can be found under `/cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-XX`.
+
 ### Test prompts
 The rest of the N-1 prompts used by ParaRel.
+
+## Evaluate Atlas
+
+```bash
+python -m pararel.consistency.encode_consistency_probe_from_file \
+       --lm atlas-base \
+       --data_file "/cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-P17-base-2017-901099/P17-step-0.jsonl" \
+       --graph "data/pattern_data/graphs/P17.graph" \
+       --wandb
+```
+
+With debug:
+```bash
+python -m debugpy --wait-for-client --listen 5678 -m pararel.consistency.encode_consistency_probe_from_file \
+       --lm atlas-base \
+       --data_file "/cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-P17-base-2017-901099/P17-step-0.jsonl" \
+       --graph "data/pattern_data/graphs/P17.graph" \
+       --wandb
+```
+
+All files in a go:
+```bash
+./eval_atlas_preds.sh /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-
+```
