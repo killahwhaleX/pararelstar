@@ -124,7 +124,6 @@
 {"sub_label": "United Kingdom", "obj_label": "Europe", "uuid": "b288aa74-7dfc-4906-98b1-aec424f41157"}
 {"sub_label": "Nyamuragira", "obj_label": "Africa", "uuid": "7c1dbe93-aded-40a7-8dc0-7a55cc839e3a"}
 {"sub_label": "Evans Peninsula", "obj_label": "Antarctica", "uuid": "e244fcfd-4f51-48a2-ae69-04872db125e7"}
-{"sub_label": "British Empire", "obj_label": "Africa", "uuid": "9c34fc2b-c8dc-4006-bd85-e72b0931440a"}
 {"sub_label": "Hektoria Glacier", "obj_label": "Antarctica", "uuid": "1991a798-577c-43d7-8235-54c8bddcb700"}
 {"sub_label": "Cape Williams", "obj_label": "Antarctica", "uuid": "e8f358bb-6eac-4c43-bfc8-6ec0f40b9fa3"}
 {"sub_label": "Trinity Peninsula", "obj_label": "Antarctica", "uuid": "ba7781d0-323a-41bc-afe1-3b022c049c86"}
@@ -476,7 +475,6 @@
 {"sub_label": "Keltie Glacier", "obj_label": "Antarctica", "uuid": "10360d41-5c87-4e2c-95c2-6d3d0180a9ec"}
 {"sub_label": "Plateau Station", "obj_label": "Antarctica", "uuid": "f1c28faf-28b9-4410-8abf-4565796dd38c"}
 {"sub_label": "Knobhead", "obj_label": "Antarctica", "uuid": "002ccc7a-39c7-4225-826c-041d5f5ae344"}
-{"sub_label": "Middle East", "obj_label": "Africa", "uuid": "80408eb5-74a2-41e6-9abe-23b4b2c7ba4c"}
 {"sub_label": "Desko Mountains", "obj_label": "Antarctica", "uuid": "e0c108eb-b78e-4bd7-bc6c-0eb16edbfe17"}
 {"sub_label": "Ice Runway", "obj_label": "Antarctica", "uuid": "e7d290c4-f11f-4371-b4ca-d300f47b58b6"}
 {"sub_label": "Gadag district", "obj_label": "Asia", "uuid": "6b9f313b-2b22-45a6-8913-0eb5ee8f2567"}
@@ -716,13 +714,11 @@
 {"sub_label": "Cape Ducorps", "obj_label": "Antarctica", "uuid": "35fb017e-51cc-40d3-b7d1-2b8de06f0563"}
 {"sub_label": "Angola", "obj_label": "Africa", "uuid": "b9a8c7b6-05cd-4b92-b6ac-9570245e0f0b"}
 {"sub_label": "South Pole Traverse", "obj_label": "Antarctica", "uuid": "0eb7dda6-09af-439f-8fcd-113998bae14b"}
-{"sub_label": "Middle East", "obj_label": "Europe", "uuid": "68978205-85bc-4ec0-b9e1-e693c7e02b1c"}
 {"sub_label": "Flask Glacier", "obj_label": "Antarctica", "uuid": "417dbe82-b469-42b5-97d4-3034e07d3783"}
 {"sub_label": "Schreckhorn", "obj_label": "Europe", "uuid": "d4cd0c8d-0b0b-4261-9c20-beb21bd71da2"}
 {"sub_label": "McMurdo Station", "obj_label": "Antarctica", "uuid": "4ca94e31-20c3-44c2-a65d-5b4fbb1064d9"}
 {"sub_label": "Kaveri River", "obj_label": "Asia", "uuid": "a4954b42-1349-4a62-a7e2-0586522d3333"}
 {"sub_label": "Juan Carlos I Antarctic Base", "obj_label": "Antarctica", "uuid": "5c3edb2f-fbcd-446d-8298-0475942ff476"}
-{"sub_label": "British Empire", "obj_label": "Americas", "uuid": "7e7ac9a3-fe20-4338-be3d-922493efe738"}
 {"sub_label": "Samuel Peak", "obj_label": "Antarctica", "uuid": "cab58cb5-c2d7-4a70-9078-267ccd1ca044"}
 {"sub_label": "Athens", "obj_label": "Europe", "uuid": "a10b7e75-9dad-4dbb-bb2d-f806f862c50d"}
 {"sub_label": "Lyon Nunataks", "obj_label": "Antarctica", "uuid": "6fce7f4b-bc0d-4a5d-b545-147027882dd0"}

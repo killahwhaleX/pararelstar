@@ -1,7 +1,5 @@
-{"sub_label": "Alan Turing", "obj_label": "logic", "uuid": "7d58f005-5166-4af7-a2e0-c960de153441"}
 {"sub_label": "John Vincent Atanasoff", "obj_label": "mathematics", "uuid": "f1bef2f1-05aa-4bdb-a08c-a1536112352f"}
 {"sub_label": "Edward Burnett Tylor", "obj_label": "anthropology", "uuid": "9d2fd951-dbac-42bd-9c71-281bd674888d"}
-{"sub_label": "Anaxagoras", "obj_label": "philosophy", "uuid": "0b4ba343-e8e2-468a-9b16-810b2d444d4c"}
 {"sub_label": "Robert Bunsen", "obj_label": "chemistry", "uuid": "eaea4ec2-a3a3-4406-954e-71df02484267"}
 {"sub_label": "Adam Carolla", "obj_label": "comedian", "uuid": "08931acc-cca1-46d2-a1e8-9a1cd36fe514"}
 {"sub_label": "Bruce Perens", "obj_label": "programmer", "uuid": "0eb42ebb-e652-4eef-b81d-ac4fd30850eb"}
@@ -13,33 +11,26 @@
 {"sub_label": "David Hilbert", "obj_label": "geometry", "uuid": "e28de294-6d8a-4ccf-acc2-03ecc70033d1"}
 {"sub_label": "Richard Wagner", "obj_label": "opera", "uuid": "27585f83-bfbf-4c4d-9297-b28d5829db25"}
 {"sub_label": "Euclid", "obj_label": "geometry", "uuid": "b08d1f0f-8c73-4b08-9a8f-ffa83f39fb69"}
-{"sub_label": "Max Weber", "obj_label": "sociology", "uuid": "29fb052d-7ef6-4658-9172-cf7e508d2212"}
 {"sub_label": "Hans Eysenck", "obj_label": "psychology", "uuid": "951dff35-940e-4076-a2b4-da20c78200fb"}
 {"sub_label": "Eugene Wigner", "obj_label": "physics", "uuid": "922eb88e-aaf2-4036-aa14-92a25c06aefc"}
 {"sub_label": "Fred Hoyle", "obj_label": "astronomy", "uuid": "10406c15-82a3-4fed-a532-3c8b59d96534"}
-{"sub_label": "Galen", "obj_label": "anatomy", "uuid": "7aa085f3-bc0a-4668-843f-46c65365387a"}
 {"sub_label": "William Harvey", "obj_label": "physiology", "uuid": "8db5e487-470f-4c19-a471-dfabc5591b8f"}
 {"sub_label": "Joseph Campbell", "obj_label": "mythology", "uuid": "11286754-ad67-4a7c-b266-f1fee9c5c7af"}
 {"sub_label": "LGBT social movements", "obj_label": "LGBT", "uuid": "4034b54d-d1cf-4754-94a7-78ded367cfa2"}
 {"sub_label": "Claude Bernard", "obj_label": "physiology", "uuid": "477fa5a6-755f-4c03-a7dd-ee57ab57bcc3"}
 {"sub_label": "Walter Bradford Cannon", "obj_label": "physiology", "uuid": "d6c8f0d5-b938-42c5-937a-7706c3fb194c"}
-{"sub_label": "Isaac Newton", "obj_label": "mathematics", "uuid": "a7d90645-9b70-450a-9b02-d3182c7382ae"}
 {"sub_label": "Justus von Liebig", "obj_label": "chemistry", "uuid": "b59f6666-daaf-4c90-a654-094dd9524478"}
 {"sub_label": "John James Rickard Macleod", "obj_label": "physiology", "uuid": "b9da3616-3b7c-489b-9cb9-28a8bc2526a4"}
 {"sub_label": "Frederick Banting", "obj_label": "physiology", "uuid": "699c4095-b53b-42da-a4b6-286cb946ded5"}
-{"sub_label": "Karl Marx", "obj_label": "sociology", "uuid": "5a90a76e-cd1c-46d6-b6c1-8e25f2a465e5"}
 {"sub_label": "intelligence agency", "obj_label": "espionage", "uuid": "79060fd1-7a0c-4e00-904c-2185850ca322"}
 {"sub_label": "Hans Bethe", "obj_label": "physics", "uuid": "43f30105-61ea-43b2-b875-aa61ea9a24f4"}
 {"sub_label": "Jack Ruby", "obj_label": "nightclub", "uuid": "76698f9e-ce03-441b-9c30-aee9951b5952"}
 {"sub_label": "International Committee on Taxonomy of Viruses", "obj_label": "virus", "uuid": "cca5e394-598c-48a8-8298-da0a71e1147b"}
 {"sub_label": "Percy Williams Bridgman", "obj_label": "physics", "uuid": "c8260deb-fd04-4d4d-992a-ec0a4284d76e"}
 {"sub_label": "Gerolamo Cardano", "obj_label": "mathematics", "uuid": "baa337c1-d000-4333-b322-7dbf976a8e69"}
-{"sub_label": "Max Weber", "obj_label": "economics", "uuid": "d6c292ef-07a2-4711-b71b-c306fe82b6cc"}
-{"sub_label": "Michael Faraday", "obj_label": "chemistry", "uuid": "2a7b190a-b405-40ed-9ab1-1f681bce1734"}
 {"sub_label": "ornithology", "obj_label": "bird", "uuid": "e375212b-c9bb-40a2-9215-6af841a91549"}
 {"sub_label": "Eric Harold Neville", "obj_label": "mathematics", "uuid": "2e9162f9-eb5d-4f40-8c79-b31bbde7b4f4"}
 {"sub_label": "Bonaventura Cavalieri", "obj_label": "mathematics", "uuid": "ebb0476e-df25-4594-b5be-164491f55530"}
-{"sub_label": "Galileo Galilei", "obj_label": "mathematics", "uuid": "110f05e1-2ccc-451b-8d77-fcad83f84cf7"}
 {"sub_label": "Hypatia", "obj_label": "mathematics", "uuid": "4db4cdd0-43f4-4375-b98d-951d9cb4a0fe"}
 {"sub_label": "Erving Goffman", "obj_label": "sociology", "uuid": "a1c43206-28d2-4427-9fc7-bd9703563e7d"}
 {"sub_label": "Amos Tversky", "obj_label": "psychology", "uuid": "9a9d63d9-a9d7-4788-aebd-c07f697027ec"}
@@ -52,7 +43,6 @@
 {"sub_label": "Otto Struve", "obj_label": "astronomy", "uuid": "c779ba77-616b-432e-ba41-643f3bb2216f"}
 {"sub_label": "Leonard Peikoff", "obj_label": "philosophy", "uuid": "075d320b-ef10-4fe6-94ff-4c7a90ce3a99"}
 {"sub_label": "Paul Vixie", "obj_label": "Unix", "uuid": "46324ba4-63f9-417f-a25f-b21485acbae0"}
-{"sub_label": "Isaac Newton", "obj_label": "physics", "uuid": "48fba4f0-e527-4418-aab8-c0d7da883745"}
 {"sub_label": "Ilya Prigogine", "obj_label": "physics", "uuid": "bf8242be-dc18-449c-8980-d9978bc11e1a"}
 {"sub_label": "Norman Hackerman", "obj_label": "chemistry", "uuid": "62a80304-00cf-440f-8a1e-79e65881cf0d"}
 {"sub_label": "Franz Boas", "obj_label": "anthropology", "uuid": "2839d7d9-5905-465d-80f7-fdf20bd7b895"}
@@ -63,7 +53,6 @@
 {"sub_label": "Charles Darwin", "obj_label": "biology", "uuid": "b8c3d67c-c17a-46c4-b2eb-38e8aea1a783"}
 {"sub_label": "Tycho Brahe", "obj_label": "astronomy", "uuid": "e566e7c1-7885-4701-b53e-e0ef192c979e"}
 {"sub_label": "John Stuart Mill", "obj_label": "philosophy", "uuid": "662b48b2-2b54-4bff-93c1-1112afe47652"}
-{"sub_label": "Alan Turing", "obj_label": "mathematics", "uuid": "5a7f972a-5c54-49b6-90dd-caee65688443"}
 {"sub_label": "Vilfredo Pareto", "obj_label": "sociology", "uuid": "d22d248b-7bc2-47c4-ac38-9a3bf9ebe10b"}
 {"sub_label": "William Somerset Maugham", "obj_label": "novelist", "uuid": "4f072fd8-10a5-4855-94eb-0a9f87443f22"}
 {"sub_label": "Alexandre Darracq", "obj_label": "car", "uuid": "d7697390-a71e-411d-8dac-658b23bd6972"}
@@ -83,9 +72,7 @@
 {"sub_label": "John Coltrane", "obj_label": "jazz", "uuid": "a13e5285-7970-4af1-9502-78cd50a8a224"}
 {"sub_label": "Willem Piso", "obj_label": "physician", "uuid": "1a919142-dde8-4536-b843-afd5112335e7"}
 {"sub_label": "Karl Bogislaus Reichert", "obj_label": "anatomy", "uuid": "88883645-517b-4f20-abda-3752e3b4df64"}
-{"sub_label": "Hermann von Helmholtz", "obj_label": "physics", "uuid": "e6aae01a-5cc5-4530-8c6b-2a05edea6a03"}
 {"sub_label": "air traffic control", "obj_label": "aviation", "uuid": "f562784c-0c6d-4a86-98eb-257b41fccded"}
-{"sub_label": "Galen", "obj_label": "medicine", "uuid": "6f84a342-d3f3-4c31-b65f-2859782f6c4f"}
 {"sub_label": "Akira Toriyama", "obj_label": "manga", "uuid": "fb04a62a-9edb-4bad-ba79-71585d49139f"}
 {"sub_label": "bariatric surgery", "obj_label": "stomach", "uuid": "eacb48f1-38a1-4e4c-8939-aba0162778ed"}
 {"sub_label": "Abraham Maslow", "obj_label": "psychology", "uuid": "7c58cfc4-fe6b-49ec-9ea4-2e84b95e5ef7"}
@@ -97,15 +84,12 @@
 {"sub_label": "Laurent Schwartz", "obj_label": "mathematics", "uuid": "cfcdbd80-c370-4f12-a781-6dc2cb019d0c"}
 {"sub_label": "Edward Thorndike", "obj_label": "psychology", "uuid": "657be5b0-e93d-4f4e-a94f-d0d7689cbe0d"}
 {"sub_label": "art school", "obj_label": "art", "uuid": "5e9c4eb9-eed1-45ec-b293-70f1e24dd969"}
-{"sub_label": "Karl Marx", "obj_label": "economics", "uuid": "deec2b0f-f229-4880-bbcc-3119a8e4aa82"}
 {"sub_label": "Robert Neelly Bellah", "obj_label": "sociology", "uuid": "536ca699-a456-41fb-a028-103f2f0e360f"}
 {"sub_label": "Ulf von Euler", "obj_label": "physiology", "uuid": "35e4400e-275c-4bbd-8a17-4caa3bf3ad45"}
 {"sub_label": "Carl Menger", "obj_label": "economics", "uuid": "e56f33ea-e9eb-45e1-aa5a-fea898fe7217"}
-{"sub_label": "Galileo Galilei", "obj_label": "astronomy", "uuid": "c07d3d0e-1ade-4a3c-a6d4-21fdc3060f2d"}
 {"sub_label": "Granius Licinianus", "obj_label": "history", "uuid": "715fbb5b-8061-4f9e-9593-c860bbda5688"}
 {"sub_label": "Pomponius Mela", "obj_label": "geography", "uuid": "383190b7-fe05-4f80-83fc-607e379db7f2"}
 {"sub_label": "Nikolai Ivanovich Lobachevsky", "obj_label": "geometry", "uuid": "abf436e1-824a-4198-9b4b-2117d03785fc"}
-{"sub_label": "Christiaan Huygens", "obj_label": "mathematics", "uuid": "6f93f150-8e93-415d-9982-0c2754a97683"}
 {"sub_label": "Abram Ioffe", "obj_label": "physics", "uuid": "f7e6767c-74c3-4fb7-87c9-74d70dd24d01"}
 {"sub_label": "United States Fish and Wildlife Service", "obj_label": "habitat", "uuid": "de6eaa1e-a8ec-4a52-bf27-24894c201fc8"}
 {"sub_label": "web application", "obj_label": "website", "uuid": "e3b93d62-5408-4d89-ac95-327e9b9f6297"}
@@ -128,7 +112,6 @@
 {"sub_label": "Chen Shou", "obj_label": "history", "uuid": "c388e6a1-94b8-4bc7-afbe-d23c05340ec1"}
 {"sub_label": "Hermann Minkowski", "obj_label": "geometry", "uuid": "6bcf264b-d863-4b60-bb5d-5cfd94e0930f"}
 {"sub_label": "Johann Weyer", "obj_label": "physician", "uuid": "67971465-46f5-4133-a051-739e78a30f35"}
-{"sub_label": "Galileo Galilei", "obj_label": "physics", "uuid": "a2a19892-8625-4b80-8fe9-8b4d7314814a"}
 {"sub_label": "Jakob Steiner", "obj_label": "geometry", "uuid": "e54cf720-fb09-4407-b645-28d3ce1ea333"}
 {"sub_label": "Julian Schwinger", "obj_label": "physics", "uuid": "ad8b85d4-5aa1-4fa0-9fa2-4eab64c39950"}
 {"sub_label": "Ulrich Beck", "obj_label": "sociology", "uuid": "e4970149-8317-4841-a9df-340fdc673a87"}
@@ -147,9 +130,7 @@
 {"sub_label": "Georg Ludwig Hartig", "obj_label": "forestry", "uuid": "6867bb88-6a21-414f-a97c-5342054b619f"}
 {"sub_label": "Michael Langone", "obj_label": "psychology", "uuid": "bc9a02f1-4aec-4b96-bf78-46ce62c8eb8a"}
 {"sub_label": "Lev Vygotsky", "obj_label": "psychology", "uuid": "443a39ed-b45b-40e3-b678-9fdc1c050807"}
-{"sub_label": "Karl Marx", "obj_label": "philosophy", "uuid": "653ff36c-0354-446d-842b-d47f372d4b2b"}
 {"sub_label": "Wilhelm Ackermann", "obj_label": "mathematics", "uuid": "e8767ca2-4dda-4856-af16-8906778cc43d"}
-{"sub_label": "Friedrich Bessel", "obj_label": "mathematics", "uuid": "a77cf941-27e8-41e9-b9f9-33bdf2c1ba5e"}
 {"sub_label": "G. Stanley Hall", "obj_label": "psychology", "uuid": "a00a2a5a-c71b-4177-9aca-14795d610407"}
 {"sub_label": "Herbert A. Hauptman", "obj_label": "mathematics", "uuid": "08e6ba7d-f511-4596-9a0a-b54e70871a38"}
 {"sub_label": "Bernd Sturmfels", "obj_label": "mathematics", "uuid": "2510f063-77cc-47b9-83a1-9aeb2d3e661c"}
@@ -157,7 +138,6 @@
 {"sub_label": "Joseph Schumpeter", "obj_label": "economics", "uuid": "6635cc6d-0345-4f3c-a525-66ef54e7462a"}
 {"sub_label": "Ernest Burgess", "obj_label": "sociology", "uuid": "18346fcb-99f3-4389-ad52-b38714f0f236"}
 {"sub_label": "Abdullah ibn Salam", "obj_label": "Judaism", "uuid": "ba26dd9c-824e-4a6f-aa6f-61dc97a3dbe0"}
-{"sub_label": "Max Weber", "obj_label": "history", "uuid": "83d23024-bc40-4409-bcd8-279b9614469a"}
 {"sub_label": "Edward Gibbon", "obj_label": "history", "uuid": "6e4cff53-632d-4669-9ec7-f284987e3acd"}
 {"sub_label": "Alfred Wilhelm Volkmann", "obj_label": "physiology", "uuid": "6cee606b-6685-467c-8b67-cfabd81bf6dc"}
 {"sub_label": "Joseph Diez Gergonne", "obj_label": "geometry", "uuid": "76fff64c-1d1c-4102-a4b0-3240aca883b6"}
@@ -169,20 +149,17 @@
 {"sub_label": "Yuna Kagesaki", "obj_label": "manga", "uuid": "082ed5a4-f005-41fc-bfb1-354b99a31ad9"}
 {"sub_label": "Alexander William Williamson", "obj_label": "chemistry", "uuid": "a7f1ee24-cd67-4123-9b90-0d4506dca3d3"}
 {"sub_label": "Struga Poetry Evenings", "obj_label": "poetry", "uuid": "f473d6f9-9f3f-41cf-86fb-691743d013d3"}
-{"sub_label": "Johann Georg Gmelin", "obj_label": "chemistry", "uuid": "2e64a901-817d-44e9-b63d-d06895c99def"}
 {"sub_label": "Harold Scott MacDonald Coxeter", "obj_label": "geometry", "uuid": "0074f4d1-649f-4b37-83f8-0438f3ed5a66"}
 {"sub_label": "Giuseppe Farinelli", "obj_label": "opera", "uuid": "761057c0-556f-4b73-8d40-a0f27ab3b0fb"}
 {"sub_label": "John Archibald Wheeler", "obj_label": "physics", "uuid": "c82217b7-eb74-40c1-a686-d777a36f0d78"}
 {"sub_label": "Alfred Weber", "obj_label": "sociology", "uuid": "d4780c13-bbb6-4873-962c-3e38fb9d798c"}
 {"sub_label": "Anita Borg", "obj_label": "mathematics", "uuid": "8ba84bdc-d7b6-48b0-a217-1a1e14750515"}
-{"sub_label": "Leonhard Euler", "obj_label": "physics", "uuid": "69ce0f44-2f54-4c18-a7ee-7d46e147a3c3"}
 {"sub_label": "Al-Kindi", "obj_label": "mathematics", "uuid": "b146afad-37d9-4d25-a752-2362f8584f34"}
 {"sub_label": "Pierre Gilliard", "obj_label": "French", "uuid": "37dca86b-1b5f-4bf5-8e2d-f7108367698b"}
 {"sub_label": "Joseph von Gerlach", "obj_label": "anatomy", "uuid": "1cab2d4e-a21b-4ccd-8770-9af3b08a6b38"}
 {"sub_label": "John Henry Poynting", "obj_label": "physics", "uuid": "d107e04d-a012-4781-bc78-8a7008539d7e"}
 {"sub_label": "August Krogh", "obj_label": "physiology", "uuid": "66f88d67-fc67-4775-8b69-54a45af63297"}
 {"sub_label": "Hermann Ebbinghaus", "obj_label": "psychology", "uuid": "fb903c83-8fa7-4cb3-9f08-617680c5179d"}
-{"sub_label": "James George Frazer", "obj_label": "folklore", "uuid": "eee4645b-ea2d-41cc-8129-dafc390f6937"}
 {"sub_label": "Thomas Bartholin", "obj_label": "medicine", "uuid": "a5cf8830-b597-4e19-a08d-526917a67a4e"}
 {"sub_label": "Raoul Bott", "obj_label": "geometry", "uuid": "113050db-dc18-421d-b276-8aa2194c34af"}
 {"sub_label": "Jon Postel", "obj_label": "Internet", "uuid": "f83ee415-1f9b-4e98-b948-2eedb8bbf9a2"}
@@ -217,7 +194,6 @@
 {"sub_label": "Johannes de Sacrobosco", "obj_label": "mathematics", "uuid": "d7b3d46c-214d-4f03-a8ce-32ef2dca8007"}
 {"sub_label": "Erasmus Darwin", "obj_label": "medicine", "uuid": "7102cc87-2bd6-43a7-809a-50902b5cc080"}
 {"sub_label": "Jean Le Rond d'Alembert", "obj_label": "mathematics", "uuid": "f33a82b5-c38e-4dfc-9e06-6c748c08bbe9"}
-{"sub_label": "Franciscus Sylvius", "obj_label": "medicine", "uuid": "fcf97fc6-2d6e-46d0-a05e-048521f5e4a3"}
 {"sub_label": "Friedrich Tiedemann", "obj_label": "physiology", "uuid": "1d7ae2ee-7d36-4aef-9b61-d99830c49da4"}
 {"sub_label": "Luca Pacioli", "obj_label": "mathematics", "uuid": "d9a1ae8b-9367-423d-8d72-5d896e789071"}
 {"sub_label": "straight photography", "obj_label": "photography", "uuid": "2a2cf418-dd74-4c94-95cb-731e9413eae8"}
@@ -229,13 +205,11 @@
 {"sub_label": "hunting dog", "obj_label": "hunting", "uuid": "a49d7f8c-2333-4319-ac93-8dad8c8025db"}
 {"sub_label": "Campegius Vitringa", "obj_label": "theology", "uuid": "a4d26917-8b04-4018-9573-40d54c3431c5"}
 {"sub_label": "Arnold Hermann Ludwig Heeren", "obj_label": "history", "uuid": "d97c11e4-8879-42ee-87de-3af017f0c840"}
-{"sub_label": "Paul Broca", "obj_label": "anatomy", "uuid": "18a4bfa6-f98f-47fb-beb8-3c1f4179cd7c"}
 {"sub_label": "Ulisse Dini", "obj_label": "mathematics", "uuid": "31cf69c1-aa7a-4e4e-b220-a4d0c19a03b9"}
 {"sub_label": "Marcel Mauss", "obj_label": "sociology", "uuid": "f6bc102d-507f-41fd-aff0-09c4c7afe5a3"}
 {"sub_label": "Christoph Wilhelm Hufeland", "obj_label": "medicine", "uuid": "e8490872-6921-437a-8249-1009124358bb"}
 {"sub_label": "Ptolemy", "obj_label": "mathematician", "uuid": "9826f03e-8f8e-4884-96e8-1f0282033b67"}
 {"sub_label": "Anselme Payen", "obj_label": "chemistry", "uuid": "9a4daf7c-c297-48d7-af4a-ae919550f0f7"}
-{"sub_label": "Isaac Barrow", "obj_label": "mathematics", "uuid": "32b60e9d-4094-4fa6-a68d-c21a8841650c"}
 {"sub_label": "Sean M. Carroll", "obj_label": "physics", "uuid": "3461b2ec-3d7f-4936-a1db-c6e74fd8c2b6"}
 {"sub_label": "Jean Piaget", "obj_label": "psychology", "uuid": "59c71536-1057-429f-820e-99270cae582a"}
 {"sub_label": "Charles Bell", "obj_label": "physiology", "uuid": "de589602-8305-4ba9-9465-29e779c830a6"}
@@ -264,7 +238,6 @@
 {"sub_label": "Ernest Starling", "obj_label": "physiology", "uuid": "50bcb910-3788-418a-aad4-c1570978fa84"}
 {"sub_label": "Alfred Marshall", "obj_label": "economics", "uuid": "f45b8bec-385e-4996-ab8f-57c15601511b"}
 {"sub_label": "Nathaniel Bowditch", "obj_label": "mathematics", "uuid": "045485e9-ac45-43a2-9525-5787fc51d310"}
-{"sub_label": "Nicolaus Copernicus", "obj_label": "astronomy", "uuid": "591394e1-7e67-46a6-a808-00f4a000f1ef"}
 {"sub_label": "Eric Maskin", "obj_label": "economist", "uuid": "93d6c333-720b-4e79-835d-ac8d3544c41e"}
 {"sub_label": "Mikio Sato", "obj_label": "mathematics", "uuid": "cc5f34db-a5d0-48af-838d-c8429dcfb3fa"}
 {"sub_label": "Helen E. Fisher", "obj_label": "anthropology", "uuid": "c8f28c69-220f-4e50-82c4-14a7c16dbda4"}
@@ -279,7 +252,6 @@
 {"sub_label": "Heinrich Roth", "obj_label": "Sanskrit", "uuid": "f72ec9b6-d0df-4164-a877-485378eccc79"}
 {"sub_label": "Walther Meissner", "obj_label": "physics", "uuid": "b61613e9-34a0-42c8-8c04-972e3ce8a126"}
 {"sub_label": "octane", "obj_label": "chemistry", "uuid": "97fa5c2d-4c07-4a40-9fc7-ea669d0b8ade"}
-{"sub_label": "Spacewatch", "obj_label": "asteroid", "uuid": "dac8f031-cd4c-4919-b439-59fcb2b82222"}
 {"sub_label": "Henri Brocard", "obj_label": "geometry", "uuid": "a0bf6b9e-1fa5-4f31-b21e-b9dc9ea98e37"}
 {"sub_label": "Daniel Bernoulli", "obj_label": "physics", "uuid": "f4d1ca8c-4bbf-4d25-bacc-a2a3965b6437"}
 {"sub_label": "Clark Kimberling", "obj_label": "geometry", "uuid": "3c8f7351-eee4-4ca5-bec3-a62d623690c7"}
@@ -288,8 +260,6 @@
 {"sub_label": "Samuel Cooper", "obj_label": "miniature", "uuid": "23d967fc-75b5-446b-b3aa-43be7dc0e04d"}
 {"sub_label": "Julian Huxley", "obj_label": "biology", "uuid": "ae4eb05f-a809-4b90-9121-22f1f3835ab7"}
 {"sub_label": "Edward B. Titchener", "obj_label": "psychology", "uuid": "da53e2c9-96a6-4e0f-8880-5dcfbed59057"}
-{"sub_label": "Johann Georg Gmelin", "obj_label": "medicine", "uuid": "4bc5eecf-577a-4bb3-ad73-b010944075df"}
-{"sub_label": "Michael Faraday", "obj_label": "physics", "uuid": "a16f9400-9228-4e5c-ae34-d789cbb96706"}
 {"sub_label": "Werner Sombart", "obj_label": "sociology", "uuid": "ab74374b-0460-4f76-a055-a5d728c4fe9c"}
 {"sub_label": "Johannes Fabricius", "obj_label": "astronomy", "uuid": "ee9a609f-9a14-4037-bf5e-d12640dbb9f2"}
 {"sub_label": "Otto Neurath", "obj_label": "sociology", "uuid": "5193b67d-df78-4122-b81c-8fbc018bcc19"}
@@ -305,14 +275,12 @@
 {"sub_label": "Heinz Hopf", "obj_label": "geometry", "uuid": "57044ce5-1b07-41c5-868c-8c9bebdf7ca9"}
 {"sub_label": "Pierre Curie", "obj_label": "physics", "uuid": "0e2657fe-fce9-4650-ac54-3d08a7287425"}
 {"sub_label": "Log Cabin Republicans", "obj_label": "LGBT", "uuid": "6ab8f4b4-e9db-45c7-a442-724283bc81b0"}
-{"sub_label": "Isaac Barrow", "obj_label": "theology", "uuid": "57722aff-a9a2-43ec-bdeb-75d258903b59"}
 {"sub_label": "Geometry Festival", "obj_label": "mathematics", "uuid": "ff9481d3-013e-42b8-8d32-43c11e98f86e"}
 {"sub_label": "Gustav Kirchhoff", "obj_label": "physics", "uuid": "0ea9ccd4-d186-42fb-8ecc-b5fd45a009fc"}
 {"sub_label": "Jean Pierre Flourens", "obj_label": "physiology", "uuid": "40d78c6d-8136-485d-9d49-d09a1163e2fa"}
 {"sub_label": "The Physiological Society", "obj_label": "physiology", "uuid": "33155b9b-2904-4154-ab78-860da2b10690"}
 {"sub_label": "Norbert Wiener", "obj_label": "mathematics", "uuid": "4e59f884-3843-409f-be89-5db479ed4c5f"}
 {"sub_label": "Steven Weinberg", "obj_label": "physics", "uuid": "ea11efab-449c-4c11-8b03-55a91a7962b7"}
-{"sub_label": "Petrus Camper", "obj_label": "anatomy", "uuid": "7e1bc63f-e323-4068-9842-3e9344fa42d5"}
 {"sub_label": "Carl Ritter", "obj_label": "geography", "uuid": "eaf2860f-889c-4b8d-815c-095f49d785ed"}
 {"sub_label": "Urbain Le Verrier", "obj_label": "astronomy", "uuid": "acea77c8-32eb-4f8d-ab13-021860a9e85f"}
 {"sub_label": "Frank Morley", "obj_label": "geometry", "uuid": "ff9b1f58-6935-4ef7-a3f1-054adcb85bb0"}
@@ -336,7 +304,6 @@
 {"sub_label": "Nikolai Bernstein", "obj_label": "physiology", "uuid": "4dfa666f-bb15-49fc-bb04-f5c0041b991f"}
 {"sub_label": "Thomas Gilovich", "obj_label": "psychology", "uuid": "65dcb44d-67d1-444e-a642-e143bf0cb99a"}
 {"sub_label": "Urania", "obj_label": "astronomy", "uuid": "f9da37e2-ff6a-49fa-896d-6f344e2fb8a0"}
-{"sub_label": "James George Frazer", "obj_label": "anthropology", "uuid": "6bdeb245-b814-4816-bd63-da8a6bff8510"}
 {"sub_label": "William Cheselden", "obj_label": "medicine", "uuid": "d631165d-1b07-4710-bd6e-533bc0a9a640"}
 {"sub_label": "Immanuel Wallerstein", "obj_label": "sociology", "uuid": "2ed72be4-b1b3-409c-9897-e472a5b04051"}
 {"sub_label": "Regiomontanus", "obj_label": "mathematics", "uuid": "d35acd01-7313-4291-887d-6f2a3e4de824"}
@@ -349,7 +316,6 @@
 {"sub_label": "John Napier", "obj_label": "mathematics", "uuid": "afcee639-25c4-4e94-ae88-9593527ba512"}
 {"sub_label": "Augustus Pitt Rivers", "obj_label": "anthropology", "uuid": "c468e20a-2929-4528-ad52-2786c3440d9f"}
 {"sub_label": "Mark S. Granovetter", "obj_label": "sociology", "uuid": "5c2cbb2a-6aaf-43c6-9cc4-e15bd9645d09"}
-{"sub_label": "Isaac Newton", "obj_label": "astronomy", "uuid": "4770898f-6011-4ed6-9260-e15dca6e7468"}
 {"sub_label": "Francesco Maurolico", "obj_label": "mathematics", "uuid": "174408ec-2ac7-4bc7-825b-922b1d8fb604"}
 {"sub_label": "Willebrord Snellius", "obj_label": "mathematics", "uuid": "dfba0889-f898-41a3-9313-f6862f6b783b"}
 {"sub_label": "Herbert Robbins", "obj_label": "mathematics", "uuid": "98bcd75f-59c6-4684-ba7d-e950fe821a7c"}
@@ -362,9 +328,7 @@
 {"sub_label": "George Metallinos", "obj_label": "theology", "uuid": "1c7e2fe2-db03-4725-a402-d61e04bd4429"}
 {"sub_label": "Larry Sanger", "obj_label": "philosophy", "uuid": "f2aef6af-f9f8-47b1-abcb-b4a2a36f9025"}
 {"sub_label": "Philipp Lenard", "obj_label": "physics", "uuid": "4d6e8a83-ac8c-4410-a34f-60ea6baa0771"}
-{"sub_label": "Hermann von Helmholtz", "obj_label": "physiology", "uuid": "81f22fd2-6743-4f6c-a5e8-157c783e9bdf"}
 {"sub_label": "Robert Bigelow", "obj_label": "hotel", "uuid": "8d4db5e8-4083-4df7-85db-acc4ed146cfd"}
-{"sub_label": "Friedrich Bessel", "obj_label": "astronomy", "uuid": "5ddc8585-e39e-4002-a52e-850823f677bb"}
 {"sub_label": "Nikolaj Frederik Severin Grundtvig", "obj_label": "philosophy", "uuid": "6f6614f3-b0d6-48b5-9601-b529dc08f984"}
 {"sub_label": "Otto E. Neugebauer", "obj_label": "mathematics", "uuid": "2fc6f472-3306-47b6-95b8-1044f0674cdd"}
 {"sub_label": "Fritjof Capra", "obj_label": "physics", "uuid": "7ab1212d-4deb-4aae-b93e-e9ed4cd44437"}
@@ -397,16 +361,12 @@
 {"sub_label": "Anton Zeilinger", "obj_label": "physics", "uuid": "28d6bfe8-bb34-4f4a-a803-e29fec3f60ec"}
 {"sub_label": "Macedonio Melloni", "obj_label": "physics", "uuid": "ab81fa50-ccbf-4d7c-8d7f-3be0f01802da"}
 {"sub_label": "Anne Caldwell", "obj_label": "musical", "uuid": "7383caeb-0c46-4daa-93c3-2767031d45b2"}
-{"sub_label": "John Dalton", "obj_label": "chemistry", "uuid": "2bb0fe87-948f-4288-b2e6-0a727a2ec328"}
-{"sub_label": "John Dalton", "obj_label": "physics", "uuid": "bf3ecaea-0a6a-4993-908a-67aad5ce1dbf"}
 {"sub_label": "Nicolaus Steno", "obj_label": "anatomy", "uuid": "f7e50b94-669a-481c-a774-7cb5bf744cbe"}
 {"sub_label": "Archibald Hill", "obj_label": "physiology", "uuid": "180883be-008a-4579-aaa7-f454e7802115"}
 {"sub_label": "Actaeon", "obj_label": "hunting", "uuid": "04ccefe0-50e6-41ec-8e3d-3c43a7e51e82"}
 {"sub_label": "Alfred Tarski", "obj_label": "logic", "uuid": "f5d3b52d-914c-4982-b692-022206e13902"}
 {"sub_label": "Georges Reeb", "obj_label": "mathematics", "uuid": "53644d5e-2421-4c27-96bb-44fa3ea00c1c"}
 {"sub_label": "Georgios Babiniotis", "obj_label": "Greek", "uuid": "e9d17a68-2ddf-4bae-96fe-de272c85fc6c"}
-{"sub_label": "Dimitri Mendeleyev", "obj_label": "chemistry", "uuid": "7d571cc2-02a6-4ca3-ac59-88006b200d1d"}
-{"sub_label": "Dimitri Mendeleyev", "obj_label": "physics", "uuid": "a6c4fbcb-f889-4cb3-8bdd-e9c02f4fb605"}
 {"sub_label": "Herman Auerbach", "obj_label": "mathematics", "uuid": "4a1921fb-64a0-4a2f-b5a6-2987b051bef7"}
 {"sub_label": "Nur ad-Din al-Bitruji", "obj_label": "astronomy", "uuid": "5de5da04-f246-405a-9566-fbf6ff089c6a"}
 {"sub_label": "Charles Sutherland Elton", "obj_label": "ecology", "uuid": "3c291203-5166-4563-a117-735ef85a2bb3"}
@@ -418,20 +378,15 @@
 {"sub_label": "Charles Babbage", "obj_label": "mathematics", "uuid": "65fd012e-042f-420c-b247-d4f1463990b4"}
 {"sub_label": "Women on Waves", "obj_label": "abortion", "uuid": "f9041c80-5d87-4608-86d7-e2ab78d7b17f"}
 {"sub_label": "James Ivory", "obj_label": "mathematics", "uuid": "b1ace023-7274-49d1-933b-caebe6c98599"}
-{"sub_label": "Nicolaus Copernicus", "obj_label": "mathematics", "uuid": "4d8302e9-8acf-41ab-bf44-2bf809910a7e"}
 {"sub_label": "Marian Rejewski", "obj_label": "mathematics", "uuid": "ae345d20-3106-4eb2-8c0f-edf2d5e3d9d0"}
 {"sub_label": "Aryabhata", "obj_label": "astronomy", "uuid": "47ded239-ac2a-40ca-a0d3-9d8e34c34ecd"}
-{"sub_label": "Paul Broca", "obj_label": "anthropology", "uuid": "53088472-4720-431b-86d8-d679af22f0ea"}
 {"sub_label": "Khaled Hosseini", "obj_label": "Afghanistan", "uuid": "2cc71082-165a-4f80-87fb-950ba44a1eb4"}
 {"sub_label": "Clyde Tombaugh", "obj_label": "astronomer", "uuid": "fdbe5307-fe13-45de-91c4-35ec53037ac4"}
 {"sub_label": "Willis Lamb", "obj_label": "physics", "uuid": "6389d5f1-2dc8-4a00-bb2e-497e2c0080dc"}
 {"sub_label": "John Wallis", "obj_label": "mathematics", "uuid": "9983d8af-6f4e-4e52-96b6-9ecddefaed9b"}
 {"sub_label": "Archimedes", "obj_label": "geometry", "uuid": "f57aa894-9837-493d-b4b9-45767eb9424c"}
 {"sub_label": "Lipman Bers", "obj_label": "mathematics", "uuid": "443c0aa0-8f56-4c0f-b455-3ba8c36d9160"}
-{"sub_label": "Anaxagoras", "obj_label": "astronomy", "uuid": "0cc0eeb9-5831-4e7b-a837-eaac19e65abc"}
 {"sub_label": "Ibn Hisham", "obj_label": "history", "uuid": "cf7ca2c8-7569-436b-9555-cfa82353e867"}
-{"sub_label": "Christiaan Huygens", "obj_label": "physics", "uuid": "1fa706ea-c4fa-4792-8e2c-0ab6b7d16a07"}
-{"sub_label": "Antoine Augustin Cournot", "obj_label": "mathematics", "uuid": "74425208-fd08-4360-86e5-c16362c565c1"}
 {"sub_label": "Clarence Zener", "obj_label": "physics", "uuid": "e6eeb1de-e5ec-42d0-8992-0030da1d80a8"}
 {"sub_label": "Mikhail Leonidovich Gromov", "obj_label": "geometry", "uuid": "e3d6e319-c6db-4110-a34b-febaf86b02af"}
 {"sub_label": "Gilbert Blane", "obj_label": "medicine", "uuid": "af027c7d-22e4-4405-9fd8-a3a152cb7752"}
@@ -477,7 +432,6 @@
 {"sub_label": "Alexander Bogdanov", "obj_label": "medicine", "uuid": "0383c1ba-1f3f-4d7f-a83f-8964edc753e0"}
 {"sub_label": "Brahmagupta", "obj_label": "mathematics", "uuid": "66b89f09-9ed5-4c57-b7a8-39da97f7c4a2"}
 {"sub_label": "Nicolas Chuquet", "obj_label": "mathematics", "uuid": "4a7cf39f-3c2b-4a28-8588-facc31e22565"}
-{"sub_label": "Spacewatch", "obj_label": "comet", "uuid": "872e26ff-4c64-49f3-a745-5201d334001b"}
 {"sub_label": "Ludwig Klages", "obj_label": "psychology", "uuid": "f6e4941c-9a28-40ad-ab38-3d458572136b"}
 {"sub_label": "Wilhelm Wien", "obj_label": "physics", "uuid": "ac295b25-49c6-4f0e-8264-980ebfd37ac5"}
 {"sub_label": "August Kundt", "obj_label": "physics", "uuid": "9b3c0d38-1f4b-4996-ac67-6bf036b4d535"}
@@ -485,15 +439,12 @@
 {"sub_label": "Louis Cappel", "obj_label": "Hebrew", "uuid": "2c973d1f-b67b-4840-b47e-5ab035ac1bee"}
 {"sub_label": "Edinburgh Mathematical Society", "obj_label": "mathematics", "uuid": "3a628e26-a896-40b4-889e-c934428d710e"}
 {"sub_label": "Religious Tract Society", "obj_label": "publishing", "uuid": "5ccfe03f-3121-4001-9d10-63cf4cdf524d"}
-{"sub_label": "Hermann von Helmholtz", "obj_label": "psychology", "uuid": "1b3e1c88-8b80-49d5-b937-029d9d947c5c"}
 {"sub_label": "Hjalmar Mellin", "obj_label": "mathematics", "uuid": "28fa2384-d904-430d-b2e5-e7a406126251"}
-{"sub_label": "Leonhard Euler", "obj_label": "astronomy", "uuid": "0908b223-706b-4629-bed4-fc256ec27c65"}
 {"sub_label": "NOTAM", "obj_label": "aviation", "uuid": "61162e28-73c8-4ba8-9b67-1407e6df7918"}
 {"sub_label": "Paul Cameron", "obj_label": "psychology", "uuid": "56fe758d-3813-4b0f-8aaa-b41624d0eb42"}
 {"sub_label": "Theodor von Oppolzer", "obj_label": "astronomy", "uuid": "3c5b78f5-c681-405e-ab8a-e13c5f2445d0"}
 {"sub_label": "Adrianne Wadewitz", "obj_label": "Wikipedia", "uuid": "c98786c4-57b1-42cf-b77e-00c7f92ac10d"}
 {"sub_label": "Nan Hoover", "obj_label": "photography", "uuid": "07cd6481-b41f-40ff-8c4e-5811dbf6aee1"}
-{"sub_label": "Galileo Galilei", "obj_label": "philosophy", "uuid": "79e89a88-c6f6-40fb-adc4-e083735838b1"}
 {"sub_label": "Joke Smit", "obj_label": "feminism", "uuid": "2a34e812-daa3-4a60-8e03-064fecff0e2b"}
 {"sub_label": "Georg Mohr", "obj_label": "mathematics", "uuid": "ba678742-15c7-46a5-80a4-a635b994bc59"}
 {"sub_label": "chemical test", "obj_label": "chemistry", "uuid": "555ae6eb-93f3-4ecc-9bc2-fe4cc848864e"}
@@ -531,8 +482,6 @@
 {"sub_label": "John Preskill", "obj_label": "physics", "uuid": "ca26248e-e745-44e9-8a1e-b203201071ea"}
 {"sub_label": "Aleksey Krylov", "obj_label": "mathematics", "uuid": "dde2920c-90e8-4992-a60e-45760fba99e3"}
 {"sub_label": "Alexis Bouvard", "obj_label": "astronomy", "uuid": "7582585b-6131-47cc-b538-a2a15067b20b"}
-{"sub_label": "Franciscus Sylvius", "obj_label": "anatomy", "uuid": "fd486abf-4f43-4ab9-b2e1-3561a85af169"}
-{"sub_label": "Petrus Camper", "obj_label": "physiology", "uuid": "0c8e9522-a223-433c-803b-13dfba4471da"}
 {"sub_label": "Carl Djerassi", "obj_label": "chemistry", "uuid": "4dd0e9e2-f0af-43d3-8e25-0ecb0211dab3"}
 {"sub_label": "stock trader", "obj_label": "stock", "uuid": "a03a19ee-108d-4481-9338-dc38c4560b4d"}
 {"sub_label": "Antonio Vallisneri", "obj_label": "medicine", "uuid": "6a8b6435-d869-4cb0-8e25-dc55d936e4c9"}
@@ -561,7 +510,6 @@
 {"sub_label": "Moritz Pasch", "obj_label": "geometry", "uuid": "e0a7aca6-2863-4fdd-b886-b7b27bb55708"}
 {"sub_label": "Hugo Kronecker", "obj_label": "physiology", "uuid": "f302b47c-1a8c-4c8e-8929-fc952af31d19"}
 {"sub_label": "Otto Brunfels", "obj_label": "theology", "uuid": "2e57b48a-c409-4647-9e5c-3ae8962888fa"}
-{"sub_label": "Antoine Augustin Cournot", "obj_label": "economics", "uuid": "51450864-d170-4226-946b-b922be967b27"}
 {"sub_label": "Domingo de Soto", "obj_label": "theology", "uuid": "5ca3f27b-3fe8-45c2-b0b0-e765ff757d9e"}
 {"sub_label": "Pyotr Lebedev", "obj_label": "physics", "uuid": "6014c0bd-b268-4dc0-9b60-ae7d008edb2d"}
 {"sub_label": "Svante August Arrhenius", "obj_label": "chemistry", "uuid": "e2d21134-8473-4e40-98fc-86f26197a4aa"}

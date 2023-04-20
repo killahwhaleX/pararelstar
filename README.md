@@ -45,6 +45,36 @@ CUDA_VISIBLE_DEVICES=2, python -m debugpy --wait-for-client --listen 5678 -m par
        --use_targets
 ```
 
+## Remove duplicates from the ParaRel data
+
+The T-Rex dataset onto which ParaRel is based contains duplicated entries of two different categories, 1) several entries of the same subject but with different object alternatives (N-M relations) and 2) exact duplicates of the same subject and object entries resulting from a loss of granularity when processing the LAMA data.
+
+A [presentation](https://docs.google.com/presentation/d/1fYYA5G3L9qj4IAMLnzlzgrrZrCEF1238EM1ROqVkNYo/edit#slide=id.g20a158dfaae_0_0) on this.
+
+### Examples of duplicates to be removed
+
+| obj_label | relation | relation_name | sub_label | uuid |
+| --------- | -------- | ------------- | --------- | ---- |
+| Bern | P937	| worked-in | Albert Einstein | e4f33b6d-6cda-4a73-9bd3-5668f884fe0d |
+| Berlin | P937 | worked-in	| Albert Einstein | dd080e5d-6e84-46a9-8e2d-33edc11cf03f |
+|Berlin | P937 | worked-in | Carl Philipp Emanuel Bach | e63ed2f9-ab68-43e9-a0b8-2a2ab1616c37 |
+| Hamburg | P937 | worked-in | Carl Philipp Emanuel Bach | 841751bd-aefc-4e79-a3c5-b90c94336a05 |
+
+### Fix
+
+To fix this we: 
+1. remove all entries with subjects that appear more than once in the data for each relation. This amounts to max 10% of the entries of the data for each relation.
+2. remove relation P37 "official-language" for which 280 out of 900 entries are duplicates.
+
+This is done by running the [filter_trex_data.py](pararel/consistency/filter_trex_data.py) script as follows:
+```bash
+python -m pararel.consistency.filter_trex_data --data_path <original-ParaRel-trex_lms_vocab-path> --save_data_path <path>
+```
+
+### Data statistics before and after the processing
+
+We can analyze the original and the deduplicated T-REx dataset using [investigate_pararel.ipynb](investigate_pararel.ipynb). See the [presentation](https://docs.google.com/presentation/d/1fYYA5G3L9qj4IAMLnzlzgrrZrCEF1238EM1ROqVkNYo/edit#slide=id.g20a158dfaae_0_0) for the results.
+
 ## Save ParaRel prompts to a file
 
 While standing in the root of the pararel folder, run:

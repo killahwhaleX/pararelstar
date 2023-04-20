@@ -1,0 +1,648 @@
+obj_label,relation,relation_name,sub_label,uuid
+Bern,P937,worked-in,Albert Einstein,e4f33b6d-6cda-4a73-9bd3-5668f884fe0d
+Berlin,P937,worked-in,Albert Einstein,dd080e5d-6e84-46a9-8e2d-33edc11cf03f
+Berlin,P937,worked-in,Carl Philipp Emanuel Bach,e63ed2f9-ab68-43e9-a0b8-2a2ab1616c37
+Hamburg,P937,worked-in,Carl Philipp Emanuel Bach,841751bd-aefc-4e79-a3c5-b90c94336a05
+Vienna,P937,worked-in,Christoph Willibald von Gluck,c2ffb80f-b0a7-4c8a-975d-5d054232b027
+Paris,P937,worked-in,Christoph Willibald von Gluck,b41d182f-66ee-4064-bbcc-cfa35acc7041
+Dresden,P937,worked-in,Fritz Reiner,ad925cb3-b330-4e03-88f7-adb89c986090
+Pittsburgh,P937,worked-in,Fritz Reiner,8839f9e7-6b0d-438f-be0c-4d3c6f872b75
+Cincinnati,P937,worked-in,Fritz Reiner,7dfd6ac3-b1df-47d6-8b7e-ca163dd62b0b
+Birmingham,P937,worked-in,John Henry Newman,d781ab03-26e0-48f2-8a69-7830ada65e25
+Rome,P937,worked-in,John Henry Newman,08c206e2-50aa-4a60-a5dd-75d6fa28bc20
+Hamburg,P937,worked-in,Jonathan Meese,735ee14b-272a-46be-9eb7-083fc2fa5dd8
+Berlin,P937,worked-in,Jonathan Meese,2c74677c-7a25-4ddf-9280-c538b25c7aab
+Rome,P937,worked-in,Paulus Manutius,855118d5-6c82-46bb-85cb-941fcb42fc76
+Venice,P937,worked-in,Paulus Manutius,9052b749-d4c9-4a33-bf18-a48b95d282b4
+Warsaw,P937,worked-in,Rosa Luxemburg,4d3bb583-c759-4818-8c88-bc0c8a85d55b
+Berlin,P937,worked-in,Rosa Luxemburg,fd483a9c-b748-4f26-8363-5385bce85883
+Paris,P937,worked-in,Vincent van Gogh,0ae8b1e6-89cb-43be-aba7-928e794ba4d0
+Amsterdam,P937,worked-in,Vincent van Gogh,70284a9b-10f7-441f-9756-c66471e8b161
+Moscow,P937,worked-in,Vladimir Putin,7b36fa2a-f766-464f-bf74-ea1151c73dea
+Dresden,P937,worked-in,Vladimir Putin,dc81939b-f548-4396-ad30-6e42ff0e4907
+English,P1412,communicated-in,L. L. Zamenhof,0ed73252-79bb-4c4d-84a1-33104c146609
+Russian,P1412,communicated-in,L. L. Zamenhof,05035008-fa00-4e25-a4f4-daaa429be75b
+Finnish,P103,native-language,Skolts,664574ff-6fcc-4e22-b4dc-c2bdcdd38436
+Russian,P103,native-language,Skolts,f8d7bfcb-5be6-48c6-b58a-856fdb69ca46
+India,P276,located-in,Ajanta Caves,e78966ff-664a-458b-8197-6adbd32c36d4
+Maharashtra,P276,located-in,Ajanta Caves,1f70852d-c3f8-421b-a5ed-a0665fd267c4
+London,P276,located-in,Arcapita,61496c47-7996-4afe-8d54-a5b6bedddc1e
+Bahrain,P276,located-in,Arcapita,63f9514c-a6ff-4dcb-8962-2bb88e032f36
+Atlanta,P276,located-in,Arcapita,e6a3284e-4352-4726-97e2-33b382fb28ef
+Singapore,P276,located-in,Arcapita,96744942-aa2e-403a-8ea8-947255c2b438
+France,P276,located-in,Battle of France,e902e841-dc38-42a7-8902-5468b88efa1a
+Luxembourg,P276,located-in,Battle of France,4273b7b3-7fe3-4ab6-8b4f-6a51d2a126af
+Belgium,P276,located-in,Battle of France,14db3563-9496-435f-bd2e-316d2a47cf7a
+Netherlands,P276,located-in,Battle of France,3f71694d-9b55-4565-9ab3-d2b212cb36d4
+Copenhagen,P276,located-in,COBRA,82545ff5-4111-412c-8a4c-94f8f0c0a270
+Amsterdam,P276,located-in,COBRA,de6a719e-1dcd-4024-bc8e-5018bebcc915
+India,P276,located-in,Champaner-Pavagadh Archaeological Park,16f489ac-57e9-4b27-9ebc-1a72f297aa5a
+Gujarat,P276,located-in,Champaner-Pavagadh Archaeological Park,d0d3d5fe-8801-4d49-b66b-7659ec4cbd8e
+Berlin,P276,located-in,Chaos Communication Congress,830ab27a-6510-4e2d-bb92-5742126483f5
+Hamburg,P276,located-in,Chaos Communication Congress,824e4ab0-9384-438d-b0e7-fbd19818d3ae
+California,P276,located-in,Colorado River Indian Tribes,fbdc7304-d137-4680-96e0-3ab8b2d1695d
+Arizona,P276,located-in,Colorado River Indian Tribes,8fed213d-44f0-44a0-8a65-04fb8539f0d8
+Delhi,P276,located-in,Delhi Technological University,14afbeb7-acde-48c7-a1d0-5ace88e9564f
+India,P276,located-in,Delhi Technological University,e2274b14-cbfd-4703-9c90-39aeb5858cbf
+Arizona,P276,located-in,Family Life Radio,e592e3c2-f56c-47b1-9629-9fa8cbad8ee2
+Wisconsin,P276,located-in,Family Life Radio,22353f69-08d6-461e-8d15-d0564d370dc5
+Michigan,P276,located-in,Family Life Radio,39634842-650a-46db-beea-349bf8cd3a66
+Texas,P276,located-in,Family Life Radio,4735e993-24ef-42d5-adda-9dfdf559d9e6
+Greece,P276,located-in,Greco-Italian War,d9d51f4c-19e2-44ea-895b-4fb9870811f2
+Albania,P276,located-in,Greco-Italian War,f33fa403-ce2c-4919-81e4-75684832cb4b
+Israel,P276,located-in,Gulf War,c776af44-646a-4ed1-b0d1-c6266b95c1fa
+Iraq,P276,located-in,Gulf War,edc0b1e2-17a0-4e9e-b87e-081293c9c718
+Kuwait,P276,located-in,Gulf War,1b800646-a4a7-417b-ba4e-4f74576a3863
+California,P276,located-in,Halchidhoma,bd2e5b6e-9098-46a0-8096-74f06d72f417
+Arizona,P276,located-in,Halchidhoma,c2d3c862-673f-4cde-84ff-6be64e0ec463
+Latvia,P276,located-in,Livonian Crusade,151c8cca-c92c-467c-bcc4-661f01e23878
+Estonia,P276,located-in,Livonian Crusade,7272ddc3-3b5d-4f8a-9579-c262760bed1a
+Iraq,P276,located-in,Mandaeism,9793435f-13fe-41ae-b286-d5ee5d07c7df
+Iran,P276,located-in,Mandaeism,87cff7b1-9c6b-4a49-a217-593c0502c7a9
+Armenia,P276,located-in,Nagorno-Karabakh War,3de04e3c-0cfd-49cb-9627-c83f4c1190f8
+Azerbaijan,P276,located-in,Nagorno-Karabakh War,6afca366-858d-42b1-bb77-b3a71cc052ad
+Estonia,P276,located-in,Operation Barbarossa,2463fa9e-5e55-49d4-9eaa-036f7a4e4242
+Lithuania,P276,located-in,Operation Barbarossa,f8d9faa2-b8e8-4638-8547-5a7e1f2c6dcc
+Ukraine,P276,located-in,Operation Barbarossa,5821a58c-d602-47bf-85b8-dd9c4beda928
+Belarus,P276,located-in,Operation Barbarossa,a0133af6-5f91-4f04-aedc-69ea62c35160
+Seattle,P276,located-in,PAX,aa1137d0-c451-4bd9-928b-9114e76b352d
+Boston,P276,located-in,PAX,b5645aa8-86ea-40ac-84b6-4d2233f4f61b
+Melbourne,P276,located-in,PAX,0ae96c10-69c7-4551-9838-46d9594d06a3
+Ghana,P276,located-in,Palm wine,e2fba636-c8e8-43ae-9ed3-5cbe0a0f47c9
+Mexico,P276,located-in,Palm wine,a5c9b6de-04cc-4a69-aa64-f27833cd3cd7
+Belarus,P276,located-in,Post-Soviet states,a66ff7ad-2485-42bb-aad9-942b0b0d588e
+Ukraine,P276,located-in,Post-Soviet states,08dfd8e9-73d6-466d-9b2c-e0db600d9d6a
+Russia,P276,located-in,Post-Soviet states,f7014972-3d3a-449c-918e-52cab23e485f
+Kazakhstan,P276,located-in,Post-Soviet states,8e8bbd01-a870-4568-9f4a-5277efad7b79
+Mongolia,P276,located-in,Russian Civil War,1771ecf2-b570-4e08-93f3-dee6169ced4a
+Iran,P276,located-in,Russian Civil War,b965f827-e2ea-41f0-8e72-3eaed48f511b
+Egypt,P276,located-in,Second Crusade,1cb868bb-01a9-4433-8070-f92a1ae9f3c2
+Levant,P276,located-in,Second Crusade,6b78fe39-8505-4d82-8e47-a7689a793e19
+Levant,P276,located-in,Sinai and Palestine Campaign,3722b9e3-48a9-4aa3-aff5-59fd00359698
+Syria,P276,located-in,Sinai and Palestine Campaign,bec54219-f046-4bfd-99ab-61a5ef53555d
+Egypt,P276,located-in,Sinai and Palestine Campaign,c6194fb7-e5ca-4d0f-ae8d-8e405d2f32a2
+Texas,P276,located-in,Space Shuttle Columbia disaster,13a3ec7a-a6fa-4ae4-ae11-743a07e14462
+Louisiana,P276,located-in,Space Shuttle Columbia disaster,d3392b3c-b7a7-4035-b7a7-5a8fac9004e9
+Warsaw,P276,located-in,Warsaw Uprising,54af0c8d-8050-4b7b-9e13-702dcf131ed1
+Warsaw,P276,located-in,Warsaw Uprising,ee54c4ff-6b6f-46a7-bb15-f486d43cf5b4
+Asia,P276,located-in,World War I,bf1afad3-2d04-4982-b679-cf2122579a6e
+Europe,P276,located-in,World War I,3f56b04a-ca3a-48dd-bcb6-8f7591e4626c
+Africa,P276,located-in,World War I,9719c2a1-a027-448a-95a7-aebacb9c85e8
+Russia,P276,located-in,World War II,567ce59b-de16-42d5-ac10-615eeb07871f
+Asia,P276,located-in,World War II,da5b5bc2-8e51-401e-a988-d69a0750174d
+Africa,P276,located-in,World War II,7ca4d078-d697-48ef-b4f3-39eecc2cd13b
+Europe,P276,located-in,World War II,53c73399-3aaf-427c-9219-bf17c6b8db59
+Australia,P276,located-in,ice cream cone,3286ab87-607a-46af-9fe5-0abfc7063e97
+Switzerland,P276,located-in,ice cream cone,fc519ca3-bacf-4f81-a17a-6ede661c8a1a
+Austria,P276,located-in,ice cream cone,070d87d8-ab05-4526-a0e8-35deee985954
+Canada,P276,located-in,ice cream cone,ff322059-d69e-42a3-9ef7-6f92f18b6502
+Malaysia,P276,located-in,ice cream cone,3745fa25-9a73-4909-b11d-fe3b97d97b8c
+Ireland,P276,located-in,ice cream cone,65db281f-6fc2-459f-a89a-8914692b8dfe
+Boston,P159,headquarter-in,Boston Market,2fef52a9-158f-4562-92c2-15849a91f807
+Golden,P159,headquarter-in,Boston Market,deafd994-1b49-4220-b20b-e1a7232efd9c
+Berlin,P159,headquarter-in,Heilmann & Littmann,c27868ad-05b1-4b6b-835b-d11c1b1b12b2
+Munich,P159,headquarter-in,Heilmann & Littmann,ecdf518e-9c50-45f9-8521-3248d653dfed
+Muslim,P140,affiliated-with-religion,Albanians,304a3b50-5766-4906-8eed-be1a7fb5cdc4
+Christian,P140,affiliated-with-religion,Albanians,764b7df3-07fa-4651-8747-fa71eb2665f7
+Islam,P140,affiliated-with-religion,Arab,6d80e365-b29d-434b-9fcc-0243c2034cb7
+Christianity,P140,affiliated-with-religion,Arab,ad04797e-8afb-4be2-a12d-842dc057f0c1
+Christianity,P140,affiliated-with-religion,Malayali,9d7d22d8-adb6-4ab1-8321-5c9dab7d190b
+Buddhism,P140,affiliated-with-religion,Malayali,c418ef08-ca0c-4268-a7c9-746c42a118ac
+Judaism,P140,affiliated-with-religion,Sabbatai Zevi,c361963f-f8f6-4270-b3c9-e5fcc60fb67b
+Islam,P140,affiliated-with-religion,Sabbatai Zevi,3ca7bc01-1a15-4b96-a56a-7aa34cdec294
+Christianity,P140,affiliated-with-religion,Skanderbeg,5334fc4e-f429-4dc3-b511-6458342a6dd2
+Islam,P140,affiliated-with-religion,Skanderbeg,56656c7c-e2da-46e5-aea6-cd6f14531cce
+BBC,P136,plays-music,Rising Damp,8e051f47-dd1b-44f4-8af1-95a7c0d86786
+sitcom,P136,plays-music,Rising Damp,965dff3c-a765-46ce-9600-59fae7ffa8e5
+Belgium,P495,created-in,Le Concert,ba0ec559-e991-4887-a419-50c1e3c397d0
+France,P495,created-in,Le Concert,475d98a0-7dcf-4b98-8e2c-9c08c6b089f6
+India,P17,located-in,Asian Highway Network,a99cd6d6-e1de-4563-a310-1fe78bb47660
+Turkey,P17,located-in,Asian Highway Network,21f7f048-97d7-4ce7-aa7d-b9b1d5b9022d
+Europe,P361,part-of,Germany,095046c7-4475-4159-b96d-996d29bf0d94
+NATO,P361,part-of,Germany,bc06c075-6738-499e-8286-d9e4be5ea475
+Hebrew,P361,part-of,Kavanah,9c883f16-ad59-4cf8-b17f-c1c5e69af86d
+Judaism,P361,part-of,Kavanah,a81f506a-a943-49a4-bebb-70610f4c23fe
+Americas,P361,part-of,North America,a82cc74c-863e-45a3-aba8-daee12f13235
+Earth,P361,part-of,North America,c85d4462-d4c4-4f11-8bdb-9e6d8d4d3b7a
+sword,P361,part-of,Ricasso,b773c755-3071-4d0a-8561-7373759b06d6
+blade,P361,part-of,Ricasso,91c53193-034f-45d3-8519-fafec84bddad
+Americas,P361,part-of,South America,77879f0f-a331-4c9b-af65-243090bf1c9f
+Earth,P361,part-of,South America,87a53d11-6af4-44ea-8b43-946544eca9c7
+medicine,P361,part-of,anatomy,5bbba878-959c-4e3f-836f-2e4ae0ed870d
+biology,P361,part-of,anatomy,47b40edf-aab6-4a66-9286-fd257c946e3e
+chemistry,P361,part-of,biochemistry,dfd65f5d-2255-4bc4-8498-2ef419f17d18
+biology,P361,part-of,biochemistry,0ea359bc-ab0b-46cd-b992-44f760857959
+biology,P361,part-of,biogeography,1b18b3d4-f056-4791-bccd-4da9614734d0
+geography,P361,part-of,biogeography,a05e944b-f1b1-4359-be60-eaf359f55f26
+physics,P361,part-of,biophysics,c3f459b4-9e07-48ca-98e6-152bb380e191
+biology,P361,part-of,biophysics,009dbbd7-8bf9-48b2-9c21-2ffebdf5ed81
+rifle,P361,part-of,breechblock,b030c263-5984-45ca-b9d3-1aa295635c92
+pistol,P361,part-of,breechblock,e9aa9063-e047-4af4-9a72-e786f48e4054
+psychology,P361,part-of,diagnostic procedure,0fed1f96-7e78-471a-838b-71883b686267
+medicine,P361,part-of,diagnostic procedure,66b02bf1-2f52-496b-b051-c542b4400637
+biology,P361,part-of,embryology,cfa3461d-e248-402e-97e5-ab9d595983b2
+medicine,P361,part-of,embryology,02e149bc-6bcd-44f2-bcb2-0a74f3c7ffcd
+spacecraft,P361,part-of,escape velocity,5b7972bf-ecd4-483c-9470-0f0983fde1a7
+gravity,P361,part-of,escape velocity,799234f5-bd50-4ad5-82f4-ed887d5ca8c4
+pistol,P361,part-of,firing pin,db25d582-abfe-4899-b31f-5b2e26afbc9b
+rifle,P361,part-of,firing pin,f3067a38-5863-4b11-ab52-abb0843d1e98
+nursing,P361,part-of,gerontology,7a352ae8-daa5-4c2b-a0a0-fbe5f9ff415f
+sociology,P361,part-of,gerontology,2c494cdb-b809-412e-b3d3-f8f63ede2446
+chemistry,P361,part-of,limnology,9b4df1c0-4593-4ab8-bddb-bcec7ccd7b41
+biology,P361,part-of,limnology,bc2056f0-7da5-4c08-a9d4-323514d4a592
+physics,P361,part-of,limnology,f222e226-9801-48f7-a96d-35adc8206eea
+ecology,P361,part-of,limnology,95ed6b30-6848-4265-8338-90dfc3047cea
+physics,P361,part-of,mathematical physics,8e92d0a2-b64e-43d6-abf2-3b069b45cbf0
+mathematics,P361,part-of,mathematical physics,b4095536-c128-4ea9-a7aa-4f415300f94f
+medicine,P361,part-of,medical physics,c0ec16d0-db5d-4744-abf6-05c75a565f49
+physics,P361,part-of,medical physics,6244b349-677d-4c39-85af-61ef2737dce3
+physics,P361,part-of,mineralogy,eb795c59-642f-426c-889c-6f4d342f3450
+chemistry,P361,part-of,mineralogy,42b85dd1-f9c3-443c-88a6-24b0b1de608b
+psychology,P361,part-of,neuroscience,00b43df7-bc4a-49d1-b599-a9dfc0d5eb6b
+medicine,P361,part-of,neuroscience,4b2323b0-3bb5-44ba-b976-16332d353fe1
+biology,P361,part-of,neuroscience,56af894c-0174-4c03-9965-e11191888f14
+biology,P361,part-of,oenology,b9311fd8-d6d3-4d18-98a8-4f6c57426391
+chemistry,P361,part-of,oenology,f79e51b6-608a-451d-a341-78996898cc0f
+sociology,P361,part-of,organizational theory,c78ef131-fcb5-4c79-b90c-b63f03d38d0f
+psychology,P361,part-of,organizational theory,fe7b745e-6e30-44bf-9dac-3b5a0c6dabb0
+sociology,P361,part-of,participant observation,e4fc46c0-943b-4748-9246-1f53f3945ab6
+anthropology,P361,part-of,participant observation,9df66c9c-a9ec-4531-b80f-127dad43d362
+medicine,P361,part-of,pharmacy,bb0dc78f-ba5b-4a9b-b892-42707206d6e4
+biology,P361,part-of,pharmacy,98179299-1681-4419-a43c-80b79468bc66
+chemistry,P361,part-of,pharmacy,50e7c1a6-ad30-466c-b976-afc8ee6f54fb
+philosophy,P361,part-of,philosophical anthropology,bf5c097c-e784-4862-bc3b-d065811cd644
+anthropology,P361,part-of,philosophical anthropology,a8ba0911-6c18-4bc1-b36f-d4b4921e924a
+cartridge,P361,part-of,propellant,edb5bda4-03c4-4ab5-bce6-2359f8f32dbb
+shell,P361,part-of,propellant,8b73fd6e-488b-4e99-9d80-896edee0e15f
+therapy,P361,part-of,psychotherapy,e997ec90-49cd-407c-b1ef-feda99904427
+psychology,P361,part-of,psychotherapy,7f36c3f1-a282-4af7-b509-14b85c6bb62d
+sociology,P361,part-of,social psychology,0c2be786-51a1-4d5b-ae84-e8d75997691a
+psychology,P361,part-of,social psychology,04469a93-3ed4-45fe-af4d-d8d11ade8572
+biology,P361,part-of,toxicology,532cc771-264c-4c36-a1ec-0d154f8247a7
+chemistry,P361,part-of,toxicology,13a6a213-01a7-40dd-acf4-d7c923e7ef01
+physics,P361,part-of,tribology,04618ef5-da64-44c4-a662-84fa0b4d4190
+chemistry,P361,part-of,tribology,ac0a9f76-90ad-425a-9220-bc175dc6baa9
+Damascus,P36,capital-of,Abbasid Caliphate,3dfe628c-cfc7-42b7-b514-4d1c69264327
+Baghdad,P36,capital-of,Abbasid Caliphate,9c0d9389-8c0f-44ed-a983-b63f809c6dbb
+Vienna,P36,capital-of,Austria-Hungary,37f0a960-f344-498a-8c09-0a8226f86734
+Budapest,P36,capital-of,Austria-Hungary,9c8149a0-6ed4-4e8e-83a7-e5d171d03743
+Montgomery,P36,capital-of,Confederate States of America,20fbf8a0-ceb0-448b-be84-6b08cd065fbf
+Richmond,P36,capital-of,Confederate States of America,c6fa96d5-1bc7-416d-8c5d-7a42d6e8dc29
+Winchester,P36,capital-of,England,dd496af6-2fc1-4697-9c93-f335f9a6f665
+Westminster,P36,capital-of,England,3cf98f50-f98b-4009-8aba-cec93a5d14f7
+London,P36,capital-of,England,ffe7fc87-597a-432b-b8a0-d393eb046dad
+London,P36,capital-of,England,381b9c02-419a-434f-91ef-bb973b5c485c
+Florence,P36,capital-of,Kingdom of Italy,6e0942fa-96c8-4a07-b72e-83519b16db11
+Rome,P36,capital-of,Kingdom of Italy,34902401-c1c4-4b04-833a-688dede2ea15
+Constantinople,P36,capital-of,Roman Empire,b3deac49-9a98-4ca2-a576-9bdcbddcbc4a
+Rome,P36,capital-of,Roman Empire,3f21d7e7-c437-450b-bf74-5836afb3e9eb
+Brunswick,P264,represented-by-music-label,Buddy Holly,c38bbc44-07b6-429c-8738-fae528ea70a4
+Coral,P264,represented-by-music-label,Buddy Holly,abac6b68-143e-46c8-b9d1-d8cf57d900f3
+French,P407,written-in-language,Daniel,01c4d271-39a3-4e3a-b656-aae39ab3bcbe
+Russian,P407,written-in-language,Daniel,f262096d-fb44-4fa7-8b40-e8122d36b024
+Hebrew,P407,written-in-language,Daniel,ae25640c-6284-4939-8d10-a61fe2036189
+English,P407,written-in-language,FitzGerald dynasty,3dc6dea7-33cc-454c-939d-287d1a9b4162
+Irish,P407,written-in-language,FitzGerald dynasty,440dbb49-6b5a-4da2-b3eb-1f20cfb1294a
+Italian,P407,written-in-language,Il sole nella pioggia,5df6498b-1131-41e5-beef-f85d8c5a4e58
+French,P407,written-in-language,Il sole nella pioggia,47ab8856-89b3-40d9-9c5e-d578804a797c
+Italian,P407,written-in-language,Le cose che vivi,352a213a-8945-411e-a191-e64e658aa79c
+Spanish,P407,written-in-language,Le cose che vivi,c3fec408-1aef-4329-9827-fddc15df126d
+Finnish,P407,written-in-language,LibreOffice,bc9533de-ccba-4587-816c-dfeca4d232fa
+English,P407,written-in-language,LibreOffice,508d4544-6a1f-4327-b36b-40f6e7a7cc63
+Russian,P407,written-in-language,Odnoklassniki,302486f4-b3af-41bd-963e-fefb67d4c4c3
+English,P407,written-in-language,Odnoklassniki,49b9d1cc-488d-4b1b-88d2-189d0f3b17fa
+English,P407,written-in-language,Ola Kala,1074143e-59dd-4e5c-b51e-2f07c8fd868c
+Greek,P407,written-in-language,Ola Kala,f3c8de36-8ebd-4703-b167-ff0ed3fb15bf
+Spanish,P407,written-in-language,Pinterest,6f2a850c-c30a-4886-a937-09610219dc56
+French,P407,written-in-language,Pinterest,fd16fe6e-0b10-4019-9279-be7c9eb02514
+English,P407,written-in-language,Pinterest,077be58a-e543-40ea-b519-e02ef4adb437
+Italian,P407,written-in-language,Pinterest,df623c8d-2635-43ff-b09e-8775e414329e
+Finnish,P407,written-in-language,Pinterest,0ea659ff-4513-4133-8629-f85d9a72ab94
+English,P407,written-in-language,Prontoacorrere,32d42b09-7cdd-4049-93d5-a56eee84ec09
+Italian,P407,written-in-language,Prontoacorrere,62257e0d-751f-4e16-a6eb-0b8bc67c0f8c
+Spanish,P407,written-in-language,Radio France Internationale,0eee0764-f7ac-477f-bff9-10ee0db4878e
+Vietnamese,P407,written-in-language,Radio France Internationale,3ec6b1f9-e160-4dc5-b9ad-0339511345bc
+Russian,P407,written-in-language,Radio France Internationale,992ea9bb-0c05-42d9-9d91-ad65bf3ad83b
+Italian,P407,written-in-language,Resta in ascolto,925dabd0-80ee-48db-8a53-e7022f477625
+Spanish,P407,written-in-language,Resta in ascolto,a49130dc-88b9-4dcc-b99e-4e497d019c1e
+French,P407,written-in-language,Snow on the Sahara,cefad97d-e730-43b2-af86-daa9a38d572e
+English,P407,written-in-language,Snow on the Sahara,ef640c61-b576-4dfe-ad05-c2341f0bc96f
+Russian,P407,written-in-language,Ukrainian News Agency,8bf636e5-9460-4faf-a8c4-9be292a33873
+Ukrainian,P407,written-in-language,Ukrainian News Agency,96c8079e-3c13-4e22-99b2-2f10eec5c956
+Athena,P138,named-after,Athens,63661f37-3bba-4bb2-bd7a-fe6efd05a0db
+Athens,P138,named-after,Athens,70e77744-72d7-4ca8-8325-a156509847e9
+Athens,P138,named-after,Athens,4d581bc2-0562-43ea-94f5-bac7413eb710
+Brazil,P138,named-after,BRIC,27477ac1-df6b-4c96-82e9-ff227f9e51cd
+Russia,P138,named-after,BRIC,d7bb9d2e-2847-4146-b8cf-2e183170915d
+India,P138,named-after,BRIC,fa609644-afbc-43ba-b5f3-dccb00c00993
+Copenhagen,P138,named-after,COBRA,53b86376-aea6-4eb1-b6a9-f3920491cc92
+Amsterdam,P138,named-after,COBRA,08bf0ec9-3fe7-4833-accd-725f32ddba00
+Virginia,P138,named-after,Delmarva Peninsula,62badf25-0424-47dc-8228-ecb411b44b7f
+Delaware,P138,named-after,Delmarva Peninsula,9b5686a0-3843-428d-af06-428f566dcfa9
+Maryland,P138,named-after,Delmarva Peninsula,3a849e90-d900-4e67-afc0-dbb63c486a20
+England,P138,named-after,English Channel,3930c6c0-5639-45b2-8387-9c85d5c8077a
+Brittany,P138,named-after,English Channel,578f6f5a-c7cd-48e0-ac35-3b30b004a083
+Maryland,P138,named-after,Pen Mar,efaa016a-9d40-4128-aa67-29be5ddb607a
+Pennsylvania,P138,named-after,Pen Mar,3f471e90-4669-4c6b-a5c7-c8383d0621ee
+Andrew,P138,named-after,Peterborough Cathedral,c72c1d2f-6c02-4c09-8d4f-b3854b1fa6b7
+Peter,P138,named-after,Peterborough Cathedral,597775db-cf29-4db0-9ef5-12091140696f
+Vancouver,P138,named-after,Seacouver,9c4cff4e-165c-4067-b724-813e054a34a3
+Seattle,P138,named-after,Seacouver,1e76b206-e56e-46d0-a572-1388de4c2301
+France,P138,named-after,Three Countries Bridge,0e094fb1-a872-4c97-a470-ce50c81ac933
+Switzerland,P138,named-after,Three Countries Bridge,b034b5ec-e894-4e0b-99ec-1cd8c8dd02d0
+Virginia,P138,named-after,USS Virginia,5e8df571-b8c4-4d80-8707-b59e90ba32b9
+Virginia,P138,named-after,USS Virginia,9103eec7-94c6-45e8-a99d-c5efd337cf15
+Africa,P30,located-in-continent,British Empire,9c34fc2b-c8dc-4006-bd85-e72b0931440a
+Americas,P30,located-in-continent,British Empire,7e7ac9a3-fe20-4338-be3d-922493efe738
+Africa,P30,located-in-continent,Middle East,80408eb5-74a2-41e6-9abe-23b4b2c7ba4c
+Europe,P30,located-in-continent,Middle East,68978205-85bc-4ec0-b9e1-e693c7e02b1c
+BMW,P176,produced-by,BMW 3 Series,d91a4b06-d168-4035-9150-2827c38cfe36
+BMW,P176,produced-by,BMW 3 Series,7e6bc075-d292-4ec0-9bc7-c380d7662950
+BMW,P176,produced-by,BMW 3 Series,816c1272-653a-4702-8134-e2930f8eb4a3
+BMW,P176,produced-by,BMW 3 Series,28a9c9fa-932c-4acb-bd48-b8d3d755568e
+BMW,P176,produced-by,BMW 5 Series,a1de4836-227f-4bd1-8c85-291c51969a95
+BMW,P176,produced-by,BMW 5 Series,a26d6952-bbae-44f7-aaae-08a27e8175a3
+BMW,P176,produced-by,BMW X5,d8370da2-7174-4be0-8b21-a2c791d989ef
+BMW,P176,produced-by,BMW X5,5ae1a59c-f5fe-43b1-b0b0-247f63281ea0
+Fiat,P176,produced-by,Dino,a4c4e82f-42b7-4370-8a7d-57cae10d78a3
+Ferrari,P176,produced-by,Dino,b3ba5ca6-0619-472a-8053-bcf4c98020fb
+Dodge,P176,produced-by,Dodge Charger,977fa035-e979-44cf-b79a-1a2d5fe435cc
+Dodge,P176,produced-by,Dodge Charger,99a2faeb-48d8-436f-92bd-65f99ab5abef
+Dodge,P176,produced-by,Dodge Charger,09b8c6d7-2ca9-4736-b2ca-65980e3354ec
+Fiat,P176,produced-by,Ferrari 250 GTO,d7587fa7-93f2-47f7-9b73-9c8b283bcdc5
+Ferrari,P176,produced-by,Ferrari 250 GTO,2c6541e1-97e3-4aee-828d-ecf012a03f7b
+Nissan,P176,produced-by,Nissan Bluebird,fc17b398-f55e-4f16-b3f4-7cc1de997888
+Nissan,P176,produced-by,Nissan Bluebird,0f3ca949-23c5-4d20-857f-3430277fcf24
+Sony,P176,produced-by,SNES-CD,75546066-9c07-40c3-89de-a6b6baba92a4
+Nintendo,P176,produced-by,SNES-CD,3d2a2724-c5aa-47a0-95eb-c5321c3ed714
+NBC,P449,originally-aired-on,Alfred Hitchcock Presents,4f9db489-5667-4c43-9810-e57f61d8ab30
+CBS,P449,originally-aired-on,Alfred Hitchcock Presents,64b9c063-dbab-4fb0-9e43-5c1ff67caf45
+NBC,P449,originally-aired-on,Alfred Hitchcock Presents,1e510088-f748-4972-b326-b0d4169402d0
+CBS,P449,originally-aired-on,Down You Go,044e086f-26a6-4421-a6c7-a65710748ba1
+NBC,P449,originally-aired-on,Down You Go,e1b4880e-7cc2-464e-9879-2982085f4ee9
+NBC,P449,originally-aired-on,Gambit,f937db7c-018a-45e8-8cf0-b62bc82c4544
+CBS,P449,originally-aired-on,Gambit,cf421677-f1c7-4014-be63-65c538b608fd
+NBC,P449,originally-aired-on,Underdog,0e40459c-47ac-4842-9d51-1bf248d75479
+CBS,P449,originally-aired-on,Underdog,ab9fd026-c25b-4a4b-a7f0-502bd7cdb361
+homosexuality,P279,subclass-of,gay,2f14f76e-8250-4b53-a660-66faec86a306
+LGBT,P279,subclass-of,gay,4c09f348-927e-4e02-8fe9-3a46abe21511
+education,P279,subclass-of,philosophy of education,54d6be3a-fad7-49da-b4f6-74229d9ce9d1
+philosophy,P279,subclass-of,philosophy of education,8f04f08d-cbaf-4d55-90d8-bdb1f36d217e
+logic,P101,specializes-in,Alan Turing,7d58f005-5166-4af7-a2e0-c960de153441
+mathematics,P101,specializes-in,Alan Turing,5a7f972a-5c54-49b6-90dd-caee65688443
+philosophy,P101,specializes-in,Anaxagoras,0b4ba343-e8e2-468a-9b16-810b2d444d4c
+astronomy,P101,specializes-in,Anaxagoras,0cc0eeb9-5831-4e7b-a837-eaac19e65abc
+mathematics,P101,specializes-in,Antoine Augustin Cournot,74425208-fd08-4360-86e5-c16362c565c1
+economics,P101,specializes-in,Antoine Augustin Cournot,51450864-d170-4226-946b-b922be967b27
+physics,P101,specializes-in,Christiaan Huygens,1fa706ea-c4fa-4792-8e2c-0ab6b7d16a07
+mathematics,P101,specializes-in,Christiaan Huygens,6f93f150-8e93-415d-9982-0c2754a97683
+chemistry,P101,specializes-in,Dimitri Mendeleyev,7d571cc2-02a6-4ca3-ac59-88006b200d1d
+physics,P101,specializes-in,Dimitri Mendeleyev,a6c4fbcb-f889-4cb3-8bdd-e9c02f4fb605
+medicine,P101,specializes-in,Franciscus Sylvius,fcf97fc6-2d6e-46d0-a05e-048521f5e4a3
+anatomy,P101,specializes-in,Franciscus Sylvius,fd486abf-4f43-4ab9-b2e1-3561a85af169
+astronomy,P101,specializes-in,Friedrich Bessel,5ddc8585-e39e-4002-a52e-850823f677bb
+mathematics,P101,specializes-in,Friedrich Bessel,a77cf941-27e8-41e9-b9f9-33bdf2c1ba5e
+anatomy,P101,specializes-in,Galen,7aa085f3-bc0a-4668-843f-46c65365387a
+medicine,P101,specializes-in,Galen,6f84a342-d3f3-4c31-b65f-2859782f6c4f
+astronomy,P101,specializes-in,Galileo Galilei,c07d3d0e-1ade-4a3c-a6d4-21fdc3060f2d
+philosophy,P101,specializes-in,Galileo Galilei,79e89a88-c6f6-40fb-adc4-e083735838b1
+mathematics,P101,specializes-in,Galileo Galilei,110f05e1-2ccc-451b-8d77-fcad83f84cf7
+physics,P101,specializes-in,Galileo Galilei,a2a19892-8625-4b80-8fe9-8b4d7314814a
+physics,P101,specializes-in,Hermann von Helmholtz,e6aae01a-5cc5-4530-8c6b-2a05edea6a03
+physiology,P101,specializes-in,Hermann von Helmholtz,81f22fd2-6743-4f6c-a5e8-157c783e9bdf
+psychology,P101,specializes-in,Hermann von Helmholtz,1b3e1c88-8b80-49d5-b937-029d9d947c5c
+mathematics,P101,specializes-in,Isaac Barrow,32b60e9d-4094-4fa6-a68d-c21a8841650c
+theology,P101,specializes-in,Isaac Barrow,57722aff-a9a2-43ec-bdeb-75d258903b59
+mathematics,P101,specializes-in,Isaac Newton,a7d90645-9b70-450a-9b02-d3182c7382ae
+physics,P101,specializes-in,Isaac Newton,48fba4f0-e527-4418-aab8-c0d7da883745
+astronomy,P101,specializes-in,Isaac Newton,4770898f-6011-4ed6-9260-e15dca6e7468
+anthropology,P101,specializes-in,James George Frazer,6bdeb245-b814-4816-bd63-da8a6bff8510
+folklore,P101,specializes-in,James George Frazer,eee4645b-ea2d-41cc-8129-dafc390f6937
+medicine,P101,specializes-in,Johann Georg Gmelin,4bc5eecf-577a-4bb3-ad73-b010944075df
+chemistry,P101,specializes-in,Johann Georg Gmelin,2e64a901-817d-44e9-b63d-d06895c99def
+chemistry,P101,specializes-in,John Dalton,2bb0fe87-948f-4288-b2e6-0a727a2ec328
+physics,P101,specializes-in,John Dalton,bf3ecaea-0a6a-4993-908a-67aad5ce1dbf
+sociology,P101,specializes-in,Karl Marx,5a90a76e-cd1c-46d6-b6c1-8e25f2a465e5
+economics,P101,specializes-in,Karl Marx,deec2b0f-f229-4880-bbcc-3119a8e4aa82
+philosophy,P101,specializes-in,Karl Marx,653ff36c-0354-446d-842b-d47f372d4b2b
+astronomy,P101,specializes-in,Leonhard Euler,0908b223-706b-4629-bed4-fc256ec27c65
+physics,P101,specializes-in,Leonhard Euler,69ce0f44-2f54-4c18-a7ee-7d46e147a3c3
+economics,P101,specializes-in,Max Weber,d6c292ef-07a2-4711-b71b-c306fe82b6cc
+history,P101,specializes-in,Max Weber,83d23024-bc40-4409-bcd8-279b9614469a
+sociology,P101,specializes-in,Max Weber,29fb052d-7ef6-4658-9172-cf7e508d2212
+chemistry,P101,specializes-in,Michael Faraday,2a7b190a-b405-40ed-9ab1-1f681bce1734
+physics,P101,specializes-in,Michael Faraday,a16f9400-9228-4e5c-ae34-d789cbb96706
+astronomy,P101,specializes-in,Nicolaus Copernicus,591394e1-7e67-46a6-a808-00f4a000f1ef
+mathematics,P101,specializes-in,Nicolaus Copernicus,4d8302e9-8acf-41ab-bf44-2bf809910a7e
+anthropology,P101,specializes-in,Paul Broca,53088472-4720-431b-86d8-d679af22f0ea
+anatomy,P101,specializes-in,Paul Broca,18a4bfa6-f98f-47fb-beb8-3c1f4179cd7c
+physiology,P101,specializes-in,Petrus Camper,0c8e9522-a223-433c-803b-13dfba4471da
+anatomy,P101,specializes-in,Petrus Camper,7e1bc63f-e323-4068-9842-3e9344fa42d5
+asteroid,P101,specializes-in,Spacewatch,dac8f031-cd4c-4919-b439-59fcb2b82222
+comet,P101,specializes-in,Spacewatch,872e26ff-4c64-49f3-a745-5201d334001b
+English,P364,original-language,The Lunchbox,039be0e5-8d53-46c8-91a9-2d5dda5547a6
+Hindi,P364,original-language,The Lunchbox,345bf4d9-5b6e-468f-81a4-757896b963da
+Swedish,P364,original-language,The Magic Flute,64849417-c460-417d-9a7a-b856305ebe92
+German,P364,original-language,The Magic Flute,7a1012a2-74f2-4830-aa58-97764ec126da
+Hindi,P364,original-language,Vishwaroopam,f75cea36-f01b-4278-8aeb-c0f2c2fb7dba
+Tamil,P364,original-language,Vishwaroopam,58432157-0e65-4bb0-b954-3f0efd6f51e6
+Serbia,P1376,capital-of,Belgrade,35c3fb1f-b17d-4a1c-92a9-e003eb62c849
+Yugoslavia,P1376,capital-of,Belgrade,8de6b005-416e-4ee2-a819-0b4f50f66f00
+Judah,P1376,capital-of,Jerusalem,b916b6f7-2656-402e-8bab-b8e028d51e88
+Israel,P1376,capital-of,Jerusalem,ea28be56-a778-401a-926a-a46f8f090122
+Afghanistan,P1376,capital-of,Kabul,d157e30d-58f9-4bb9-a4e2-5fd32bf6c0b8
+Kabul,P1376,capital-of,Kabul,46f718d1-352d-4b17-b1f4-fe46b0b7bfe9
+England,P1376,capital-of,London,ceb88081-ddd3-4dc5-8a76-e0609c2d7ddb
+England,P1376,capital-of,London,3c892062-83e0-4eb8-a885-b00e2d034ad6
+Sony,P178,developed-by,Clang,c26eb48f-4525-4e93-a48e-e04ecb674925
+Apple,P178,developed-by,Clang,61558b7c-4e24-42c8-b5f5-1184b2f70da5
+Microsoft,P178,developed-by,Clang,6789e6ca-cbcb-405d-9f1e-36c6c676ca97
+Intel,P178,developed-by,Clang,96ac82f8-0d70-4b1f-8755-4584d62eb9dd
+Sega,P178,developed-by,Golden Axe,7d6cf048-a273-4cad-ba37-2e263bd9805a
+Sega,P178,developed-by,Golden Axe,75cc5fa4-9a01-4c83-827a-f5747b906c45
+IBM,P178,developed-by,High Performance File System,8eac3f61-4e88-4d71-87ad-30016fd8e444
+Microsoft,P178,developed-by,High Performance File System,d4d30a71-985a-48aa-a4c2-2f0f16ba2deb
+Google,P178,developed-by,Schema.org,3657b1a8-d0a7-4875-bf2d-59f20b5c163a
+Yahoo,P178,developed-by,Schema.org,a343bf4d-e830-4231-b31a-eec881d8580d
+Intel,P178,developed-by,Tizen,da091a30-8779-495c-a2b6-5ce4b4d72b29
+Samsung,P178,developed-by,Tizen,0726536b-baf5-47d8-80c3-8d29676e3e83
+Chinese,P37,official-language,ASEAN,6b17dea3-bbda-40d7-8256-d61c9965e48b
+Indonesian,P37,official-language,ASEAN,e627de6f-9fb0-45c9-b617-eb1c05a467d5
+Thai,P37,official-language,ASEAN,4aa4b992-be10-42f9-8e59-3bec0f4c7b72
+Filipino,P37,official-language,ASEAN,efcfe33d-b05b-488b-8146-46d2fac14657
+Spanish,P37,official-language,Aragon,3e438531-994e-49e5-a032-86b801e56099
+Catalan,P37,official-language,Aragon,cef1c14c-1d01-424a-87c8-1ae322934c7b
+Russian,P37,official-language,Autonomous Republic of Crimea,ed7a63d4-fa4e-41a7-9949-2fb505945c63
+Ukrainian,P37,official-language,Autonomous Republic of Crimea,9025d8e7-5db2-43b1-bb8d-86ce60cb6d90
+Dutch,P37,official-language,Belgium,6b81ab0b-170e-4f41-93ea-4364906d29ef
+German,P37,official-language,Belgium,917d1a30-152b-45c1-959d-13203beede0a
+French,P37,official-language,Belgium,60528b49-abef-4e56-a05b-7ca487980bc3
+Dutch,P37,official-language,Benelux,4fd4bfed-3d4e-445a-97a0-baa4d366fb4a
+French,P37,official-language,Benelux,16f13954-324b-4c9e-b650-e4124ccc5516
+French,P37,official-language,Biel/Bienne,bc6a5822-0628-4313-8932-7ecf9a7b5fb2
+German,P37,official-language,Biel/Bienne,d82631b7-54f8-4239-bae2-6e49597afb71
+Serbian,P37,official-language,Bosnia and Herzegovina,ca1f8012-b345-4b43-8b99-b7b9acd81df7
+Croatian,P37,official-language,Bosnia and Herzegovina,f874c189-4f1c-4296-a467-c5fb3f3d1b40
+Dutch,P37,official-language,Brussels-Capital Region,ea9bba55-748e-4a81-b22f-665ba56c9499
+French,P37,official-language,Brussels-Capital Region,6ba9c8a2-f4b8-4cb8-a2b0-895d8410c2c1
+French,P37,official-language,Burundi,797f7c3e-a30e-48c1-b5f3-9f5a98a07c98
+English,P37,official-language,Burundi,2134ebad-8a2a-4ce5-addf-0f1100c1970c
+Polish,P37,official-language,Byelorussian Soviet Socialist Republic,3a1c326c-af88-4212-919f-e5d1e3fa5d0a
+Russian,P37,official-language,Byelorussian Soviet Socialist Republic,6278d6f5-0014-4f48-9565-3734d180b129
+English,P37,official-language,Cameroon,aa9ba3fe-7868-44ae-96d6-6229cf7cca67
+French,P37,official-language,Cameroon,3ad25567-8925-4fc8-b7be-e7bdef6ff742
+French,P37,official-language,Canada,f0cf85c2-9886-4ac2-8111-eb37734356ad
+English,P37,official-language,Canada,d1f5c483-cc39-48e4-b847-9de986acc02b
+German,P37,official-language,Canton of Fribourg,e171eb44-da16-4157-817b-06e8edbc6d25
+French,P37,official-language,Canton of Fribourg,ebd391df-d8f0-43e7-ae45-556f4f8a7e15
+English,P37,official-language,Caribbean Netherlands,32a4fb95-fdea-4ef5-ac53-72e7685dd963
+Dutch,P37,official-language,Caribbean Netherlands,560e86c2-172c-475d-92fe-9cb9ab89a980
+Catalan,P37,official-language,Catalonia,fda0034a-c422-4fa9-98ea-f930907c58ad
+Spanish,P37,official-language,Catalonia,041abc44-2894-4b3c-bb2b-a68bc5913753
+English,P37,official-language,Cebu,2a18c56d-f05e-46a3-83f0-34fd0865000e
+Filipino,P37,official-language,Cebu,1d7242af-1e05-46b1-a607-a0295c775226
+English,P37,official-language,Central Visayas,843d7ab6-8749-417d-b9b5-fbda2e0c2609
+Filipino,P37,official-language,Central Visayas,dd5b0eb8-622d-4a4d-b005-ad5819810602
+Russian,P37,official-language,Congress Poland,d40f5e85-9aae-44b0-ac1b-a3756035039c
+Polish,P37,official-language,Congress Poland,551787d1-904f-41b9-88bb-5fc0ba370384
+English,P37,official-language,County Cork,b1c0a7e2-9db7-4b3c-81fa-b0bc58a12f55
+Irish,P37,official-language,County Cork,f6450a9d-09fa-447d-be98-72ff6044b4c1
+Portuguese,P37,official-language,Couto Misto,3039dfb6-9af3-493d-bb68-aa1d59a1b36f
+Spanish,P37,official-language,Couto Misto,5a525ae2-eff6-4caa-8596-6001ac0cd8ab
+Latin,P37,official-language,Crown of Aragón,fdeb9503-af54-4f92-b3ef-45512637ea38
+Catalan,P37,official-language,Crown of Aragón,16c0041e-5e24-489a-9569-3e7f1e8b511f
+Hindi,P37,official-language,Delhi,47f46f96-3a85-4038-bbe5-c049d1e68058
+English,P37,official-language,Delhi,3be84d53-c2b7-4b3f-8e84-2d2588cc4028
+Ukrainian,P37,official-language,Donetsk,ff7b7f89-7268-4d64-a09f-63c3f34d8c50
+Russian,P37,official-language,Donetsk,d91d659c-35e2-4f95-bb32-9f869136e3c6
+Russian,P37,official-language,Donetsk Oblast,6dfc27b0-3004-4c9a-860b-72f640bee768
+Ukrainian,P37,official-language,Donetsk Oblast,1ebef4df-c5e1-4a0b-8a52-a9c1c1b0748a
+Russian,P37,official-language,Donetsk People's Republic,8271b745-7760-4212-974b-8d5e4beb6859
+Ukrainian,P37,official-language,Donetsk People's Republic,d50affaf-7cb5-4c13-8068-e3a2fb66ad46
+Scots,P37,official-language,Dundee,e931dfe6-c073-4baa-b7ba-96085d0cf1ec
+English,P37,official-language,Dundee,3af0943a-bb96-4e66-950e-b82ed543ee0c
+Portuguese,P37,official-language,Equatorial Guinea,7cdb7b94-01f0-4b1f-9054-9adcb4aac485
+French,P37,official-language,Equatorial Guinea,1d044539-8d2c-4fd1-a555-1b2e5df348f8
+Spanish,P37,official-language,Equatorial Guinea,ff889831-d12d-449b-a0ca-5c765dc730af
+Swedish,P37,official-language,Espoo,2403fc09-3b45-4720-820b-3b210ec23b48
+Finnish,P37,official-language,Espoo,dd6e824a-700f-48a1-80ba-ce1178e0bf74
+English,P37,official-language,European Space Agency,40f35c91-964b-4ba7-bee6-01f681421d4c
+French,P37,official-language,European Space Agency,52d0913b-e4d6-453b-b129-a2d5204cef4c
+Finnish,P37,official-language,European Union,c191627b-e235-465e-b848-d72062f31252
+Dutch,P37,official-language,European Union,b779222c-8bfa-47ff-b144-74bb3c41c787
+Spanish,P37,official-language,European Union,68646ca1-fc10-4958-a165-9328f17b8205
+Czech,P37,official-language,European Union,b1a9a74f-932f-4b56-8be4-c48a727c78f6
+Hungarian,P37,official-language,European Union,630bca96-8a06-4077-a0ac-9400ab619832
+Portuguese,P37,official-language,European Union,7da08246-02f0-4da5-8ae0-7e2fc5f28206
+Romanian,P37,official-language,European Union,1ce353c2-599b-49f3-bec6-f591da92d58f
+Italian,P37,official-language,European Union,5e858d6b-368b-4f0f-9ffe-f51e36457c3c
+Swedish,P37,official-language,European Union,ca4b4b51-ec3b-4de6-9d1c-57757b67b860
+French,P37,official-language,European Union,04bb64c7-7838-4e7a-a504-342e2e8f121e
+German,P37,official-language,European Union,78aed2bd-b82a-412c-a9de-17893ed0cb31
+Bulgarian,P37,official-language,European Union,c6d3b7ff-ba14-4ce2-a84c-d199856a77c2
+Greek,P37,official-language,European Union,ef08650c-9d6b-47ed-81ea-586db89e5423
+Irish,P37,official-language,European Union,6ac9a04b-0434-4d54-b21e-7fa562e983e1
+English,P37,official-language,European Union,bae5b750-1a6f-4995-bbcd-ae47dbcfea67
+Danish,P37,official-language,European Union,18170f17-a78e-4e37-aa9a-701bcff21364
+Polish,P37,official-language,European Union,c20bdd04-3d66-4912-bdc0-56cf359d38f4
+Finnish,P37,official-language,Finland,5b37ddf5-0079-4b49-90a0-29ba1b2df642
+Swedish,P37,official-language,Finland,2594f8ee-6f99-4ed6-94c1-8047fdc686ca
+Spanish,P37,official-language,Formentera,e5b07540-f631-49a5-a78e-81104adabda3
+Catalan,P37,official-language,Formentera,1a5ca55b-bdca-4189-8509-8dfe4cd574e1
+French,P37,official-language,Guernsey,a3ea342e-deb1-4f54-84e9-51e33537ec8c
+English,P37,official-language,Guernsey,cbb8e582-9f48-4fec-b8b0-168cab33584b
+Finnish,P37,official-language,Hanko,e8dd4525-69ee-47f9-9d32-86ecdc41238e
+Swedish,P37,official-language,Hanko,18c109ab-f2f9-4965-82fc-f0afc52e6d56
+Swedish,P37,official-language,Haparanda Municipality,0e8a42bb-b589-4405-b416-63a991e600b3
+Finnish,P37,official-language,Haparanda Municipality,4b2e6502-9df7-41ab-8220-3e25b74764c1
+Hawaiian,P37,official-language,Hawaii,c2720faf-68a5-4008-9b71-6e430bdf5b72
+English,P37,official-language,Hawaii,11644062-e822-4641-a708-330467d9af6e
+Finnish,P37,official-language,Helsinki,726442e0-794f-4559-bd35-08a7d7ffe12a
+Swedish,P37,official-language,Helsinki,ab0d9b92-cdbc-4819-ac91-01742bcf96a2
+Spanish,P37,official-language,Ibiza,b11f8419-8bd8-4f7e-93bd-b3fa7084a195
+Catalan,P37,official-language,Ibiza,1b927bef-b871-4c86-b71a-2d9b6e62785d
+Hindi,P37,official-language,India,2505936d-04ec-498e-8e44-2d3a15256c47
+English,P37,official-language,India,037c1713-6c67-4445-9c21-b39c8c26e3a6
+English,P37,official-language,International Association of Athletics Federations,e08024f3-e446-489e-bb99-a62949dcbc5e
+French,P37,official-language,International Association of Athletics Federations,3aec437a-ec9d-4ede-abe1-e78ee8673268
+English,P37,official-language,International Olympic Committee,6c49db41-0c54-4576-acf8-4db7cd9581e5
+French,P37,official-language,International Olympic Committee,a3b33e89-7ea1-47f3-8bce-4a8873d04862
+French,P37,official-language,International Organization for Standardization,8d6c9fb2-2260-4b10-8c05-3a75b96a9ffc
+Russian,P37,official-language,International Organization for Standardization,95474709-ff79-4922-a582-7cdb4e2ba264
+English,P37,official-language,International Organization for Standardization,4563a119-e0bd-46ad-b761-baa4fda9bc3e
+English,P37,official-language,Ireland,96b126ec-d7ac-4de0-bfa8-792b6f54a158
+Irish,P37,official-language,Ireland,efd873bf-ecc1-414c-81e2-538018cb8d91
+Finnish,P37,official-language,Jakobstad,8e254328-ae67-4d92-80bc-4e863d7cd47c
+Swedish,P37,official-language,Jakobstad,5f341707-5717-4701-8362-d45994e018e0
+English,P37,official-language,Jamshedpur,e87b011e-6dad-4434-814f-c63e75e879a7
+Hindi,P37,official-language,Jamshedpur,3d887ffc-bd4b-4963-836f-2ba954e37318
+English,P37,official-language,Jersey,f7922bd5-66e6-46ea-ae84-8739a1c08d9f
+French,P37,official-language,Jersey,5dbb56e9-945c-47f0-89c3-a357174d6c35
+Swedish,P37,official-language,Kalix Municipality,0b45bec8-3fd8-41f2-af1e-7f69fecaef6c
+Finnish,P37,official-language,Kalix Municipality,c134596f-6909-4c06-b937-70f8661a92d4
+Swedish,P37,official-language,Kaskinen,40c98b27-e9f4-4f46-a659-5c0103f05c59
+Finnish,P37,official-language,Kaskinen,79fe626d-69b6-4d34-b071-b4db1ed01f33
+Swedish,P37,official-language,Kauniainen,a712d6b9-8a29-415c-8be6-cfe67abba3c9
+Finnish,P37,official-language,Kauniainen,77957928-0933-4c32-9f24-b0df63abd7ab
+Italian,P37,official-language,Kingdom of Jerusalem,af861329-24f3-49b1-9ca5-a1c6ddb55fb9
+Latin,P37,official-language,Kingdom of Jerusalem,f90b92cb-a0de-40c1-bedb-1e720b33fbc3
+Greek,P37,official-language,Kingdom of Jerusalem,9e58d27c-9ddb-42a2-97b5-8f7d42c8fcae
+Greek,P37,official-language,Kingdom of Sicily,4c328f81-c666-4ec5-935f-b676ae76392e
+Latin,P37,official-language,Kingdom of Sicily,371d168c-361c-46db-a6c5-f2bbef543669
+Finnish,P37,official-language,Kirkkonummi,c789c8eb-246b-4545-b14a-6c0c721b47fd
+Swedish,P37,official-language,Kirkkonummi,127aab64-141c-44e6-8b80-8cf850b2e5d3
+Swedish,P37,official-language,Kiruna Municipality,d266c7cd-bf27-4b69-a5c3-24fea9aed81e
+Finnish,P37,official-language,Kiruna Municipality,58815c7b-1bb2-4084-89a5-baec7b0d3959
+Finnish,P37,official-language,Kokkola,1c7ec7bf-15a1-4804-93df-1f1cc620245a
+Swedish,P37,official-language,Kokkola,4ea60aac-4ccb-4fec-841f-378b24823ea2
+Finnish,P37,official-language,Korsholm,dfca2ab7-d8f6-4e40-bfd5-bcf47007dc5a
+Swedish,P37,official-language,Korsholm,4edeb704-f8b7-4b75-ab55-488cdf0b20c4
+Finnish,P37,official-language,Kristinestad,ecfb93d7-fd6e-4cb6-9c9f-c02b2d14901b
+Swedish,P37,official-language,Kristinestad,3353e10e-4285-447e-a622-cc1440bd687a
+Finnish,P37,official-language,Kronoby,b0fae7d2-ec7c-4aee-a684-268606b20172
+Swedish,P37,official-language,Kronoby,9469486a-0790-4cb9-a4a7-6c0835e21304
+Swedish,P37,official-language,Lohja,49a76c3a-14d3-4e51-9a4a-a3ec88854eb3
+Finnish,P37,official-language,Lohja,811a6608-1245-4026-8e4b-d12daa881fc8
+Swedish,P37,official-language,Loviisa,80130f03-73dc-4ac2-8440-8041dddb2986
+Finnish,P37,official-language,Loviisa,1270318e-d7b4-40be-86d2-8d38d769839b
+English,P37,official-language,Lucknow,a8a14351-9668-4e44-87ac-48de04b2f217
+Hindi,P37,official-language,Lucknow,fe7ae113-9c6e-4c6c-b951-ff9ec41767f7
+Russian,P37,official-language,Luhansk Oblast,4dcc80a8-6b77-4bed-b0cf-a317ef7653ef
+Ukrainian,P37,official-language,Luhansk Oblast,f1543d74-87a9-423d-943d-cd616d011d88
+Russian,P37,official-language,Luhansk People's Republic,aa3f4d2b-a503-467d-8a89-c7c589a1296f
+Ukrainian,P37,official-language,Luhansk People's Republic,0e4b773c-431a-4b85-96b9-561b7795224f
+French,P37,official-language,Luxembourg,309a460d-f441-432d-8fb0-4a13fb64daf9
+German,P37,official-language,Luxembourg,e2213b94-7373-41cb-a280-d7b4a6fdf233
+Portuguese,P37,official-language,Macau,31db2955-d844-4092-ad80-081d29371704
+Chinese,P37,official-language,Macau,e516610d-ef51-4842-8c8a-8dc4d2e3b165
+Catalan,P37,official-language,Majorca,e80cf734-4c9f-4c72-8778-2943b9969cd2
+Spanish,P37,official-language,Majorca,5b35e7a6-c8db-417f-9d6a-f54f9438d720
+English,P37,official-language,Mandatory Palestine,27e38b6d-119e-444c-bd0f-f2a512a62195
+Hebrew,P37,official-language,Mandatory Palestine,9ad75ab3-953f-4aa9-be37-b9c117d6248c
+Russian,P37,official-language,Mari El Republic,0877f3f7-44ec-413d-a581-a0b02b0540cb
+Mari,P37,official-language,Mari El Republic,232efdcd-8433-40d3-a1fe-b36623d22253
+English,P37,official-language,Mauritius,b87fb382-e6a7-405e-8e84-277c5b3c67eb
+French,P37,official-language,Mauritius,e2549d9f-ff0e-4153-83c2-5de297ed782a
+Ukrainian,P37,official-language,Melitopol,fd6df920-176c-4d7d-95aa-6552646b6201
+Russian,P37,official-language,Melitopol,81e514f9-45da-4fc2-8ad6-42c0c0fb824e
+Spanish,P37,official-language,Menorca,2b71e78d-0ad5-40ac-b9d6-36289a6d0c64
+Catalan,P37,official-language,Menorca,fd9f8675-c2f3-4cc1-a1b9-20c1891d109e
+Serbian,P37,official-language,Montenegro,faf61a9c-5ff2-4989-a211-3c7e67417e42
+Croatian,P37,official-language,Montenegro,5e8baf03-fbb5-4fde-9ff9-58df2d4e4b06
+Ukrainian,P37,official-language,Mykolaiv Oblast,7c0ab273-0e1e-4330-9a24-214c42bd9ef1
+Russian,P37,official-language,Mykolaiv Oblast,f7374ac0-a4fc-4855-9724-20211ba4ab22
+English,P37,official-language,NATO,8e61733b-138d-4741-859f-61054ea3e2f0
+French,P37,official-language,NATO,a095b7e5-811d-4f2e-a1f0-2903dceb7260
+French,P37,official-language,National Film Board of Canada,0ccec3b7-4eaf-4644-891e-c5e3fcc26a1b
+English,P37,official-language,National Film Board of Canada,b9a89567-de2e-406c-b170-502d8774b84e
+Dutch,P37,official-language,Netherlands Antilles,9b184013-873a-4ad3-8c37-db86924be8b7
+English,P37,official-language,Netherlands Antilles,c00e94e0-d6c5-4e63-8b8a-332e54109b13
+French,P37,official-language,Nunavut,2174d07d-262b-4208-ac1b-86d265554a27
+English,P37,official-language,Nunavut,742f4525-e968-4fda-a4ed-3fb7aeea9295
+Finnish,P37,official-language,Nykarleby,f9a36358-5802-4b92-84d8-633587cf006d
+Swedish,P37,official-language,Nykarleby,d79a8006-edd3-4c9b-9d9e-74111dd42852
+Ukrainian,P37,official-language,Odessa Oblast,187ebbf3-0c3a-4952-97e8-58fa8a43b0d4
+Russian,P37,official-language,Odessa Oblast,b29507f4-e9d3-45c0-a00a-dd937c899378
+English,P37,official-language,Organisation for Economic Co-operation and Development,f26f3d3b-56b1-4bc8-aba6-3a999e24c338
+French,P37,official-language,Organisation for Economic Co-operation and Development,4c7fbaf0-1af3-4310-9d8c-f2afd62a83a0
+Italian,P37,official-language,Organization for Security and Co-operation in Europe,4e920158-0058-4ddb-866c-a3a907becb05
+French,P37,official-language,Organization for Security and Co-operation in Europe,7cb9fec2-26c9-4a15-95e2-e135216b2b5c
+Spanish,P37,official-language,Organization for Security and Co-operation in Europe,d10e1dff-f587-4912-a687-4a12fc06b507
+Russian,P37,official-language,Organization for Security and Co-operation in Europe,0478f7fc-40b3-473b-88aa-7e5d53a49c5b
+Swedish,P37,official-language,Pajala Municipality,0559b7c9-d91f-43e9-817d-7da5f6277936
+Finnish,P37,official-language,Pajala Municipality,a0cf802f-095c-4fdc-bbd9-0555ec564c4e
+English,P37,official-language,Philippines,669f6be9-463e-4453-9c57-7af0e86f2187
+Filipino,P37,official-language,Philippines,73f69757-f4e0-405f-83cb-d1c22266e50b
+Finnish,P37,official-language,Porvoo,e742b31f-20b4-4601-96a2-01e1425207ff
+Swedish,P37,official-language,Porvoo,b6af17ca-ee53-4350-a4aa-be65714e8e71
+Spanish,P37,official-language,Puerto Rico,8bc83d29-7ff1-4578-a316-c451570d556b
+English,P37,official-language,Puerto Rico,99a9cad3-5970-4f32-861a-8937ce02d78a
+Tibetan,P37,official-language,Qing dynasty,d302d8e1-c261-409e-a7bb-80f9c53a83d7
+Chinese,P37,official-language,Qing dynasty,3e4f8469-f1ca-4a50-bf30-961d3040987c
+Swedish,P37,official-language,Raseborg,7afa0fac-d96f-4260-a503-cd60696a8f2e
+Finnish,P37,official-language,Raseborg,0602a77d-cbab-4941-bca5-5544c3f708b7
+Italian,P37,official-language,Republic of Venice,64004a33-049d-40fe-bc97-6328a9e0f971
+Latin,P37,official-language,Republic of Venice,51d84f18-ab9b-491c-b7db-b0645fa3a6e4
+Latin,P37,official-language,Roman Empire,165ec805-98f9-4118-b355-38cb680b49ec
+Greek,P37,official-language,Roman Empire,eb9512f3-d478-4f6b-b3e9-9c077f2d23f6
+Ukrainian,P37,official-language,Russia,6d3ddd30-5802-45a3-8c47-9e12900fe052
+Russian,P37,official-language,Russia,7b0ab156-7bb2-4836-a78b-a4029d774793
+Mari,P37,official-language,Russia,93be1a47-2c89-40f1-9396-c6e80be601fe
+Polish,P37,official-language,Russian Empire,c3909d98-0e9c-4387-ae58-aa7d4557f3cf
+Swedish,P37,official-language,Russian Empire,93651c63-cddd-4706-bee6-43261ab3137c
+Russian,P37,official-language,Russian Empire,d1634d7d-6443-4781-bb3c-312b9470dda4
+Finnish,P37,official-language,Russian Empire,7f7ec575-6120-4ae9-af72-14df7a01ec30
+English,P37,official-language,Rwanda,0f9c7b91-6db1-424e-9b01-ca2274e3c350
+French,P37,official-language,Rwanda,d6d779f2-237e-4448-9b2e-24ff4b3ff901
+English,P37,official-language,Saba,39c662aa-c305-4c26-9940-70c61a368efb
+Dutch,P37,official-language,Saba,d5a02726-f5ee-445c-a8da-bd6301417d00
+Spanish,P37,official-language,Saint Vincent and the Grenadines,8b2a1dab-9ff1-48a6-a2fa-670ac8fd47c4
+English,P37,official-language,Saint Vincent and the Grenadines,d384efd8-a804-4db4-ac2b-8c3ba9273161
+English,P37,official-language,Saskatchewan,f1a340f5-703a-4c49-9367-fea289a0831e
+French,P37,official-language,Saskatchewan,c21be292-4c5a-4793-9751-6ceda6354ad0
+French,P37,official-language,Seychelles,feb46c0b-2284-4a4d-ba3f-afb9e8367757
+English,P37,official-language,Seychelles,fe3128db-b74a-4012-856f-327c1869c1f8
+Russian,P37,official-language,Shanghai Cooperation Organisation,c29c75fe-5d72-4258-ae9a-391d252cfebd
+Chinese,P37,official-language,Shanghai Cooperation Organisation,ff95d33a-0fa8-41eb-aa60-9356043c275f
+Tamil,P37,official-language,Singapore,e47276a9-d6f9-4e60-aff1-bac718217fad
+English,P37,official-language,Singapore,0205e63c-e22c-435b-af1f-2b7f73be1230
+English,P37,official-language,Sint Eustatius,fa7d2926-49f9-44f0-b09d-baa31475004b
+Dutch,P37,official-language,Sint Eustatius,e164353c-7569-4c73-a12a-b6aaa32c0ea3
+Dutch,P37,official-language,Sint Maarten,37f41216-39fb-40fb-931b-44c52ca4f3aa
+English,P37,official-language,Sint Maarten,4688bda2-7b1a-4664-a1f3-463baa64aae7
+Swedish,P37,official-language,Sipoo,cf2624d0-0ed4-4d32-8e82-00593b5053d4
+Finnish,P37,official-language,Sipoo,28fc60fe-7d3c-403c-ad7f-2ed08d56d097
+Swedish,P37,official-language,Siuntio,95969828-333f-41a5-8aef-57ae80610ea4
+Finnish,P37,official-language,Siuntio,68cd9abc-efc1-488f-b288-787f57a67ad4
+Georgian,P37,official-language,South Ossetia,550bcedc-93c5-4689-be95-7ed2014e0414
+Russian,P37,official-language,South Ossetia,0a397d47-f724-4f1c-a2f0-f8686190e9af
+German,P37,official-language,South Tyrol,62925384-4f87-4dbc-b94e-7d78398550f3
+Italian,P37,official-language,South Tyrol,65d7922a-ba7c-414a-ab1d-4e8ae2aba27b
+Portuguese,P37,official-language,Southern Common Market,c31ca655-fc88-44cb-bdc6-196b4da519b1
+Spanish,P37,official-language,Southern Common Market,ee74098c-08c9-4ab6-a7b9-b7b03cd14f18
+Catalan,P37,official-language,Spain,64f31e30-19a7-4de0-b382-fbe665e6f34d
+Spanish,P37,official-language,Spain,6d2557b6-13d4-4961-878e-1e89b234293a
+Finnish,P37,official-language,Sweden,870bed64-48b0-4a8d-9095-328a21691e1f
+Swedish,P37,official-language,Sweden,7248c4b6-15ad-40cc-99e4-4fc67b3a2afe
+French,P37,official-language,Swiss Federal Constitution,f6f5069b-2fca-47d6-8ad1-25232edc421f
+Italian,P37,official-language,Swiss Federal Constitution,0f1f0da9-b5dc-4d77-9127-c416f9319561
+German,P37,official-language,Switzerland,31c10102-174a-48d8-aa2a-644fec9b4615
+Italian,P37,official-language,Switzerland,08986e2b-0fc0-43f5-8bf0-d79697a8c001
+French,P37,official-language,Switzerland,19eda1c4-4e87-4b20-b4db-77fa575a786c
+English,P37,official-language,Torfaen,b2b8eb85-397d-4871-a44f-ba4bfe545b3e
+Welsh,P37,official-language,Torfaen,65a1ffd7-9414-4ccb-afb1-8fb7eb853299
+Russian,P37,official-language,Transnistria,3ca5d314-8473-4b5b-8edb-e6aa258f2764
+Ukrainian,P37,official-language,Transnistria,96c88d64-b732-4604-8a22-a0789ae679db
+Finnish,P37,official-language,Turku,f1970f69-56b9-445c-b059-0d7c1231cbfa
+Swedish,P37,official-language,Turku,ce1768df-16c2-4100-8ad8-a73e7a491ca0
+Ukrainian,P37,official-language,Ukrainian Soviet Socialist Republic,4b76942b-aa3a-4b22-8574-3f17d715b2c9
+Russian,P37,official-language,Ukrainian Soviet Socialist Republic,4f73f6cc-7e06-4e8a-88eb-d5aad0355995
+Norwegian,P37,official-language,Union between Sweden and Norway,1abd78d8-958d-4820-990e-90a69f6b3261
+Swedish,P37,official-language,Union between Sweden and Norway,ed4d1a8e-12f0-4874-a591-a8e37d032d43
+English,P37,official-language,Union of European Football Associations,da25ec33-d1ac-4593-9bc9-a422c7fef922
+French,P37,official-language,Union of European Football Associations,808a2059-740b-485c-9505-550ad51309ac
+English,P37,official-language,United Kingdom,769af264-e7fb-40a3-96fc-401b50ca04da
+Welsh,P37,official-language,United Kingdom,a5cab329-1511-441f-a180-4d210d63e48c
+French,P37,official-language,United Nations,14c671ce-fc29-4b51-9371-7be7226f0bf2
+English,P37,official-language,United Nations,4c36d6a8-2c91-4178-bc96-cbd21aaf1185
+Spanish,P37,official-language,United Nations,f2d89b99-85e2-48f8-b6df-6bc498545f2d
+Russian,P37,official-language,United Nations,299f49a6-dbcb-4da2-b437-a4cfdcdc028f
+Swedish,P37,official-language,Vaasa,26267510-e025-4721-b5e5-a4f633bfeca2
+Finnish,P37,official-language,Vaasa,9ce50c89-e396-40f0-b347-1be376ea3aab
+Catalan,P37,official-language,Val d'Aran,7f84dccc-911b-4935-88ae-af32f85126ea
+Spanish,P37,official-language,Val d'Aran,55febe3f-46de-491a-88af-9bd464352e4d
+Spanish,P37,official-language,Valencian Community,1654c1c9-96f3-41ac-8876-7e1bc6bf75c7
+Catalan,P37,official-language,Valencian Community,0fdfa10b-9093-4cf1-a06a-06d4051fe674
+Finnish,P37,official-language,Vantaa,58ddb3fa-4d57-4982-b6fc-5ab061dc5a8f
+Swedish,P37,official-language,Vantaa,348800db-678e-40bc-9e38-28475af611b3
+French,P37,official-language,Vanuatu,491e3afb-e69e-469c-aac4-20c3e6e10bd6
+English,P37,official-language,Vanuatu,0b58fcf7-c6ae-4916-b9f8-1e15de78e4e8
+English,P37,official-language,Wales,d3f21a38-e017-4fb3-a7bf-665974701d0a
+Welsh,P37,official-language,Wales,c77ed967-ed5d-478f-9f30-d1154f5fbf85
+French,P37,official-language,World Health Organization,cf31b1b1-c2d2-40ee-aad6-e9e087752241
+English,P37,official-language,World Health Organization,9f2377bf-23a0-4fe7-8057-4c2695b9f0c5
+Russian,P37,official-language,World Health Organization,b46343e0-0f68-4813-bf91-438f515210e4
+Russian,P37,official-language,Zhovti Vody,e92763d7-4e82-4e31-885e-525836bc939e
+Ukrainian,P37,official-language,Zhovti Vody,71d372dc-8420-4c9d-b932-3fe1e673efa7
+German,P37,official-language,canton of Bern,7c5bd78d-c5fa-4b6c-9b44-a86d68a09b9f
+French,P37,official-language,canton of Bern,5f3dffc8-b5a6-462c-a6db-515a369b26ea

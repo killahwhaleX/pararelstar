@@ -11,7 +11,6 @@
 {"sub_label": "subgenus", "obj_label": "genus", "uuid": "90ee3bfc-a3ad-4b0e-96e1-e73cb368b98a"}
 {"sub_label": "municipal council", "obj_label": "municipality", "uuid": "0a322909-64b5-41b9-818e-175be3b9ba3a"}
 {"sub_label": "mathematical object", "obj_label": "mathematics", "uuid": "c9f41064-f5e8-469e-bad2-3697d674f5e2"}
-{"sub_label": "neuroscience", "obj_label": "psychology", "uuid": "00b43df7-bc4a-49d1-b599-a9dfc0d5eb6b"}
 {"sub_label": "lithosphere", "obj_label": "Earth", "uuid": "f64ae487-7f4c-4f16-ad47-04d7a468cbde"}
 {"sub_label": "differential geometry", "obj_label": "geometry", "uuid": "7b0b280e-f04c-44a6-8621-aca0c39b28ff"}
 {"sub_label": "Gautama Buddha", "obj_label": "Buddhism", "uuid": "612ed5e3-fbd3-48dc-a226-d1d424c9ea81"}
@@ -20,7 +19,6 @@
 {"sub_label": "Southeast Europe", "obj_label": "Europe", "uuid": "38c8b65a-ad3f-4d6a-a5f5-69b432f94d6d"}
 {"sub_label": "Honshu", "obj_label": "Japan", "uuid": "edc28cd0-2844-44cd-bb4f-f8eca9ee9d02"}
 {"sub_label": "Africa", "obj_label": "Earth", "uuid": "4dae6b57-0f65-47b7-b33f-0289a50190b5"}
-{"sub_label": "mathematical physics", "obj_label": "mathematics", "uuid": "b4095536-c128-4ea9-a7aa-4f415300f94f"}
 {"sub_label": "topology", "obj_label": "mathematics", "uuid": "1f28b7fe-0310-48ba-8562-2de86b46c568"}
 {"sub_label": "number theory", "obj_label": "mathematics", "uuid": "979a5a7f-494c-4aff-8c12-4f3f74929df7"}
 {"sub_label": "God the Father", "obj_label": "Trinity", "uuid": "ce5be762-384c-4ecd-8174-de26db97c841"}
@@ -33,20 +31,15 @@
 {"sub_label": "abstract algebra", "obj_label": "mathematics", "uuid": "dad25986-4170-4297-a517-f80cd900ea81"}
 {"sub_label": "ANSI C", "obj_label": "C", "uuid": "86345aee-0977-429b-9781-30336eef4cea"}
 {"sub_label": "meta-ethics", "obj_label": "ethics", "uuid": "152ced20-ff41-4903-b150-8265959c9e2e"}
-{"sub_label": "Germany", "obj_label": "Europe", "uuid": "095046c7-4475-4159-b96d-996d29bf0d94"}
 {"sub_label": "bone", "obj_label": "skeleton", "uuid": "50ca67e5-9eab-42a4-baeb-36ca30126e00"}
 {"sub_label": "Sub-Saharan Africa", "obj_label": "Africa", "uuid": "46c6aac8-6033-431e-b5b1-e517ad2920c1"}
 {"sub_label": "mayor", "obj_label": "municipality", "uuid": "91aa0e4b-4f3c-4ae5-bc44-dd9b7b0f3075"}
 {"sub_label": "runway", "obj_label": "airport", "uuid": "87faf022-646d-4764-a3f4-e402d8fc8e17"}
-{"sub_label": "pharmacy", "obj_label": "medicine", "uuid": "bb0dc78f-ba5b-4a9b-b892-42707206d6e4"}
-{"sub_label": "biochemistry", "obj_label": "chemistry", "uuid": "dfd65f5d-2255-4bc4-8498-2ef419f17d18"}
-{"sub_label": "biochemistry", "obj_label": "biology", "uuid": "0ea359bc-ab0b-46cd-b992-44f760857959"}
 {"sub_label": "Western Europe", "obj_label": "Europe", "uuid": "4e63ffe1-a096-479e-9d89-6945b901c522"}
 {"sub_label": "graph theory", "obj_label": "mathematics", "uuid": "f9cb930d-e10e-40b9-a2d1-79df641ec395"}
 {"sub_label": "horticulture", "obj_label": "agriculture", "uuid": "512dce03-b771-4a49-810b-40361a7ba4f8"}
 {"sub_label": "DNA", "obj_label": "genome", "uuid": "e9f97f76-b264-4476-b4cb-7a73de24126e"}
 {"sub_label": "nipple", "obj_label": "breast", "uuid": "3726d125-a064-4657-89db-01700ab9765e"}
-{"sub_label": "social psychology", "obj_label": "sociology", "uuid": "0c2be786-51a1-4d5b-ae84-e8d75997691a"}
 {"sub_label": "Books of Chronicles", "obj_label": "Bible", "uuid": "fd852e63-2f1e-435e-ad97-f42d0c785567"}
 {"sub_label": "subspecies", "obj_label": "species", "uuid": "0a95ada7-0c94-4d74-8108-6e3f5470d58b"}
 {"sub_label": "Book of Esther", "obj_label": "Bible", "uuid": "97521e77-948f-45fc-ba34-653c81cf9929"}
@@ -56,7 +49,6 @@
 {"sub_label": "lava dome", "obj_label": "volcano", "uuid": "fe578d01-7540-46cf-9923-50b296ff24da"}
 {"sub_label": "suffrage", "obj_label": "democracy", "uuid": "2d8a62e1-1e53-4a94-bec3-7cd7214a3bce"}
 {"sub_label": "celestial sphere", "obj_label": "astronomy", "uuid": "817fb673-8619-4d81-accf-e23c1b9d3f48"}
-{"sub_label": "participant observation", "obj_label": "anthropology", "uuid": "9df66c9c-a9ec-4531-b80f-127dad43d362"}
 {"sub_label": "Supreme Headquarters Allied Powers Europe", "obj_label": "NATO", "uuid": "2c298af9-7372-433c-9050-a651eb191420"}
 {"sub_label": "Lesser Antilles", "obj_label": "Caribbean", "uuid": "29705384-fb9b-4a97-91e6-57f8e2452df7"}
 {"sub_label": "category theory", "obj_label": "mathematics", "uuid": "f7a20944-50d3-41ac-87b9-df38f4ddf32f"}
@@ -64,7 +56,6 @@
 {"sub_label": "cell biology", "obj_label": "biology", "uuid": "c31b09bb-0cf1-4115-a104-e6c671ef61ba"}
 {"sub_label": "whey", "obj_label": "milk", "uuid": "e69a9a01-b518-46f1-8c44-4e8288c6150b"}
 {"sub_label": "county of England", "obj_label": "England", "uuid": "c968e60b-4527-4fda-9a91-44e4ac05d32a"}
-{"sub_label": "South America", "obj_label": "Americas", "uuid": "77879f0f-a331-4c9b-af65-243090bf1c9f"}
 {"sub_label": "physical cosmology", "obj_label": "astronomy", "uuid": "66dc6746-3176-4f6a-a98c-f43f8c6d8a18"}
 {"sub_label": "nuclear chemistry", "obj_label": "chemistry", "uuid": "3a445e03-3157-437d-b845-16c7dc97b6ca"}
 {"sub_label": "cannon", "obj_label": "artillery", "uuid": "3571a256-0d1e-4f57-a4a7-2d7dddfa00bf"}
@@ -82,7 +73,6 @@
 {"sub_label": "Greater Antilles", "obj_label": "Caribbean", "uuid": "b08e7cbf-d52b-49c0-8ea9-6f88186bee9f"}
 {"sub_label": "Denial of Peter", "obj_label": "gospel", "uuid": "aa5c4002-3c42-4fc4-a9c9-edb2ee650216"}
 {"sub_label": "Xbox", "obj_label": "Microsoft", "uuid": "f502fca7-a185-4658-af68-632378d9f0c4"}
-{"sub_label": "North America", "obj_label": "Americas", "uuid": "a82cc74c-863e-45a3-aba8-daee12f13235"}
 {"sub_label": "Tunisia", "obj_label": "Africa", "uuid": "a0157764-16c6-4db2-bfc7-91b8856ee8b2"}
 {"sub_label": "Linux kernel", "obj_label": "Linux", "uuid": "228ef4f4-2fe7-4010-a789-e730f6c725ff"}
 {"sub_label": "normative economics", "obj_label": "economics", "uuid": "08f253b6-1ec5-4289-8d2e-b81ec626d774"}
@@ -93,13 +83,11 @@
 {"sub_label": "hydrosphere", "obj_label": "Earth", "uuid": "7ad6a34e-8d1a-477f-b48e-c12bb1754bdd"}
 {"sub_label": "mathematical logic", "obj_label": "mathematics", "uuid": "78188744-9b68-4bee-ad6c-e365c70cba75"}
 {"sub_label": "intron", "obj_label": "gene", "uuid": "508fda1d-14e1-4670-894b-a70ef8982717"}
-{"sub_label": "neuroscience", "obj_label": "medicine", "uuid": "4b2323b0-3bb5-44ba-b976-16332d353fe1"}
 {"sub_label": "Mount Etna", "obj_label": "Sicily", "uuid": "9c8da4ba-8de4-4319-9a32-be3d50dc7aa0"}
 {"sub_label": "chessboard", "obj_label": "chess", "uuid": "bac7d70d-1775-4c62-8001-c8ac07742482"}
 {"sub_label": "Denmark", "obj_label": "Europe", "uuid": "fc3a4fff-8b24-4031-97cc-f31ae8754e2c"}
 {"sub_label": "Holy Spirit", "obj_label": "Trinity", "uuid": "fa92c0b2-d953-4a30-8771-5e007e822eb7"}
 {"sub_label": "graphic design", "obj_label": "communication", "uuid": "64e083ae-41f8-48c8-9e4a-79d05c70d9d7"}
-{"sub_label": "Germany", "obj_label": "NATO", "uuid": "bc06c075-6738-499e-8286-d9e4be5ea475"}
 {"sub_label": "genotype", "obj_label": "organism", "uuid": "dd5b31cd-4e13-476b-9fce-df9b654af1eb"}
 {"sub_label": "sura", "obj_label": "Quran", "uuid": "37088056-8d88-4876-bc99-8fd92dd98755"}
 {"sub_label": "humanities", "obj_label": "science", "uuid": "9850e5ec-030d-45f5-8b57-68065cf85784"}
@@ -114,7 +102,6 @@
 {"sub_label": "interstellar cloud", "obj_label": "galaxy", "uuid": "abd9aa94-988b-481b-aafb-c08d8bb27404"}
 {"sub_label": "carbon", "obj_label": "steel", "uuid": "21922b17-fb56-4f98-b772-bdbc1410a9b7"}
 {"sub_label": "Southeast Asia", "obj_label": "Asia", "uuid": "89f88f35-00d7-4828-b177-3855a68b7dc3"}
-{"sub_label": "mathematical physics", "obj_label": "physics", "uuid": "8e92d0a2-b64e-43d6-abf2-3b069b45cbf0"}
 {"sub_label": "organic chemistry", "obj_label": "chemistry", "uuid": "bfdfb989-0737-49e3-a499-a4a31b2f747c"}
 {"sub_label": "Mitzvah", "obj_label": "Judaism", "uuid": "1527ab34-1c25-49c3-9496-5899797ed99a"}
 {"sub_label": "Dead Sea scrolls", "obj_label": "Judaism", "uuid": "1447f041-665c-4165-93d8-68407a5949ea"}
@@ -128,15 +115,10 @@
 {"sub_label": "normative ethics", "obj_label": "ethics", "uuid": "466c2f96-e550-4ffe-bb02-945f4780d008"}
 {"sub_label": "applied ethics", "obj_label": "ethics", "uuid": "741c3ab2-7d4b-4ac2-8927-47258865403e"}
 {"sub_label": "economic history", "obj_label": "economics", "uuid": "7825ceb3-4e4d-4e60-ac36-1da3120ea514"}
-{"sub_label": "mineralogy", "obj_label": "chemistry", "uuid": "42b85dd1-f9c3-443c-88a6-24b0b1de608b"}
-{"sub_label": "mineralogy", "obj_label": "physics", "uuid": "eb795c59-642f-426c-889c-6f4d342f3450"}
-{"sub_label": "psychotherapy", "obj_label": "psychology", "uuid": "7f36c3f1-a282-4af7-b509-14b85c6bb62d"}
 {"sub_label": "catabolism", "obj_label": "metabolism", "uuid": "02fec33e-cbe2-4ef0-af11-3f144a55ebeb"}
 {"sub_label": "anabolism", "obj_label": "metabolism", "uuid": "909882f1-2e0f-45a1-9a6d-899c3d84690c"}
-{"sub_label": "toxicology", "obj_label": "chemistry", "uuid": "13a6a213-01a7-40dd-acf4-d7c923e7ef01"}
 {"sub_label": "abutment", "obj_label": "bridge", "uuid": "a44da742-000c-4902-8c5a-4fa270294aee"}
 {"sub_label": "Jamaica Plain", "obj_label": "Boston", "uuid": "9e94b586-2db2-487a-9c39-69b38c6b7d51"}
-{"sub_label": "pharmacy", "obj_label": "chemistry", "uuid": "50e7c1a6-ad30-466c-b976-afc8ee6f54fb"}
 {"sub_label": "cancer cell", "obj_label": "cancer", "uuid": "cec67d93-4dfb-460a-b62a-0498796c7777"}
 {"sub_label": "theoretical chemistry", "obj_label": "chemistry", "uuid": "65726386-0684-4062-858a-dc62dbb34b36"}
 {"sub_label": "Christian denomination", "obj_label": "Christianity", "uuid": "97eccc75-4cd2-43ad-99f0-291f737d5612"}
@@ -149,7 +131,6 @@
 {"sub_label": "active site", "obj_label": "enzyme", "uuid": "c2861445-a2f3-4ba0-bfa2-f90a26c43dc7"}
 {"sub_label": "Mahayana", "obj_label": "Buddhism", "uuid": "b72ee758-1572-4a15-ac01-b0a05f6337f0"}
 {"sub_label": "evangelism", "obj_label": "Christianity", "uuid": "1d4176e0-9ec2-48a4-8334-1196f8c8acd7"}
-{"sub_label": "North America", "obj_label": "Earth", "uuid": "c85d4462-d4c4-4f11-8bdb-9e6d8d4d3b7a"}
 {"sub_label": "black tea", "obj_label": "tea", "uuid": "80e4cccc-1137-4f46-aa7a-0829f091cb7a"}
 {"sub_label": "cost accounting", "obj_label": "accounting", "uuid": "5dbbe859-51ab-4648-9387-58f6e0216a63"}
 {"sub_label": "Scottish English", "obj_label": "English", "uuid": "1cb7ff34-16ba-4f7f-8f0c-311cfad1fc51"}
@@ -169,10 +150,7 @@
 {"sub_label": "apsis", "obj_label": "orbit", "uuid": "f0e85b58-93f9-4400-85e7-4b4914dfa34e"}
 {"sub_label": "cerebrum", "obj_label": "brain", "uuid": "4b34625a-628d-4a43-98c1-2c8d701a3d6a"}
 {"sub_label": "Deoxyribonucleotide", "obj_label": "DNA", "uuid": "85d7f686-9d4d-441b-8b43-e71161bbf6c3"}
-{"sub_label": "medical physics", "obj_label": "physics", "uuid": "6244b349-677d-4c39-85af-61ef2737dce3"}
-{"sub_label": "medical physics", "obj_label": "medicine", "uuid": "c0ec16d0-db5d-4744-abf6-05c75a565f49"}
 {"sub_label": "infantry", "obj_label": "army", "uuid": "708e0138-0713-44ea-92e7-4a78a5680113"}
-{"sub_label": "anatomy", "obj_label": "medicine", "uuid": "5bbba878-959c-4e3f-836f-2e4ae0ed870d"}
 {"sub_label": "H II region", "obj_label": "galaxy", "uuid": "9e8e6ca7-a66c-4570-9c9a-f8747e80efca"}
 {"sub_label": "Chinese Buddhism", "obj_label": "Buddhism", "uuid": "14921438-abe3-4a0d-b5ac-8a6c97968401"}
 {"sub_label": "Tate Britain", "obj_label": "Tate", "uuid": "05a9a5de-414d-4718-b2a9-2accb82e4439"}
@@ -182,7 +160,6 @@
 {"sub_label": "rennet", "obj_label": "cheese", "uuid": "1353f934-c57d-4969-b721-912ac0fae7a3"}
 {"sub_label": "perianth", "obj_label": "flower", "uuid": "dbc455a6-ace6-4910-9a81-d110d1e8b507"}
 {"sub_label": "Microsoft Research", "obj_label": "Microsoft", "uuid": "ae4c618b-3051-416b-9e37-67d07e10fcfa"}
-{"sub_label": "neuroscience", "obj_label": "biology", "uuid": "56af894c-0174-4c03-9965-e11191888f14"}
 {"sub_label": "nuclear physics", "obj_label": "physics", "uuid": "76c9b9d1-4426-4165-9ad2-413f8cc68fcf"}
 {"sub_label": "internet access", "obj_label": "Internet", "uuid": "4aeea6ec-7a39-48b1-9598-f0e308e542af"}
 {"sub_label": "electron shell", "obj_label": "atom", "uuid": "17d2b518-5854-4d65-98b7-48b543226d29"}
@@ -191,7 +168,6 @@
 {"sub_label": "Northern Hemisphere", "obj_label": "Earth", "uuid": "9cf22e70-28e8-41b7-b22e-fc70b946a067"}
 {"sub_label": "optics", "obj_label": "physics", "uuid": "504c694e-0cc5-4a28-b023-d38dd266448e"}
 {"sub_label": "philosophical theology", "obj_label": "theology", "uuid": "79be39f4-2387-4ee1-939b-f4332deb3f86"}
-{"sub_label": "biophysics", "obj_label": "physics", "uuid": "c3f459b4-9e07-48ca-98e6-152bb380e191"}
 {"sub_label": "paleontology", "obj_label": "biology", "uuid": "038b26aa-823e-4945-a69b-1bfee2145369"}
 {"sub_label": "Montmartre", "obj_label": "Paris", "uuid": "102da63e-34a1-4d6b-9612-60d12ba2b14e"}
 {"sub_label": "Proverbs", "obj_label": "Bible", "uuid": "28219b4a-bc7a-4ab9-8d49-fc7ceee3224e"}
@@ -202,24 +178,20 @@
 {"sub_label": "post office", "obj_label": "mail", "uuid": "a9f6207b-7b9a-46c0-b69c-fb07d7e913a9"}
 {"sub_label": "Southern Europe", "obj_label": "Europe", "uuid": "1b4ea40b-bbf1-480c-af00-857cadca5ca1"}
 {"sub_label": "vacuum", "obj_label": "physics", "uuid": "14ae1f7c-097b-42e9-b64b-f62f32ff6dfb"}
-{"sub_label": "social psychology", "obj_label": "psychology", "uuid": "04469a93-3ed4-45fe-af4d-d8d11ade8572"}
 {"sub_label": "Simple Mail Transfer Protocol", "obj_label": "email", "uuid": "0a9ceb53-13d2-45c8-b542-2bfe88298585"}
 {"sub_label": "hilt", "obj_label": "sword", "uuid": "132fde9a-9197-4aaa-a9d3-086aa591600a"}
 {"sub_label": "invariant theory", "obj_label": "mathematics", "uuid": "480ca54c-22df-4234-84c0-8afeb4966421"}
 {"sub_label": "short-term memory", "obj_label": "memory", "uuid": "44671c63-25d3-49ac-bca1-22beb21792f0"}
 {"sub_label": "sex organ", "obj_label": "organism", "uuid": "0fb21b02-ca7d-4560-b0e9-2d7e407b4a22"}
-{"sub_label": "toxicology", "obj_label": "biology", "uuid": "532cc771-264c-4c36-a1ec-0d154f8247a7"}
 {"sub_label": "Tate Liverpool", "obj_label": "Tate", "uuid": "c8ffdc99-f9e4-4a84-a5ee-1d47485c1994"}
 {"sub_label": "Tate St Ives", "obj_label": "Tate", "uuid": "b91e4ba1-09c9-4963-8c4e-f10c46855ff0"}
 {"sub_label": "human evolution", "obj_label": "anthropology", "uuid": "7c1f642c-274e-42fe-a8c6-6259cdde9f69"}
 {"sub_label": "folklore", "obj_label": "history", "uuid": "21707882-7dbd-4ad8-b1e4-94c6f761b483"}
-{"sub_label": "embryology", "obj_label": "biology", "uuid": "cfa3461d-e248-402e-97e5-ab9d595983b2"}
 {"sub_label": "Western Asia", "obj_label": "Asia", "uuid": "106df594-e982-49cb-97db-fb6095874e96"}
 {"sub_label": "brain stem", "obj_label": "brain", "uuid": "1c3f9c46-b14a-49d9-8954-8a3994998f7a"}
 {"sub_label": "Toreador Song", "obj_label": "Carmen", "uuid": "abf6d545-18c1-4d77-8765-e3aa8a85d8cf"}
 {"sub_label": "volcanic crater", "obj_label": "volcano", "uuid": "7c08f41f-b65f-46d8-9456-762d175b47f8"}
 {"sub_label": "atmosphere of Mars", "obj_label": "Mars", "uuid": "6929ff5a-2abb-4309-8aee-ddd64b8b75b8"}
-{"sub_label": "escape velocity", "obj_label": "spacecraft", "uuid": "5b7972bf-ecd4-483c-9470-0f0983fde1a7"}
 {"sub_label": "philosophy of language", "obj_label": "philosophy", "uuid": "928f102a-51cb-4d5a-abf9-294b533f32d3"}
 {"sub_label": "planetary nebula", "obj_label": "galaxy", "uuid": "6497b2f7-e727-47d2-afbe-ba369826d16a"}
 {"sub_label": "Unix shell", "obj_label": "Unix", "uuid": "41638538-9b0a-4792-b986-55a596e62264"}
@@ -236,8 +208,6 @@
 {"sub_label": "taxiway", "obj_label": "airport", "uuid": "519ae2bc-494e-44ef-a4b4-a5e382cc19f4"}
 {"sub_label": "French grammar", "obj_label": "French", "uuid": "0034b7a7-6012-4028-a5ff-82474947fbbf"}
 {"sub_label": "G Suite", "obj_label": "Google", "uuid": "678c5b89-a265-41c8-8840-0f36a1f76dab"}
-{"sub_label": "anatomy", "obj_label": "biology", "uuid": "47b40edf-aab6-4a66-9286-fd257c946e3e"}
-{"sub_label": "biophysics", "obj_label": "biology", "uuid": "009dbbd7-8bf9-48b2-9c21-2ffebdf5ed81"}
 {"sub_label": "Eastern Alps", "obj_label": "Alps", "uuid": "1aa3f785-54c7-422d-8e36-b081598d0db4"}
 {"sub_label": "C preprocessor", "obj_label": "C", "uuid": "47422680-6d84-4cd7-a99f-1bf60fb64ec4"}
 {"sub_label": "stupa", "obj_label": "Buddhism", "uuid": "888dc850-b962-4ef1-bbcc-ae3a0dbdf407"}
@@ -255,14 +225,12 @@
 {"sub_label": "Song of Songs", "obj_label": "Bible", "uuid": "4cc56c19-5eec-4d9c-b395-8799d226da5a"}
 {"sub_label": "district of England", "obj_label": "England", "uuid": "d8c28b98-c73f-4dbb-9a60-353d8ec1dfed"}
 {"sub_label": "minaret", "obj_label": "mosque", "uuid": "2ca099fd-d400-4ef9-8c3c-72ffcefde00a"}
-{"sub_label": "firing pin", "obj_label": "pistol", "uuid": "db25d582-abfe-4899-b31f-5b2e26afbc9b"}
 {"sub_label": "computer graphics", "obj_label": "art", "uuid": "2493afb1-8b04-47ef-a6a8-934a4bd287e8"}
 {"sub_label": "psychophysics", "obj_label": "psychology", "uuid": "642877cf-3e33-40fd-bf9e-8987c46e7a67"}
 {"sub_label": "mesencephalon", "obj_label": "brain", "uuid": "1dc3170f-1880-4555-afc0-5070ad99ed43"}
 {"sub_label": "Eastern Armenian", "obj_label": "Armenian", "uuid": "3856c08f-38d8-427b-a4c6-61cb902e37a0"}
 {"sub_label": "Book of Daniel", "obj_label": "Bible", "uuid": "63d18d0d-93a1-4b35-b412-aebac01846e4"}
 {"sub_label": "paleobiology", "obj_label": "biology", "uuid": "5350b8b3-df33-498f-9eb8-b1d4d2798099"}
-{"sub_label": "organizational theory", "obj_label": "sociology", "uuid": "c78ef131-fcb5-4c79-b90c-b63f03d38d0f"}
 {"sub_label": "BBC Cymru Wales", "obj_label": "BBC", "uuid": "62d0e8b7-d294-4878-b832-3ec35e903051"}
 {"sub_label": "experimental physics", "obj_label": "physics", "uuid": "cefebeb1-371b-436b-a0d3-469efbc3811c"}
 {"sub_label": "Central Africa", "obj_label": "Africa", "uuid": "bcbe59df-fc66-4460-b51a-ecc79a4f2c38"}
@@ -308,7 +276,6 @@
 {"sub_label": "public relations", "obj_label": "communication", "uuid": "669ee255-e780-48b5-8242-d7890d41f3ab"}
 {"sub_label": "galactic halo", "obj_label": "galaxy", "uuid": "04c744f8-fd85-442d-a56b-39833a492895"}
 {"sub_label": "outer ear", "obj_label": "ear", "uuid": "58b75bdb-91ab-4953-a032-e2a951cd28c4"}
-{"sub_label": "biogeography", "obj_label": "geography", "uuid": "a05e944b-f1b1-4359-be60-eaf359f55f26"}
 {"sub_label": "lacrimal bone", "obj_label": "skull", "uuid": "5b629c27-df8c-4d40-a43f-c597d2993724"}
 {"sub_label": "swim bladder", "obj_label": "fish", "uuid": "08073f30-21a9-4e4e-aaca-05f58565b7f5"}
 {"sub_label": "semiotics", "obj_label": "philosophy", "uuid": "21325482-b84c-4075-8bde-0a27bf074314"}
@@ -380,7 +347,6 @@
 {"sub_label": "glans", "obj_label": "penis", "uuid": "ae2d7261-2152-43da-b382-a2d8d70ea55c"}
 {"sub_label": "administrative district of Prague", "obj_label": "Prague", "uuid": "5fa800a1-9e3e-4333-9681-4a70f5d86ee9"}
 {"sub_label": "Kelut", "obj_label": "Java", "uuid": "637ae8ce-0169-4dd8-8ec3-1d40dc79aa58"}
-{"sub_label": "South America", "obj_label": "Earth", "uuid": "87a53d11-6af4-44ea-8b43-946544eca9c7"}
 {"sub_label": "Boeing Commercial Airplanes", "obj_label": "Boeing", "uuid": "9cc681be-4143-44bf-b994-4ebc0b568a26"}
 {"sub_label": "sign", "obj_label": "mathematics", "uuid": "63d2d4c9-3540-4854-bfcc-26731be169de"}
 {"sub_label": "renal cortex", "obj_label": "kidney", "uuid": "18c1a186-e8c5-4a7b-b2c3-6ba2e794dd39"}
@@ -388,11 +354,9 @@
 {"sub_label": "bicycle lock", "obj_label": "bicycle", "uuid": "0a0098ba-7526-449b-b562-8b3d5b097ab1"}
 {"sub_label": "crupper", "obj_label": "saddle", "uuid": "63c21ebb-e621-43ad-9b6a-f4e92f7c6ea1"}
 {"sub_label": "saddle blanket", "obj_label": "saddle", "uuid": "4d7bbd57-616a-4ff2-a941-e3dd4bb7003d"}
-{"sub_label": "pharmacy", "obj_label": "biology", "uuid": "98179299-1681-4419-a43c-80b79468bc66"}
 {"sub_label": "Fern Pass", "obj_label": "Alps", "uuid": "de2ebf8b-2827-41c5-8cff-6121783b429a"}
 {"sub_label": "jetty", "obj_label": "port", "uuid": "c0685a07-7ab4-4cf7-ae0c-d472bc3ea9aa"}
 {"sub_label": "globular cluster", "obj_label": "galaxy", "uuid": "60178a2a-e853-419e-9c1d-a38b7ebfeffb"}
-{"sub_label": "embryology", "obj_label": "medicine", "uuid": "02e149bc-6bcd-44f2-bcb2-0a74f3c7ffcd"}
 {"sub_label": "heroic fantasy", "obj_label": "fantasy", "uuid": "61ad3f9e-5f56-4361-8f41-74d61ee61fc0"}
 {"sub_label": "Gunung Muria", "obj_label": "Java", "uuid": "bf9e1241-939a-467d-8218-c4ed847e6021"}
 {"sub_label": "Gunung Sumbing", "obj_label": "Java", "uuid": "51d819a5-eac8-40d8-9db4-c282ac8b044b"}
@@ -443,7 +407,6 @@
 {"sub_label": "climatology", "obj_label": "physics", "uuid": "a31e1c39-41dd-494a-be3a-7e8a9c666395"}
 {"sub_label": "Bani Khalid", "obj_label": "Arab", "uuid": "f46f20f7-4cb0-4b95-be60-486ae8c773a7"}
 {"sub_label": "theodicy", "obj_label": "theology", "uuid": "81808853-6c9c-4d3a-9b2c-c8443e7f6939"}
-{"sub_label": "philosophical anthropology", "obj_label": "anthropology", "uuid": "a8ba0911-6c18-4bc1-b36f-d4b4921e924a"}
 {"sub_label": "Job", "obj_label": "Bible", "uuid": "efa9023c-c2a8-4124-9542-25183ab9aa4b"}
 {"sub_label": "Sercquiais", "obj_label": "Norman", "uuid": "795bd2e3-5bdd-452b-8247-f42b7c7ef934"}
 {"sub_label": "molecular physics", "obj_label": "physics", "uuid": "b3419987-9cd0-4f98-9ad0-2b68651a25bf"}
@@ -457,13 +420,10 @@
 {"sub_label": "Mir Docking Module", "obj_label": "Mir", "uuid": "4183da68-88d2-43bf-8d97-56e97331d107"}
 {"sub_label": "Kvant-1", "obj_label": "Mir", "uuid": "a6d6d2e2-1c4b-4ef9-95a0-0a6f78d147f2"}
 {"sub_label": "bow string", "obj_label": "bow", "uuid": "b0885f19-80c2-4d52-ae46-d105a0eb5a13"}
-{"sub_label": "limnology", "obj_label": "chemistry", "uuid": "9b4df1c0-4593-4ab8-bddb-bcec7ccd7b41"}
-{"sub_label": "limnology", "obj_label": "physics", "uuid": "f222e226-9801-48f7-a96d-35adc8206eea"}
 {"sub_label": "Boeing Defense, Space & Security", "obj_label": "Boeing", "uuid": "198c429f-f7c6-423d-a036-b7f15eeb01ec"}
 {"sub_label": "labour law", "obj_label": "law", "uuid": "11a15d26-60a0-4b1b-8a4d-9391a93cd1a7"}
 {"sub_label": "bicycle fork", "obj_label": "bicycle", "uuid": "ce039f6e-f197-4b4a-9fe8-97807326aed1"}
 {"sub_label": "Cima Palon", "obj_label": "Alps", "uuid": "a45903c5-92c2-4cd1-9d18-0646bcd3e949"}
-{"sub_label": "gerontology", "obj_label": "sociology", "uuid": "2c494cdb-b809-412e-b3d3-f8f63ede2446"}
 {"sub_label": "Usenet newsgroup", "obj_label": "Internet", "uuid": "10dd85c3-f700-4bdb-bf10-5d625bd5d2c5"}
 {"sub_label": "pedagogy", "obj_label": "education", "uuid": "198ff890-70fe-4fbe-8aa6-e44a22e0902d"}
 {"sub_label": "Ezra", "obj_label": "Bible", "uuid": "249f025f-efce-4cc3-bc91-0a3f7f91d905"}
@@ -477,7 +437,6 @@
 {"sub_label": "Galactic astronomy", "obj_label": "astronomy", "uuid": "5b1930d7-1a13-41fb-a28f-e0f7e90df06d"}
 {"sub_label": "diplomatic mission", "obj_label": "diplomacy", "uuid": "a3b5ec3a-5de1-410e-8683-6728d045408b"}
 {"sub_label": "Joshua", "obj_label": "Bible", "uuid": "865a22a2-40ab-4f7b-bbe7-197533aa3693"}
-{"sub_label": "biogeography", "obj_label": "biology", "uuid": "1b18b3d4-f056-4791-bccd-4da9614734d0"}
 {"sub_label": "Friends, season 5", "obj_label": "Friends", "uuid": "b18bf69e-e900-4d10-90b8-250fc0b89af7"}
 {"sub_label": "Christianity in Iraq", "obj_label": "Christianity", "uuid": "f97e4180-681c-4d1a-b062-b41d036b5c71"}
 {"sub_label": "banana peel", "obj_label": "banana", "uuid": "0caab8a0-01ed-4e76-8e79-d097b464571b"}
@@ -507,12 +466,10 @@
 {"sub_label": "Socialist Federal Republic of Yugoslavia", "obj_label": "Yugoslavia", "uuid": "ff22944f-428c-40ba-a9f6-c7a063c78de9"}
 {"sub_label": "gable", "obj_label": "facade", "uuid": "982e7f61-9069-486a-891e-17c1714e8d78"}
 {"sub_label": "environmental philosophy", "obj_label": "philosophy", "uuid": "a2723e11-a070-4aa9-9907-01e4a92ba78e"}
-{"sub_label": "diagnostic procedure", "obj_label": "psychology", "uuid": "0fed1f96-7e78-471a-838b-71883b686267"}
 {"sub_label": "urban history", "obj_label": "history", "uuid": "c656f32b-054a-4d35-86b2-08d130a770aa"}
 {"sub_label": "cerebral lobe", "obj_label": "brain", "uuid": "6e0ffcf2-45f4-4832-bc60-16f80cadafce"}
 {"sub_label": "Qahal", "obj_label": "Judaism", "uuid": "973960e1-b350-46c6-939f-74c486feda31"}
 {"sub_label": "scientific racism", "obj_label": "racism", "uuid": "f55a04c0-b4a6-40aa-883e-aafdb1fe85ea"}
-{"sub_label": "organizational theory", "obj_label": "psychology", "uuid": "fe7b745e-6e30-44bf-9dac-3b5a0c6dabb0"}
 {"sub_label": "Bayesian statistics", "obj_label": "statistics", "uuid": "46d76e4b-c265-4648-8be9-71977c3b7bb8"}
 {"sub_label": "Goodreads", "obj_label": "Amazon", "uuid": "6c071bc4-811d-4c25-81a9-0c68ef2fe93c"}
 {"sub_label": "Dark matter halo", "obj_label": "galaxy", "uuid": "1917e481-7659-49c2-a764-e9d6d9069adb"}
@@ -525,7 +482,6 @@
 {"sub_label": "evolutionary developmental biology", "obj_label": "biology", "uuid": "d76efb8e-6d7c-4e85-aa25-bf54e39f673e"}
 {"sub_label": "Y chromosome", "obj_label": "genome", "uuid": "88d6d1de-8a8d-4610-b469-27e93a70a4ac"}
 {"sub_label": "geodetic astronomy", "obj_label": "astronomy", "uuid": "1d15f9e1-7c23-43b2-9a9a-a4a312ae1c48"}
-{"sub_label": "limnology", "obj_label": "ecology", "uuid": "95ed6b30-6848-4265-8338-90dfc3047cea"}
 {"sub_label": "insurance policy", "obj_label": "insurance", "uuid": "64823b1b-948a-42cf-a16d-e82097b22a52"}
 {"sub_label": "coaxial", "obj_label": "geometry", "uuid": "5864259e-f3ed-4b53-8c94-3bd84b4faf58"}
 {"sub_label": "Standing NATO Maritime Group One", "obj_label": "NATO", "uuid": "83f40c9d-d6cd-483c-aba4-33f9bc099e6c"}
@@ -536,7 +492,6 @@
 {"sub_label": "Alsterdorf", "obj_label": "Hamburg", "uuid": "827443c9-b50a-42af-b6dd-ad1a998bfee7"}
 {"sub_label": "harquebusier", "obj_label": "cavalry", "uuid": "37ea9dd4-6ae5-4208-ba00-482e468163fd"}
 {"sub_label": "Just war theory", "obj_label": "ethics", "uuid": "9e9aef9e-aabb-4f06-8665-1e7156ba3fe8"}
-{"sub_label": "limnology", "obj_label": "biology", "uuid": "bc2056f0-7da5-4c08-a9d4-323514d4a592"}
 {"sub_label": "generalized linear model", "obj_label": "statistics", "uuid": "7f5dc4bc-d950-454d-9264-98918f833b4b"}
 {"sub_label": "statistics", "obj_label": "mathematics", "uuid": "5776bc0c-91c0-4132-a80a-94c8446ea0e8"}
 {"sub_label": "eye surgery", "obj_label": "surgery", "uuid": "0cc21b95-1a7f-4e2e-ba9f-2fd93fe0c4ab"}
@@ -552,7 +507,6 @@
 {"sub_label": "Gunung Raung", "obj_label": "Java", "uuid": "56f0888c-941d-4e40-a239-927cfe5c58bb"}
 {"sub_label": "palynology", "obj_label": "biology", "uuid": "f16f7eab-afe2-46cf-b1d3-6ef5438d97a4"}
 {"sub_label": "seawater", "obj_label": "sea", "uuid": "f14fba53-b3e6-4efc-9d46-9536e20f7914"}
-{"sub_label": "oenology", "obj_label": "biology", "uuid": "b9311fd8-d6d3-4d18-98a8-4f6c57426391"}
 {"sub_label": "Pangaea", "obj_label": "Earth", "uuid": "ef8e6b09-a42f-4b85-8460-6c2db7e5e27d"}
 {"sub_label": "open cluster", "obj_label": "galaxy", "uuid": "cef402d6-7f3b-408e-9519-9a541098c9c8"}
 {"sub_label": "Ecclesiology", "obj_label": "Christianity", "uuid": "1ac5265c-f452-48c4-bfbc-9e43d55a8583"}
@@ -567,10 +521,7 @@
 {"sub_label": "dark nebula", "obj_label": "galaxy", "uuid": "70b23d26-76bc-4048-a8dc-523b085cdda3"}
 {"sub_label": "history of mathematics", "obj_label": "history", "uuid": "7a684450-683e-4e3a-b667-29e1f2ba4d7a"}
 {"sub_label": "6to4", "obj_label": "Internet", "uuid": "ba207eda-31fb-49df-8180-5ce0d7a1144c"}
-{"sub_label": "tribology", "obj_label": "chemistry", "uuid": "ac0a9f76-90ad-425a-9220-bc175dc6baa9"}
-{"sub_label": "tribology", "obj_label": "physics", "uuid": "04618ef5-da64-44c4-a662-84fa0b4d4190"}
 {"sub_label": "dashboard", "obj_label": "car", "uuid": "a706d338-21f6-4ecb-a890-42de7a17c961"}
-{"sub_label": "philosophical anthropology", "obj_label": "philosophy", "uuid": "bf5c097c-e784-4862-bc3b-d065811cd644"}
 {"sub_label": "vitreous humour", "obj_label": "eye", "uuid": "aae1ab6a-d7ac-4cf6-90f1-60bddc4d8d1d"}
 {"sub_label": "retina", "obj_label": "eye", "uuid": "5f54d4e6-b73f-45de-851d-9e54b502ff02"}
 {"sub_label": "3rd arrondissement of Lyon", "obj_label": "Lyon", "uuid": "89cc1e20-ca0a-478c-8b1b-b725c3974442"}
@@ -588,16 +539,12 @@
 {"sub_label": "NATO Response Force", "obj_label": "NATO", "uuid": "beaa34ef-d5a2-4bbc-9041-9fd5f2ee1941"}
 {"sub_label": "mechanics", "obj_label": "physics", "uuid": "614758eb-6b8b-4e8d-afa6-c9ec1a5d4990"}
 {"sub_label": "health law", "obj_label": "medicine", "uuid": "8421f3b0-aa7d-48f1-9086-551bdf0bf282"}
-{"sub_label": "breechblock", "obj_label": "pistol", "uuid": "e9aa9063-e047-4af4-9a72-e786f48e4054"}
 {"sub_label": "chemin de ronde", "obj_label": "castle", "uuid": "9d2ff0d1-d5f2-4623-913a-21be8eb4b5f2"}
 {"sub_label": "Izz ad-Din al-Qassam Brigades", "obj_label": "Hamas", "uuid": "ded42d16-4c52-47b8-9170-304112ed0b42"}
 {"sub_label": "9th arrondissement of Lyon", "obj_label": "Lyon", "uuid": "860e63f1-09c0-41e6-9358-58452afd5d06"}
 {"sub_label": "5th arrondissement of Lyon", "obj_label": "Lyon", "uuid": "1373aac7-99c8-4ae6-ad96-78867e99a4df"}
 {"sub_label": "Trekking pole", "obj_label": "hiking", "uuid": "fe615871-e3d5-468f-8787-e1311d84d799"}
-{"sub_label": "Kavanah", "obj_label": "Hebrew", "uuid": "9c883f16-ad59-4cf8-b17f-c1c5e69af86d"}
-{"sub_label": "Kavanah", "obj_label": "Judaism", "uuid": "a81f506a-a943-49a4-bebb-70610f4c23fe"}
 {"sub_label": "slack water", "obj_label": "tide", "uuid": "c8542878-6e0f-4d8b-8df9-ececf1dbd917"}
-{"sub_label": "escape velocity", "obj_label": "gravity", "uuid": "799234f5-bd50-4ad5-82f4-ed887d5ca8c4"}
 {"sub_label": "pharmaceutical science", "obj_label": "biology", "uuid": "a277fc50-a15a-4216-9a06-3a50141bba9e"}
 {"sub_label": "financial economics", "obj_label": "economics", "uuid": "a28062e1-6ecf-4f5c-ad88-7e39810bfe14"}
 {"sub_label": "lateral line", "obj_label": "fish", "uuid": "c6de3db5-df4e-405b-83f6-3a91a3ccf6b3"}
@@ -621,7 +568,6 @@
 {"sub_label": "Nehemiah", "obj_label": "Bible", "uuid": "18258190-3292-471c-bc1c-de8a9ce43731"}
 {"sub_label": "Schoolkids OZ", "obj_label": "Oz", "uuid": "39c84333-f604-405d-bcda-70fa4dbbe7c0"}
 {"sub_label": "physical object", "obj_label": "physics", "uuid": "5cedef66-6b99-45e0-8f36-27b96436d7f7"}
-{"sub_label": "propellant", "obj_label": "shell", "uuid": "8b73fd6e-488b-4e99-9d80-896edee0e15f"}
 {"sub_label": "Monte San Giorgio", "obj_label": "Alps", "uuid": "7276c2a3-6651-4a96-952a-b05e9d8aff35"}
 {"sub_label": "Book of Tobit", "obj_label": "Bible", "uuid": "ba82f357-5c0c-40b5-ba0c-03b6149bf12a"}
 {"sub_label": "Government of Vietnam", "obj_label": "Vietnam", "uuid": "13753fd4-8a47-49c7-b4d5-f98cd52aff31"}
@@ -631,7 +577,6 @@
 {"sub_label": "computational sociology", "obj_label": "sociology", "uuid": "93922ee1-6d38-4d68-a7f1-d74578c3c8f2"}
 {"sub_label": "baculum", "obj_label": "penis", "uuid": "ab9e8067-b2c0-4791-aa10-1a37e0b704f0"}
 {"sub_label": "coordinates transformation", "obj_label": "geometry", "uuid": "3a055bc3-4944-49ff-b5e3-4ab80cac6b53"}
-{"sub_label": "oenology", "obj_label": "chemistry", "uuid": "f79e51b6-608a-451d-a341-78996898cc0f"}
 {"sub_label": "Mauna Kea", "obj_label": "Hawaii", "uuid": "1297679e-0478-4c67-989d-5e2bc3bd378d"}
 {"sub_label": "U Thant Island", "obj_label": "Manhattan", "uuid": "db939e54-cda5-4641-9c33-fae06bf17710"}
 {"sub_label": "Isaiah", "obj_label": "Bible", "uuid": "0d387819-ab02-47c1-836e-b282d8c0460e"}
@@ -664,13 +609,11 @@
 {"sub_label": "gun barrel", "obj_label": "pistol", "uuid": "f79c62e3-abf2-495b-9628-9bb1087fc13f"}
 {"sub_label": "Board of Governors of the BBC", "obj_label": "BBC", "uuid": "5767bdc0-e97e-4033-9a31-94ec44637fe1"}
 {"sub_label": "general surgery", "obj_label": "surgery", "uuid": "e5fcb8cb-ff92-46d4-a2f3-ef0b5e8e1eb7"}
-{"sub_label": "diagnostic procedure", "obj_label": "medicine", "uuid": "66b02bf1-2f52-496b-b051-c542b4400637"}
 {"sub_label": "pharmacokinetics", "obj_label": "pharmacy", "uuid": "ed4d16c5-f718-4546-bc39-d22b88fc97ee"}
 {"sub_label": "centrosome", "obj_label": "chromosome", "uuid": "8a1d46ea-139c-4cda-8719-17504ea59e0d"}
 {"sub_label": "dihedral angle", "obj_label": "geometry", "uuid": "7976b5de-db22-4602-80b9-e9a294de5e0c"}
 {"sub_label": "accounting", "obj_label": "finance", "uuid": "f1580d92-7201-45ad-86c1-2200a5d31844"}
 {"sub_label": "advocacy group", "obj_label": "lobbying", "uuid": "9347e320-293f-4688-a33a-eba03419363a"}
-{"sub_label": "gerontology", "obj_label": "nursing", "uuid": "7a352ae8-daa5-4c2b-a0a0-fbe5f9ff415f"}
 {"sub_label": "level crossing", "obj_label": "track", "uuid": "a42901d0-70a9-4694-8ac8-b268308864d0"}
 {"sub_label": "Thin disk", "obj_label": "galaxy", "uuid": "8eb2cf20-b2d9-4b7e-a1a1-9c32a823c689"}
 {"sub_label": "Thick disk", "obj_label": "galaxy", "uuid": "926d7f3d-ec9b-41ce-a4cd-3e81e47a370c"}
@@ -682,7 +625,6 @@
 {"sub_label": "Amazon Studios", "obj_label": "Amazon", "uuid": "1a6fc4ee-2715-45cc-9bba-570f592d3cf3"}
 {"sub_label": "phonetics", "obj_label": "biology", "uuid": "f202059f-800f-437b-bd57-c701711f11b0"}
 {"sub_label": "liturgical year", "obj_label": "Christianity", "uuid": "5e2f3670-c6b8-447d-abb5-194aa72f8dc6"}
-{"sub_label": "breechblock", "obj_label": "rifle", "uuid": "b030c263-5984-45ca-b9d3-1aa295635c92"}
 {"sub_label": "Gunung Guntur", "obj_label": "Java", "uuid": "e08c9dbd-7357-4408-afbf-f255abdcbbba"}
 {"sub_label": "Air Scouts", "obj_label": "scouting", "uuid": "d99d815d-0aa4-4dcc-a4f7-8de2996eafd1"}
 {"sub_label": "Eighth Crusade", "obj_label": "Crusade", "uuid": "f0ce1340-6a95-454e-a071-1193bb0b54ba"}
@@ -713,8 +655,6 @@
 {"sub_label": "Malachi", "obj_label": "Bible", "uuid": "e155c127-a648-4149-b489-5d450964fceb"}
 {"sub_label": "Pro-feminism", "obj_label": "feminism", "uuid": "49c8d938-f0ab-484d-88b3-00b556458740"}
 {"sub_label": "nape", "obj_label": "neck", "uuid": "d6985ee3-c972-407d-8795-8df2778bec0d"}
-{"sub_label": "Ricasso", "obj_label": "blade", "uuid": "91c53193-034f-45d3-8519-fafec84bddad"}
-{"sub_label": "Ricasso", "obj_label": "sword", "uuid": "b773c755-3071-4d0a-8561-7373759b06d6"}
 {"sub_label": "crop protection", "obj_label": "agriculture", "uuid": "fb4a8d81-f01c-4680-a217-14a3d27c87de"}
 {"sub_label": "Infinity focus", "obj_label": "photography", "uuid": "307e8235-33ee-4349-8cc7-0759e721d16e"}
 {"sub_label": "sexual dimorphism", "obj_label": "sex", "uuid": "c1f54a80-a829-469f-9dfd-e87a993a68cf"}
@@ -727,9 +667,7 @@
 {"sub_label": "information theory", "obj_label": "mathematics", "uuid": "b9628223-643e-4bd6-bc44-df7398e74dff"}
 {"sub_label": "nursing diagnosis", "obj_label": "nursing", "uuid": "e47d930b-405e-4070-94c0-e2023b0511fa"}
 {"sub_label": "L", "obj_label": "SL", "uuid": "9e581d84-ff43-4aa4-9f86-a52b6d8df66d"}
-{"sub_label": "participant observation", "obj_label": "sociology", "uuid": "e4fc46c0-943b-4748-9246-1f53f3945ab6"}
 {"sub_label": "Red Blood Cell", "obj_label": "blood", "uuid": "6291b2d2-2143-490a-8092-a3d73364b525"}
-{"sub_label": "firing pin", "obj_label": "rifle", "uuid": "f3067a38-5863-4b11-ab52-abb0843d1e98"}
 {"sub_label": "environmental factor", "obj_label": "ecosystem", "uuid": "e6677862-f822-48e4-b799-1e4345aa9738"}
 {"sub_label": "noise", "obj_label": "physics", "uuid": "3523e7fb-907b-4c9a-aece-4a3082cbff18"}
 {"sub_label": "Idol 2005", "obj_label": "Idol", "uuid": "cad50bd7-1704-4537-9c9e-4cb05afd5a0a"}
@@ -739,8 +677,6 @@
 {"sub_label": "Maine", "obj_label": "Massachusetts", "uuid": "a468efd5-e093-49ee-a189-7ac48cfe4deb"}
 {"sub_label": "Comet nucleus", "obj_label": "comet", "uuid": "b83c5a8c-9496-41e6-99e5-3a362cc1783a"}
 {"sub_label": "Brittany", "obj_label": "Brittany", "uuid": "c925f1db-11a7-460f-87de-7d611907ae0c"}
-{"sub_label": "psychotherapy", "obj_label": "therapy", "uuid": "e997ec90-49cd-407c-b1ef-feda99904427"}
 {"sub_label": "Los Angeles Union Station", "obj_label": "Amtrak", "uuid": "4e4474ca-7a48-49bf-88ae-a61486f0c4db"}
 {"sub_label": "column", "obj_label": "flower", "uuid": "62064b55-c4cc-4e88-a398-c600f50becb2"}
 {"sub_label": "computational mechanics", "obj_label": "mechanics", "uuid": "e27bfa08-c473-4f3c-a4c2-a01fad5cc366"}
-{"sub_label": "propellant", "obj_label": "cartridge", "uuid": "edb5bda4-03c4-4ab5-bce6-2359f8f32dbb"}

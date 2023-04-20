@@ -183,7 +183,6 @@
 {"sub_label": "Windows Live Writer", "obj_label": "Microsoft", "uuid": "f5aa2fe1-a72c-47b4-a03b-ee8904a19f63"}
 {"sub_label": "OS X Mountain Lion", "obj_label": "Apple", "uuid": "6227158b-3ae7-4502-b3b8-99111094bec7"}
 {"sub_label": "OneDrive", "obj_label": "Microsoft", "uuid": "88ae3795-3456-4a4c-9236-049b30100a30"}
-{"sub_label": "Golden Axe", "obj_label": "Sega", "uuid": "7d6cf048-a273-4cad-ba37-2e263bd9805a"}
 {"sub_label": "Altered Beast", "obj_label": "Sega", "uuid": "38b864f5-65cb-46a8-ac55-27bd2a8015f6"}
 {"sub_label": "Yakuza 2", "obj_label": "Sega", "uuid": "86378404-4128-4bc8-8749-202c2b3f2786"}
 {"sub_label": "Yakuza", "obj_label": "Sega", "uuid": "fc6d83d1-ddde-4b51-9f2c-0ca1a3ae2b1f"}
@@ -336,10 +335,8 @@
 {"sub_label": "Microsoft SharePoint", "obj_label": "Microsoft", "uuid": "5211e4e2-b036-4b2f-b50f-70d791f2724f"}
 {"sub_label": "Microsoft HealthVault", "obj_label": "Microsoft", "uuid": "f1794720-c847-452b-ab3d-5c3422d17e53"}
 {"sub_label": "IBM DeveloperWorks", "obj_label": "IBM", "uuid": "4c182994-ee9f-473f-81f5-017b21873bed"}
-{"sub_label": "Golden Axe", "obj_label": "Sega", "uuid": "75cc5fa4-9a01-4c83-827a-f5747b906c45"}
 {"sub_label": "Internet Explorer 5", "obj_label": "Microsoft", "uuid": "636526d8-79dc-46ac-90d8-7d6d10a5fefa"}
 {"sub_label": "Microsoft Store", "obj_label": "Microsoft", "uuid": "ca877244-6256-4898-ac5e-9d28751dcd22"}
-{"sub_label": "Tizen", "obj_label": "Intel", "uuid": "da091a30-8779-495c-a2b6-5ce4b4d72b29"}
 {"sub_label": "IBM 4690 OS", "obj_label": "IBM", "uuid": "63252cca-c0f8-4995-9e1d-e94f73a55f48"}
 {"sub_label": "BBC iPlayer", "obj_label": "BBC", "uuid": "6bebd2bc-3b9f-4356-9b4f-957b1bbe519f"}
 {"sub_label": "Project Ara", "obj_label": "Google", "uuid": "70796e4a-0a32-4831-b487-28e15f4725e9"}
@@ -393,7 +390,6 @@
 {"sub_label": "Active Server Pages", "obj_label": "Microsoft", "uuid": "6050c3e9-afd6-4f12-bc7d-285b5d1dfb3e"}
 {"sub_label": "Front Mission 3", "obj_label": "Square", "uuid": "75184b70-6137-4857-bc0a-535908d2cbf1"}
 {"sub_label": "Front Mission", "obj_label": "Square", "uuid": "16284c54-a68b-4deb-82bf-d49619d8a70a"}
-{"sub_label": "Clang", "obj_label": "Sony", "uuid": "c26eb48f-4525-4e93-a48e-e04ecb674925"}
 {"sub_label": "Adobe Fireworks", "obj_label": "Adobe", "uuid": "906cdde7-c4a0-4b01-9b87-e09d76fdea13"}
 {"sub_label": "Microsoft Publisher", "obj_label": "Microsoft", "uuid": "261e4238-9598-40ae-b4c9-93350b454ee1"}
 {"sub_label": "Small Web Format", "obj_label": "Adobe", "uuid": "c07e15d3-ecf7-4591-8996-b09c00f93827"}
@@ -425,9 +421,7 @@
 {"sub_label": "Windows NT 3.1", "obj_label": "Microsoft", "uuid": "726406b3-ae4a-4edd-83d3-60ecdf256e10"}
 {"sub_label": "Rational Team Concert", "obj_label": "IBM", "uuid": "c228958d-8636-45b6-b153-1157cb95aef8"}
 {"sub_label": "Airbus A320neo family", "obj_label": "Airbus", "uuid": "ecc0b72a-5298-4287-8e03-c996149917da"}
-{"sub_label": "Clang", "obj_label": "Apple", "uuid": "61558b7c-4e24-42c8-b5f5-1184b2f70da5"}
 {"sub_label": "Windows Live Mesh", "obj_label": "Microsoft", "uuid": "242900c9-ee1b-458f-a615-9783edc70bc2"}
-{"sub_label": "Tizen", "obj_label": "Samsung", "uuid": "0726536b-baf5-47d8-80c3-8d29676e3e83"}
 {"sub_label": "SPDY", "obj_label": "Google", "uuid": "c1640fbc-126e-4255-9f9a-b54ba5e151cb"}
 {"sub_label": "MXML", "obj_label": "Adobe", "uuid": "e83c9af1-6499-4317-a579-125205a7c3d9"}
 {"sub_label": "IBM Lotus Word Pro", "obj_label": "IBM", "uuid": "ef4452a2-5059-44fb-847a-b1c7555eb7fb"}
@@ -445,8 +439,6 @@
 {"sub_label": "Windows Mobile", "obj_label": "Microsoft", "uuid": "bac79127-b310-4ce0-ba24-722debcf2735"}
 {"sub_label": "OpenSearch", "obj_label": "Amazon", "uuid": "958b1fce-7b46-4456-a0e2-854696817512"}
 {"sub_label": "Windows Me", "obj_label": "Microsoft", "uuid": "f3c9afaa-d2c2-424a-8004-36588210c1aa"}
-{"sub_label": "High Performance File System", "obj_label": "IBM", "uuid": "8eac3f61-4e88-4d71-87ad-30016fd8e444"}
-{"sub_label": "High Performance File System", "obj_label": "Microsoft", "uuid": "d4d30a71-985a-48aa-a4c2-2f0f16ba2deb"}
 {"sub_label": "IBM Business System 12", "obj_label": "IBM", "uuid": "7daebba0-3376-487c-bb42-0f64c8321dd3"}
 {"sub_label": "General Transit Feed Specification", "obj_label": "Google", "uuid": "e49657a7-8c07-40b2-9f70-559c6caafa08"}
 {"sub_label": "Microsoft Dynamics NAV", "obj_label": "Microsoft", "uuid": "44b008a0-049c-4229-be8f-d68cbbaf37b1"}
@@ -462,7 +454,6 @@
 {"sub_label": "Minecraft", "obj_label": "Microsoft", "uuid": "04c2c4ae-bfb6-461f-abb5-ec557ed6f898"}
 {"sub_label": "App Inventor for Android", "obj_label": "Google", "uuid": "726a6646-0ce2-4577-8a1a-5a1ad765ee1b"}
 {"sub_label": "Google Contacts", "obj_label": "Google", "uuid": "7678beaa-e116-4de0-914b-b8e8f501a0b2"}
-{"sub_label": "Clang", "obj_label": "Microsoft", "uuid": "6789e6ca-cbcb-405d-9f1e-36c6c676ca97"}
 {"sub_label": "Airbus Beluga", "obj_label": "Airbus", "uuid": "10ae97a1-d358-4315-bb89-b06a36ed7af3"}
 {"sub_label": "Congo Bongo", "obj_label": "Sega", "uuid": "3bc22e38-d1ff-430e-bab3-562896d9351d"}
 {"sub_label": "Microsoft Project", "obj_label": "Microsoft", "uuid": "cbfeb5ed-4336-4b5e-8379-4614455e6eb8"}
@@ -478,8 +469,6 @@
 {"sub_label": "iOS 7", "obj_label": "Apple", "uuid": "dedb53b7-8e64-44a6-831e-989ce9afe6cf"}
 {"sub_label": "CarPlay", "obj_label": "Apple", "uuid": "35e667b7-9b60-419a-aff6-c532ac63d364"}
 {"sub_label": "Internet Explorer 10", "obj_label": "Microsoft", "uuid": "f78bd5a6-d502-4e74-8616-ef7e88d35ddb"}
-{"sub_label": "Schema.org", "obj_label": "Google", "uuid": "3657b1a8-d0a7-4875-bf2d-59f20b5c163a"}
-{"sub_label": "Schema.org", "obj_label": "Yahoo", "uuid": "a343bf4d-e830-4231-b31a-eec881d8580d"}
 {"sub_label": "Channel Definition Format", "obj_label": "Microsoft", "uuid": "930cd9af-88f0-45bc-887c-30a71864deb0"}
 {"sub_label": "Windows Aero", "obj_label": "Microsoft", "uuid": "80cfd9d9-568e-449c-a901-ce0415976835"}
 {"sub_label": "Apple Thunderbolt Display", "obj_label": "Apple", "uuid": "c1528ae7-b22a-4a32-9c33-6bd37e060892"}
@@ -491,7 +480,6 @@
 {"sub_label": "Adobe Muse", "obj_label": "Adobe", "uuid": "17f0aa65-b41c-447a-a08f-75f033de054c"}
 {"sub_label": "iBooks Author", "obj_label": "Apple", "uuid": "594943cf-831e-4120-97de-4b5098a08cbd"}
 {"sub_label": "WriteNow", "obj_label": "Apple", "uuid": "94a88147-c830-42ab-9b46-7a86bd577597"}
-{"sub_label": "Clang", "obj_label": "Intel", "uuid": "96ac82f8-0d70-4b1f-8755-4584d62eb9dd"}
 {"sub_label": "Google Now", "obj_label": "Google", "uuid": "779bc61b-1632-4f36-8808-a697f27f7bba"}
 {"sub_label": "Apple A6", "obj_label": "Apple", "uuid": "7688eae8-fd63-477d-9984-4a368a93eb65"}
 {"sub_label": "iPad 3", "obj_label": "Apple", "uuid": "1cd3d920-848c-460f-bd57-8e98087f27d0"}

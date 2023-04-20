@@ -67,7 +67,7 @@ def generate_data(relations_given, data_path, format_prompt, generate_targets):
 
 def main():
     parser = argparse.ArgumentParser("")
-    parser.add_argument("--relations_given", "-r", type=str, default="P937,P1412,P127,P103,P276,P159,P140,P136,P495,P17,P361,P36,P740,P264,P407,P138,P30,P131,P176,P449,P279,P19,P101,P364,P106,P1376,P178,P37,P413,P27,P20", help="what relations")
+    parser.add_argument("--relations_given", "-r", type=str, default="P937,P1412,P127,P103,P276,P159,P140,P136,P495,P17,P361,P36,P740,P264,P407,P138,P30,P131,P176,P449,P279,P19,P101,P364,P106,P1376,P178,P413,P27,P20", help="what relations")
     parser.add_argument("--data_path", "-lama", type=str,
                         default="/mimer/NOBACKUP/groups/dsaynova/SKR/ParaRel/pararel/data/", help="pararel data path")
     parser.add_argument("--format", type=str, help="format to match for pararel queries", default="pararel")

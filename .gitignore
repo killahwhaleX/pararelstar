@@ -321,3 +321,5 @@ data/*
 .idea/
 wandb/
 subscription.json
+
+*.csv

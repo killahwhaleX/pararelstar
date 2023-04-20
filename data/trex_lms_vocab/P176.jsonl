@@ -52,10 +52,7 @@
 {"sub_label": "Douglas A2D Skyshark", "obj_label": "Douglas", "uuid": "38f52ba4-f34e-466b-b463-b9d43b2ce293"}
 {"sub_label": "Toyota Previa", "obj_label": "Toyota", "uuid": "e3448e92-f5ee-4755-ad0b-23f431b88cb3"}
 {"sub_label": "Nasr-1", "obj_label": "Iran", "uuid": "cbe7dc0e-60ec-4d99-b877-a3706352545e"}
-{"sub_label": "Dino", "obj_label": "Ferrari", "uuid": "b3ba5ca6-0619-472a-8053-bcf4c98020fb"}
-{"sub_label": "Dino", "obj_label": "Fiat", "uuid": "a4c4e82f-42b7-4370-8a7d-57cae10d78a3"}
 {"sub_label": "BMW 7 F01 F02", "obj_label": "BMW", "uuid": "ee6cbf20-bc15-4889-ae6f-bf807a9d4009"}
-{"sub_label": "Dodge Charger", "obj_label": "Dodge", "uuid": "09b8c6d7-2ca9-4736-b2ca-65980e3354ec"}
 {"sub_label": "Douglas DC-1", "obj_label": "Douglas", "uuid": "463f1910-0880-49f7-b0e7-6a7058e8b0e2"}
 {"sub_label": "Toyota Yaris Verso", "obj_label": "Toyota", "uuid": "134af28e-218a-4173-baeb-49f06833bb37"}
 {"sub_label": "Renault Safrane", "obj_label": "Renault", "uuid": "330eed06-7cfe-4766-98fe-092560af8045"}
@@ -88,7 +85,6 @@
 {"sub_label": "Honda Vamos", "obj_label": "Honda", "uuid": "f8391abc-b176-41ab-9e22-8ea78470e164"}
 {"sub_label": "Toyota Mark X ZiO", "obj_label": "Toyota", "uuid": "905360b3-229d-40ec-a582-3bc1699bce91"}
 {"sub_label": "Nokia N810", "obj_label": "Nokia", "uuid": "b88fb7d6-0a06-47ea-96be-f05b0409abdd"}
-{"sub_label": "Ferrari 250 GTO", "obj_label": "Fiat", "uuid": "d7587fa7-93f2-47f7-9b73-9c8b283bcdc5"}
 {"sub_label": "Jeep Commander", "obj_label": "Jeep", "uuid": "5ae2e496-a751-4b68-97b4-1788c02ad8e2"}
 {"sub_label": "Lancia 037", "obj_label": "Fiat", "uuid": "86a5827f-45c9-413b-9bd5-dc7f3ebf9c31"}
 {"sub_label": "Porsche 911", "obj_label": "Porsche", "uuid": "56448833-4fe1-4d07-80d3-d92b78f0da2e"}
@@ -120,7 +116,6 @@
 {"sub_label": "Toyota Tacoma", "obj_label": "Toyota", "uuid": "fe4bb10b-e388-4070-96a2-fb9aaa1eb1f6"}
 {"sub_label": "Acura TL", "obj_label": "Honda", "uuid": "e85e8f23-ea6c-4e2f-a86f-482ac5a66bea"}
 {"sub_label": "Autobianchi A112", "obj_label": "Fiat", "uuid": "e7e748ff-0397-4542-aa3f-553623e1cc5c"}
-{"sub_label": "Nissan Bluebird", "obj_label": "Nissan", "uuid": "0f3ca949-23c5-4d20-857f-3430277fcf24"}
 {"sub_label": "Dodge Stratus", "obj_label": "Dodge", "uuid": "43b9e386-342b-4d74-98e8-5ef3cb331b8a"}
 {"sub_label": "PGM-11 Redstone", "obj_label": "Chrysler", "uuid": "09a18feb-68fc-4fca-8c2b-d881afee9b2a"}
 {"sub_label": "Toyota Origin", "obj_label": "Toyota", "uuid": "a4218527-f0db-4093-8c4b-48768402756e"}
@@ -143,7 +138,6 @@
 {"sub_label": "Fiat 1100", "obj_label": "Fiat", "uuid": "b22944a4-50c7-420b-a5ab-a11262c0cd15"}
 {"sub_label": "BMW 4 Series", "obj_label": "BMW", "uuid": "4f527fd2-a638-4e47-a6b9-0d88d82acc6f"}
 {"sub_label": "Honda NSX", "obj_label": "Honda", "uuid": "9268f5da-b24f-4360-a387-9ca7c2b399d5"}
-{"sub_label": "BMW 3 Series", "obj_label": "BMW", "uuid": "28a9c9fa-932c-4acb-bd48-b8d3d755568e"}
 {"sub_label": "Suzuki Aerio", "obj_label": "Suzuki", "uuid": "f6616b21-56b0-48e3-b6c3-0b9cdafd4053"}
 {"sub_label": "Honda NSR250", "obj_label": "Honda", "uuid": "257aefa1-b559-4d52-8aab-065957dda71e"}
 {"sub_label": "Porsche 356", "obj_label": "Porsche", "uuid": "60faa57b-b978-4d8d-b8f4-b3961314f418"}
@@ -159,7 +153,6 @@
 {"sub_label": "Chevrolet Corvette C3", "obj_label": "Chevrolet", "uuid": "714c4f51-c74c-4ea8-96a8-076f91dfa3af"}
 {"sub_label": "Nissan Sentra", "obj_label": "Nissan", "uuid": "67fd46f2-b849-48fe-b2af-c46538fdecc7"}
 {"sub_label": "Renault Twingo", "obj_label": "Renault", "uuid": "15efc9da-f4c1-4070-b9bb-4ccdf551520c"}
-{"sub_label": "Dodge Charger", "obj_label": "Dodge", "uuid": "977fa035-e979-44cf-b79a-1a2d5fe435cc"}
 {"sub_label": "iPod Mini", "obj_label": "Apple", "uuid": "34a2855c-a66b-4158-b2f9-8487d252c5b5"}
 {"sub_label": "Toyota Raum", "obj_label": "Toyota", "uuid": "a55a6466-170f-4e4f-9cae-d49cf31c489e"}
 {"sub_label": "Apple II series", "obj_label": "Apple", "uuid": "42a5ce75-e8dc-4b06-8dc3-02b5be11434c"}
@@ -167,7 +160,6 @@
 {"sub_label": "Lexus SC", "obj_label": "Toyota", "uuid": "12a94aad-75ad-4e99-b742-2ba7a36df276"}
 {"sub_label": "Dodge WC54", "obj_label": "Dodge", "uuid": "f5d0479e-8102-4240-8618-b02722e90eb9"}
 {"sub_label": "Honda CX series", "obj_label": "Honda", "uuid": "52d5d88a-8424-4c85-9f53-2f08bd70fdf7"}
-{"sub_label": "BMW X5", "obj_label": "BMW", "uuid": "d8370da2-7174-4be0-8b21-a2c791d989ef"}
 {"sub_label": "Bentley T-series", "obj_label": "Bentley", "uuid": "f73e240e-7fda-4229-b36f-6709f914adc8"}
 {"sub_label": "Triumph TR2", "obj_label": "Triumph", "uuid": "a41233f9-903c-446c-9c49-7ed902530e7a"}
 {"sub_label": "IBM 5100", "obj_label": "IBM", "uuid": "ccc5b91b-9507-402b-8e55-5c6dbc9fe50e"}
@@ -232,7 +224,6 @@
 {"sub_label": "Toyota Alphard", "obj_label": "Toyota", "uuid": "4780c98f-c2d5-47e0-9ef1-f31dbc59d034"}
 {"sub_label": "Chevrolet Aveo T200", "obj_label": "Chevrolet", "uuid": "9d45d166-399b-4a9e-a96a-c4803bc269eb"}
 {"sub_label": "Nissan Sunny", "obj_label": "Nissan", "uuid": "f3b186b3-0b47-451c-9cbb-e63a0cfff336"}
-{"sub_label": "BMW 3 Series", "obj_label": "BMW", "uuid": "816c1272-653a-4702-8134-e2930f8eb4a3"}
 {"sub_label": "Alfa Romeo SZ", "obj_label": "Fiat", "uuid": "09276f5f-d1e4-4bea-806b-e43b76e487da"}
 {"sub_label": "BMW 303", "obj_label": "BMW", "uuid": "ee87843e-fd16-40c0-89cf-462b6ec55486"}
 {"sub_label": "Ferrari 166 S", "obj_label": "Ferrari", "uuid": "4bfe9c6d-0538-4b27-bebd-c244d12e15ce"}
@@ -370,7 +361,6 @@
 {"sub_label": "BMW Z4 E85", "obj_label": "BMW", "uuid": "9d03bd7a-5116-430c-8671-796a90fc3f25"}
 {"sub_label": "Douglas O-31", "obj_label": "Douglas", "uuid": "47d23619-a7fe-498d-835a-ea7a1165eae5"}
 {"sub_label": "BMW 3 Series (E46)", "obj_label": "BMW", "uuid": "b67bb6aa-52b8-423a-9def-b169b68f998a"}
-{"sub_label": "BMW 5 Series", "obj_label": "BMW", "uuid": "a1de4836-227f-4bd1-8c85-291c51969a95"}
 {"sub_label": "Renault 16", "obj_label": "Renault", "uuid": "f3fbe83e-1c7f-46d2-ba74-d313cc1009d8"}
 {"sub_label": "Chevrolet Corsica", "obj_label": "Chevrolet", "uuid": "5ba3897e-4b3e-4452-ab4f-e64dafe51508"}
 {"sub_label": "Mercury Montclair", "obj_label": "Mercury", "uuid": "a8b38e91-5faf-4e81-bbc1-be7a42d0ff78"}
@@ -423,10 +413,8 @@
 {"sub_label": "Bentley Brooklands", "obj_label": "Bentley", "uuid": "67985644-88bb-40ca-ac48-75bd3ce730d1"}
 {"sub_label": "Super Game Boy", "obj_label": "Nintendo", "uuid": "379d816d-729e-4447-83a8-eae751760f84"}
 {"sub_label": "BMW X3", "obj_label": "BMW", "uuid": "910df60f-d5dd-4206-819b-2c23d3e93970"}
-{"sub_label": "BMW 3 Series", "obj_label": "BMW", "uuid": "7e6bc075-d292-4ec0-9bc7-c380d7662950"}
 {"sub_label": "Dodge Monaco", "obj_label": "Dodge", "uuid": "56b49abb-bb11-42ff-a054-78e5b39fc9ba"}
 {"sub_label": "Auto Avio Costruzioni 815", "obj_label": "Ferrari", "uuid": "175e18cb-45df-42ac-b7c6-a14850ee6889"}
-{"sub_label": "BMW X5", "obj_label": "BMW", "uuid": "5ae1a59c-f5fe-43b1-b0b0-247f63281ea0"}
 {"sub_label": "Alfa Romeo 164", "obj_label": "Fiat", "uuid": "fc766044-25f1-4cc7-a1e5-111b5bb445c5"}
 {"sub_label": "Nissan 180SX", "obj_label": "Nissan", "uuid": "6b6aa28e-347d-4d41-813e-52eb8de1e772"}
 {"sub_label": "Triumph TR4", "obj_label": "Triumph", "uuid": "e45a29fc-e955-4118-b376-8d6125e74baf"}
@@ -493,7 +481,6 @@
 {"sub_label": "Apple IIGS", "obj_label": "Apple", "uuid": "1195f731-db1d-4852-9410-a28e7d448cce"}
 {"sub_label": "BMW R32", "obj_label": "BMW", "uuid": "beab74fe-16e1-4e77-b126-fc8c5b1c6900"}
 {"sub_label": "IBM 2780/3780", "obj_label": "IBM", "uuid": "ddc195fc-c17d-49ae-b1f7-179ffd9fdd9f"}
-{"sub_label": "Nissan Bluebird", "obj_label": "Nissan", "uuid": "fc17b398-f55e-4f16-b3f4-7cc1de997888"}
 {"sub_label": "Fiat 125", "obj_label": "Fiat", "uuid": "37331811-4f3b-4ca4-b63e-330c7732c755"}
 {"sub_label": "Honda Prelude", "obj_label": "Honda", "uuid": "e7853f0e-935f-44b0-b0e7-4bb72581fdaf"}
 {"sub_label": "iPad Mini", "obj_label": "Apple", "uuid": "25d33ce2-869a-4011-a05d-62d3bd89381f"}
@@ -578,8 +565,6 @@
 {"sub_label": "Toyota Mega Cruiser", "obj_label": "Toyota", "uuid": "e47da75a-24dd-403c-ae42-fb2481074a3f"}
 {"sub_label": "Pratt & Miller", "obj_label": "Chevrolet", "uuid": "ffc77020-9739-464b-a1e6-c960cd93ddfd"}
 {"sub_label": "Dacia Sandero", "obj_label": "Renault", "uuid": "311983b9-e012-442f-9c0b-da689f110275"}
-{"sub_label": "BMW 3 Series", "obj_label": "BMW", "uuid": "d91a4b06-d168-4035-9150-2827c38cfe36"}
-{"sub_label": "SNES-CD", "obj_label": "Sony", "uuid": "75546066-9c07-40c3-89de-a6b6baba92a4"}
 {"sub_label": "iPhone 1", "obj_label": "Apple", "uuid": "4a59b8e1-9371-40b6-bac9-dab1da3b70dc"}
 {"sub_label": "Nissan Navara", "obj_label": "Nissan", "uuid": "93ed3d03-3a5d-464f-a915-53591b132ff0"}
 {"sub_label": "Suzuki Hayabusa", "obj_label": "Suzuki", "uuid": "44a96812-cecd-40a6-97cf-61402ab545a4"}
@@ -766,7 +751,6 @@
 {"sub_label": "Fiat 501", "obj_label": "Fiat", "uuid": "cf1dc95a-15ae-4e2a-a764-fb88dfa09544"}
 {"sub_label": "Toyota Kijang", "obj_label": "Toyota", "uuid": "7dfc3088-ec52-4e86-9a93-0e9d9e630db6"}
 {"sub_label": "Dodge 500", "obj_label": "Dodge", "uuid": "49e0af5d-f2bb-4a9a-a490-55dd8bebd020"}
-{"sub_label": "SNES-CD", "obj_label": "Nintendo", "uuid": "3d2a2724-c5aa-47a0-95eb-c5321c3ed714"}
 {"sub_label": "Nissan Serena", "obj_label": "Nissan", "uuid": "a35f3432-bdf4-4253-88b1-754aba68a7f0"}
 {"sub_label": "Cadillac CTS", "obj_label": "Cadillac", "uuid": "057322da-31ac-44f2-b696-c56350871c76"}
 {"sub_label": "Renault Espace", "obj_label": "Renault", "uuid": "713f68c6-3df5-4ccc-9bf9-6274778a2edf"}
@@ -777,7 +761,6 @@
 {"sub_label": "Chevrolet Chevette", "obj_label": "Chevrolet", "uuid": "646e3613-fb97-4486-92c1-7859b80f8bcc"}
 {"sub_label": "VTEC", "obj_label": "Honda", "uuid": "7731fa04-cc84-4a76-9c1d-fc2e2485ac1d"}
 {"sub_label": "B-47 Stratojet", "obj_label": "Boeing", "uuid": "1c692b83-fb02-43c7-8212-1fc3a1b95f68"}
-{"sub_label": "Ferrari 250 GTO", "obj_label": "Ferrari", "uuid": "2c6541e1-97e3-4aee-828d-ecf012a03f7b"}
 {"sub_label": "BMW M62", "obj_label": "BMW", "uuid": "6209e05d-153d-474f-99d9-a4dcf384cbfc"}
 {"sub_label": "Airbus Beluga", "obj_label": "Airbus", "uuid": "b7aaa8d1-328a-47ea-817e-5476c1bbc7c3"}
 {"sub_label": "Alfa Romeo 6C", "obj_label": "Fiat", "uuid": "3ada27e7-a012-4a41-8af3-302abe604082"}
@@ -804,7 +787,6 @@
 {"sub_label": "Nissan Pathfinder", "obj_label": "Nissan", "uuid": "89ed6f1c-76f6-4906-a411-14463b7e2ad7"}
 {"sub_label": "Airbus A340", "obj_label": "Airbus", "uuid": "c351fc58-ad5e-47fa-a804-21e91c11f99d"}
 {"sub_label": "Nintendo 2DS", "obj_label": "Nintendo", "uuid": "eccf4af1-4c00-4f91-8f85-8359ff6328d7"}
-{"sub_label": "Dodge Charger", "obj_label": "Dodge", "uuid": "99a2faeb-48d8-436f-92bd-65f99ab5abef"}
 {"sub_label": "iPod Touch", "obj_label": "Apple", "uuid": "91c1ccbd-2e61-4c1c-b772-103df768223e"}
 {"sub_label": "Nissan Primera", "obj_label": "Nissan", "uuid": "4358d175-f32a-49a9-9752-59120a628a7a"}
 {"sub_label": "Honda CR-X del Sol", "obj_label": "Honda", "uuid": "f87a8833-d342-4c9c-9fb2-92d9f06948b2"}
@@ -825,7 +807,6 @@
 {"sub_label": "Nissan R391", "obj_label": "Nissan", "uuid": "c727b7b8-5743-4dc0-b556-1502e52076b8"}
 {"sub_label": "Renault Trafic", "obj_label": "Renault", "uuid": "f9d1fb86-1c31-4b20-a1c1-f9e284dcaf37"}
 {"sub_label": "Honda Pilot", "obj_label": "Honda", "uuid": "d52c7f0e-cc92-4ddf-9a53-76039f1b80ab"}
-{"sub_label": "BMW 5 Series", "obj_label": "BMW", "uuid": "a26d6952-bbae-44f7-aaae-08a27e8175a3"}
 {"sub_label": "Ferrari 158", "obj_label": "Ferrari", "uuid": "37f8baa5-2b10-4185-b891-bd72228239dc"}
 {"sub_label": "IBM 6150 RT", "obj_label": "IBM", "uuid": "dc9fb6fc-053d-484b-ae0a-3abc269d1be2"}
 {"sub_label": "Renault Estafette", "obj_label": "Renault", "uuid": "771c00be-7c22-4725-8352-73783871a872"}

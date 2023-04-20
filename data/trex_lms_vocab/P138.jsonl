@@ -1,18 +1,12 @@
 {"sub_label": "aristotelianism", "obj_label": "Aristotle", "uuid": "406d0921-13f0-43f3-b311-d83cb056b495"}
 {"sub_label": "United States of America", "obj_label": "Americas", "uuid": "6bcd3d25-e202-4741-b35c-f3e46642196f"}
-{"sub_label": "Athens", "obj_label": "Athena", "uuid": "63661f37-3bba-4bb2-bd7a-fe6efd05a0db"}
 {"sub_label": "Indian Ocean", "obj_label": "India", "uuid": "8f3a0149-dd44-41d3-b949-765f90a1b0db"}
 {"sub_label": "Pauline epistles", "obj_label": "Paul", "uuid": "39f903c7-5bb8-43f4-9bf0-c583156311d1"}
-{"sub_label": "BRIC", "obj_label": "Brazil", "uuid": "27477ac1-df6b-4c96-82e9-ff227f9e51cd"}
-{"sub_label": "BRIC", "obj_label": "Russia", "uuid": "d7bb9d2e-2847-4146-b8cf-2e183170915d"}
-{"sub_label": "BRIC", "obj_label": "India", "uuid": "fa609644-afbc-43ba-b5f3-dccb00c00993"}
 {"sub_label": "Christmas Island", "obj_label": "Christmas", "uuid": "8a51ab76-0274-4c7c-afe4-47ed3f5a229b"}
 {"sub_label": "Cretaceous", "obj_label": "chalk", "uuid": "c21c119a-59c6-4b8b-9f8c-2de189b31194"}
 {"sub_label": "caffeine", "obj_label": "coffee", "uuid": "cf6837ba-17dc-4be4-80bd-ecec249a2861"}
 {"sub_label": "Cuba libre", "obj_label": "Cuba", "uuid": "34bff757-cf14-48cf-a652-e1a369c99fda"}
 {"sub_label": "Devonian", "obj_label": "Devon", "uuid": "04910764-fbfe-4b79-836d-8b6dff15f507"}
-{"sub_label": "Delmarva Peninsula", "obj_label": "Delaware", "uuid": "9b5686a0-3843-428d-af06-428f566dcfa9"}
-{"sub_label": "English Channel", "obj_label": "Brittany", "uuid": "578f6f5a-c7cd-48e0-ac35-3b30b004a083"}
 {"sub_label": "European Union", "obj_label": "Europe", "uuid": "205cb0a7-dc1d-48bc-8e71-b6cabb3806d2"}
 {"sub_label": "francium", "obj_label": "France", "uuid": "b18639e4-520d-4b8a-b450-69ababa6d8b6"}
 {"sub_label": "GNU", "obj_label": "Unix", "uuid": "14e32973-278f-4558-83b2-8991e630fbe5"}
@@ -35,15 +29,11 @@
 {"sub_label": "Trinidad and Tobago", "obj_label": "Trinidad", "uuid": "cfff0b20-0e4e-47a9-98b2-abeccca95977"}
 {"sub_label": "Birmingham City F.C.", "obj_label": "Birmingham", "uuid": "854073d5-7ffb-4430-a954-de4472dc4774"}
 {"sub_label": "O'Hare International Airport", "obj_label": "Chicago", "uuid": "66006fd6-8d88-4c45-b148-47a615fc4383"}
-{"sub_label": "Athens", "obj_label": "Athens", "uuid": "4d581bc2-0562-43ea-94f5-bac7413eb710"}
 {"sub_label": "Ky\u014dto Prefecture", "obj_label": "Kyoto", "uuid": "e54839fa-2097-47c5-a2a0-b34f961f9a32"}
 {"sub_label": "Leicestershire", "obj_label": "Leicester", "uuid": "b97f694a-691e-414c-8189-e86c06f7bf61"}
 {"sub_label": "Queensland", "obj_label": "Victoria", "uuid": "9313354a-2aa3-4c51-ac09-4fb1222251a0"}
 {"sub_label": "Victoria and Albert Museum", "obj_label": "Victoria", "uuid": "9281eaab-e8af-4507-8080-3025174f75ca"}
-{"sub_label": "Delmarva Peninsula", "obj_label": "Maryland", "uuid": "3a849e90-d900-4e67-afc0-dbb63c486a20"}
-{"sub_label": "English Channel", "obj_label": "England", "uuid": "3930c6c0-5639-45b2-8387-9c85d5c8077a"}
 {"sub_label": "USS Delaware", "obj_label": "Delaware", "uuid": "886bc620-06d6-4bfc-a5c8-ae8d46016281"}
-{"sub_label": "USS Virginia", "obj_label": "Virginia", "uuid": "5e8df571-b8c4-4d80-8707-b59e90ba32b9"}
 {"sub_label": "Oslo Airport, Fornebu", "obj_label": "Oslo", "uuid": "8e7b7082-4d40-417a-a446-37d48b2ecc22"}
 {"sub_label": "Abrahamic religion", "obj_label": "Abraham", "uuid": "f4398292-217e-4988-9bf9-651eda2573ce"}
 {"sub_label": "USS Connecticut", "obj_label": "Connecticut", "uuid": "c36f35fa-8a46-4078-a0c6-c29fe3836c2b"}
@@ -93,7 +83,6 @@
 {"sub_label": "Toyota Production System", "obj_label": "Toyota", "uuid": "2428ef66-0ab4-432a-80a6-387ee766870c"}
 {"sub_label": "Cincinnati/Northern Kentucky International Airport", "obj_label": "Cincinnati", "uuid": "7016c6ff-de82-4e0b-b52a-c5a12653bbcf"}
 {"sub_label": "Cincinnati Municipal Lunken Airport", "obj_label": "Cincinnati", "uuid": "8df5f893-94e3-4a1a-b9aa-c58b9f2bf7dc"}
-{"sub_label": "Delmarva Peninsula", "obj_label": "Virginia", "uuid": "62badf25-0424-47dc-8228-ecb411b44b7f"}
 {"sub_label": "Saint-Pierre de Montmartre", "obj_label": "Peter", "uuid": "965cbc50-2063-4f55-bf37-8d9a01932e23"}
 {"sub_label": "Warsaw Chopin Airport", "obj_label": "Warsaw", "uuid": "f09fa41b-9400-455d-8600-ff8a440580a1"}
 {"sub_label": "Winnipeg James Armstrong Richardson International Airport", "obj_label": "Winnipeg", "uuid": "fc09078f-f616-4966-941c-255e5399c1d4"}
@@ -142,8 +131,6 @@
 {"sub_label": "Indianapolis International Airport", "obj_label": "Indianapolis", "uuid": "03318597-184c-42ea-b49b-db4a511469f7"}
 {"sub_label": "Berlin Tempelhof Airport", "obj_label": "Berlin", "uuid": "b70d7cd4-3592-43df-8d25-f333e1055e76"}
 {"sub_label": "Bethlehem Steel", "obj_label": "Bethlehem", "uuid": "10a270fb-e26f-473c-8496-fc1fe906d4c8"}
-{"sub_label": "Peterborough Cathedral", "obj_label": "Peter", "uuid": "597775db-cf29-4db0-9ef5-12091140696f"}
-{"sub_label": "Peterborough Cathedral", "obj_label": "Andrew", "uuid": "c72c1d2f-6c02-4c09-8d4f-b3854b1fa6b7"}
 {"sub_label": "Oklahoma County", "obj_label": "Oklahoma", "uuid": "4f58b392-e4f2-4a09-8844-46f4ed3c5ce4"}
 {"sub_label": "Cornish engine", "obj_label": "Cornwall", "uuid": "9fcf5db2-7b49-47e3-8639-91672ec295fa"}
 {"sub_label": "Preston railway station", "obj_label": "Preston", "uuid": "1079f2e2-58d8-4caa-97cc-ca6b82b8697a"}
@@ -270,7 +257,6 @@
 {"sub_label": "Portsmouth Airport, Hampshire", "obj_label": "Portsmouth", "uuid": "300d8b79-c52b-4784-8a70-8391e42c1d40"}
 {"sub_label": "Hamburger Schule", "obj_label": "Hamburg", "uuid": "51118870-a4e4-4878-9064-6d5e5460e09e"}
 {"sub_label": "Island of Montreal", "obj_label": "Montreal", "uuid": "664f908c-7e68-418c-8ff1-df14a415b82c"}
-{"sub_label": "USS Virginia", "obj_label": "Virginia", "uuid": "9103eec7-94c6-45e8-a99d-c5efd337cf15"}
 {"sub_label": "Suvarnabhumi Airport", "obj_label": "Bangkok", "uuid": "e855a48a-23b5-4aea-9ab0-a1619a9b48b7"}
 {"sub_label": "Nokia", "obj_label": "Nokia", "uuid": "5b0a2c50-005e-40ec-8625-c08632003ad0"}
 {"sub_label": "Florence Airport, Peretola", "obj_label": "Florence", "uuid": "e925a19f-7968-4bf3-b87c-c6b1728ea597"}
@@ -283,7 +269,6 @@
 {"sub_label": "Berlin School of electronic music", "obj_label": "Berlin", "uuid": "24975037-858e-4d0b-8d07-096be11b3f78"}
 {"sub_label": "Jerusalem Prize", "obj_label": "Jerusalem", "uuid": "ae4813b6-9234-4199-9f4c-b013e19350ac"}
 {"sub_label": "Montgomery Regional Airport", "obj_label": "Montgomery", "uuid": "d1d0c74d-56fb-45e4-a9e3-85ef61e121a0"}
-{"sub_label": "Athens", "obj_label": "Athens", "uuid": "70e77744-72d7-4ca8-8325-a156509847e9"}
 {"sub_label": "Earth ellipsoid", "obj_label": "Earth", "uuid": "d629216e-d746-4a02-9f08-6920fd38d0c3"}
 {"sub_label": "Malta", "obj_label": "honey", "uuid": "6dc1e536-88d0-42ff-bc81-22186c786826"}
 {"sub_label": "Edmonton", "obj_label": "Edmonton", "uuid": "ab8dafa9-c9d4-4397-ac6b-83dde25978ad"}
@@ -309,7 +294,6 @@
 {"sub_label": "mitochondrial Eve", "obj_label": "Eve", "uuid": "f389b67c-8e8e-4c33-b542-72a9a481ad0a"}
 {"sub_label": "zincite", "obj_label": "zinc", "uuid": "d894111e-57f2-4bdd-8ca1-a843a982d34e"}
 {"sub_label": "Lot-et-Garonne", "obj_label": "Lot", "uuid": "31d3aac8-42d6-46ef-a976-1069c054e7d3"}
-{"sub_label": "Pen Mar", "obj_label": "Maryland", "uuid": "efaa016a-9d40-4128-aa67-29be5ddb607a"}
 {"sub_label": "Bristol (Whitchurch) Airport", "obj_label": "Bristol", "uuid": "a0803b57-bf98-413d-aecc-ba2a6fea306b"}
 {"sub_label": "Copenhagen Airport", "obj_label": "Copenhagen", "uuid": "ba38eede-9b93-4b54-a2b2-1782ea9f7101"}
 {"sub_label": "Istanbul Hezarfen Airfield", "obj_label": "Istanbul", "uuid": "2efd7a1a-2c1a-4242-8e24-a1e1cd2c2838"}
@@ -319,7 +303,6 @@
 {"sub_label": "Tehran Imam Khomeini International Airport", "obj_label": "Tehran", "uuid": "be8cb11e-ce71-4144-879c-1e0ccd79f14e"}
 {"sub_label": "Damascus International Airport", "obj_label": "Damascus", "uuid": "6dd6995a-bca5-46b0-ae6f-afbbc22991f9"}
 {"sub_label": "Cologne Cathedral", "obj_label": "Peter", "uuid": "15e483b5-f483-44cb-bd1a-a52283bc715a"}
-{"sub_label": "COBRA", "obj_label": "Copenhagen", "uuid": "53b86376-aea6-4eb1-b6a9-f3920491cc92"}
 {"sub_label": "PGM-17 Thor", "obj_label": "Thor", "uuid": "33b05051-797b-4cca-9de4-4b26508b555e"}
 {"sub_label": "Gloversville", "obj_label": "glove", "uuid": "2952fd06-26ea-4f99-aea7-11a55295d8aa"}
 {"sub_label": "Amsterdam Ordnance Datum", "obj_label": "Amsterdam", "uuid": "d27bba9b-44e7-44d5-ac1b-c8c9fb71c693"}
@@ -342,7 +325,6 @@
 {"sub_label": "Manchester Central railway station", "obj_label": "Manchester", "uuid": "7225b589-16ee-4f39-8c55-1ec5262bc692"}
 {"sub_label": "Helsinki Airport", "obj_label": "Helsinki", "uuid": "b6be82d1-b7d5-4c3e-9600-c5fb0357220b"}
 {"sub_label": "Hamburg culture", "obj_label": "Hamburg", "uuid": "f4b599c4-51e5-4767-8db2-0595b7d438da"}
-{"sub_label": "Pen Mar", "obj_label": "Pennsylvania", "uuid": "3f471e90-4669-4c6b-a5c7-c8383d0621ee"}
 {"sub_label": "uranophane-alpha", "obj_label": "uranium", "uuid": "cc015bc0-38f4-4196-bca3-a3d23ce0ef0b"}
 {"sub_label": "Copperton", "obj_label": "copper", "uuid": "7e058e3f-6fd6-4b47-9dba-66cefc852ca4"}
 {"sub_label": "Burlington International Airport", "obj_label": "Burlington", "uuid": "eaf29f45-6d1c-45c1-9c69-8613a075622c"}
@@ -369,8 +351,6 @@
 {"sub_label": "Leeds Central railway station", "obj_label": "Leeds", "uuid": "69c315f0-09a2-4867-8f38-250bc8bb9939"}
 {"sub_label": "thorium", "obj_label": "Thor", "uuid": "fa74d703-5463-4c23-84c8-df96661eb09a"}
 {"sub_label": "Amsterdam Airport Schiphol", "obj_label": "Amsterdam", "uuid": "7dfdbdcd-1de5-405e-ba1b-71e4e045af8b"}
-{"sub_label": "Three Countries Bridge", "obj_label": "France", "uuid": "0e094fb1-a872-4c97-a470-ce50c81ac933"}
-{"sub_label": "Three Countries Bridge", "obj_label": "Switzerland", "uuid": "b034b5ec-e894-4e0b-99ec-1cd8c8dd02d0"}
 {"sub_label": "USS Louisiana", "obj_label": "Louisiana", "uuid": "1c348e1e-4062-47de-abff-139c03d1cc8f"}
 {"sub_label": "Art Cologne", "obj_label": "Cologne", "uuid": "1b8a67df-812a-4866-ad70-22f8a53c8a62"}
 {"sub_label": "Battle of Waterloo", "obj_label": "Waterloo", "uuid": "75fb5de0-4279-4ab5-96f7-5467d1c8c215"}
@@ -425,8 +405,6 @@
 {"sub_label": "Apollo space program", "obj_label": "Apollo", "uuid": "4ceb6c5a-49f5-4a13-8775-6836264649d5"}
 {"sub_label": "Apollo Belvedere", "obj_label": "Apollo", "uuid": "3e2ccdd9-b83b-4067-b756-7b2ac120fa11"}
 {"sub_label": "RNZAF Base Auckland", "obj_label": "Auckland", "uuid": "43128013-617f-4497-b9b3-621f7ff7b3a1"}
-{"sub_label": "Seacouver", "obj_label": "Seattle", "uuid": "1e76b206-e56e-46d0-a572-1388de4c2301"}
-{"sub_label": "Seacouver", "obj_label": "Vancouver", "uuid": "9c4cff4e-165c-4067-b724-813e054a34a3"}
 {"sub_label": "Chair of Saint Peter", "obj_label": "Peter", "uuid": "5afaebf6-8452-495b-875c-8439a2995e6a"}
 {"sub_label": "Wilmington International Airport", "obj_label": "Wilmington", "uuid": "c4b9d3c7-e300-4e40-bace-bc9cbf71db9d"}
 {"sub_label": "Minneapolis sound", "obj_label": "Minneapolis", "uuid": "04f35f71-46cd-444a-9d20-1e9a3c06053f"}
@@ -454,7 +432,6 @@
 {"sub_label": "pink", "obj_label": "Rosa", "uuid": "54caa4ca-9e47-4bbd-a6cd-b81452c05ad5"}
 {"sub_label": "Hamilton Central railway station", "obj_label": "Hamilton", "uuid": "0df80f35-84d5-4eb1-9239-f7de4b249bb9"}
 {"sub_label": "Brittany", "obj_label": "Brittany", "uuid": "2ca642ec-a38f-4eee-aed4-ef56a3e055a8"}
-{"sub_label": "COBRA", "obj_label": "Amsterdam", "uuid": "08bf0ec9-3fe7-4833-accd-725f32ddba00"}
 {"sub_label": "Tokyo Rose", "obj_label": "Tokyo", "uuid": "e237db09-f179-4e93-ba9c-6ca58707fcd2"}
 {"sub_label": "Split Airport", "obj_label": "Split", "uuid": "0c08851a-8a38-412f-9c5a-8e09f55d0e12"}
 {"sub_label": "Swansea railway station", "obj_label": "Swansea", "uuid": "2721d728-e640-4b93-b16b-334e5e07d0fd"}

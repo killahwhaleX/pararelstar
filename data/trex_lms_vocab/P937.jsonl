@@ -37,12 +37,10 @@
 {"sub_label": "Edvard Hagerup Bull", "obj_label": "Oslo", "uuid": "66755622-d154-457a-b309-dc66c4cc8efd"}
 {"sub_label": "Adolphe Thiers", "obj_label": "Paris", "uuid": "d6d270d6-3127-42b2-bda5-a281a1301ac2"}
 {"sub_label": "Paul Schultze-Naumburg", "obj_label": "Berlin", "uuid": "10e96e07-f275-4983-9abe-bce33a3e43e8"}
-{"sub_label": "Fritz Reiner", "obj_label": "Dresden", "uuid": "ad925cb3-b330-4e03-88f7-adb89c986090"}
 {"sub_label": "George Glyn, 1st Baron Wolverton", "obj_label": "London", "uuid": "baf8d66c-812e-46d5-b8a6-ae0e5ee816fb"}
 {"sub_label": "Karl-August Fagerholm", "obj_label": "Helsinki", "uuid": "82d39589-8e4f-44f8-ab66-e0558e70269c"}
 {"sub_label": "Pehr Henrik Ling", "obj_label": "Stockholm", "uuid": "526b1b62-ea82-46cc-ae49-df3757c5c40c"}
 {"sub_label": "Wilhelm Jensen", "obj_label": "Vienna", "uuid": "ddd27711-1b04-4b4e-85e3-afd1df263901"}
-{"sub_label": "Vladimir Putin", "obj_label": "Dresden", "uuid": "dc81939b-f548-4396-ad30-6e42ff0e4907"}
 {"sub_label": "Romain Rolland", "obj_label": "Paris", "uuid": "05963023-3649-4902-8efd-603a552ceade"}
 {"sub_label": "Udo Lindenberg", "obj_label": "Hamburg", "uuid": "d3c5374f-1f02-45c5-90cd-1bd0283118b6"}
 {"sub_label": "Joan Ruddock", "obj_label": "London", "uuid": "a2305569-f2c5-4d20-82ce-8cb8b5386410"}
@@ -81,7 +79,6 @@
 {"sub_label": "Patti Smith", "obj_label": "Detroit", "uuid": "8094957f-f03b-40af-a70c-d7915de4d931"}
 {"sub_label": "Henry Jacob Bigelow", "obj_label": "Boston", "uuid": "d016445e-8590-43ae-abf1-02368e6368a9"}
 {"sub_label": "Halvard Lange", "obj_label": "Oslo", "uuid": "bebabc40-5b03-4965-b725-1bd97cfa0db1"}
-{"sub_label": "Albert Einstein", "obj_label": "Bern", "uuid": "e4f33b6d-6cda-4a73-9bd3-5668f884fe0d"}
 {"sub_label": "Allison Nelson", "obj_label": "Atlanta", "uuid": "e0394eb1-4566-4448-b401-3dd254d711e1"}
 {"sub_label": "Joseph Goebbels", "obj_label": "Berlin", "uuid": "b11e6ab0-59a2-43ab-bcaa-e6b86d39bc58"}
 {"sub_label": "Ursula Dubosarsky", "obj_label": "Sydney", "uuid": "176c15c1-0dce-47e6-8181-d8f6366e32ed"}
@@ -122,7 +119,6 @@
 {"sub_label": "Gloria Estefan", "obj_label": "Miami", "uuid": "39197cab-f52f-4b37-8a60-19df1abe6558"}
 {"sub_label": "Adolf Hitler", "obj_label": "Vienna", "uuid": "af263bbe-2baa-465b-9093-7f7cbeeb3bb9"}
 {"sub_label": "Marcus Musurus", "obj_label": "Venice", "uuid": "1ee969a7-0348-4c4a-8539-bdb7c9aa951b"}
-{"sub_label": "Fritz Reiner", "obj_label": "Cincinnati", "uuid": "7dfd6ac3-b1df-47d6-8b7e-ca163dd62b0b"}
 {"sub_label": "William Wilberforce", "obj_label": "London", "uuid": "cce069c5-0b17-4d55-82e4-00d1f9432c62"}
 {"sub_label": "Golda Meir", "obj_label": "Jerusalem", "uuid": "2e9fb2e7-d9d7-4738-91b2-be82fdf42f59"}
 {"sub_label": "Gottfried August Homilius", "obj_label": "Dresden", "uuid": "541f8d2c-664f-41c5-b162-eadf46d6c79e"}
@@ -176,7 +172,6 @@
 {"sub_label": "Daniele Capezzone", "obj_label": "Rome", "uuid": "72d12ced-a0a5-4e3d-895a-4340e42b8090"}
 {"sub_label": "George Walden", "obj_label": "London", "uuid": "384283dc-d81c-4a0a-b902-ec06f71a58f5"}
 {"sub_label": "Reginald Maudling", "obj_label": "London", "uuid": "cd89be3f-0e76-4728-910a-a7b8a2351e87"}
-{"sub_label": "Rosa Luxemburg", "obj_label": "Berlin", "uuid": "fd483a9c-b748-4f26-8363-5385bce85883"}
 {"sub_label": "Hilaire Belloc", "obj_label": "London", "uuid": "4fbf6608-d244-496f-9168-90ec6bf0361d"}
 {"sub_label": "Viktor Mikhailovich Vasnetsov", "obj_label": "Kiev", "uuid": "1771890f-d2e6-47ae-89eb-50db712d3806"}
 {"sub_label": "Daniel Ernst Jablonski", "obj_label": "Berlin", "uuid": "a4dc3e38-01ab-48ad-bdbe-6d2dd2cae6f2"}
@@ -188,7 +183,6 @@
 {"sub_label": "Axel Honneth", "obj_label": "Frankfurt", "uuid": "2569b288-bacd-4386-bef9-a995329600ba"}
 {"sub_label": "Gunnar Garbo", "obj_label": "Oslo", "uuid": "d35764c9-1d93-43aa-8244-d9786222bbcc"}
 {"sub_label": "Peter Walker, Baron Walker of Worcester", "obj_label": "London", "uuid": "509c5ac5-2773-42fb-bb9d-59d90ce937f4"}
-{"sub_label": "John Henry Newman", "obj_label": "Rome", "uuid": "08c206e2-50aa-4a60-a5dd-75d6fa28bc20"}
 {"sub_label": "Ed Broadbent", "obj_label": "Ottawa", "uuid": "6c241ef1-df82-4426-84dd-00a4393119e2"}
 {"sub_label": "Friedrich Gottlob Hayne", "obj_label": "Berlin", "uuid": "d7888595-261d-4a1d-8b0f-0b424d0d9cd5"}
 {"sub_label": "William Primrose", "obj_label": "Philadelphia", "uuid": "05f07d0f-619a-4577-bd0e-c79e2206da1e"}
@@ -214,10 +208,8 @@
 {"sub_label": "Karl May", "obj_label": "Dresden", "uuid": "b5fdea38-0364-4ab7-b589-3b178af7da74"}
 {"sub_label": "Franz Werfel", "obj_label": "Vienna", "uuid": "87942542-ac33-4756-bf27-83016dacaa7f"}
 {"sub_label": "Angela Merkel", "obj_label": "Berlin", "uuid": "2b8ef3c8-e710-4e25-ad33-c1e0a6c55718"}
-{"sub_label": "Jonathan Meese", "obj_label": "Hamburg", "uuid": "735ee14b-272a-46be-9eb7-083fc2fa5dd8"}
 {"sub_label": "Pascual Cervera y Topete", "obj_label": "Madrid", "uuid": "0c6dc32e-9309-488b-945b-a18f614aa6ef"}
 {"sub_label": "Thorvald Stauning", "obj_label": "Copenhagen", "uuid": "71898def-ec9d-493b-8671-b306b630c368"}
-{"sub_label": "Vincent van Gogh", "obj_label": "Paris", "uuid": "0ae8b1e6-89cb-43be-aba7-928e794ba4d0"}
 {"sub_label": "John Hamilton-Gordon, 1st Marquess of Aberdeen and Temair", "obj_label": "London", "uuid": "6a9da359-2c74-4cd4-8089-14b36393fd0f"}
 {"sub_label": "Marco Pannella", "obj_label": "Rome", "uuid": "bcb73f42-e9f4-4896-b71c-779e715a71a6"}
 {"sub_label": "Edward Shortt", "obj_label": "London", "uuid": "e42ced2d-97a5-4cde-b660-be4cd80e0d57"}
@@ -252,7 +244,6 @@
 {"sub_label": "Gaston d'Audiffret-Pasquier", "obj_label": "Paris", "uuid": "50a25e45-28b8-46e6-a600-787e4eeda9ca"}
 {"sub_label": "Iain Macleod", "obj_label": "London", "uuid": "72539bc9-339e-4a1b-85f1-878b760e5d72"}
 {"sub_label": "Charles Clarke", "obj_label": "London", "uuid": "38d5d815-5e9c-40fb-9f91-5f05c7eb0a93"}
-{"sub_label": "Rosa Luxemburg", "obj_label": "Warsaw", "uuid": "4d3bb583-c759-4818-8c88-bc0c8a85d55b"}
 {"sub_label": "Robert Bellarmine", "obj_label": "Rome", "uuid": "feeb2c59-aab0-462d-8f77-90579f1a1124"}
 {"sub_label": "Mona Mur", "obj_label": "Berlin", "uuid": "dfab999c-19ef-4a34-adf3-8a95b3d1ad88"}
 {"sub_label": "Archduke Franz Ferdinand", "obj_label": "Vienna", "uuid": "1e2128ae-a9ac-4dc9-932a-c4061d2f1b99"}
@@ -260,8 +251,6 @@
 {"sub_label": "Carl Gustav Carus", "obj_label": "Dresden", "uuid": "001a8cad-0110-489a-9759-410e3f48e09a"}
 {"sub_label": "Hans Litten", "obj_label": "Berlin", "uuid": "108d0be5-3711-48e0-a80d-f1765ae56b59"}
 {"sub_label": "Wols", "obj_label": "Paris", "uuid": "db2e3bbb-d0f7-4bf4-9ce2-eb359e26bdc9"}
-{"sub_label": "Vincent van Gogh", "obj_label": "Amsterdam", "uuid": "70284a9b-10f7-441f-9756-c66471e8b161"}
-{"sub_label": "Paulus Manutius", "obj_label": "Venice", "uuid": "9052b749-d4c9-4a33-bf18-a48b95d282b4"}
 {"sub_label": "Hans Erich Apostel", "obj_label": "Vienna", "uuid": "814478c6-8f9e-46ee-8023-b77eb63cc719"}
 {"sub_label": "Robert Grosvenor, 1st Baron Ebury", "obj_label": "London", "uuid": "1f43bef0-5e73-476b-9e76-e9f57df73aac"}
 {"sub_label": "Rory Stewart", "obj_label": "Kabul", "uuid": "939c8f71-e37d-4e4d-96f3-477e595a7f03"}
@@ -347,7 +336,6 @@
 {"sub_label": "Dominique Joseph Garat", "obj_label": "Paris", "uuid": "482ba60d-8016-4412-939a-eec9ef564f24"}
 {"sub_label": "Trilussa", "obj_label": "Rome", "uuid": "427cd13d-abc4-44f4-bd48-63faaf724a65"}
 {"sub_label": "Ferhat Abbas", "obj_label": "Paris", "uuid": "14d23d16-f5d3-47ae-afa5-21be2d351715"}
-{"sub_label": "Vladimir Putin", "obj_label": "Moscow", "uuid": "7b36fa2a-f766-464f-bf74-ea1151c73dea"}
 {"sub_label": "Nancy Astor, Viscountess Astor", "obj_label": "London", "uuid": "18eb9997-750c-446a-9e0b-d332e2616451"}
 {"sub_label": "Nitzan Horowitz", "obj_label": "Jerusalem", "uuid": "9ee8485e-e590-4300-926c-636b07ca719c"}
 {"sub_label": "Andrew Lloyd Webber", "obj_label": "London", "uuid": "a6cee5bc-4fa9-4f73-b500-1bcebc7de64b"}
@@ -356,11 +344,9 @@
 {"sub_label": "Fritz Simrock", "obj_label": "Berlin", "uuid": "a29f9c58-072f-4bb6-8fe5-81ee2bc5b960"}
 {"sub_label": "Charles James Fox", "obj_label": "London", "uuid": "ac684ecd-8b00-4d32-a154-c7eeb0163452"}
 {"sub_label": "Arvid Lindman", "obj_label": "Stockholm", "uuid": "6c9e9f93-1cc8-4f02-934c-f66c70ca7ef0"}
-{"sub_label": "Christoph Willibald von Gluck", "obj_label": "Vienna", "uuid": "c2ffb80f-b0a7-4c8a-975d-5d054232b027"}
 {"sub_label": "Johann von Berenberg-Gossler", "obj_label": "Hamburg", "uuid": "913f2c76-b6b3-4bba-875f-27d9427b947e"}
 {"sub_label": "Marek Edelman", "obj_label": "Warsaw", "uuid": "571bbfb3-dc6a-4884-8b1e-edd34e7a91e2"}
 {"sub_label": "Shaul Mofaz", "obj_label": "Jerusalem", "uuid": "33647542-5e3d-46f4-875b-6f090836cb70"}
-{"sub_label": "Carl Philipp Emanuel Bach", "obj_label": "Hamburg", "uuid": "841751bd-aefc-4e79-a3c5-b90c94336a05"}
 {"sub_label": "Joseph Bergler the Younger", "obj_label": "Prague", "uuid": "dfe8179e-75d7-42ad-ae6b-7b91095156b9"}
 {"sub_label": "Cedric Drewe", "obj_label": "London", "uuid": "557ffa59-89ad-4455-878c-19e73a967294"}
 {"sub_label": "Ernest Lapointe", "obj_label": "Ottawa", "uuid": "bb80cd42-91c7-4fca-b9cc-2ff235846cc5"}
@@ -419,7 +405,6 @@
 {"sub_label": "Harvie Andre", "obj_label": "Ottawa", "uuid": "85aebc1f-9647-4a5e-b55f-0fd771c7f2a0"}
 {"sub_label": "Theobald Boehm", "obj_label": "Munich", "uuid": "61213da9-7626-41ae-bee4-01fae0b23ce1"}
 {"sub_label": "Jacques Laffitte", "obj_label": "Paris", "uuid": "1dfb45ae-1e70-478b-ae64-a5105e5a1abf"}
-{"sub_label": "Albert Einstein", "obj_label": "Berlin", "uuid": "dd080e5d-6e84-46a9-8e2d-33edc11cf03f"}
 {"sub_label": "Herbert von Karajan", "obj_label": "Berlin", "uuid": "7ec68e07-a0ea-4a57-9871-39104803afe8"}
 {"sub_label": "G\u00e9rard Desargues", "obj_label": "Paris", "uuid": "a3a17101-baf6-4d62-88e7-64df8d41f4f9"}
 {"sub_label": "Eduardo Zaplana", "obj_label": "Madrid", "uuid": "62676449-39d4-4e19-a197-bc7f3d2e8f9c"}
@@ -479,7 +464,6 @@
 {"sub_label": "Yigael Yadin", "obj_label": "Jerusalem", "uuid": "e6f2d479-db36-4040-98c0-a99a2a78f8f8"}
 {"sub_label": "Chris Philp", "obj_label": "London", "uuid": "bd369e5a-f3d5-46e8-9107-8f1ff46a6a82"}
 {"sub_label": "Bavaria", "obj_label": "Berlin", "uuid": "5b19bb05-7c80-4975-b085-09ed428d2ddc"}
-{"sub_label": "Carl Philipp Emanuel Bach", "obj_label": "Berlin", "uuid": "e63ed2f9-ab68-43e9-a0b8-2a2ab1616c37"}
 {"sub_label": "Urbain Le Verrier", "obj_label": "Paris", "uuid": "f70e8db2-ef63-446b-be8e-7cd10a158372"}
 {"sub_label": "Rudolf Steiner", "obj_label": "Berlin", "uuid": "63b08fe5-dffd-4740-bdda-10a8ec7a4c91"}
 {"sub_label": "Evald Rygh", "obj_label": "Oslo", "uuid": "bfba2b75-88a8-40f1-bdb9-e1269d59a21f"}
@@ -589,7 +573,6 @@
 {"sub_label": "Robert Haythorne", "obj_label": "Ottawa", "uuid": "408633a7-7a49-4335-bf06-9eb70bbe32c4"}
 {"sub_label": "Willy Millowitsch", "obj_label": "Cologne", "uuid": "0903899b-5508-45fe-9d69-e110b34b7c27"}
 {"sub_label": "Ellen Wilkinson", "obj_label": "London", "uuid": "29f364d2-182a-434e-953d-979ac11e9361"}
-{"sub_label": "Jonathan Meese", "obj_label": "Berlin", "uuid": "2c74677c-7a25-4ddf-9280-c538b25c7aab"}
 {"sub_label": "Wojciech Rubinowicz", "obj_label": "Warsaw", "uuid": "6cbd854f-98f3-4d9e-9661-183afc500666"}
 {"sub_label": "Renzo Piano", "obj_label": "Rome", "uuid": "98c34ed1-4317-47ba-8fa6-fb62c7f6a074"}
 {"sub_label": "John and Edith Kilbuck", "obj_label": "Alaska", "uuid": "e3ae7ea0-8a63-4b3e-a15c-173ce2563447"}
@@ -602,7 +585,6 @@
 {"sub_label": "Frank Markham", "obj_label": "London", "uuid": "815e34ce-473f-4916-9af9-edc3c5f88b3d"}
 {"sub_label": "James Michael Curley", "obj_label": "Boston", "uuid": "e2401b64-4adc-4ed5-8f36-80ce7034d812"}
 {"sub_label": "Yitzhak Ben-Zvi", "obj_label": "Jerusalem", "uuid": "6e0464b3-4251-4c40-ba01-6a40e723077b"}
-{"sub_label": "Paulus Manutius", "obj_label": "Rome", "uuid": "855118d5-6c82-46bb-85cb-941fcb42fc76"}
 {"sub_label": "Gaetano Rossi", "obj_label": "Venice", "uuid": "7f691c72-a4a0-44a8-a4f2-97499daab2cf"}
 {"sub_label": "Kristin Clemet", "obj_label": "Oslo", "uuid": "185b314a-1f9e-4cff-8526-c5011a9741e4"}
 {"sub_label": "Yuli Gusman", "obj_label": "Moscow", "uuid": "49c01934-d660-48d3-9063-7015496e60e3"}
@@ -652,7 +634,6 @@
 {"sub_label": "Theodor Fritsch", "obj_label": "Berlin", "uuid": "cd3e1cd2-b87d-423c-bfe7-7048a86c952c"}
 {"sub_label": "Anthony Steen", "obj_label": "London", "uuid": "ec91dc10-242e-49e3-b5de-a3b14a5c41a2"}
 {"sub_label": "Rabih Alameddine", "obj_label": "Beirut", "uuid": "ce737f24-c863-4371-9b06-3cabad43eded"}
-{"sub_label": "Fritz Reiner", "obj_label": "Pittsburgh", "uuid": "8839f9e7-6b0d-438f-be0c-4d3c6f872b75"}
 {"sub_label": "Rufus Isaacs, 1st Marquess of Reading", "obj_label": "London", "uuid": "3063670a-2e6a-4906-991e-e6bd1c23f1cc"}
 {"sub_label": "Emma Bonino", "obj_label": "Rome", "uuid": "67c49860-f5c3-492b-ab77-6329ef92ef4d"}
 {"sub_label": "Reinhard Goebel", "obj_label": "Cologne", "uuid": "433b9b6d-41c0-47bf-b316-981fc0846110"}
@@ -697,7 +678,6 @@
 {"sub_label": "Paul Meurice", "obj_label": "Paris", "uuid": "ddad02f5-9e63-469a-8480-2a2783582eff"}
 {"sub_label": "Philip Magnus", "obj_label": "London", "uuid": "3c30521c-4927-4492-b38c-4ea10b083069"}
 {"sub_label": "Diederik Wissels", "obj_label": "Belgium", "uuid": "4f0f0d48-9f3d-4e74-895e-63357ac01540"}
-{"sub_label": "Christoph Willibald von Gluck", "obj_label": "Paris", "uuid": "b41d182f-66ee-4064-bbcc-cfa35acc7041"}
 {"sub_label": "Wilhelm von Gloeden", "obj_label": "Italy", "uuid": "adf7ab29-2a51-4e16-a102-17ca8d86181d"}
 {"sub_label": "Jeffrey Archer", "obj_label": "London", "uuid": "f8fdee1a-099c-43dc-b1d7-75452df7ecee"}
 {"sub_label": "Edvard Westermarck", "obj_label": "Helsinki", "uuid": "e3b90e9d-c67d-406b-ae3a-579b4da9cdd0"}
@@ -835,7 +815,6 @@
 {"sub_label": "Armand Trousseau", "obj_label": "Paris", "uuid": "ee5ab2d2-edc5-455b-80dd-03b4bb00a028"}
 {"sub_label": "Leo Mittler", "obj_label": "Paris", "uuid": "9fd2b6ee-eebc-4fad-94fd-88d4e960bd27"}
 {"sub_label": "Derek Conway", "obj_label": "London", "uuid": "0ad11619-3257-4893-ae8f-5c674378f5d0"}
-{"sub_label": "John Henry Newman", "obj_label": "Birmingham", "uuid": "d781ab03-26e0-48f2-8a69-7830ada65e25"}
 {"sub_label": "Mayer Carl von Rothschild", "obj_label": "Frankfurt", "uuid": "5494f600-6c21-4488-946e-cfb2fb9d50e2"}
 {"sub_label": "Joseph Schmitt", "obj_label": "Amsterdam", "uuid": "12c31218-2905-4e13-9c37-4ddd572e843d"}
 {"sub_label": "Jennie Lee, Baroness Lee of Asheridge", "obj_label": "London", "uuid": "b20d2eea-53c4-413b-b325-6ed33431d43a"}

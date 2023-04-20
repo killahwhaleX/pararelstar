@@ -213,7 +213,6 @@
 {"sub_label": "Argo Tea", "obj_label": "Chicago", "uuid": "ec503b35-9f07-439c-a3ef-7dee589729d0"}
 {"sub_label": "Edda Media", "obj_label": "Oslo", "uuid": "ea000ca5-dd10-47c1-950b-cc72b74c94a7"}
 {"sub_label": "Six Shooter Records", "obj_label": "Toronto", "uuid": "e824aedd-221e-489b-a511-49d9c6499154"}
-{"sub_label": "Boston Market", "obj_label": "Boston", "uuid": "2fef52a9-158f-4562-92c2-15849a91f807"}
 {"sub_label": "Royal Australian Air Force", "obj_label": "Canberra", "uuid": "1f4b8544-d99b-49fc-85aa-14f2fce79f7b"}
 {"sub_label": "DCD Media", "obj_label": "London", "uuid": "4408a711-b037-400d-89cc-017dcc476f28"}
 {"sub_label": "Boston Athletic Association", "obj_label": "Boston", "uuid": "486ceba4-1a8a-47dd-9554-7d9c68614ecd"}
@@ -326,7 +325,6 @@
 {"sub_label": "Amirkabir University of Technology", "obj_label": "Tehran", "uuid": "72d9ca82-7c8d-48ca-838f-3a17ef8a4f6b"}
 {"sub_label": "OMRON", "obj_label": "Kyoto", "uuid": "9c4c8a39-0ca8-46c8-8f7c-8c399ac799ef"}
 {"sub_label": "Healthways", "obj_label": "Franklin", "uuid": "76f54f7d-7e62-4c17-9528-0f00171314ea"}
-{"sub_label": "Heilmann & Littmann", "obj_label": "Berlin", "uuid": "c27868ad-05b1-4b6b-835b-d11c1b1b12b2"}
 {"sub_label": "People's Democratic Party of Afghanistan", "obj_label": "Kabul", "uuid": "56330f71-6c97-40c2-899c-a3f7a78ca37c"}
 {"sub_label": "First Chicago Bank", "obj_label": "Chicago", "uuid": "5b849e13-b92d-4b74-96bd-562691543cbb"}
 {"sub_label": "Allen & Overy", "obj_label": "London", "uuid": "f0c8a5a2-392b-4204-8911-23de0eb49b28"}
@@ -403,7 +401,6 @@
 {"sub_label": "Tata Consultancy Services", "obj_label": "Mumbai", "uuid": "deeba0ad-6278-4ed3-af9b-2996ef7ac5f6"}
 {"sub_label": "Serono", "obj_label": "Geneva", "uuid": "5def35dc-b1d8-4db7-94b1-1c81c1679510"}
 {"sub_label": "Fat Possum Records", "obj_label": "Oxford", "uuid": "98c7152c-e209-4d0e-b8fb-f84dc80d0d70"}
-{"sub_label": "Boston Market", "obj_label": "Golden", "uuid": "deafd994-1b49-4220-b20b-e1a7232efd9c"}
 {"sub_label": "Keystone Bridge Company", "obj_label": "Pittsburgh", "uuid": "88c33eab-fe82-4f18-9683-52feef92a1d1"}
 {"sub_label": "Land Securities", "obj_label": "London", "uuid": "7625cf44-39c3-40de-b9d7-053b42224adc"}
 {"sub_label": "Boston and Maine Corporation", "obj_label": "Boston", "uuid": "184a33de-3985-409b-9dd5-8aef8ad40a69"}
@@ -491,7 +488,6 @@
 {"sub_label": "BSC Young Boys", "obj_label": "Bern", "uuid": "c9953458-c981-401b-8499-4cded6b655c5"}
 {"sub_label": "Vosper & Company", "obj_label": "Portsmouth", "uuid": "30f53b3d-7d00-4feb-b793-b652d01f9de0"}
 {"sub_label": "Cray Wanderers F.C.", "obj_label": "London", "uuid": "1c7e7060-767f-4aa4-ab02-16ba64c8dd6c"}
-{"sub_label": "Heilmann & Littmann", "obj_label": "Munich", "uuid": "ecdf518e-9c50-45f9-8521-3248d653dfed"}
 {"sub_label": "Sega Wow", "obj_label": "Japan", "uuid": "731258e5-8c9c-4883-996e-2af59c922a26"}
 {"sub_label": "Reading Company", "obj_label": "Philadelphia", "uuid": "76d8b767-3b93-454f-a77e-d261c9d012a9"}
 {"sub_label": "Sonata Software", "obj_label": "Bangalore", "uuid": "07e163a0-2515-410d-8de5-d797359607a8"}

@@ -12,13 +12,11 @@
 {"sub_label": "Canberra", "obj_label": "Australia", "uuid": "50654fe7-07be-42a1-8cdb-0a1a25514a11"}
 {"sub_label": "Baghdad", "obj_label": "Iraq", "uuid": "0ad56ea4-5444-4b66-bb07-4f83fd79c765"}
 {"sub_label": "Edinburgh", "obj_label": "Scotland", "uuid": "8d4a029b-b692-4113-adcc-1afe3a89f246"}
-{"sub_label": "Kabul", "obj_label": "Afghanistan", "uuid": "d157e30d-58f9-4bb9-a4e2-5fd32bf6c0b8"}
 {"sub_label": "Bonn", "obj_label": "Germany", "uuid": "d52525c0-32a0-48e6-a2a0-597242cc59d9"}
 {"sub_label": "Berlin", "obj_label": "Germany", "uuid": "54b96082-7dbf-4aae-91d9-2c6a1b76b89d"}
 {"sub_label": "Paris", "obj_label": "France", "uuid": "64382688-c74e-46b5-adc4-e1a1f7e9187d"}
 {"sub_label": "Mumbai", "obj_label": "Maharashtra", "uuid": "165a39d5-61dc-4073-b3db-3f44dd5dc4e5"}
 {"sub_label": "Oslo", "obj_label": "Norway", "uuid": "bd2099d4-cc25-4f7c-833e-0b325ee34f32"}
-{"sub_label": "Jerusalem", "obj_label": "Judah", "uuid": "b916b6f7-2656-402e-8bab-b8e028d51e88"}
 {"sub_label": "Bucharest", "obj_label": "Romania", "uuid": "662f9787-321e-4e27-964c-30af89c21339"}
 {"sub_label": "Melbourne", "obj_label": "Victoria", "uuid": "cec4a889-3d2d-40bf-8ea3-9a4c68bb5e2e"}
 {"sub_label": "Beijing", "obj_label": "Taiwan", "uuid": "95aae87a-8c8e-4df9-8a41-e761168a8b41"}
@@ -31,12 +29,10 @@
 {"sub_label": "Tunis", "obj_label": "Tunisia", "uuid": "efb26d07-0610-4584-b99d-a55fddd92400"}
 {"sub_label": "Rio de Janeiro", "obj_label": "Brazil", "uuid": "50eb21e8-ba23-44b6-9ed5-d2075d1e7924"}
 {"sub_label": "Valletta", "obj_label": "Malta", "uuid": "7ae89a3f-2314-4215-86bb-73657f21cc08"}
-{"sub_label": "London", "obj_label": "England", "uuid": "ceb88081-ddd3-4dc5-8a76-e0609c2d7ddb"}
 {"sub_label": "Rabat", "obj_label": "Morocco", "uuid": "1a630dfb-adc2-47c6-9f3d-e9f06f7f0fa8"}
 {"sub_label": "Riga", "obj_label": "Latvia", "uuid": "5b32adf8-f1d2-4e56-81cf-62dd352abaae"}
 {"sub_label": "Damascus", "obj_label": "Syria", "uuid": "724c16a2-f987-4cbe-b920-d5bf53489a25"}
 {"sub_label": "Dar es Salaam", "obj_label": "Tanzania", "uuid": "754f08b6-0ed3-429e-ab13-399f4813eaba"}
-{"sub_label": "London", "obj_label": "England", "uuid": "3c892062-83e0-4eb8-a885-b00e2d034ad6"}
 {"sub_label": "Stockholm", "obj_label": "Sweden", "uuid": "41036d7a-2302-43f0-afbb-9ac364a9bc62"}
 {"sub_label": "Helsinki", "obj_label": "Finland", "uuid": "58b5ec79-a84e-4241-83c1-ac5f39349b24"}
 {"sub_label": "Indianapolis", "obj_label": "Indiana", "uuid": "8bd89120-4752-453c-ad94-56ee75b7702e"}
@@ -50,7 +46,6 @@
 {"sub_label": "Tokyo", "obj_label": "Japan", "uuid": "f647c983-3d47-4f4e-ba13-e0a007217c0f"}
 {"sub_label": "Vienna", "obj_label": "Austria", "uuid": "5c9398c3-31fa-4d5f-b1c6-a033abee1ad0"}
 {"sub_label": "Ljubljana", "obj_label": "Slovenia", "uuid": "db41bfb6-104c-4fc2-92e4-4fdd6ead9f26"}
-{"sub_label": "Jerusalem", "obj_label": "Israel", "uuid": "ea28be56-a778-401a-926a-a46f8f090122"}
 {"sub_label": "Jakarta", "obj_label": "Indonesia", "uuid": "bf493b58-3fae-4bc5-9982-0a01a625b902"}
 {"sub_label": "Nairobi", "obj_label": "Kenya", "uuid": "e85730f1-abdd-4af6-9533-8ecb96420262"}
 {"sub_label": "Kuala Lumpur", "obj_label": "Malaysia", "uuid": "0e45e622-5e2d-401c-82aa-f178f595a77e"}
@@ -78,7 +73,6 @@
 {"sub_label": "Bangkok", "obj_label": "Thailand", "uuid": "3697439c-a305-4ad4-8a0c-c50145c38ee1"}
 {"sub_label": "Santiago", "obj_label": "Chile", "uuid": "b2a69b49-6419-4f89-9a99-fb12cbb0637c"}
 {"sub_label": "New Delhi", "obj_label": "India", "uuid": "259d790d-9456-41bf-8a01-8102b92d2585"}
-{"sub_label": "Belgrade", "obj_label": "Serbia", "uuid": "35c3fb1f-b17d-4a1c-92a9-e003eb62c849"}
 {"sub_label": "Caracas", "obj_label": "Venezuela", "uuid": "8ed6b973-7a95-4737-9f15-a3e303ea183e"}
 {"sub_label": "Nicosia", "obj_label": "Cyprus", "uuid": "aad8959f-fe68-42bd-87b0-3531f5e906ba"}
 {"sub_label": "Kiev", "obj_label": "Ukraine", "uuid": "3fb3fb54-6d96-4d70-9881-b2d04bc3f129"}
@@ -142,7 +136,6 @@
 {"sub_label": "Pristina", "obj_label": "Kosovo", "uuid": "6a95c600-0c18-4572-9a76-3b1edbf2a47b"}
 {"sub_label": "Nuuk", "obj_label": "Greenland", "uuid": "3bc671ed-24f4-4a2f-a060-a3a5f7f4836e"}
 {"sub_label": "Winchester", "obj_label": "England", "uuid": "83fe23c4-d227-4a56-b1db-4f038d602764"}
-{"sub_label": "Belgrade", "obj_label": "Yugoslavia", "uuid": "8de6b005-416e-4ee2-a819-0b4f50f66f00"}
 {"sub_label": "Hartford", "obj_label": "Connecticut", "uuid": "6708f62d-cafd-41e5-b79f-b0338f37a10b"}
 {"sub_label": "Lima", "obj_label": "Peru", "uuid": "123e4c9f-1d8a-4b3e-98f1-0feaa3abaecf"}
 {"sub_label": "Conakry", "obj_label": "Guinea", "uuid": "ce4f99d2-4579-4bac-a885-be81c28901bb"}
@@ -156,7 +149,6 @@
 {"sub_label": "Brussels", "obj_label": "Belgium", "uuid": "ed845645-df29-476d-be36-3dd41d226daf"}
 {"sub_label": "Munich", "obj_label": "Munich", "uuid": "03d91505-7301-410f-a444-732eb923dcbd"}
 {"sub_label": "Bukittinggi", "obj_label": "Indonesia", "uuid": "93f33466-6dd9-40f0-bbb5-d22fe7f348c5"}
-{"sub_label": "Kabul", "obj_label": "Kabul", "uuid": "46f718d1-352d-4b17-b1f4-fe46b0b7bfe9"}
 {"sub_label": "Nauplion", "obj_label": "Greece", "uuid": "e0b8df9a-a04d-475d-830d-382479fadc67"}
 {"sub_label": "Hinche", "obj_label": "Centre", "uuid": "59727158-b8c0-48e4-afb1-c74d630ff0a1"}
 {"sub_label": "Boise", "obj_label": "Idaho", "uuid": "d60102b9-4bf5-49f2-8e05-a1c4effbb989"}
