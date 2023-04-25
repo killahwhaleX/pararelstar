@@ -385,6 +385,10 @@ def main():
     else:
         data = read_jsonl_file(args.data_file)
 
+    if "uncased" in args.lm:
+        for x in data:
+            x["obj_label"] = x["obj_label"].lower()
+    
     model_name = args.lm
 
     print('Language Models: {}'.format(model_name))
