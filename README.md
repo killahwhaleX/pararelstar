@@ -128,7 +128,7 @@ python -m debugpy --wait-for-client --listen 5678 -m pararel.consistency.encode_
        --wandb
 ```
 
-All files in a go:
+Generate ParaRel eval results for all Atlas prediction files in a go:
 ```bash
-./eval_atlas_preds.sh /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-
+./eval_atlas_preds.sh <prefix-of-files-with-predictions, e.g. /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval->
 ```
