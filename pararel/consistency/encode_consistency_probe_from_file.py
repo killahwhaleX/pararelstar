@@ -38,7 +38,8 @@ def main():
 
     parse.add_argument("--wandb", action='store_true')
     parse.add_argument("--baseline", action='store_true', default=False)
-
+    parse.add_argument("--wandb_flag", type=str, help="additional flag for wandb", default="")
+    
     args = parse.parse_args()
 
     if args.wandb:

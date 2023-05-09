@@ -15,6 +15,9 @@ from pararel.consistency.utils import read_jsonl_file, read_graph
 def log_wandb(args):
     pattern = args.data_file.split('/')[-1].split('.')[0].split('-')[0]
     lm = args.lm
+    tags_list = [pattern, 'probe']
+    if args.wandb_flag: 
+        tags_list.append(args.wandb_flag)
 
     if args.baseline:
         lm = 'majority-baseline'
@@ -51,7 +54,7 @@ def log_wandb(args):
         #entity='consistency',
         name=f'{pattern}_consistency_probe_{lm}',
         project="consistency",
-        tags=[pattern, 'probe'],
+        tags=tags_list,
         config=config,
     )
 
@@ -373,7 +376,7 @@ def main():
     parse.add_argument("--use_targets", action='store_true', default=False, help="use the set of possible objects"
                                                                                  "from the data as the possible"
                                                                                  "candidates")
-
+    parse.add_argument("--wandb_flag", type=str, default = None)
     args = parse.parse_args()
 
     if args.wandb:
