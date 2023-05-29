@@ -60,8 +60,10 @@ def main():
         read_results_fn = read_ernie_results
     elif "atlas" in args.lm:
         read_results_fn = read_atlas_results
+    elif "llama" in args.lm:
+        read_results_fn = read_atlas_results
     else:
-        ValueError("LM must be any of ERNIE or Atlas models.")
+        ValueError("LM must be any of ERNIE, Atlas or LLaMA models.")
         
     for dp in data:
         prompt, subj, obj, prediction = read_results_fn(dp)
