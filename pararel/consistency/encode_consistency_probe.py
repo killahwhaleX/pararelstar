@@ -132,7 +132,7 @@ def analyze_results(lm_results: Dict, patterns_graph) -> None:
     correct_subjects_per_pattern = defaultdict(int)
     correct_patterns_per_subject = defaultdict(int)
     consistency_performance = defaultdict(list)
-
+    k_consistency_performance = defaultdict(list)
     for pattern, vals in lm_results.items():
         for subj, (pred, gold_obj) in vals.items():
             graph_node = get_node(patterns_graph, pattern)
@@ -155,11 +155,13 @@ def analyze_results(lm_results: Dict, patterns_graph) -> None:
                 if filter_a_an_vowel_mismatch(ent_pattern, gold_obj):
                     continue
                 success = pred == lm_results[ent_pattern][subj][0]
+                k_success = pred == lm_results[ent_pattern][subj][0] and pred == gold_obj
                 if success:
                     points += 1
                 total += 1
                 base_pattern_success.append(int(success))
                 consistency_performance[subj].append(success)
+                k_consistency_performance[subj].append(k_success)
 
                 points_by_edge[graph_node.lm_pattern + '_' + ent_node.lm_pattern].append(int(success))
                 edges_out[graph_node.lm_pattern].append(int(success))
@@ -184,11 +186,9 @@ def analyze_results(lm_results: Dict, patterns_graph) -> None:
                     if success:
                         points_no += 1
                     total_no += 1
-
             base_success = sum(base_pattern_success) / len(base_pattern_success)
             ent = entropy([base_success, 1.0 - base_success], base=2)
-            avg_entropy.append(ent)
-
+            avg_entropy.append(ent) 
     if total > 0:
         print('overall', points, total, points / total)
         wandb.run.summary['consistency'] = points / total
@@ -241,7 +241,6 @@ def analyze_results(lm_results: Dict, patterns_graph) -> None:
         if success > 0:
             successful_patterns += 1
     wandb.run.summary['successful_patterns'] = successful_patterns / len(correct_subjects_per_pattern)
-
     success_for_knowledgable_patterns, total_for_knowledgable_patterns = 0, 0
     success_for_unknowledgable_patterns, total_for_unknowledgable_patterns = 0, 0
     for subj, success in consistency_performance.items():
@@ -261,6 +260,18 @@ def analyze_results(lm_results: Dict, patterns_graph) -> None:
                                                           / total_for_unknowledgable_patterns
     else:
         wandb.run.summary['unknowledgable_consistency'] = 0
+
+    k_success_for_knowledgable_patterns, k_total_for_knowledgable_patterns = 0, 0
+    for subj, success in k_consistency_performance.items():
+        if correct_patterns_per_subject[subj] > 0:
+            k_success_for_knowledgable_patterns += sum(success)
+            k_total_for_knowledgable_patterns += len(success)
+    if k_total_for_knowledgable_patterns > 0:
+        wandb.run.summary[
+            'k_knowledgable_consistency'] = k_success_for_knowledgable_patterns / k_total_for_knowledgable_patterns
+    else:
+       wandb.run.summary['k_knowledgable_consistency'] = 0
+
 
     wandb.run.summary['total'] = total
     wandb.run.summary['total_syn'] = total_syn
