@@ -13,13 +13,14 @@ from pararel.consistency.utils import read_jsonl_file, read_graph
 
 from pararel.consistency.encode_consistency_probe import log_wandb, analyze_graph, analyze_results, evaluate_lama, group_score_lama_eval, group_score_incorrect_ans_eval
 
-def read_ernie_results(data):
+def read_ernie_results(data, r_flag = False):
     return data["prompt"], data["subject"], data["object"].lower(), data["prediction"], [0]
 
-def read_atlas_results(data):
-    return data["pattern"], data["sub_label"], data["answers"][0], data["generation"], data["passages"]
+def read_atlas_results(data, r_flag = False):
+    retrieval = [p["id"] for p in data["passages"]] if r_flag else [0]
+    return data["pattern"], data["sub_label"], data["answers"][0], data["generation"], retrieval
 
-def read_llama_results(data):
+def read_llama_results(data, r_flag = False):
     return data["pattern"], data["sub_label"], data["answers"][0], data["generation"], [0]
 
 def get_filtered_data(data):
@@ -42,7 +43,7 @@ def main():
     parse.add_argument("--wandb", action='store_true')
     parse.add_argument("--baseline", action='store_true', default=False)
     parse.add_argument("--wandb_flag", type=str, help="additional flag for wandb", default="")
-    
+    parse.add_argument("--retriever_statistics", action='store_true')
     args = parse.parse_args()
 
     if args.wandb:
@@ -69,12 +70,11 @@ def main():
         ValueError("LM must be any of ERNIE, Atlas or LLaMA models.")
 
     for dp in data:
-        prompt, subj, obj, prediction, psgs = read_results_fn(dp)
-        psg_ids = [p["id"] for p in psgs]
-        r_results[prompt][subj] = psg_ids
+        prompt, subj, obj, prediction, psgs = read_results_fn(dp, args.retriever_statistics)
+        r_results[prompt][subj] = psgs
         lm_results[prompt][subj] = (prediction,obj)
-    
-    if "atlas" in args.lm:
+
+    if args.retriever_statistics:
         analyze_results(lm_results, patterns_graph, r_results)
     else:
         analyze_results(lm_results, patterns_graph)

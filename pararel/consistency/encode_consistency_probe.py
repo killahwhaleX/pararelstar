@@ -202,11 +202,21 @@ def analyze_results(lm_results: Dict, patterns_graph, retriever_results: Dict = 
         wandb.run.summary['consistency'] = -1
     if len(retriever_results)>0:
         subject_consistency = []
+        match_consistency = []
+        no_match_consistency = []
         for subj, overlaps in r_consistency_performance.items():
             subject_consistency.append(sum(overlaps)/len(overlaps))
+            match_list = [i for i, j in zip(overlaps,consistency_performance[subj]) if j]
+            no_match_list = [i for i, j in zip(overlaps,consistency_performance[subj]) if not j]
+            match_consistency.append(sum(match_list)/len(match_list))
+            no_match_consistency.append(sum(no_match_list)/len(no_match_list))
         wandb.run.summary['retriever_consistency'] = sum(subject_consistency)/len(subject_consistency)
+        wandb.run.summary['retriever_match_consistency'] = sum(match_consistency)/len(match_consistency)
+        wandb.run.summary['retriever_no_match_consistency'] = sum(no_match_consistency)/len(no_match_consistency)
     else:
         wandb.run.summary['retriever_consistency'] = -1
+        wandb.run.summary['retriever_match_consistency'] = -1
+        wandb.run.summary['retriever_no_match_consistency']  = -1
     if total_syn > 0:
         wandb.run.summary['syntactic_consistency'] = points_syn / total_syn
         print('syntactic', points_syn, total_syn, points_syn / total_syn)
