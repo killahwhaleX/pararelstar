@@ -109,7 +109,7 @@ def filter_a_an_vowel_mismatch(pattern, gold_object):
     return False
 
 
-def analyze_results(lm_results: Dict, patterns_graph) -> None:
+def analyze_results(lm_results: Dict, patterns_graph, retriever_results: Dict = {}) -> None:
     total = 0
     points = 0
 
@@ -133,8 +133,11 @@ def analyze_results(lm_results: Dict, patterns_graph) -> None:
     correct_patterns_per_subject = defaultdict(int)
     consistency_performance = defaultdict(list)
     k_consistency_performance = defaultdict(list)
+    r_consistency_performance = defaultdict(list)
     for pattern, vals in lm_results.items():
         for subj, (pred, gold_obj) in vals.items():
+            if len(retriever_results)>0:
+                psgs = retriever_results[pattern][subj]
             graph_node = get_node(patterns_graph, pattern)
             if graph_node is None:
                 continue
@@ -154,6 +157,9 @@ def analyze_results(lm_results: Dict, patterns_graph) -> None:
                 ent_pattern = ent_node.lm_pattern
                 if filter_a_an_vowel_mismatch(ent_pattern, gold_obj):
                     continue
+                if len(retriever_results)>0:
+                    psgs_to_compare = retriever_results[ent_pattern][subj]
+                    r_consistency_performance[subj].append(len(set(psgs) & set(psgs_to_compare))/len(psgs))
                 success = pred == lm_results[ent_pattern][subj][0]
                 k_success = pred == lm_results[ent_pattern][subj][0] and pred == gold_obj
                 if success:
@@ -194,6 +200,13 @@ def analyze_results(lm_results: Dict, patterns_graph) -> None:
         wandb.run.summary['consistency'] = points / total
     else:
         wandb.run.summary['consistency'] = -1
+    if len(retriever_results)>0:
+        subject_consistency = []
+        for subj, overlaps in r_consistency_performance.items():
+            subject_consistency.append(sum(overlaps)/len(overlaps))
+        wandb.run.summary['retriever_consistency'] = sum(subject_consistency)/len(subject_consistency)
+    else:
+        wandb.run.summary['retriever_consistency'] = -1
     if total_syn > 0:
         wandb.run.summary['syntactic_consistency'] = points_syn / total_syn
         print('syntactic', points_syn, total_syn, points_syn / total_syn)
@@ -452,8 +465,6 @@ def main():
     wandb.run.summary['group-unacc'] = group_false_acc
 
     lm_results = parse_lm_results(results_dict, all_objects)
-    
-    # TODO: PREDICTION FILE READING HERE
 
     analyze_results(lm_results, patterns_graph)
     analyze_graph(patterns_graph)

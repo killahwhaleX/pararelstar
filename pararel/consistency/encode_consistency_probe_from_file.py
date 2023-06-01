@@ -14,10 +14,13 @@ from pararel.consistency.utils import read_jsonl_file, read_graph
 from pararel.consistency.encode_consistency_probe import log_wandb, analyze_graph, analyze_results, evaluate_lama, group_score_lama_eval, group_score_incorrect_ans_eval
 
 def read_ernie_results(data):
-    return data["prompt"], data["subject"], data["object"].lower(), data["prediction"]
+    return data["prompt"], data["subject"], data["object"].lower(), data["prediction"], [0]
 
 def read_atlas_results(data):
-    return data["pattern"], data["sub_label"], data["answers"][0], data["generation"]
+    return data["pattern"], data["sub_label"], data["answers"][0], data["generation"], data["passages"]
+
+def read_llama_results(data):
+    return data["pattern"], data["sub_label"], data["answers"][0], data["generation"], [0]
 
 def get_filtered_data(data):
     sorted_data = {i: data[i] for i in sorted(data.keys())}
@@ -51,27 +54,32 @@ def main():
 
     patterns_graph = read_graph(args.graph)
     
-    # TODO: PREDICTION FILE READING HERE
     data = read_jsonl_file(args.data_file)
     lm_results = defaultdict(dict)
-    
+    r_results = defaultdict(dict)
+
     read_results_fn = None
     if "ernie" in args.lm:
         read_results_fn = read_ernie_results
     elif "atlas" in args.lm:
         read_results_fn = read_atlas_results
     elif "llama" in args.lm:
-        read_results_fn = read_atlas_results
+        read_results_fn = read_llama_results
     else:
         ValueError("LM must be any of ERNIE, Atlas or LLaMA models.")
-        
+
     for dp in data:
-        prompt, subj, obj, prediction = read_results_fn(dp)
+        prompt, subj, obj, prediction, psgs = read_results_fn(dp)
+        psg_ids = [p["id"] for p in psgs]
+        r_results[prompt][subj] = psg_ids
         lm_results[prompt][subj] = (prediction,obj)
-        
-    analyze_results(lm_results, patterns_graph)
-    analyze_graph(patterns_graph)
     
+    if "atlas" in args.lm:
+        analyze_results(lm_results, patterns_graph, r_results)
+    else:
+        analyze_results(lm_results, patterns_graph)
+    analyze_graph(patterns_graph)
+
     # Analyze LAMA performance
     # Load prompts
     prompts = [x.lm_pattern for x in list(patterns_graph.nodes)]
