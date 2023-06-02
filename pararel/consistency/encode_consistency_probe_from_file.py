@@ -18,7 +18,7 @@ def read_ernie_results(data, r_flag = False):
 
 def read_atlas_results(data, r_flag = False):
     retrieval = [p["id"] for p in data["passages"]] if r_flag else [0]
-    return data["pattern"], data["sub_label"], data["answers"][0], data["generation"], retrieval
+    return data["pattern"], data["sub_label"], data["answers"][0], data["generation_by_choice"], retrieval
 
 def read_llama_results(data, r_flag = False):
     return data["pattern"], data["sub_label"], data["answers"][0], data["generation"], [0]
@@ -62,7 +62,7 @@ def main():
     read_results_fn = None
     if "ernie" in args.lm:
         read_results_fn = read_ernie_results
-    elif "atlas" in args.lm:
+    elif "atlas" or "t5" in args.lm:
         read_results_fn = read_atlas_results
     elif "llama" in args.lm:
         read_results_fn = read_llama_results

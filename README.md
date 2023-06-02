@@ -109,6 +109,8 @@ The rest of the N-1 prompts used by ParaRel.
 
 ## Evaluate Atlas
 
+Based on predictions from Atlas. 
+
 ```bash
 python -m pararel.consistency.encode_consistency_probe_from_file \
        --lm atlas-base \
