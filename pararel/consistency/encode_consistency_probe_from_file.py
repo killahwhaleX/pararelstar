@@ -62,7 +62,7 @@ def main():
     read_results_fn = None
     if "ernie" in args.lm:
         read_results_fn = read_ernie_results
-    elif "atlas" or "t5" in args.lm:
+    elif any(model in args.lm for model in ("atlas", "t5")):
         read_results_fn = read_atlas_results
     elif "llama" in args.lm:
         read_results_fn = read_llama_results
