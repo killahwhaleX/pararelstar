@@ -4,6 +4,7 @@ set -eo pipefail
 
 PREDS_FOLDER=$1
 LM_NAME=$2
+ADDITIONAL_ARGS=$3 # e.g. "--retriever_statistics"
 
 module load PyTorch/1.9.0-fosscuda-2020b
 source venv/bin/activate
@@ -17,5 +18,6 @@ for filename in ${PREDS_FOLDER}*/*-step-*.jsonl; do
        --lm $LM_NAME \
        --data_file "$filename" \
        --graph "data/pattern_data/graphs/${relation}.graph" \
-       --wandb
+       --wandb \
+       $ADDITIONAL_ARGS
 done

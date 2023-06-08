@@ -108,8 +108,24 @@ def filter_a_an_vowel_mismatch(pattern, gold_object):
         return True
     return False
 
+def get_retriever_consistency(r_consistency_performance, consistency_performance):
+    subject_consistency = []
+    match_consistency = []
+    no_match_consistency = []
+    for subj, overlaps in r_consistency_performance.items():
+        subject_consistency.append(sum(overlaps)/len(overlaps))
+        match_list = [i for i, j in zip(overlaps,consistency_performance[subj]) if j]
+        no_match_list = [i for i, j in zip(overlaps,consistency_performance[subj]) if not j]
+        if len(match_list)>0:
+            match_consistency.append(sum(match_list)/len(match_list))
+        if len(no_match_list)>0:
+            no_match_consistency.append(sum(no_match_list)/len(no_match_list))
+    subject_consistency = sum(subject_consistency)/len(subject_consistency)
+    match_consistency = sum(match_consistency)/len(match_consistency)
+    no_match_consistency = sum(no_match_consistency)/len(no_match_consistency)
+    return subject_consistency, match_consistency, no_match_consistency
 
-def analyze_results(lm_results: Dict, patterns_graph, retriever_results: Dict = {}) -> None:
+def analyze_results(lm_results: Dict, patterns_graph, retriever_id_results: Dict = {}, retriever_title_results: Dict = {}) -> None:
     total = 0
     points = 0
 
@@ -133,11 +149,13 @@ def analyze_results(lm_results: Dict, patterns_graph, retriever_results: Dict = 
     correct_patterns_per_subject = defaultdict(int)
     consistency_performance = defaultdict(list)
     k_consistency_performance = defaultdict(list)
-    r_consistency_performance = defaultdict(list)
+    r_consistency_id_performance = defaultdict(list)
+    r_consistency_title_performance = defaultdict(list)
     for pattern, vals in lm_results.items():
         for subj, (pred, gold_obj) in vals.items():
-            if len(retriever_results)>0:
-                psgs = retriever_results[pattern][subj]
+            if len(retriever_id_results)>0:
+                psgs_ids = retriever_id_results[pattern][subj]
+                psgs_titles = retriever_title_results[pattern][subj]
             graph_node = get_node(patterns_graph, pattern)
             if graph_node is None:
                 continue
@@ -157,9 +175,13 @@ def analyze_results(lm_results: Dict, patterns_graph, retriever_results: Dict = 
                 ent_pattern = ent_node.lm_pattern
                 if filter_a_an_vowel_mismatch(ent_pattern, gold_obj):
                     continue
-                if len(retriever_results)>0:
-                    psgs_to_compare = retriever_results[ent_pattern][subj]
-                    r_consistency_performance[subj].append(len(set(psgs) & set(psgs_to_compare))/len(psgs))
+                if len(retriever_id_results)>0:
+                    psgs_ids_to_compare = retriever_id_results[ent_pattern][subj]
+                    psgs_titles_to_compare = retriever_title_results[ent_pattern][subj]
+                    r_consistency_id_performance[subj].append(len(set(psgs_ids) & set(psgs_ids_to_compare))/len(psgs_ids))
+                    overlapping_titles = set(psgs_titles) & set(psgs_titles_to_compare)
+                    num_overlap_titles = sum([psgs_titles.count(title) for title in overlapping_titles])
+                    r_consistency_title_performance[subj].append(num_overlap_titles/len(psgs_titles))
                 success = pred == lm_results[ent_pattern][subj][0]
                 k_success = pred == lm_results[ent_pattern][subj][0] and pred == gold_obj
                 if success:
@@ -200,23 +222,24 @@ def analyze_results(lm_results: Dict, patterns_graph, retriever_results: Dict = 
         wandb.run.summary['consistency'] = points / total
     else:
         wandb.run.summary['consistency'] = -1
-    if len(retriever_results)>0:
-        subject_consistency = []
-        match_consistency = []
-        no_match_consistency = []
-        for subj, overlaps in r_consistency_performance.items():
-            subject_consistency.append(sum(overlaps)/len(overlaps))
-            match_list = [i for i, j in zip(overlaps,consistency_performance[subj]) if j]
-            no_match_list = [i for i, j in zip(overlaps,consistency_performance[subj]) if not j]
-            match_consistency.append(sum(match_list)/len(match_list))
-            no_match_consistency.append(sum(no_match_list)/len(no_match_list))
-        wandb.run.summary['retriever_consistency'] = sum(subject_consistency)/len(subject_consistency)
-        wandb.run.summary['retriever_match_consistency'] = sum(match_consistency)/len(match_consistency)
-        wandb.run.summary['retriever_no_match_consistency'] = sum(no_match_consistency)/len(no_match_consistency)
+    if len(retriever_id_results)>0:
+        subject_id_consistency, match_id_consistency, no_match_id_consistency = get_retriever_consistency(r_consistency_id_performance, consistency_performance)
+        wandb.run.summary['retriever_id_consistency'] = subject_id_consistency
+        wandb.run.summary['retriever_id_match_consistency'] = match_id_consistency
+        wandb.run.summary['retriever_id_no_match_consistency'] = no_match_id_consistency
+        
+        subject_title_consistency, match_title_consistency, no_match_title_consistency = get_retriever_consistency(r_consistency_title_performance, consistency_performance)
+        wandb.run.summary['retriever_title_consistency'] = subject_title_consistency
+        wandb.run.summary['retriever_title_match_consistency'] = match_title_consistency
+        wandb.run.summary['retriever_title_no_match_consistency'] = no_match_title_consistency
     else:
-        wandb.run.summary['retriever_consistency'] = -1
-        wandb.run.summary['retriever_match_consistency'] = -1
-        wandb.run.summary['retriever_no_match_consistency']  = -1
+        wandb.run.summary['retriever_id_consistency'] = -1
+        wandb.run.summary['retriever_id_match_consistency'] = -1
+        wandb.run.summary['retriever_id_no_match_consistency']  = -1
+        
+        wandb.run.summary['retriever_title_consistency'] = -1
+        wandb.run.summary['retriever_title_match_consistency'] = -1
+        wandb.run.summary['retriever_title_no_match_consistency']  = -1
     if total_syn > 0:
         wandb.run.summary['syntactic_consistency'] = points_syn / total_syn
         print('syntactic', points_syn, total_syn, points_syn / total_syn)

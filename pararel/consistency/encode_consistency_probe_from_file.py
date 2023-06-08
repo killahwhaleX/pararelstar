@@ -17,8 +17,9 @@ def read_ernie_results(data, r_flag = False):
     return data["prompt"], data["subject"], data["object"].lower(), data["prediction"], [0]
 
 def read_atlas_results(data, r_flag = False):
-    retrieval = [p["id"] for p in data["passages"]] if r_flag else [0]
-    return data["pattern"], data["sub_label"], data["answers"][0], data["generation_by_choice"], retrieval
+    retrieval_id = [p["id"] for p in data["passages"]] if r_flag else [0]
+    retrieval_title = [p["title"].split(":")[0] for p in data["passages"]] if r_flag else [0] #title: "Eward Burke: Early life and career", section: "Early life and career"
+    return data["pattern"], data["sub_label"], data["answers"][0], data["generation_by_choice"], retrieval_id, retrieval_title
 
 def read_llama_results(data, r_flag = False):
     return data["pattern"], data["sub_label"], data["answers"][0], data["generation"], [0]
@@ -57,7 +58,8 @@ def main():
     
     data = read_jsonl_file(args.data_file)
     lm_results = defaultdict(dict)
-    r_results = defaultdict(dict)
+    r_id_results = defaultdict(dict)
+    r_title_results = defaultdict(dict)
 
     read_results_fn = None
     if "ernie" in args.lm:
@@ -70,12 +72,13 @@ def main():
         ValueError("LM must be any of ERNIE, Atlas or LLaMA models.")
 
     for dp in data:
-        prompt, subj, obj, prediction, psgs = read_results_fn(dp, args.retriever_statistics)
-        r_results[prompt][subj] = psgs
+        prompt, subj, obj, prediction, psgs_ids, psgs_titles = read_results_fn(dp, args.retriever_statistics)
+        r_id_results[prompt][subj] = psgs_ids
+        r_title_results[prompt][subj] = psgs_titles
         lm_results[prompt][subj] = (prediction,obj)
 
     if args.retriever_statistics:
-        analyze_results(lm_results, patterns_graph, r_results)
+        analyze_results(lm_results, patterns_graph, r_id_results, r_title_results)
     else:
         analyze_results(lm_results, patterns_graph)
     analyze_graph(patterns_graph)
