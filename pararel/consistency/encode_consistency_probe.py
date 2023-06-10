@@ -180,8 +180,8 @@ def analyze_results(lm_results: Dict, patterns_graph, retriever_id_results: Dict
                     psgs_titles_to_compare = retriever_title_results[ent_pattern][subj]
                     r_consistency_id_performance[subj].append(len(set(psgs_ids) & set(psgs_ids_to_compare))/len(psgs_ids))
                     overlapping_titles = set(psgs_titles) & set(psgs_titles_to_compare)
-                    num_overlap_titles = sum([psgs_titles.count(title) for title in overlapping_titles])
-                    r_consistency_title_performance[subj].append(num_overlap_titles/len(psgs_titles))
+                    num_overlap_titles = sum([psgs_titles.count(title)+psgs_titles_to_compare.count(title) for title in overlapping_titles])
+                    r_consistency_title_performance[subj].append(num_overlap_titles/(len(psgs_titles)+len(psgs_titles_to_compare)))
                 success = pred == lm_results[ent_pattern][subj][0]
                 k_success = pred == lm_results[ent_pattern][subj][0] and pred == gold_obj
                 if success:
