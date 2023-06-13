@@ -7,6 +7,8 @@ from typing import List, Dict
 import numpy as np
 import wandb
 from scipy.stats import entropy
+import pandas as pd
+import torch
 
 from pararel.consistency.lm_pipeline import build_model_by_name, run_query
 from pararel.consistency.utils import read_jsonl_file, read_graph
@@ -45,6 +47,8 @@ def main():
     parse.add_argument("--baseline", action='store_true', default=False)
     parse.add_argument("--wandb_flag", type=str, help="additional flag for wandb", default="")
     parse.add_argument("--retriever_statistics", action='store_true')
+    parse.add_argument("--retriever_embeddings_filename", type=str, default=None, help="Filename (without extension) to retriever embeddings of queries")
+    
     args = parse.parse_args()
 
     if args.wandb:
@@ -77,9 +81,15 @@ def main():
         r_title_results[prompt][subj] = psgs_titles
         lm_results[prompt][subj] = (prediction,obj)
 
+    r_embeddings_lookup = None
+    r_embeddings = None
+    if args.retriever_statistics and args.retriever_embeddings_filename is not None:
+        r_embeddings_lookup = pd.DataFrame(read_jsonl_file(args.retriever_embeddings_filename+".jsonl"))
+        r_embeddings = torch.load(args.retriever_embeddings_filename+".pt")
+
     if args.retriever_statistics:
-        analyze_results(lm_results, patterns_graph, r_id_results, r_title_results)
-    else:
+        analyze_results(lm_results, patterns_graph, r_id_results, r_title_results, r_embeddings_lookup, r_embeddings)
+    else: 
         analyze_results(lm_results, patterns_graph)
     analyze_graph(patterns_graph)
 

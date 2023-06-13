@@ -7,6 +7,7 @@ from typing import List, Dict
 import numpy as np
 import wandb
 from scipy.stats import entropy
+from torch import nn
 
 from pararel.consistency.lm_pipeline import build_model_by_name, run_query
 from pararel.consistency.utils import read_jsonl_file, read_graph
@@ -108,14 +109,18 @@ def filter_a_an_vowel_mismatch(pattern, gold_object):
         return True
     return False
 
+def get_r_embeddings_similarity(r_embs_1, r_embs_2):
+    return nn.functional.cosine_similarity(r_embs_1, r_embs_2, dim=0).item()
+
 def get_retriever_consistency(r_consistency_performance, consistency_performance):
     subject_consistency = []
     match_consistency = []
     no_match_consistency = []
-    for subj, overlaps in r_consistency_performance.items():
-        subject_consistency.append(sum(overlaps)/len(overlaps))
-        match_list = [i for i, j in zip(overlaps,consistency_performance[subj]) if j]
-        no_match_list = [i for i, j in zip(overlaps,consistency_performance[subj]) if not j]
+    for subj, cons_vals in r_consistency_performance.items():
+        # iterate over pairwise pattern performance
+        subject_consistency.append(sum(cons_vals)/len(cons_vals))
+        match_list = [i for i, j in zip(cons_vals,consistency_performance[subj]) if j]
+        no_match_list = [i for i, j in zip(cons_vals,consistency_performance[subj]) if not j]
         if len(match_list)>0:
             match_consistency.append(sum(match_list)/len(match_list))
         if len(no_match_list)>0:
@@ -125,7 +130,7 @@ def get_retriever_consistency(r_consistency_performance, consistency_performance
     no_match_consistency = sum(no_match_consistency)/len(no_match_consistency)
     return subject_consistency, match_consistency, no_match_consistency
 
-def analyze_results(lm_results: Dict, patterns_graph, retriever_id_results: Dict = {}, retriever_title_results: Dict = {}) -> None:
+def analyze_results(lm_results: Dict, patterns_graph, retriever_id_results: Dict = {}, retriever_title_results: Dict = {}, r_embeddings_lookup=None, r_embeddings=None) -> None:
     total = 0
     points = 0
 
@@ -151,11 +156,14 @@ def analyze_results(lm_results: Dict, patterns_graph, retriever_id_results: Dict
     k_consistency_performance = defaultdict(list)
     r_consistency_id_performance = defaultdict(list)
     r_consistency_title_performance = defaultdict(list)
+    r_embeddings_similarity = defaultdict(list)
     for pattern, vals in lm_results.items():
         for subj, (pred, gold_obj) in vals.items():
             if len(retriever_id_results)>0:
                 psgs_ids = retriever_id_results[pattern][subj]
                 psgs_titles = retriever_title_results[pattern][subj]
+            if r_embeddings_lookup is not None:
+                r_embeddings_ix = r_embeddings_lookup[(r_embeddings_lookup.pattern==pattern) & (r_embeddings_lookup.sub_label==subj)].iloc[0].name
             graph_node = get_node(patterns_graph, pattern)
             if graph_node is None:
                 continue
@@ -182,6 +190,9 @@ def analyze_results(lm_results: Dict, patterns_graph, retriever_id_results: Dict
                     overlapping_titles = set(psgs_titles) & set(psgs_titles_to_compare)
                     num_overlap_titles = sum([psgs_titles.count(title)+psgs_titles_to_compare.count(title) for title in overlapping_titles])
                     r_consistency_title_performance[subj].append(num_overlap_titles/(len(psgs_titles)+len(psgs_titles_to_compare)))
+                if r_embeddings_lookup is not None:
+                    r_embeddings_ix_to_compare = r_embeddings_lookup[(r_embeddings_lookup.pattern==ent_pattern) & (r_embeddings_lookup.sub_label==subj)].iloc[0].name
+                    r_embeddings_similarity[subj].append(get_r_embeddings_similarity(r_embeddings[r_embeddings_ix], r_embeddings[r_embeddings_ix_to_compare]))
                 success = pred == lm_results[ent_pattern][subj][0]
                 k_success = pred == lm_results[ent_pattern][subj][0] and pred == gold_obj
                 if success:
@@ -240,6 +251,16 @@ def analyze_results(lm_results: Dict, patterns_graph, retriever_id_results: Dict
         wandb.run.summary['retriever_title_consistency'] = -1
         wandb.run.summary['retriever_title_match_consistency'] = -1
         wandb.run.summary['retriever_title_no_match_consistency']  = -1
+    if r_embeddings_lookup is not None:
+        subject_e_consistency, match_e_consistency, no_match_e_consistency = get_retriever_consistency(r_embeddings_similarity, consistency_performance)
+        wandb.run.summary['retriever_embedding_similarity_consistency'] = subject_e_consistency
+        wandb.run.summary['retriever_embedding_similarity_match_consistency'] = match_e_consistency
+        wandb.run.summary['retriever_embedding_similarity_no_match_consistency'] = no_match_e_consistency
+    else:
+        wandb.run.summary['retriever_embedding_similarity_consistency'] = -1
+        wandb.run.summary['retriever_embedding_similarity_match_consistency'] = -1
+        wandb.run.summary['retriever_embedding_similarity_no_match_consistency']  = -1
+        
     if total_syn > 0:
         wandb.run.summary['syntactic_consistency'] = points_syn / total_syn
         print('syntactic', points_syn, total_syn, points_syn / total_syn)
