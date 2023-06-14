@@ -123,11 +123,12 @@ python -m pararel.consistency.encode_consistency_probe_from_file \
 With debug:
 ```bash
 python -m debugpy --wait-for-client --listen 5678 -m pararel.consistency.encode_consistency_probe_from_file \
-       --lm atlas-base \
+       --lm test-atlas-base \
        --data_file "/cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-zero-shot-base-no-space-likelihood-no-eos-with-3/P138-base-2017-1115926/P138-step-0.jsonl" \
        --graph "data/pattern_data/graphs/P138.graph" \
        --wandb \
-       --retriever_statistics
+       --retriever_statistics \
+       --retriever_embeddings_filename /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-compute-r-embeddings-base/P138-2017-1144071/P138-step-0-r-embedding
 ```
 
 Generate ParaRel eval results for all Atlas prediction files in a go:
@@ -176,4 +177,28 @@ python3 -m pararel.consistency.generate_data \
        --data_path "data" \
        --format atlas \
        --random_passages_data_paths "/cephyr/users/lovhag/Alvis/projects/atlas/data/corpora/wiki/enwiki-dec2017/text-list-100-sec.jsonl /cephyr/users/lovhag/Alvis/projects/atlas/data/corpora/wiki/enwiki-dec2017/infobox.jsonl"
+```
+
+## Evaluate ParaRel performance also taking regard to retriever consistency from embeddings
+
+``` bash
+./eval_atlas_preds_w_r_emb_sim.sh /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-zero-shot-large/ atlas-large /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-compute-r-embeddings-large --retriever_statistics
+```
+
+## Investigate retriever consistency metrics for random passage-subject pairs across relations
+
+What is the retriever embedding similarity metric for non-related passage retrievals?
+
+```bash
+module load PyTorch/1.9.0-fosscuda-2020b
+source venv/bin/activate
+
+python -m debugpy --wait-for-client --listen 5678 -m pararel.consistency.compute_random_retrieval_consistency \
+       --num_samples 1000 \
+       --data_file "/cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-zero-shot-base-no-space-likelihood-no-eos-with-3/P361-base-2017-1115954/P361-step-0.jsonl" \
+       --retriever_embeddings_filename "/cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-compute-r-embeddings-base/P361-2017-1144082/P361-step-0-r-embedding" \
+```
+
+```bash
+./compute_random_consistencies.sh /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-zero-shot-base-no-space-likelihood-no-eos-with-3/ /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-compute-r-embeddings-base
 ```

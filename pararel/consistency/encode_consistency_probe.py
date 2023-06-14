@@ -6,7 +6,7 @@ from typing import List, Dict
 
 import numpy as np
 import wandb
-from scipy.stats import entropy
+from scipy.stats import entropy, pearsonr
 from torch import nn
 
 from pararel.consistency.lm_pipeline import build_model_by_name, run_query
@@ -112,23 +112,37 @@ def filter_a_an_vowel_mismatch(pattern, gold_object):
 def get_r_embeddings_similarity(r_embs_1, r_embs_2):
     return nn.functional.cosine_similarity(r_embs_1, r_embs_2, dim=0).item()
 
-def get_retriever_consistency(r_consistency_performance, consistency_performance):
+def get_retriever_consistency_metrics(r_consistency_performance, consistency_performance):
     subject_consistency = []
     match_consistency = []
     no_match_consistency = []
     for subj, cons_vals in r_consistency_performance.items():
         # iterate over pairwise pattern performance
-        subject_consistency.append(sum(cons_vals)/len(cons_vals))
+        subject_consistency.extend(cons_vals)
         match_list = [i for i, j in zip(cons_vals,consistency_performance[subj]) if j]
         no_match_list = [i for i, j in zip(cons_vals,consistency_performance[subj]) if not j]
-        if len(match_list)>0:
-            match_consistency.append(sum(match_list)/len(match_list))
-        if len(no_match_list)>0:
-            no_match_consistency.append(sum(no_match_list)/len(no_match_list))
-    subject_consistency = sum(subject_consistency)/len(subject_consistency)
-    match_consistency = sum(match_consistency)/len(match_consistency)
-    no_match_consistency = sum(no_match_consistency)/len(no_match_consistency)
-    return subject_consistency, match_consistency, no_match_consistency
+        match_consistency.extend(match_list)
+        no_match_consistency.extend(no_match_list)
+    subject_consistency_mean = sum(subject_consistency)/len(subject_consistency)
+    subject_consistency_std = np.std(subject_consistency)
+    match_consistency_mean = sum(match_consistency)/len(match_consistency)
+    match_consistency_std = np.std(match_consistency)
+    no_match_consistency_mean = sum(no_match_consistency)/len(no_match_consistency)
+    no_match_consistency_std = np.std(no_match_consistency)
+    
+    return subject_consistency_mean, match_consistency_mean, no_match_consistency_mean, subject_consistency_std, match_consistency_std, no_match_consistency_std
+
+def get_consistency_correlations(consistency_performance_1, consistency_performance_2):
+    p_thresh = 0.05
+    cons_1 = []
+    cons_2 = []
+    for subj, cons_vals in consistency_performance_1.items():
+        cons_1.extend(cons_vals)
+        cons_2.extend(consistency_performance_2[subj])
+        
+    statistic, pvalue = pearsonr(cons_1, cons_2)
+    # return None if we have no statistical significance
+    return statistic if pvalue < p_thresh else None
 
 def analyze_results(lm_results: Dict, patterns_graph, retriever_id_results: Dict = {}, retriever_title_results: Dict = {}, r_embeddings_lookup=None, r_embeddings=None) -> None:
     total = 0
@@ -234,33 +248,66 @@ def analyze_results(lm_results: Dict, patterns_graph, retriever_id_results: Dict
     else:
         wandb.run.summary['consistency'] = -1
     if len(retriever_id_results)>0:
-        subject_id_consistency, match_id_consistency, no_match_id_consistency = get_retriever_consistency(r_consistency_id_performance, consistency_performance)
+        subject_id_consistency, match_id_consistency, no_match_id_consistency, subject_id_consistency_std, match_id_consistency_std, no_match_id_consistency_std = get_retriever_consistency_metrics(r_consistency_id_performance, consistency_performance)
         wandb.run.summary['retriever_id_consistency'] = subject_id_consistency
         wandb.run.summary['retriever_id_match_consistency'] = match_id_consistency
         wandb.run.summary['retriever_id_no_match_consistency'] = no_match_id_consistency
+        wandb.run.summary['retriever_id_consistency_std'] = subject_id_consistency_std
+        wandb.run.summary['retriever_id_match_consistency_std'] = match_id_consistency_std
+        wandb.run.summary['retriever_id_no_match_consistency_std'] = no_match_id_consistency_std
         
-        subject_title_consistency, match_title_consistency, no_match_title_consistency = get_retriever_consistency(r_consistency_title_performance, consistency_performance)
+        subject_title_consistency, match_title_consistency, no_match_title_consistency, subject_title_consistency_std, match_title_consistency_std, no_match_title_consistency_std = get_retriever_consistency_metrics(r_consistency_title_performance, consistency_performance)
         wandb.run.summary['retriever_title_consistency'] = subject_title_consistency
         wandb.run.summary['retriever_title_match_consistency'] = match_title_consistency
         wandb.run.summary['retriever_title_no_match_consistency'] = no_match_title_consistency
+        wandb.run.summary['retriever_title_consistency_std'] = subject_title_consistency_std
+        wandb.run.summary['retriever_title_match_consistency_std'] = match_title_consistency_std
+        wandb.run.summary['retriever_title_no_match_consistency_std'] = no_match_title_consistency_std
+
+        wandb.run.summary['corr_consistency_retriever_id_consistency'] = get_consistency_correlations(consistency_performance, r_consistency_id_performance)       
+        wandb.run.summary['corr_consistency_retriever_title_consistency'] = get_consistency_correlations(consistency_performance, r_consistency_title_performance)
+        wandb.run.summary['corr_retriever_id_title_consistency'] = get_consistency_correlations(r_consistency_id_performance, r_consistency_title_performance)
     else:
         wandb.run.summary['retriever_id_consistency'] = -1
         wandb.run.summary['retriever_id_match_consistency'] = -1
         wandb.run.summary['retriever_id_no_match_consistency']  = -1
+        wandb.run.summary['retriever_id_consistency_std'] = -1
+        wandb.run.summary['retriever_id_match_consistency_std'] = -1
+        wandb.run.summary['retriever_id_no_match_consistency_std']  = -1
         
         wandb.run.summary['retriever_title_consistency'] = -1
         wandb.run.summary['retriever_title_match_consistency'] = -1
         wandb.run.summary['retriever_title_no_match_consistency']  = -1
+        wandb.run.summary['retriever_title_consistency_std'] = -1
+        wandb.run.summary['retriever_title_match_consistency_std'] = -1
+        wandb.run.summary['retriever_title_no_match_consistency_std']  = -1
+        
+        wandb.run.summary['corr_consistency_retriever_id_consistency'] = -1       
+        wandb.run.summary['corr_consistency_retriever_title_consistency'] = -1
+        wandb.run.summary['corr_retriever_id_title_consistency'] = -1
     if r_embeddings_lookup is not None:
-        subject_e_consistency, match_e_consistency, no_match_e_consistency = get_retriever_consistency(r_embeddings_similarity, consistency_performance)
+        subject_e_consistency, match_e_consistency, no_match_e_consistency, subject_e_consistency_std, match_e_consistency_std, no_match_e_consistency_std = get_retriever_consistency_metrics(r_embeddings_similarity, consistency_performance)
         wandb.run.summary['retriever_embedding_similarity_consistency'] = subject_e_consistency
         wandb.run.summary['retriever_embedding_similarity_match_consistency'] = match_e_consistency
         wandb.run.summary['retriever_embedding_similarity_no_match_consistency'] = no_match_e_consistency
+        wandb.run.summary['retriever_embedding_similarity_consistency_std'] = subject_e_consistency_std
+        wandb.run.summary['retriever_embedding_similarity_match_consistency_std'] = match_e_consistency_std
+        wandb.run.summary['retriever_embedding_similarity_no_match_consistency_std'] = no_match_e_consistency_std
+        
+        wandb.run.summary['corr_consistency_retriever_emb_consistency'] = get_consistency_correlations(consistency_performance, r_embeddings_similarity)
+        wandb.run.summary['corr_retriever_emb_title_consistency'] = get_consistency_correlations(r_embeddings_similarity, r_consistency_title_performance)
+        wandb.run.summary['corr_retriever_emb_id_consistency'] = get_consistency_correlations(r_embeddings_similarity, r_consistency_id_performance)
     else:
         wandb.run.summary['retriever_embedding_similarity_consistency'] = -1
         wandb.run.summary['retriever_embedding_similarity_match_consistency'] = -1
         wandb.run.summary['retriever_embedding_similarity_no_match_consistency']  = -1
+        wandb.run.summary['retriever_embedding_similarity_consistency_std'] = -1
+        wandb.run.summary['retriever_embedding_similarity_match_consistency_std'] = -1
+        wandb.run.summary['retriever_embedding_similarity_no_match_consistency_std']  = -1
         
+        wandb.run.summary['corr_consistency_retriever_emb_consistency'] = -1
+        wandb.run.summary['corr_retriever_emb_title_consistency'] = -1
+        wandb.run.summary['corr_retriever_emb_id_consistency'] = -1
     if total_syn > 0:
         wandb.run.summary['syntactic_consistency'] = points_syn / total_syn
         print('syntactic', points_syn, total_syn, points_syn / total_syn)
