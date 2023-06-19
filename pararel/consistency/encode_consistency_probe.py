@@ -144,7 +144,7 @@ def get_consistency_correlations(consistency_performance_1, consistency_performa
     # return None if we have no statistical significance
     return statistic if pvalue < p_thresh else None
 
-def analyze_results(lm_results: Dict, patterns_graph, retriever_id_results: Dict = {}, retriever_title_results: Dict = {}, r_embeddings_lookup=None, r_embeddings=None) -> None:
+def analyze_results(lm_results: Dict, patterns_graph, retriever_id_results: Dict = {}, retriever_title_results: Dict = {}, retriever_rank_pred_results=None, retriever_rank_gold_results=None, r_embeddings_lookup=None, r_embeddings=None) -> None:
     total = 0
     points = 0
 
@@ -171,11 +171,16 @@ def analyze_results(lm_results: Dict, patterns_graph, retriever_id_results: Dict
     r_consistency_id_performance = defaultdict(list)
     r_consistency_title_performance = defaultdict(list)
     r_embeddings_similarity = defaultdict(list)
+    r_avg_rank_pred = defaultdict(list)
+    r_avg_rank_gold = defaultdict(list)
+    
     for pattern, vals in lm_results.items():
         for subj, (pred, gold_obj) in vals.items():
             if len(retriever_id_results)>0:
                 psgs_ids = retriever_id_results[pattern][subj]
                 psgs_titles = retriever_title_results[pattern][subj]
+                r_rank_pred = retriever_rank_pred_results[pattern][subj]
+                r_rank_gold = retriever_rank_gold_results[pattern][subj]
             if r_embeddings_lookup is not None:
                 r_embeddings_ix = r_embeddings_lookup[(r_embeddings_lookup.pattern==pattern) & (r_embeddings_lookup.sub_label==subj)].iloc[0].name
             graph_node = get_node(patterns_graph, pattern)
@@ -204,6 +209,14 @@ def analyze_results(lm_results: Dict, patterns_graph, retriever_id_results: Dict
                     overlapping_titles = set(psgs_titles) & set(psgs_titles_to_compare)
                     num_overlap_titles = sum([psgs_titles.count(title)+psgs_titles_to_compare.count(title) for title in overlapping_titles])
                     r_consistency_title_performance[subj].append(num_overlap_titles/(len(psgs_titles)+len(psgs_titles_to_compare)))
+                    
+                    # frequency based heuristics
+                    r_rank_pred_to_compare = retriever_rank_pred_results[ent_pattern][subj]
+                    r_avg_rank_pred[subj].append(np.mean([r_rank_pred, r_rank_pred_to_compare]))
+                    
+                    r_rank_gold_to_compare = retriever_rank_gold_results[ent_pattern][subj]
+                    r_avg_rank_gold[subj].append(np.mean([r_rank_gold, r_rank_gold_to_compare]))
+                    
                 if r_embeddings_lookup is not None:
                     r_embeddings_ix_to_compare = r_embeddings_lookup[(r_embeddings_lookup.pattern==ent_pattern) & (r_embeddings_lookup.sub_label==subj)].iloc[0].name
                     r_embeddings_similarity[subj].append(get_r_embeddings_similarity(r_embeddings[r_embeddings_ix], r_embeddings[r_embeddings_ix_to_compare]))
@@ -267,24 +280,27 @@ def analyze_results(lm_results: Dict, patterns_graph, retriever_id_results: Dict
         wandb.run.summary['corr_consistency_retriever_id_consistency'] = get_consistency_correlations(consistency_performance, r_consistency_id_performance)       
         wandb.run.summary['corr_consistency_retriever_title_consistency'] = get_consistency_correlations(consistency_performance, r_consistency_title_performance)
         wandb.run.summary['corr_retriever_id_title_consistency'] = get_consistency_correlations(r_consistency_id_performance, r_consistency_title_performance)
-    else:
-        wandb.run.summary['retriever_id_consistency'] = -1
-        wandb.run.summary['retriever_id_match_consistency'] = -1
-        wandb.run.summary['retriever_id_no_match_consistency']  = -1
-        wandb.run.summary['retriever_id_consistency_std'] = -1
-        wandb.run.summary['retriever_id_match_consistency_std'] = -1
-        wandb.run.summary['retriever_id_no_match_consistency_std']  = -1
         
-        wandb.run.summary['retriever_title_consistency'] = -1
-        wandb.run.summary['retriever_title_match_consistency'] = -1
-        wandb.run.summary['retriever_title_no_match_consistency']  = -1
-        wandb.run.summary['retriever_title_consistency_std'] = -1
-        wandb.run.summary['retriever_title_match_consistency_std'] = -1
-        wandb.run.summary['retriever_title_no_match_consistency_std']  = -1
+        retriever_rank_pred, match_retriever_rank_pred, no_match_retriever_rank_pred, retriever_rank_pred_std, match_retriever_rank_pred_std, no_match_retriever_rank_pred_std = get_retriever_consistency_metrics(r_avg_rank_pred, consistency_performance)
+        wandb.run.summary['retriever_rank_pred'] = retriever_rank_pred
+        wandb.run.summary['retriever_rank_pred_std'] = retriever_rank_pred_std
+        wandb.run.summary['retriever_rank_pred_match'] = match_retriever_rank_pred
+        wandb.run.summary['retriever_rank_pred_match_std'] = match_retriever_rank_pred_std
+        wandb.run.summary['retriever_rank_pred_no_match'] = no_match_retriever_rank_pred
+        wandb.run.summary['retriever_rank_pred_no_match_std'] = no_match_retriever_rank_pred_std
         
-        wandb.run.summary['corr_consistency_retriever_id_consistency'] = -1       
-        wandb.run.summary['corr_consistency_retriever_title_consistency'] = -1
-        wandb.run.summary['corr_retriever_id_title_consistency'] = -1
+        retriever_rank_gold, match_retriever_rank_gold, no_match_retriever_rank_gold, retriever_rank_gold_std, match_retriever_rank_gold_std, no_match_retriever_rank_gold_std = get_retriever_consistency_metrics(r_avg_rank_gold, consistency_performance)
+        wandb.run.summary['retriever_rank_gold'] = retriever_rank_gold
+        wandb.run.summary['retriever_rank_gold_std'] = retriever_rank_gold_std
+        wandb.run.summary['retriever_rank_gold_match'] = match_retriever_rank_gold
+        wandb.run.summary['retriever_rank_gold_match_std'] = match_retriever_rank_gold_std
+        wandb.run.summary['retriever_rank_gold_no_match'] = no_match_retriever_rank_gold
+        wandb.run.summary['retriever_rank_gold_no_match_std'] = no_match_retriever_rank_gold_std
+        
+        wandb.run.summary['corr_consistency_retriever_rank_pred'] = get_consistency_correlations(r_avg_rank_pred, consistency_performance)       
+        wandb.run.summary['corr_consistency_retriever_rank_gold'] = get_consistency_correlations(r_avg_rank_gold, consistency_performance)       
+        wandb.run.summary['corr_retriever_rank_pred_gold'] = get_consistency_correlations(r_avg_rank_gold, r_avg_rank_pred)       
+                          
     if r_embeddings_lookup is not None:
         subject_e_consistency, match_e_consistency, no_match_e_consistency, subject_e_consistency_std, match_e_consistency_std, no_match_e_consistency_std = get_retriever_consistency_metrics(r_embeddings_similarity, consistency_performance)
         wandb.run.summary['retriever_embedding_similarity_consistency'] = subject_e_consistency
@@ -297,17 +313,7 @@ def analyze_results(lm_results: Dict, patterns_graph, retriever_id_results: Dict
         wandb.run.summary['corr_consistency_retriever_emb_consistency'] = get_consistency_correlations(consistency_performance, r_embeddings_similarity)
         wandb.run.summary['corr_retriever_emb_title_consistency'] = get_consistency_correlations(r_embeddings_similarity, r_consistency_title_performance)
         wandb.run.summary['corr_retriever_emb_id_consistency'] = get_consistency_correlations(r_embeddings_similarity, r_consistency_id_performance)
-    else:
-        wandb.run.summary['retriever_embedding_similarity_consistency'] = -1
-        wandb.run.summary['retriever_embedding_similarity_match_consistency'] = -1
-        wandb.run.summary['retriever_embedding_similarity_no_match_consistency']  = -1
-        wandb.run.summary['retriever_embedding_similarity_consistency_std'] = -1
-        wandb.run.summary['retriever_embedding_similarity_match_consistency_std'] = -1
-        wandb.run.summary['retriever_embedding_similarity_no_match_consistency_std']  = -1
-        
-        wandb.run.summary['corr_consistency_retriever_emb_consistency'] = -1
-        wandb.run.summary['corr_retriever_emb_title_consistency'] = -1
-        wandb.run.summary['corr_retriever_emb_id_consistency'] = -1
+
     if total_syn > 0:
         wandb.run.summary['syntactic_consistency'] = points_syn / total_syn
         print('syntactic', points_syn, total_syn, points_syn / total_syn)

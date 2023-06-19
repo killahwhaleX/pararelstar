@@ -124,11 +124,22 @@ With debug:
 ```bash
 python -m debugpy --wait-for-client --listen 5678 -m pararel.consistency.encode_consistency_probe_from_file \
        --lm test-atlas-base \
-       --data_file "/cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-zero-shot-base-no-space-likelihood-no-eos-with-3/P138-base-2017-1115926/P138-step-0.jsonl" \
-       --graph "data/pattern_data/graphs/P138.graph" \
+       --data_file "/cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-zero-shot-base-no-space-likelihood-no-eos-with-3/P140-base-2017-1115950/P140-step-0.jsonl" \
+       --graph "data/pattern_data/graphs/P140.graph" \
        --wandb \
        --retriever_statistics \
-       --retriever_embeddings_filename /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-compute-r-embeddings-base/P138-2017-1144071/P138-step-0-r-embedding
+       --options_folder "data/all_n1_atlas"
+```
+
+```bash
+python -m debugpy --wait-for-client --listen 5678 -m pararel.consistency.encode_consistency_probe_from_file \
+       --lm test-atlas-base \
+       --data_file "/cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-zero-shot-base-no-space-likelihood-no-eos-with-3/P140-base-2017-1115950/P140-step-0.jsonl" \
+       --graph "data/pattern_data/graphs/P140.graph" \
+       --wandb \
+       --retriever_statistics \
+       --retriever_embeddings_filename /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-compute-r-embeddings-base/P140-2017-1144078/P140-step-0-r-embedding \
+       --options_folder "data/all_n1_atlas"
 ```
 
 Generate ParaRel eval results for all Atlas prediction files in a go:
@@ -182,7 +193,7 @@ python3 -m pararel.consistency.generate_data \
 ## Evaluate ParaRel performance also taking regard to retriever consistency from embeddings
 
 ``` bash
-./eval_atlas_preds_w_r_emb_sim.sh /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-zero-shot-large/ atlas-large /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-compute-r-embeddings-large --retriever_statistics
+./eval_atlas_preds_w_r_emb_sim.sh /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-zero-shot-large/ atlas-large /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-compute-r-embeddings-large
 ```
 
 ## Investigate retriever consistency metrics for random passage-subject pairs across relations

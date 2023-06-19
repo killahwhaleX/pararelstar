@@ -5,7 +5,6 @@ set -eo pipefail
 PREDS_FOLDER=$1
 LM_NAME=$2
 R_EMBS_FOLDER=$3 # folder with corresponding retrieval embeddings
-ADDITIONAL_ARGS=$4 # e.g. "--retriever_statistics"
 
 module load PyTorch/1.9.0-fosscuda-2020b
 source venv/bin/activate
@@ -24,5 +23,6 @@ for filename in ${PREDS_FOLDER}*/*-step-*.jsonl; do
        --graph "data/pattern_data/graphs/${relation}.graph" \
        --wandb \
        --retriever_embeddings_filename "$emb_file" \
-       $ADDITIONAL_ARGS
+       --options_folder "data/all_n1_atlas" \
+       --retriever_statistics
 done

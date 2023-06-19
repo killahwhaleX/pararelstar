@@ -19,5 +19,6 @@ for filename in ${PREDS_FOLDER}*/*-step-*.jsonl; do
        --data_file "$filename" \
        --graph "data/pattern_data/graphs/${relation}.graph" \
        --wandb \
+       --options_folder "data/all_n1_atlas" \
        $ADDITIONAL_ARGS
 done
