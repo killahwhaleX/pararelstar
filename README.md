@@ -174,7 +174,24 @@ python3 -m pararel.consistency.generate_data \
        --atlas_data_path "/cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-zero-shot-base-no-space-likelihood-no-eos-with-3"
 ```
 
-## Save ParaRel prompts with random passage retrievals to a file
+## Save ParaRel prompts with random passage retrieval of 20 passages from Atlas to a file
+
+While standing in the root of the pararel folder, run:
+
+```bash
+module load PyTorch/1.9.0-fosscuda-2020b
+source venv/bin/activate
+
+python3 -m pararel.consistency.generate_data \
+       --folder_name "all_n1_atlas_no_space_w_retrieval_semi_random" \
+       --relations_given "P937,P1412" \
+       --data_path "data" \
+       --format atlas \
+       --atlas_data_path "/cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-zero-shot-base-no-space-likelihood-no-eos-with-3" \
+       --random_atlas_retrieval
+```
+
+## Save ParaRel prompts with completely random passage retrievals to a file
 
 While standing in the root of the pararel folder, run:
 

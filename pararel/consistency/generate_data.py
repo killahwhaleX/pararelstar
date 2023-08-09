@@ -42,7 +42,15 @@ def get_atlas_passages(fact_data, atlas_data, pattern_graph):
     assert len(passages)==1, f"Only one passage retrieval should match a given pattern-sub_label pair, got {passages}"
     return passages.iloc[0], passage_pattern
 
-def generate_data(folder_name, relations_given, data_path, format_prompt, generate_targets, atlas_data_path, random_passages_data_paths):
+def get_random_atlas_passages(atlas_data):
+    # randomly sample a retrieval of 20 passages
+    random_row = atlas_data.sample()
+    passages = random_row.passages.iloc[0]
+    passage_pattern = random_row.pattern.iloc[0]
+    
+    return passages, passage_pattern
+
+def generate_data(folder_name, relations_given, data_path, format_prompt, generate_targets, atlas_data_path, random_passages_data_paths, random_atlas_retrieval=False):
 
     lama_path = os.path.join(data_path, "trex_lms_vocab")
     graph_path = os.path.join(data_path, "pattern_data", "graphs")
@@ -80,7 +88,10 @@ def generate_data(folder_name, relations_given, data_path, format_prompt, genera
             f_true = open(output_file, "w")
             for i, d in enumerate(data):
                 if atlas_data_path is not None:
-                    passages, passages_pattern = get_atlas_passages(d, predictions_data, graph)
+                    if not random_atlas_retrieval:
+                        passages, passages_pattern = get_atlas_passages(d, predictions_data, graph)
+                    else:
+                        passages, passages_pattern = get_random_atlas_passages(predictions_data)
                 elif not random_passages_data_paths == []:
                     passages = random.sample(all_passages, num_random_passages)
                     passages_pattern = ""
@@ -112,6 +123,7 @@ def main():
                                                                                  "from the data as the possible"
                                                                                  "candidates")
     parser.add_argument("--atlas_data_path", default=None, type=str, help="path to Atlas predictions data from which to load fixed Atlas passages")
+    parser.add_argument("--random_atlas_retrieval", action='store_true', default=False, help="whether to do random sampling from Atlas retrievals, or not (use the correct)")
     parser.add_argument("--random_passages_data_paths", nargs="+", default=[],
             help="list of space-separated paths to retrieval passages from which to load fixed random Atlas passages")
     
@@ -120,7 +132,7 @@ def main():
     if args.format not in POSSIBLE_FORMATS:
         raise ValueError(f"This function does not yet have support for any other formats than {POSSIBLE_FORMATS}.")
 
-    generate_data(args.folder_name, args.relations_given, args.data_path, args.format, args.generate_targets, args.atlas_data_path, args.random_passages_data_paths)
+    generate_data(args.folder_name, args.relations_given, args.data_path, args.format, args.generate_targets, args.atlas_data_path, args.random_passages_data_paths, args.random_atlas_retrieval)
 
 
 if __name__ == "__main__":

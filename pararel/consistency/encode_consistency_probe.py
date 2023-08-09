@@ -141,8 +141,7 @@ def get_consistency_correlations(consistency_performance_1, consistency_performa
         cons_2.extend(consistency_performance_2[subj])
         
     statistic, pvalue = pearsonr(cons_1, cons_2)
-    # return None if we have no statistical significance
-    return statistic if pvalue < p_thresh else None
+    return statistic #if pvalue < p_thresh else None
 
 def analyze_results(lm_results: Dict, patterns_graph, retriever_id_results: Dict = {}, retriever_title_results: Dict = {}, retriever_rank_pred_results=None, retriever_rank_gold_results=None, r_embeddings_lookup=None, r_embeddings=None) -> None:
     total = 0
