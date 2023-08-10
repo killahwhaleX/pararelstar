@@ -321,5 +321,7 @@ data/*
 .idea/
 wandb/
 subscription.json
-
+.vscode/
+venv
 *.csv
+*.pkl

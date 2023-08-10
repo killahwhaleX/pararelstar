@@ -52,7 +52,6 @@ def log_wandb(args):
         config['model_name'] = model_name
 
     wandb.init(
-        #entity='consistency',
         name=f'{pattern}_consistency_probe_{lm}',
         project="consistency-latest",
         tags=tags_list,

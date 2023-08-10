@@ -68,7 +68,7 @@ def main():
     parse.add_argument("--wandb", action='store_true')
     parse.add_argument("--baseline", action='store_true', default=False)
     parse.add_argument("--wandb_flag", type=str, help="additional flag for wandb", default="")
-    parse.add_argument("--retriever_statistics", action='store_true')
+    parse.add_argument("--retriever_statistics", action='store_true', help="Activate this flag for the atlas model if you wish to measure additional statistics for the retriever. Requires that you also provide an '--options_folder'.")
     parse.add_argument("--retriever_embeddings_filename", type=str, default=None, help="Filename (without extension) to retriever embeddings of queries")
     parse.add_argument("--options_folder", type=str, default=None, help="Path to folder with files listing answer options, e.g. 'P17_options.txt'")
     
@@ -103,6 +103,7 @@ def main():
     # need to read the relation options if wish to get statistics related to frequence heuristic
     options = None
     if args.retriever_statistics:
+        assert args.options_folder is not None, "The '--options_folder' needs to be provided if you wish to measure retriever statistics."
         pattern = args.data_file.split('/')[-1].split('.')[0].split('-')[0]
         options_filepath = os.path.join(args.options_folder, f"{pattern}_options.txt")
         with open(options_filepath, "r") as f:
