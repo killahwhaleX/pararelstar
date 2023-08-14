@@ -171,7 +171,7 @@ python -m debugpy --wait-for-client --listen 5678 -m pararel.consistency.encode_
 
 #### Atlas example generating ParaRel evaluation results for all ParaRel relations in a go
 ```bash
-./eval_atlas_preds.sh <prefix-of-files-with-predictions, e.g. /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval->
+./eval_atlas_preds.sh <prefix-of-files-with-predictions, e.g. /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-> atlas-base --retriever_statistics
 ```
 
 ## Generate ParaRel result plots

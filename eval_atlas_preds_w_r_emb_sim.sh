@@ -23,6 +23,6 @@ for filename in ${PREDS_FOLDER}*/*-step-*.jsonl; do
        --graph "data/pattern_data/graphs/${relation}.graph" \
        --wandb \
        --retriever_embeddings_filename "$emb_file" \
-       --options_folder "data/all_n1_atlas" \
+       --options_folder "data/all_n1_atlas_no_space" \
        --retriever_statistics
 done
