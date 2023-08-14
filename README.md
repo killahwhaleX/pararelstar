@@ -35,7 +35,7 @@ python -m pararel.consistency.encode_consistency_probe \
        --use_targets
 ```
 
-## Debug example
+## Debug examples
 Can only be done from a local HPC node, i.e. not in a job due to lack of port visibility.
 
 ```bash
@@ -46,6 +46,19 @@ CUDA_VISIBLE_DEVICES=2, python -m debugpy --wait-for-client --listen 5678 -m par
        --gpu 0 \
        --wandb \
        --use_targets
+```
+
+```bash
+module load PyTorch/1.9.0-fosscuda-2020b
+source venv/bin/activate
+python -m debugpy --wait-for-client --listen 5678 -m pararel.consistency.encode_consistency_probe_from_file \
+       --lm atlas-test \
+       --data_file /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-zero-shot-large/P101-large-2017-1119383/P101-step-0.jsonl \
+       --graph "data/pattern_data/graphs/P101.graph" \
+       --wandb \
+       --retriever_embeddings_filename "/cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-compute-r-embeddings-large/P101-2017-1147212/P101-step-0-r-embedding" \
+       --options_folder "data/all_n1_atlas_no_space" \
+       --retriever_statistics
 ```
 
 ## Remove duplicates from the ParaRel data
