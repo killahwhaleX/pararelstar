@@ -43,7 +43,10 @@ def read_atlas_results(data, r_flag = False, options=None):
     r_rank_gold = None
     if options is not None:
         r_rank_pred, r_rank_gold = get_answer_freq_rank(data["passages"], data["generation_by_choice"], data["answers"][0], options)
-    return data["pattern"], data["sub_label"], data["answers"][0], data["generation_by_choice"], retrieval_id, retrieval_title, r_rank_pred, r_rank_gold
+    choice_confidence = None
+    if "choice_confidence" in data:
+        choice_confidence = float(data["choice_confidence"])
+    return data["pattern"], data["sub_label"], data["answers"][0], data["generation_by_choice"], retrieval_id, retrieval_title, r_rank_pred, r_rank_gold, choice_confidence
 
 def read_llama_results(data, r_flag = False, options=None):
     return data["pattern"], data["sub_label"], data["answers"][0], data["generation"], [0]
@@ -89,6 +92,7 @@ def main():
     r_title_results = defaultdict(dict)
     r_rank_pred_results = defaultdict(dict)
     r_rank_gold_results = defaultdict(dict)
+    choice_confidences = defaultdict(dict)
 
     read_results_fn = None
     if "ernie" in args.lm:
@@ -110,12 +114,13 @@ def main():
             options = [line.strip() for line in f.readlines()]
 
     for dp in data:
-        prompt, subj, obj, prediction, psgs_ids, psgs_titles, r_rank_preds, r_rank_golds = read_results_fn(dp, args.retriever_statistics, options)
+        prompt, subj, obj, prediction, psgs_ids, psgs_titles, r_rank_preds, r_rank_golds, choice_confidence = read_results_fn(dp, args.retriever_statistics, options)
         r_id_results[prompt][subj] = psgs_ids
         r_title_results[prompt][subj] = psgs_titles
         lm_results[prompt][subj] = (prediction,obj)
         r_rank_pred_results[prompt][subj] = r_rank_preds
         r_rank_gold_results[prompt][subj] = r_rank_golds
+        choice_confidences[prompt][subj] = choice_confidence
 
     r_embeddings_lookup = None
     r_embeddings = None
@@ -124,9 +129,9 @@ def main():
         r_embeddings = torch.load(args.retriever_embeddings_filename+".pt")
 
     if args.retriever_statistics:
-        analyze_results(lm_results, patterns_graph, r_id_results, r_title_results, r_rank_pred_results, r_rank_gold_results, r_embeddings_lookup, r_embeddings)
+        analyze_results(lm_results, patterns_graph, choice_confidences, r_id_results, r_title_results, r_rank_pred_results, r_rank_gold_results, r_embeddings_lookup, r_embeddings)
     else: 
-        analyze_results(lm_results, patterns_graph)
+        analyze_results(lm_results, patterns_graph, choice_confidences)
     analyze_graph(patterns_graph)
 
     # Analyze LAMA performance
