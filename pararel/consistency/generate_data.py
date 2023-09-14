@@ -42,6 +42,11 @@ def get_atlas_passages(fact_data, atlas_data, pattern_graph):
     assert len(passages)==1, f"Only one passage retrieval should match a given pattern-sub_label pair, got {passages}"
     return passages.iloc[0], passage_pattern
 
+def get_atlas_instance_passages(fact_data, atlas_data, pattern):
+    passages = atlas_data[(atlas_data.sub_label==fact_data["sub_label"]) & (atlas_data.pattern==pattern)].passages
+    assert len(passages)==1, f"Only one passage retrieval should match a given pattern-sub_label pair, got {passages}"
+    return passages.iloc[0]
+
 def get_random_atlas_passages(atlas_data):
     # randomly sample a retrieval of 20 passages
     random_row = atlas_data.sample()
@@ -50,21 +55,25 @@ def get_random_atlas_passages(atlas_data):
     
     return passages, passage_pattern
 
-def generate_data(folder_name, relations_given, data_path, format_prompt, generate_targets, atlas_data_path, random_passages_data_paths, random_atlas_retrieval=False):
+def get_trex_passage(fact_data, trex_data):
+    evidence = trex_data[trex_data.uuid==fact_data["uuid"]].iloc[0].evidences[0]
+    return {"text": evidence["masked_sentence"].replace("[MASK]", evidence["obj_surface"])}
 
-    lama_path = os.path.join(data_path, "trex_lms_vocab")
-    graph_path = os.path.join(data_path, "pattern_data", "graphs")
+def generate_data(args):
 
-    relations_given = sorted(relations_given.split(","))
-    output_path = os.path.join(data_path, folder_name)
+    lama_path = os.path.join(args.data_path, "trex_lms_vocab")
+    graph_path = os.path.join(args.data_path, "pattern_data", "graphs")
 
-    assert not (atlas_data_path is not None and not random_passages_data_paths == []), "Can only load fixed passages from one source"
-    if not random_passages_data_paths == []:
-        print(f"Loading passages for random retrieval from {random_passages_data_paths}...")
+    relations_given = sorted(args.relations_given.split(","))
+    output_path = os.path.join(args.data_path, args.folder_name)
+
+    assert not (args.atlas_data_path is not None and not args.random_passages_data_paths == []), "Can only load fixed passages from one source"
+    if not args.random_passages_data_paths == []:
+        print(f"Loading passages for random retrieval from {args.random_passages_data_paths}...")
         num_random_passages = 20
         all_passages = []
-        for data_path in random_passages_data_paths:
-            all_passages += utils.read_jsonl_file(data_path)
+        for path in args.random_passages_data_paths:
+            all_passages += utils.read_jsonl_file(path)
 
     if not os.path.exists(output_path):
         print("Saving data to: ", output_path)
@@ -78,34 +87,51 @@ def generate_data(folder_name, relations_given, data_path, format_prompt, genera
 
         pattern_path = os.path.join(graph_path, relation+".graph")
         data = utils.read_jsonl_file(os.path.join(lama_path, relation + ".jsonl"))
-        if atlas_data_path is not None:
-            atlas_prediction_file_paths = glob.glob(os.path.join(atlas_data_path, relation+"-*", relation+"-*.jsonl"))
+        if args.atlas_data_path is not None:
+            atlas_prediction_file_paths = glob.glob(os.path.join(args.atlas_data_path, relation+"-*", relation+"-*.jsonl"))
             assert len(atlas_prediction_file_paths) == 1,f"Should only have one atlas preds file, got {atlas_prediction_file_paths}"
             predictions_data = pd.DataFrame(utils.read_jsonl_file(atlas_prediction_file_paths[0]))
+            
+        if args.trex_data_path is not None:
+            trex_file_path = glob.glob(os.path.join(args.trex_data_path, relation+".jsonl"))[0]
+            trex_data = pd.DataFrame(utils.read_jsonl_file(trex_file_path))
 
+        passages = None
         with open(pattern_path, "rb") as f:
             graph = pickle.load(f)
             f_true = open(output_file, "w")
             for i, d in enumerate(data):
-                if atlas_data_path is not None:
-                    if not random_atlas_retrieval:
+                if args.atlas_data_path is not None:
+                    if not args.random_atlas_retrieval:
                         passages, passages_pattern = get_atlas_passages(d, predictions_data, graph)
                     else:
                         passages, passages_pattern = get_random_atlas_passages(predictions_data)
-                elif not random_passages_data_paths == []:
+                if args.trex_data_path is not None:
+                    passages = [get_trex_passage(d, trex_data)]
+                    passages_pattern = ""
+                elif not args.random_passages_data_paths == []:
                     passages = random.sample(all_passages, num_random_passages)
                     passages_pattern = ""
                 for node in graph.nodes():
                     pattern = node.lm_pattern
-                    dict_results = POSSIBLE_FORMATS[format_prompt](d, pattern)
-                    if atlas_data_path is not None or not random_passages_data_paths == []:
+                    dict_results = POSSIBLE_FORMATS[args.format](d, pattern)
+                    if args.add_instance_context:
+                        if args.atlas_data_path is not None:
+                            passages = get_atlas_instance_passages(d, predictions_data, pattern)
+                            passages_pattern = None
+                        else:
+                            raise ValueError("The `--add_instance_context` is only applicable for when Atlas passages are used.")
+                    if passages is not None:
                         dict_results["passages_pattern"] = passages_pattern
-                        dict_results["passages"] = passages
+                        if args.add_fixed_context or args.add_instance_context:
+                            dict_results["question"] = dict_results["question"] + f" context: {passages[0]['text']}"
+                        else: # otherwise add the passages as a separate entry, instead of as context 
+                            dict_results["passages"] = passages[:args.number_of_fixed_passages] if args.number_of_fixed_passages is not None else passages
                     f_true.write(json.dumps(dict_results))
                     f_true.write("\n")
             f_true.close()
 
-        if generate_targets:
+        if args.generate_targets:
             all_objects = list(set([x['obj_label'] for x in data]))
             with open(os.path.join(output_path, "{}_options.txt".format(relation)), 'w') as f:
                 for val in all_objects:
@@ -127,12 +153,20 @@ def main():
     parser.add_argument("--random_passages_data_paths", nargs="+", default=[],
             help="list of space-separated paths to retrieval passages from which to load fixed random Atlas passages")
     
+    parser.add_argument("--trex_data_path", default=None, type=str, help="path to T-REx from which to load gold support passages")
+    parser.add_argument("--number_of_fixed_passages", default=None, type=int, help="Number of fixed passages to use for the data creation")
+    parser.add_argument("--add_fixed_context", action='store_true', default=False, help="Whether to skip adding retrieved passages and add the first retrieved passage directly to the query, fixed across paraphrases")
+    parser.add_argument("--add_instance_context", action='store_true', default=False, help="Whether to skip adding retrieved passages and add the first retrieved passage directly to the query, where each passage corresponds to the instance at hand")
+    
     args = parser.parse_args()
 
     if args.format not in POSSIBLE_FORMATS:
         raise ValueError(f"This function does not yet have support for any other formats than {POSSIBLE_FORMATS}.")
 
-    generate_data(args.folder_name, args.relations_given, args.data_path, args.format, args.generate_targets, args.atlas_data_path, args.random_passages_data_paths, args.random_atlas_retrieval)
+    if args.atlas_data_path is not None and args.trex_data_path is not None:
+        raise ValueError(r"It is not possible to use both Atlas passages and T-REx passages at the same time.")
+
+    generate_data(args)
 
 
 if __name__ == "__main__":

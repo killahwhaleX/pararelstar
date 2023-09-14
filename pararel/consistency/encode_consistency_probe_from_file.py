@@ -75,6 +75,8 @@ def main():
     parse.add_argument("--retriever_embeddings_filename", type=str, default=None, help="Filename (without extension) to retriever embeddings of queries")
     parse.add_argument("--options_folder", type=str, default=None, help="Path to folder with files listing answer options, e.g. 'P17_options.txt'")
     
+    parse.add_argument("--wandb_project_name", type=str, default="consistency-latest", help="Name of wandb folder to save runs to")
+    
     args = parse.parse_args()
 
     if args.wandb:

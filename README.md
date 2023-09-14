@@ -313,3 +313,155 @@ To compute the consistency metrics for all relations in a go, use the script as 
 ```bash
 ./compute_random_consistencies.sh /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-zero-shot-base-no-space-likelihood-no-eos-with-3/ /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-compute-r-embeddings-base
 ```
+
+___
+
+# New experiments
+
+## Fixed gold retrieved passages for Atlas
+
+First download the T-REx data from the [LAMA repo](https://github.com/facebookresearch/LAMA):
+
+```bash
+wget https://dl.fbaipublicfiles.com/LAMA/data.zip
+unzip data.zip
+rm data.zip
+```
+`data.zip` contains more datasets that T-REx, while we are only interested in the latter as this forms the foundation of ParaRel. 
+
+Then, save the ParaRel prompts with the gold retrieved passage formatted for e.g. Atlas to a folder:
+
+```bash
+module load PyTorch/1.9.0-fosscuda-2020b
+source venv/bin/activate
+
+python3 -m pararel.consistency.generate_data \
+       --folder_name "all_n1_atlas_no_space_w_retrieval_1_gold" \
+       --data_path "data" \
+       --format atlas \
+       --trex_data_path "/cephyr/users/lovhag/Alvis/projects/pararel/data/lama/TREx"
+```
+
+The resulting queries will be saved to `--folder_name` to be used for evaluating your models of interest.
+
+To get the evaluation metrics from the made model predictions, use:
+
+```bash
+./eval_atlas_preds.sh <prefix-of-files-with-predictions, e.g. /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-> atlas-base-1-gold-passage consistency-gold-passages
+```
+
+**Debug version**
+
+```bash
+module load PyTorch/1.9.0-fosscuda-2020b
+source venv/bin/activate
+python -m debugpy --wait-for-client --listen 5678 -m pararel.consistency.generate_data \
+       --folder_name "test" \
+       --data_path "data" \
+       --format atlas \
+       --trex_data_path "/cephyr/users/lovhag/Alvis/projects/pararel/data/lama/TREx"
+```
+
+## Fixed one passage retrieved for Atlas
+
+```bash
+module load PyTorch/1.9.0-fosscuda-2020b
+source venv/bin/activate
+
+python3 -m pararel.consistency.generate_data \
+       --folder_name "all_n1_atlas_no_space_w_retrieval_1_passage" \
+       --data_path "data" \
+       --format atlas \
+       --atlas_data_path "/cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-zero-shot-base-no-space-likelihood-no-eos-with-3" \
+       --number_of_fixed_passages 1
+```
+- Data generated ✅ 
+- Atlas eval file created ✅
+- Atlas evaluated ✅
+
+## Baselines with context
+
+> Double check that the query format looks ok? (i.e. no `None` values from lack of retrieved info)
+
+How to deal with long contexts? Is it automatically truncated in the Atlas code? _Should be fine - the context is already appended in the usual Atlas run case, and automatically truncated. (Even though one may ask questions about the suitability of too long contexts?)_
+
+### Context given by gold T-REx
+
+```bash
+module load PyTorch/1.9.0-fosscuda-2020b
+source venv/bin/activate
+python -m pararel.consistency.generate_data \
+       --folder_name "w_context/all_n1_atlas_no_space_context_gold" \
+       --data_path "data" \
+       --format atlas \
+       --trex_data_path "/cephyr/users/lovhag/Alvis/projects/pararel/data/lama/TREx" \
+       --add_fixed_context
+```
+- Data generated ✅
+- Eval file created ✅
+- T5 evaluated ✅
+       - Currently checking out more MLM adapted variants.
+
+### Context given by Atlas retrieved passage (fixed)
+
+```bash
+module load PyTorch/1.9.0-fosscuda-2020b
+source venv/bin/activate
+
+python3 -m pararel.consistency.generate_data \
+       --folder_name "w_context/all_n1_atlas_no_space_context_fixed_retrieval_1" \
+       --data_path "data" \
+       --format atlas \
+       --atlas_data_path "/cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-zero-shot-base-no-space-likelihood-no-eos-with-3" \
+       --add_fixed_context
+```
+- Data generated ✅
+- Eval file created ✅
+- T5 evaluated 🔄
+
+### Context given by Atlas retrieved passage (non-fixed)
+
+```bash
+module load PyTorch/1.9.0-fosscuda-2020b
+source venv/bin/activate
+
+python3 -m pararel.consistency.generate_data \
+       --folder_name "w_context/all_n1_atlas_no_space_context_instance_retrieval_1" \
+       --data_path "data" \
+       --format atlas \
+       --atlas_data_path "/cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/pararel-eval-zero-shot-base-no-space-likelihood-no-eos-with-3" \
+       --add_instance_context
+```
+- Data generated ✅
+- Eval file created ✅
+- T5 evaluated 🔄
+
+## Compare T5 LM to T5 MLM
+
+```bash
+./eval_atlas_preds.sh /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/new/baselines/pararel-eval-t5-context-gold/ t5-1-gold-context reader-retriever-investigations
+./eval_atlas_preds.sh /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/new/baselines/pararel-eval-t5-mlm-context-gold/ t5-mlm-1-gold-context reader-retriever-investigations
+```
+
+> T5 MLM works better!
+
+Also run T5 MLM in default mode (without context) on ParaRel: 🔄
+```bash
+./eval_atlas_preds.sh /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/new/baselines/pararel-eval-t5-mlm/ t5-mlm reader-retriever-investigations
+```
+
+## Save all ParaRel metrics to the same W&B project
+
+Project name: `reader-retriever-investigations`
+
+```bash
+./eval_atlas_preds.sh /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/new/pararel-eval-1-gold-passage/ atlas-base-1-gold-passage reader-retriever-investigations
+./eval_atlas_preds.sh /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/new/pararel-eval-1-fixed-passage/ atlas-base-1-fixed-passage reader-retriever-investigations
+./eval_atlas_preds.sh /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/new/baselines/pararel-eval-t5-mlm/ t5-mlm reader-retriever-investigations
+./eval_atlas_preds.sh /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/new/baselines/pararel-eval-t5-mlm-context-gold/ t5-mlm-1-gold-context reader-retriever-investigations
+./eval_atlas_preds.sh /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/new/baselines/pararel-eval-t5-mlm-context-atlas-fixed/ t5-mlm-1-fixed-atlas-context reader-retriever-investigations
+./eval_atlas_preds.sh /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/new/baselines/pararel-eval-t5-mlm-context-atlas-instance/ t5-mlm-1-instance-atlas-context reader-retriever-investigations
+./eval_atlas_preds.sh /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/new/baselines/pararel-eval-t5-context-atlas-fixed/ t5-1-fixed-atlas-context reader-retriever-investigations
+./eval_atlas_preds.sh /cephyr/users/lovhag/Alvis/projects/atlas/data/experiments/new/baselines/pararel-eval-t5-context-atlas-instance/ t5-1-instance-atlas-context reader-retriever-investigations
+```
+

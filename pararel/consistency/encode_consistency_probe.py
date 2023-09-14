@@ -53,7 +53,7 @@ def log_wandb(args):
 
     wandb.init(
         name=f'{pattern}_consistency_probe_{lm}',
-        project="consistency-latest",
+        project=args.wandb_project_name,
         tags=tags_list,
         config=config,
     )
