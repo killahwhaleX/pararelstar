@@ -1,6 +1,6 @@
 # Updated ParaRel for evaluating consistency of Atlas and LLaMA
 
-This repo describes how we create an improved version of ParaRel and how we evaluate the consistency of Atlas and LLaMA on this improved ParaRel. 
+This repo contains the code for the EMNLP 2023 paper [The Effect of Scaling, Retrieval Augmentation and Form on the Factual Consistency of Language Models](https://arxiv.org/abs/2311.01307). It describes how we create an improved version of ParaRel and how we evaluate the consistency of Atlas and LLaMA on this improved ParaRel. 
 
 See the [old_README.md](old_README.md) for the original README file for the ParaRel repo.
 
