@@ -315,6 +315,7 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,linux,windows,macos,jupyternotebooks
 
 data/*
+!data/output/
 !data/pattern_data/
 !data/unpattern_data/
 !data/trex_lms_vocab/
