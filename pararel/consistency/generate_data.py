@@ -3,8 +3,19 @@ import glob
 import pickle
 import random
 import os
+import sys
 import json
+from pathlib import Path
 import pandas as pd
+
+scripts_path = Path().absolute() / ".." / ".." 
+scripts_path = str(scripts_path.resolve())
+
+#print(scripts_path)
+
+if scripts_path not in sys.path:
+    sys.path.append(scripts_path)
+
 
 from pararel.consistency import utils
 from pararel.consistency.lm_pipeline import parse_prompt
@@ -14,8 +25,13 @@ import random
 random.seed(42)
 
 def get_pararel_prompt(sample, prompt):
-   return {'prompt': parse_prompt(prompt, sample["sub_label"], "[MASK]"),
-                                'sub_label': sample["sub_label"], 'obj_label': sample["obj_label"]}
+   return {
+            'prompt': parse_prompt(prompt, sample["sub_label"], "[MASK]"),
+            'sub_label': sample["sub_label"], 
+            'obj_label': sample["obj_label"], 
+            'uuid': sample["uuid"],
+            'rel_ix': sample["relation"] + "_" + str(sample["index"]),
+            }
 
 def get_atlas_prompt(sample, prompt):
     # remove space before mask token for Atlas
@@ -97,6 +113,8 @@ def generate_data(folder_name, relations_given, data_path, format_prompt, genera
                     passages_pattern = ""
                 for node in graph.nodes():
                     pattern = node.lm_pattern
+                    d['index'] = i
+                    d['relation'] = relation
                     dict_results = POSSIBLE_FORMATS[format_prompt](d, pattern)
                     if atlas_data_path is not None or not random_passages_data_paths == []:
                         dict_results["passages_pattern"] = passages_pattern
