@@ -31,6 +31,7 @@ def get_pararel_prompt(sample, prompt):
             'obj_label': sample["obj_label"], 
             'uuid': sample["uuid"],
             'rel_ix': sample["relation"] + "_" + str(sample["index"]),
+            'pattern_ix' :sample["pattern_ix"]
             }
 
 def get_atlas_prompt(sample, prompt):
@@ -111,10 +112,12 @@ def generate_data(folder_name, relations_given, data_path, format_prompt, genera
                 elif not random_passages_data_paths == []:
                     passages = random.sample(all_passages, num_random_passages)
                     passages_pattern = ""
-                for node in graph.nodes():
+                for pattern_ix, node in enumerate(graph.nodes()):
                     pattern = node.lm_pattern
                     d['index'] = i
+                    d['pattern_ix'] = pattern_ix
                     d['relation'] = relation
+
                     dict_results = POSSIBLE_FORMATS[format_prompt](d, pattern)
                     if atlas_data_path is not None or not random_passages_data_paths == []:
                         dict_results["passages_pattern"] = passages_pattern
