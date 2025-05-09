@@ -1,0 +1,496 @@
+{"prompt": "Xbox is owned by [MASK] .", "sub_label": "Xbox", "obj_label": "Microsoft", "uuid": "1fc1db60-2390-4967-8f03-d707ace8f45d", "rel_ix": "P127_6", "pattern_ix": 0}
+{"prompt": "Xbox owner [MASK] .", "sub_label": "Xbox", "obj_label": "Microsoft", "uuid": "1fc1db60-2390-4967-8f03-d707ace8f45d", "rel_ix": "P127_6", "pattern_ix": 1}
+{"prompt": "[MASK] owns Xbox .", "sub_label": "Xbox", "obj_label": "Microsoft", "uuid": "1fc1db60-2390-4967-8f03-d707ace8f45d", "rel_ix": "P127_6", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Xbox", "sub_label": "Xbox", "obj_label": "Microsoft", "uuid": "1fc1db60-2390-4967-8f03-d707ace8f45d", "rel_ix": "P127_6", "pattern_ix": 3}
+{"prompt": "Lotus Software is owned by [MASK] .", "sub_label": "Lotus Software", "obj_label": "IBM", "uuid": "3e85af22-bae7-4a18-b34b-93e50667f626", "rel_ix": "P127_18", "pattern_ix": 0}
+{"prompt": "Lotus Software owner [MASK] .", "sub_label": "Lotus Software", "obj_label": "IBM", "uuid": "3e85af22-bae7-4a18-b34b-93e50667f626", "rel_ix": "P127_18", "pattern_ix": 1}
+{"prompt": "[MASK] owns Lotus Software .", "sub_label": "Lotus Software", "obj_label": "IBM", "uuid": "3e85af22-bae7-4a18-b34b-93e50667f626", "rel_ix": "P127_18", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Lotus Software", "sub_label": "Lotus Software", "obj_label": "IBM", "uuid": "3e85af22-bae7-4a18-b34b-93e50667f626", "rel_ix": "P127_18", "pattern_ix": 3}
+{"prompt": "compact disc is owned by [MASK] .", "sub_label": "compact disc", "obj_label": "Sony", "uuid": "14983806-2726-4e77-9208-5e2c4571279b", "rel_ix": "P127_22", "pattern_ix": 0}
+{"prompt": "compact disc owner [MASK] .", "sub_label": "compact disc", "obj_label": "Sony", "uuid": "14983806-2726-4e77-9208-5e2c4571279b", "rel_ix": "P127_22", "pattern_ix": 1}
+{"prompt": "[MASK] owns compact disc .", "sub_label": "compact disc", "obj_label": "Sony", "uuid": "14983806-2726-4e77-9208-5e2c4571279b", "rel_ix": "P127_22", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned compact disc", "sub_label": "compact disc", "obj_label": "Sony", "uuid": "14983806-2726-4e77-9208-5e2c4571279b", "rel_ix": "P127_22", "pattern_ix": 3}
+{"prompt": "Abarth is owned by [MASK] .", "sub_label": "Abarth", "obj_label": "Fiat", "uuid": "726d16e5-91aa-4b60-a66e-b0b2349d0a65", "rel_ix": "P127_23", "pattern_ix": 0}
+{"prompt": "Abarth owner [MASK] .", "sub_label": "Abarth", "obj_label": "Fiat", "uuid": "726d16e5-91aa-4b60-a66e-b0b2349d0a65", "rel_ix": "P127_23", "pattern_ix": 1}
+{"prompt": "[MASK] owns Abarth .", "sub_label": "Abarth", "obj_label": "Fiat", "uuid": "726d16e5-91aa-4b60-a66e-b0b2349d0a65", "rel_ix": "P127_23", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Abarth", "sub_label": "Abarth", "obj_label": "Fiat", "uuid": "726d16e5-91aa-4b60-a66e-b0b2349d0a65", "rel_ix": "P127_23", "pattern_ix": 3}
+{"prompt": "Snowy Hydro is owned by [MASK] .", "sub_label": "Snowy Hydro", "obj_label": "Australia", "uuid": "c73c474e-8d99-41ab-adb9-1802a2fac51c", "rel_ix": "P127_26", "pattern_ix": 0}
+{"prompt": "Snowy Hydro owner [MASK] .", "sub_label": "Snowy Hydro", "obj_label": "Australia", "uuid": "c73c474e-8d99-41ab-adb9-1802a2fac51c", "rel_ix": "P127_26", "pattern_ix": 1}
+{"prompt": "[MASK] owns Snowy Hydro .", "sub_label": "Snowy Hydro", "obj_label": "Australia", "uuid": "c73c474e-8d99-41ab-adb9-1802a2fac51c", "rel_ix": "P127_26", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Snowy Hydro", "sub_label": "Snowy Hydro", "obj_label": "Australia", "uuid": "c73c474e-8d99-41ab-adb9-1802a2fac51c", "rel_ix": "P127_26", "pattern_ix": 3}
+{"prompt": "Canad Inns Stadium is owned by [MASK] .", "sub_label": "Canad Inns Stadium", "obj_label": "Winnipeg", "uuid": "0919d51d-2170-4ab7-b007-87bfd0351134", "rel_ix": "P127_27", "pattern_ix": 0}
+{"prompt": "Canad Inns Stadium owner [MASK] .", "sub_label": "Canad Inns Stadium", "obj_label": "Winnipeg", "uuid": "0919d51d-2170-4ab7-b007-87bfd0351134", "rel_ix": "P127_27", "pattern_ix": 1}
+{"prompt": "[MASK] owns Canad Inns Stadium .", "sub_label": "Canad Inns Stadium", "obj_label": "Winnipeg", "uuid": "0919d51d-2170-4ab7-b007-87bfd0351134", "rel_ix": "P127_27", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Canad Inns Stadium", "sub_label": "Canad Inns Stadium", "obj_label": "Winnipeg", "uuid": "0919d51d-2170-4ab7-b007-87bfd0351134", "rel_ix": "P127_27", "pattern_ix": 3}
+{"prompt": "Google Answers is owned by [MASK] .", "sub_label": "Google Answers", "obj_label": "Google", "uuid": "f839ae0b-cafa-4ad6-9d0f-97ad49faa404", "rel_ix": "P127_34", "pattern_ix": 0}
+{"prompt": "Google Answers owner [MASK] .", "sub_label": "Google Answers", "obj_label": "Google", "uuid": "f839ae0b-cafa-4ad6-9d0f-97ad49faa404", "rel_ix": "P127_34", "pattern_ix": 1}
+{"prompt": "[MASK] owns Google Answers .", "sub_label": "Google Answers", "obj_label": "Google", "uuid": "f839ae0b-cafa-4ad6-9d0f-97ad49faa404", "rel_ix": "P127_34", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Google Answers", "sub_label": "Google Answers", "obj_label": "Google", "uuid": "f839ae0b-cafa-4ad6-9d0f-97ad49faa404", "rel_ix": "P127_34", "pattern_ix": 3}
+{"prompt": "Sonic Team is owned by [MASK] .", "sub_label": "Sonic Team", "obj_label": "Sega", "uuid": "bd3f4c8c-45be-4efb-9b16-31a2a193214a", "rel_ix": "P127_38", "pattern_ix": 0}
+{"prompt": "Sonic Team owner [MASK] .", "sub_label": "Sonic Team", "obj_label": "Sega", "uuid": "bd3f4c8c-45be-4efb-9b16-31a2a193214a", "rel_ix": "P127_38", "pattern_ix": 1}
+{"prompt": "[MASK] owns Sonic Team .", "sub_label": "Sonic Team", "obj_label": "Sega", "uuid": "bd3f4c8c-45be-4efb-9b16-31a2a193214a", "rel_ix": "P127_38", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Sonic Team", "sub_label": "Sonic Team", "obj_label": "Sega", "uuid": "bd3f4c8c-45be-4efb-9b16-31a2a193214a", "rel_ix": "P127_38", "pattern_ix": 3}
+{"prompt": "Apostolic Palace is owned by [MASK] .", "sub_label": "Apostolic Palace", "obj_label": "pope", "uuid": "02d82b62-5fd3-450e-ab4c-be6a383fec4d", "rel_ix": "P127_47", "pattern_ix": 0}
+{"prompt": "Apostolic Palace owner [MASK] .", "sub_label": "Apostolic Palace", "obj_label": "pope", "uuid": "02d82b62-5fd3-450e-ab4c-be6a383fec4d", "rel_ix": "P127_47", "pattern_ix": 1}
+{"prompt": "[MASK] owns Apostolic Palace .", "sub_label": "Apostolic Palace", "obj_label": "pope", "uuid": "02d82b62-5fd3-450e-ab4c-be6a383fec4d", "rel_ix": "P127_47", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Apostolic Palace", "sub_label": "Apostolic Palace", "obj_label": "pope", "uuid": "02d82b62-5fd3-450e-ab4c-be6a383fec4d", "rel_ix": "P127_47", "pattern_ix": 3}
+{"prompt": "Bundesautobahn 43 is owned by [MASK] .", "sub_label": "Bundesautobahn 43", "obj_label": "Germany", "uuid": "a78ab34a-f992-4925-8551-2a66a08ae84d", "rel_ix": "P127_55", "pattern_ix": 0}
+{"prompt": "Bundesautobahn 43 owner [MASK] .", "sub_label": "Bundesautobahn 43", "obj_label": "Germany", "uuid": "a78ab34a-f992-4925-8551-2a66a08ae84d", "rel_ix": "P127_55", "pattern_ix": 1}
+{"prompt": "[MASK] owns Bundesautobahn 43 .", "sub_label": "Bundesautobahn 43", "obj_label": "Germany", "uuid": "a78ab34a-f992-4925-8551-2a66a08ae84d", "rel_ix": "P127_55", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Bundesautobahn 43", "sub_label": "Bundesautobahn 43", "obj_label": "Germany", "uuid": "a78ab34a-f992-4925-8551-2a66a08ae84d", "rel_ix": "P127_55", "pattern_ix": 3}
+{"prompt": "Bundesautobahn 1 is owned by [MASK] .", "sub_label": "Bundesautobahn 1", "obj_label": "Germany", "uuid": "e97a3def-896d-41bf-b878-adf46d535a7b", "rel_ix": "P127_62", "pattern_ix": 0}
+{"prompt": "Bundesautobahn 1 owner [MASK] .", "sub_label": "Bundesautobahn 1", "obj_label": "Germany", "uuid": "e97a3def-896d-41bf-b878-adf46d535a7b", "rel_ix": "P127_62", "pattern_ix": 1}
+{"prompt": "[MASK] owns Bundesautobahn 1 .", "sub_label": "Bundesautobahn 1", "obj_label": "Germany", "uuid": "e97a3def-896d-41bf-b878-adf46d535a7b", "rel_ix": "P127_62", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Bundesautobahn 1", "sub_label": "Bundesautobahn 1", "obj_label": "Germany", "uuid": "e97a3def-896d-41bf-b878-adf46d535a7b", "rel_ix": "P127_62", "pattern_ix": 3}
+{"prompt": "Bundesautobahn 6 is owned by [MASK] .", "sub_label": "Bundesautobahn 6", "obj_label": "Germany", "uuid": "0b05057b-ed44-4983-a267-6e9ff7725b73", "rel_ix": "P127_63", "pattern_ix": 0}
+{"prompt": "Bundesautobahn 6 owner [MASK] .", "sub_label": "Bundesautobahn 6", "obj_label": "Germany", "uuid": "0b05057b-ed44-4983-a267-6e9ff7725b73", "rel_ix": "P127_63", "pattern_ix": 1}
+{"prompt": "[MASK] owns Bundesautobahn 6 .", "sub_label": "Bundesautobahn 6", "obj_label": "Germany", "uuid": "0b05057b-ed44-4983-a267-6e9ff7725b73", "rel_ix": "P127_63", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Bundesautobahn 6", "sub_label": "Bundesautobahn 6", "obj_label": "Germany", "uuid": "0b05057b-ed44-4983-a267-6e9ff7725b73", "rel_ix": "P127_63", "pattern_ix": 3}
+{"prompt": "Bundesautobahn 66 is owned by [MASK] .", "sub_label": "Bundesautobahn 66", "obj_label": "Germany", "uuid": "cb63d716-14c8-42f9-bac9-3731622cfeca", "rel_ix": "P127_67", "pattern_ix": 0}
+{"prompt": "Bundesautobahn 66 owner [MASK] .", "sub_label": "Bundesautobahn 66", "obj_label": "Germany", "uuid": "cb63d716-14c8-42f9-bac9-3731622cfeca", "rel_ix": "P127_67", "pattern_ix": 1}
+{"prompt": "[MASK] owns Bundesautobahn 66 .", "sub_label": "Bundesautobahn 66", "obj_label": "Germany", "uuid": "cb63d716-14c8-42f9-bac9-3731622cfeca", "rel_ix": "P127_67", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Bundesautobahn 66", "sub_label": "Bundesautobahn 66", "obj_label": "Germany", "uuid": "cb63d716-14c8-42f9-bac9-3731622cfeca", "rel_ix": "P127_67", "pattern_ix": 3}
+{"prompt": "Gmail is owned by [MASK] .", "sub_label": "Gmail", "obj_label": "Google", "uuid": "60a4fa4d-2bad-4a1a-a503-6068c0e8f067", "rel_ix": "P127_71", "pattern_ix": 0}
+{"prompt": "Gmail owner [MASK] .", "sub_label": "Gmail", "obj_label": "Google", "uuid": "60a4fa4d-2bad-4a1a-a503-6068c0e8f067", "rel_ix": "P127_71", "pattern_ix": 1}
+{"prompt": "[MASK] owns Gmail .", "sub_label": "Gmail", "obj_label": "Google", "uuid": "60a4fa4d-2bad-4a1a-a503-6068c0e8f067", "rel_ix": "P127_71", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Gmail", "sub_label": "Gmail", "obj_label": "Google", "uuid": "60a4fa4d-2bad-4a1a-a503-6068c0e8f067", "rel_ix": "P127_71", "pattern_ix": 3}
+{"prompt": "Google Developers is owned by [MASK] .", "sub_label": "Google Developers", "obj_label": "Google", "uuid": "c60ea39f-89f1-4859-975b-1d630e1a2be8", "rel_ix": "P127_80", "pattern_ix": 0}
+{"prompt": "Google Developers owner [MASK] .", "sub_label": "Google Developers", "obj_label": "Google", "uuid": "c60ea39f-89f1-4859-975b-1d630e1a2be8", "rel_ix": "P127_80", "pattern_ix": 1}
+{"prompt": "[MASK] owns Google Developers .", "sub_label": "Google Developers", "obj_label": "Google", "uuid": "c60ea39f-89f1-4859-975b-1d630e1a2be8", "rel_ix": "P127_80", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Google Developers", "sub_label": "Google Developers", "obj_label": "Google", "uuid": "c60ea39f-89f1-4859-975b-1d630e1a2be8", "rel_ix": "P127_80", "pattern_ix": 3}
+{"prompt": "Google Maps is owned by [MASK] .", "sub_label": "Google Maps", "obj_label": "Google", "uuid": "ace24276-08ce-4b70-b988-01914e32739c", "rel_ix": "P127_81", "pattern_ix": 0}
+{"prompt": "Google Maps owner [MASK] .", "sub_label": "Google Maps", "obj_label": "Google", "uuid": "ace24276-08ce-4b70-b988-01914e32739c", "rel_ix": "P127_81", "pattern_ix": 1}
+{"prompt": "[MASK] owns Google Maps .", "sub_label": "Google Maps", "obj_label": "Google", "uuid": "ace24276-08ce-4b70-b988-01914e32739c", "rel_ix": "P127_81", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Google Maps", "sub_label": "Google Maps", "obj_label": "Google", "uuid": "ace24276-08ce-4b70-b988-01914e32739c", "rel_ix": "P127_81", "pattern_ix": 3}
+{"prompt": "Ariake Coliseum is owned by [MASK] .", "sub_label": "Ariake Coliseum", "obj_label": "Tokyo", "uuid": "865c2133-9df7-4967-9a20-584003a94857", "rel_ix": "P127_83", "pattern_ix": 0}
+{"prompt": "Ariake Coliseum owner [MASK] .", "sub_label": "Ariake Coliseum", "obj_label": "Tokyo", "uuid": "865c2133-9df7-4967-9a20-584003a94857", "rel_ix": "P127_83", "pattern_ix": 1}
+{"prompt": "[MASK] owns Ariake Coliseum .", "sub_label": "Ariake Coliseum", "obj_label": "Tokyo", "uuid": "865c2133-9df7-4967-9a20-584003a94857", "rel_ix": "P127_83", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Ariake Coliseum", "sub_label": "Ariake Coliseum", "obj_label": "Tokyo", "uuid": "865c2133-9df7-4967-9a20-584003a94857", "rel_ix": "P127_83", "pattern_ix": 3}
+{"prompt": "Bundesautobahn 73 is owned by [MASK] .", "sub_label": "Bundesautobahn 73", "obj_label": "Germany", "uuid": "79d43ed2-a85f-43b7-9371-f0a2734495c4", "rel_ix": "P127_85", "pattern_ix": 0}
+{"prompt": "Bundesautobahn 73 owner [MASK] .", "sub_label": "Bundesautobahn 73", "obj_label": "Germany", "uuid": "79d43ed2-a85f-43b7-9371-f0a2734495c4", "rel_ix": "P127_85", "pattern_ix": 1}
+{"prompt": "[MASK] owns Bundesautobahn 73 .", "sub_label": "Bundesautobahn 73", "obj_label": "Germany", "uuid": "79d43ed2-a85f-43b7-9371-f0a2734495c4", "rel_ix": "P127_85", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Bundesautobahn 73", "sub_label": "Bundesautobahn 73", "obj_label": "Germany", "uuid": "79d43ed2-a85f-43b7-9371-f0a2734495c4", "rel_ix": "P127_85", "pattern_ix": 3}
+{"prompt": "Target Center is owned by [MASK] .", "sub_label": "Target Center", "obj_label": "Minneapolis", "uuid": "ad731e11-b959-4335-bd3a-2500ff95d1a7", "rel_ix": "P127_100", "pattern_ix": 0}
+{"prompt": "Target Center owner [MASK] .", "sub_label": "Target Center", "obj_label": "Minneapolis", "uuid": "ad731e11-b959-4335-bd3a-2500ff95d1a7", "rel_ix": "P127_100", "pattern_ix": 1}
+{"prompt": "[MASK] owns Target Center .", "sub_label": "Target Center", "obj_label": "Minneapolis", "uuid": "ad731e11-b959-4335-bd3a-2500ff95d1a7", "rel_ix": "P127_100", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Target Center", "sub_label": "Target Center", "obj_label": "Minneapolis", "uuid": "ad731e11-b959-4335-bd3a-2500ff95d1a7", "rel_ix": "P127_100", "pattern_ix": 3}
+{"prompt": "Deutsche Flugsicherung is owned by [MASK] .", "sub_label": "Deutsche Flugsicherung", "obj_label": "Germany", "uuid": "69560a75-7d50-4f31-8f2d-05ea4ca5aa0c", "rel_ix": "P127_104", "pattern_ix": 0}
+{"prompt": "Deutsche Flugsicherung owner [MASK] .", "sub_label": "Deutsche Flugsicherung", "obj_label": "Germany", "uuid": "69560a75-7d50-4f31-8f2d-05ea4ca5aa0c", "rel_ix": "P127_104", "pattern_ix": 1}
+{"prompt": "[MASK] owns Deutsche Flugsicherung .", "sub_label": "Deutsche Flugsicherung", "obj_label": "Germany", "uuid": "69560a75-7d50-4f31-8f2d-05ea4ca5aa0c", "rel_ix": "P127_104", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Deutsche Flugsicherung", "sub_label": "Deutsche Flugsicherung", "obj_label": "Germany", "uuid": "69560a75-7d50-4f31-8f2d-05ea4ca5aa0c", "rel_ix": "P127_104", "pattern_ix": 3}
+{"prompt": "Metropolitan Stadium is owned by [MASK] .", "sub_label": "Metropolitan Stadium", "obj_label": "Minneapolis", "uuid": "92a7173e-60b3-4ed8-bebc-365d8f6a027f", "rel_ix": "P127_107", "pattern_ix": 0}
+{"prompt": "Metropolitan Stadium owner [MASK] .", "sub_label": "Metropolitan Stadium", "obj_label": "Minneapolis", "uuid": "92a7173e-60b3-4ed8-bebc-365d8f6a027f", "rel_ix": "P127_107", "pattern_ix": 1}
+{"prompt": "[MASK] owns Metropolitan Stadium .", "sub_label": "Metropolitan Stadium", "obj_label": "Minneapolis", "uuid": "92a7173e-60b3-4ed8-bebc-365d8f6a027f", "rel_ix": "P127_107", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Metropolitan Stadium", "sub_label": "Metropolitan Stadium", "obj_label": "Minneapolis", "uuid": "92a7173e-60b3-4ed8-bebc-365d8f6a027f", "rel_ix": "P127_107", "pattern_ix": 3}
+{"prompt": "Soewondo Air Force Base is owned by [MASK] .", "sub_label": "Soewondo Air Force Base", "obj_label": "Indonesia", "uuid": "ef4fe762-2359-4fbc-9227-2bdc8f7132c8", "rel_ix": "P127_110", "pattern_ix": 0}
+{"prompt": "Soewondo Air Force Base owner [MASK] .", "sub_label": "Soewondo Air Force Base", "obj_label": "Indonesia", "uuid": "ef4fe762-2359-4fbc-9227-2bdc8f7132c8", "rel_ix": "P127_110", "pattern_ix": 1}
+{"prompt": "[MASK] owns Soewondo Air Force Base .", "sub_label": "Soewondo Air Force Base", "obj_label": "Indonesia", "uuid": "ef4fe762-2359-4fbc-9227-2bdc8f7132c8", "rel_ix": "P127_110", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Soewondo Air Force Base", "sub_label": "Soewondo Air Force Base", "obj_label": "Indonesia", "uuid": "ef4fe762-2359-4fbc-9227-2bdc8f7132c8", "rel_ix": "P127_110", "pattern_ix": 3}
+{"prompt": "Teddy Stadium is owned by [MASK] .", "sub_label": "Teddy Stadium", "obj_label": "Jerusalem", "uuid": "bd802507-83e3-44dc-94b0-d43ef385f7d1", "rel_ix": "P127_116", "pattern_ix": 0}
+{"prompt": "Teddy Stadium owner [MASK] .", "sub_label": "Teddy Stadium", "obj_label": "Jerusalem", "uuid": "bd802507-83e3-44dc-94b0-d43ef385f7d1", "rel_ix": "P127_116", "pattern_ix": 1}
+{"prompt": "[MASK] owns Teddy Stadium .", "sub_label": "Teddy Stadium", "obj_label": "Jerusalem", "uuid": "bd802507-83e3-44dc-94b0-d43ef385f7d1", "rel_ix": "P127_116", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Teddy Stadium", "sub_label": "Teddy Stadium", "obj_label": "Jerusalem", "uuid": "bd802507-83e3-44dc-94b0-d43ef385f7d1", "rel_ix": "P127_116", "pattern_ix": 3}
+{"prompt": "Radio France is owned by [MASK] .", "sub_label": "Radio France", "obj_label": "France", "uuid": "7f7719e9-882f-4d2e-a850-b6a4740aeead", "rel_ix": "P127_122", "pattern_ix": 0}
+{"prompt": "Radio France owner [MASK] .", "sub_label": "Radio France", "obj_label": "France", "uuid": "7f7719e9-882f-4d2e-a850-b6a4740aeead", "rel_ix": "P127_122", "pattern_ix": 1}
+{"prompt": "[MASK] owns Radio France .", "sub_label": "Radio France", "obj_label": "France", "uuid": "7f7719e9-882f-4d2e-a850-b6a4740aeead", "rel_ix": "P127_122", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Radio France", "sub_label": "Radio France", "obj_label": "France", "uuid": "7f7719e9-882f-4d2e-a850-b6a4740aeead", "rel_ix": "P127_122", "pattern_ix": 3}
+{"prompt": "Dacia is owned by [MASK] .", "sub_label": "Dacia", "obj_label": "Renault", "uuid": "aa375db5-6aa1-4482-a334-3f14b6520aa9", "rel_ix": "P127_126", "pattern_ix": 0}
+{"prompt": "Dacia owner [MASK] .", "sub_label": "Dacia", "obj_label": "Renault", "uuid": "aa375db5-6aa1-4482-a334-3f14b6520aa9", "rel_ix": "P127_126", "pattern_ix": 1}
+{"prompt": "[MASK] owns Dacia .", "sub_label": "Dacia", "obj_label": "Renault", "uuid": "aa375db5-6aa1-4482-a334-3f14b6520aa9", "rel_ix": "P127_126", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Dacia", "sub_label": "Dacia", "obj_label": "Renault", "uuid": "aa375db5-6aa1-4482-a334-3f14b6520aa9", "rel_ix": "P127_126", "pattern_ix": 3}
+{"prompt": "National Sports Center is owned by [MASK] .", "sub_label": "National Sports Center", "obj_label": "Minnesota", "uuid": "7385cfa3-f377-472d-9417-ba379abc1a90", "rel_ix": "P127_136", "pattern_ix": 0}
+{"prompt": "National Sports Center owner [MASK] .", "sub_label": "National Sports Center", "obj_label": "Minnesota", "uuid": "7385cfa3-f377-472d-9417-ba379abc1a90", "rel_ix": "P127_136", "pattern_ix": 1}
+{"prompt": "[MASK] owns National Sports Center .", "sub_label": "National Sports Center", "obj_label": "Minnesota", "uuid": "7385cfa3-f377-472d-9417-ba379abc1a90", "rel_ix": "P127_136", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned National Sports Center", "sub_label": "National Sports Center", "obj_label": "Minnesota", "uuid": "7385cfa3-f377-472d-9417-ba379abc1a90", "rel_ix": "P127_136", "pattern_ix": 3}
+{"prompt": "Gordini is owned by [MASK] .", "sub_label": "Gordini", "obj_label": "Renault", "uuid": "303ecf61-f305-498f-bc91-6a4e70727f38", "rel_ix": "P127_145", "pattern_ix": 0}
+{"prompt": "Gordini owner [MASK] .", "sub_label": "Gordini", "obj_label": "Renault", "uuid": "303ecf61-f305-498f-bc91-6a4e70727f38", "rel_ix": "P127_145", "pattern_ix": 1}
+{"prompt": "[MASK] owns Gordini .", "sub_label": "Gordini", "obj_label": "Renault", "uuid": "303ecf61-f305-498f-bc91-6a4e70727f38", "rel_ix": "P127_145", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Gordini", "sub_label": "Gordini", "obj_label": "Renault", "uuid": "303ecf61-f305-498f-bc91-6a4e70727f38", "rel_ix": "P127_145", "pattern_ix": 3}
+{"prompt": "Googleplex is owned by [MASK] .", "sub_label": "Googleplex", "obj_label": "Google", "uuid": "b1754496-4ff6-467a-bb6a-4d2004cfb2a1", "rel_ix": "P127_160", "pattern_ix": 0}
+{"prompt": "Googleplex owner [MASK] .", "sub_label": "Googleplex", "obj_label": "Google", "uuid": "b1754496-4ff6-467a-bb6a-4d2004cfb2a1", "rel_ix": "P127_160", "pattern_ix": 1}
+{"prompt": "[MASK] owns Googleplex .", "sub_label": "Googleplex", "obj_label": "Google", "uuid": "b1754496-4ff6-467a-bb6a-4d2004cfb2a1", "rel_ix": "P127_160", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Googleplex", "sub_label": "Googleplex", "obj_label": "Google", "uuid": "b1754496-4ff6-467a-bb6a-4d2004cfb2a1", "rel_ix": "P127_160", "pattern_ix": 3}
+{"prompt": "Cinemax is owned by [MASK] .", "sub_label": "Cinemax", "obj_label": "HBO", "uuid": "6f1e03b2-dcaa-4320-a2d5-5972d9e3fb05", "rel_ix": "P127_164", "pattern_ix": 0}
+{"prompt": "Cinemax owner [MASK] .", "sub_label": "Cinemax", "obj_label": "HBO", "uuid": "6f1e03b2-dcaa-4320-a2d5-5972d9e3fb05", "rel_ix": "P127_164", "pattern_ix": 1}
+{"prompt": "[MASK] owns Cinemax .", "sub_label": "Cinemax", "obj_label": "HBO", "uuid": "6f1e03b2-dcaa-4320-a2d5-5972d9e3fb05", "rel_ix": "P127_164", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Cinemax", "sub_label": "Cinemax", "obj_label": "HBO", "uuid": "6f1e03b2-dcaa-4320-a2d5-5972d9e3fb05", "rel_ix": "P127_164", "pattern_ix": 3}
+{"prompt": "Royal Farms Arena is owned by [MASK] .", "sub_label": "Royal Farms Arena", "obj_label": "Baltimore", "uuid": "c2c6d208-83ba-4240-9366-933125686456", "rel_ix": "P127_167", "pattern_ix": 0}
+{"prompt": "Royal Farms Arena owner [MASK] .", "sub_label": "Royal Farms Arena", "obj_label": "Baltimore", "uuid": "c2c6d208-83ba-4240-9366-933125686456", "rel_ix": "P127_167", "pattern_ix": 1}
+{"prompt": "[MASK] owns Royal Farms Arena .", "sub_label": "Royal Farms Arena", "obj_label": "Baltimore", "uuid": "c2c6d208-83ba-4240-9366-933125686456", "rel_ix": "P127_167", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Royal Farms Arena", "sub_label": "Royal Farms Arena", "obj_label": "Baltimore", "uuid": "c2c6d208-83ba-4240-9366-933125686456", "rel_ix": "P127_167", "pattern_ix": 3}
+{"prompt": "Outlook.com is owned by [MASK] .", "sub_label": "Outlook.com", "obj_label": "Microsoft", "uuid": "0f83f64c-47e1-4cf8-81fb-9111a77410fe", "rel_ix": "P127_169", "pattern_ix": 0}
+{"prompt": "Outlook.com owner [MASK] .", "sub_label": "Outlook.com", "obj_label": "Microsoft", "uuid": "0f83f64c-47e1-4cf8-81fb-9111a77410fe", "rel_ix": "P127_169", "pattern_ix": 1}
+{"prompt": "[MASK] owns Outlook.com .", "sub_label": "Outlook.com", "obj_label": "Microsoft", "uuid": "0f83f64c-47e1-4cf8-81fb-9111a77410fe", "rel_ix": "P127_169", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Outlook.com", "sub_label": "Outlook.com", "obj_label": "Microsoft", "uuid": "0f83f64c-47e1-4cf8-81fb-9111a77410fe", "rel_ix": "P127_169", "pattern_ix": 3}
+{"prompt": "Sumner Tunnel is owned by [MASK] .", "sub_label": "Sumner Tunnel", "obj_label": "Massachusetts", "uuid": "efd92b26-9667-4704-93f9-3189b6a5c458", "rel_ix": "P127_172", "pattern_ix": 0}
+{"prompt": "Sumner Tunnel owner [MASK] .", "sub_label": "Sumner Tunnel", "obj_label": "Massachusetts", "uuid": "efd92b26-9667-4704-93f9-3189b6a5c458", "rel_ix": "P127_172", "pattern_ix": 1}
+{"prompt": "[MASK] owns Sumner Tunnel .", "sub_label": "Sumner Tunnel", "obj_label": "Massachusetts", "uuid": "efd92b26-9667-4704-93f9-3189b6a5c458", "rel_ix": "P127_172", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Sumner Tunnel", "sub_label": "Sumner Tunnel", "obj_label": "Massachusetts", "uuid": "efd92b26-9667-4704-93f9-3189b6a5c458", "rel_ix": "P127_172", "pattern_ix": 3}
+{"prompt": "Rancho Petaluma Adobe is owned by [MASK] .", "sub_label": "Rancho Petaluma Adobe", "obj_label": "California", "uuid": "35fd1ed5-4d9a-43d9-b637-4ed8a25336dc", "rel_ix": "P127_177", "pattern_ix": 0}
+{"prompt": "Rancho Petaluma Adobe owner [MASK] .", "sub_label": "Rancho Petaluma Adobe", "obj_label": "California", "uuid": "35fd1ed5-4d9a-43d9-b637-4ed8a25336dc", "rel_ix": "P127_177", "pattern_ix": 1}
+{"prompt": "[MASK] owns Rancho Petaluma Adobe .", "sub_label": "Rancho Petaluma Adobe", "obj_label": "California", "uuid": "35fd1ed5-4d9a-43d9-b637-4ed8a25336dc", "rel_ix": "P127_177", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Rancho Petaluma Adobe", "sub_label": "Rancho Petaluma Adobe", "obj_label": "California", "uuid": "35fd1ed5-4d9a-43d9-b637-4ed8a25336dc", "rel_ix": "P127_177", "pattern_ix": 3}
+{"prompt": "iGoogle is owned by [MASK] .", "sub_label": "iGoogle", "obj_label": "Google", "uuid": "cbe54981-37f6-4ae7-8300-cc3d4661ad57", "rel_ix": "P127_178", "pattern_ix": 0}
+{"prompt": "iGoogle owner [MASK] .", "sub_label": "iGoogle", "obj_label": "Google", "uuid": "cbe54981-37f6-4ae7-8300-cc3d4661ad57", "rel_ix": "P127_178", "pattern_ix": 1}
+{"prompt": "[MASK] owns iGoogle .", "sub_label": "iGoogle", "obj_label": "Google", "uuid": "cbe54981-37f6-4ae7-8300-cc3d4661ad57", "rel_ix": "P127_178", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned iGoogle", "sub_label": "iGoogle", "obj_label": "Google", "uuid": "cbe54981-37f6-4ae7-8300-cc3d4661ad57", "rel_ix": "P127_178", "pattern_ix": 3}
+{"prompt": "Google Sites is owned by [MASK] .", "sub_label": "Google Sites", "obj_label": "Google", "uuid": "9849ffa6-3642-47dc-9470-316fd3fa8adb", "rel_ix": "P127_179", "pattern_ix": 0}
+{"prompt": "Google Sites owner [MASK] .", "sub_label": "Google Sites", "obj_label": "Google", "uuid": "9849ffa6-3642-47dc-9470-316fd3fa8adb", "rel_ix": "P127_179", "pattern_ix": 1}
+{"prompt": "[MASK] owns Google Sites .", "sub_label": "Google Sites", "obj_label": "Google", "uuid": "9849ffa6-3642-47dc-9470-316fd3fa8adb", "rel_ix": "P127_179", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Google Sites", "sub_label": "Google Sites", "obj_label": "Google", "uuid": "9849ffa6-3642-47dc-9470-316fd3fa8adb", "rel_ix": "P127_179", "pattern_ix": 3}
+{"prompt": "Oakland Coliseum is owned by [MASK] .", "sub_label": "Oakland Coliseum", "obj_label": "Oakland", "uuid": "4a9d8726-a661-4e84-a341-d538d29848bc", "rel_ix": "P127_181", "pattern_ix": 0}
+{"prompt": "Oakland Coliseum owner [MASK] .", "sub_label": "Oakland Coliseum", "obj_label": "Oakland", "uuid": "4a9d8726-a661-4e84-a341-d538d29848bc", "rel_ix": "P127_181", "pattern_ix": 1}
+{"prompt": "[MASK] owns Oakland Coliseum .", "sub_label": "Oakland Coliseum", "obj_label": "Oakland", "uuid": "4a9d8726-a661-4e84-a341-d538d29848bc", "rel_ix": "P127_181", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Oakland Coliseum", "sub_label": "Oakland Coliseum", "obj_label": "Oakland", "uuid": "4a9d8726-a661-4e84-a341-d538d29848bc", "rel_ix": "P127_181", "pattern_ix": 3}
+{"prompt": "Google Ads is owned by [MASK] .", "sub_label": "Google Ads", "obj_label": "Google", "uuid": "42cccc8e-0b55-4597-9457-2df8730ec589", "rel_ix": "P127_190", "pattern_ix": 0}
+{"prompt": "Google Ads owner [MASK] .", "sub_label": "Google Ads", "obj_label": "Google", "uuid": "42cccc8e-0b55-4597-9457-2df8730ec589", "rel_ix": "P127_190", "pattern_ix": 1}
+{"prompt": "[MASK] owns Google Ads .", "sub_label": "Google Ads", "obj_label": "Google", "uuid": "42cccc8e-0b55-4597-9457-2df8730ec589", "rel_ix": "P127_190", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Google Ads", "sub_label": "Google Ads", "obj_label": "Google", "uuid": "42cccc8e-0b55-4597-9457-2df8730ec589", "rel_ix": "P127_190", "pattern_ix": 3}
+{"prompt": "Indiana State Museum is owned by [MASK] .", "sub_label": "Indiana State Museum", "obj_label": "Indiana", "uuid": "c332b8b1-7d16-4d2b-a2ee-5a621689cac3", "rel_ix": "P127_191", "pattern_ix": 0}
+{"prompt": "Indiana State Museum owner [MASK] .", "sub_label": "Indiana State Museum", "obj_label": "Indiana", "uuid": "c332b8b1-7d16-4d2b-a2ee-5a621689cac3", "rel_ix": "P127_191", "pattern_ix": 1}
+{"prompt": "[MASK] owns Indiana State Museum .", "sub_label": "Indiana State Museum", "obj_label": "Indiana", "uuid": "c332b8b1-7d16-4d2b-a2ee-5a621689cac3", "rel_ix": "P127_191", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Indiana State Museum", "sub_label": "Indiana State Museum", "obj_label": "Indiana", "uuid": "c332b8b1-7d16-4d2b-a2ee-5a621689cac3", "rel_ix": "P127_191", "pattern_ix": 3}
+{"prompt": "Yahoo! Sports is owned by [MASK] .", "sub_label": "Yahoo! Sports", "obj_label": "Yahoo", "uuid": "1ee6c873-e036-4f30-ba7d-d43a0e6db852", "rel_ix": "P127_192", "pattern_ix": 0}
+{"prompt": "Yahoo! Sports owner [MASK] .", "sub_label": "Yahoo! Sports", "obj_label": "Yahoo", "uuid": "1ee6c873-e036-4f30-ba7d-d43a0e6db852", "rel_ix": "P127_192", "pattern_ix": 1}
+{"prompt": "[MASK] owns Yahoo! Sports .", "sub_label": "Yahoo! Sports", "obj_label": "Yahoo", "uuid": "1ee6c873-e036-4f30-ba7d-d43a0e6db852", "rel_ix": "P127_192", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Yahoo! Sports", "sub_label": "Yahoo! Sports", "obj_label": "Yahoo", "uuid": "1ee6c873-e036-4f30-ba7d-d43a0e6db852", "rel_ix": "P127_192", "pattern_ix": 3}
+{"prompt": "Betacam is owned by [MASK] .", "sub_label": "Betacam", "obj_label": "Sony", "uuid": "4867d059-8e85-4633-b6e7-92023dd295d0", "rel_ix": "P127_193", "pattern_ix": 0}
+{"prompt": "Betacam owner [MASK] .", "sub_label": "Betacam", "obj_label": "Sony", "uuid": "4867d059-8e85-4633-b6e7-92023dd295d0", "rel_ix": "P127_193", "pattern_ix": 1}
+{"prompt": "[MASK] owns Betacam .", "sub_label": "Betacam", "obj_label": "Sony", "uuid": "4867d059-8e85-4633-b6e7-92023dd295d0", "rel_ix": "P127_193", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Betacam", "sub_label": "Betacam", "obj_label": "Sony", "uuid": "4867d059-8e85-4633-b6e7-92023dd295d0", "rel_ix": "P127_193", "pattern_ix": 3}
+{"prompt": "Winnipeg Route 85 is owned by [MASK] .", "sub_label": "Winnipeg Route 85", "obj_label": "Winnipeg", "uuid": "9fec3d8b-b294-45bb-b887-bfe200a5c5c5", "rel_ix": "P127_194", "pattern_ix": 0}
+{"prompt": "Winnipeg Route 85 owner [MASK] .", "sub_label": "Winnipeg Route 85", "obj_label": "Winnipeg", "uuid": "9fec3d8b-b294-45bb-b887-bfe200a5c5c5", "rel_ix": "P127_194", "pattern_ix": 1}
+{"prompt": "[MASK] owns Winnipeg Route 85 .", "sub_label": "Winnipeg Route 85", "obj_label": "Winnipeg", "uuid": "9fec3d8b-b294-45bb-b887-bfe200a5c5c5", "rel_ix": "P127_194", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Winnipeg Route 85", "sub_label": "Winnipeg Route 85", "obj_label": "Winnipeg", "uuid": "9fec3d8b-b294-45bb-b887-bfe200a5c5c5", "rel_ix": "P127_194", "pattern_ix": 3}
+{"prompt": "Google Labs is owned by [MASK] .", "sub_label": "Google Labs", "obj_label": "Google", "uuid": "0cf52228-1793-42aa-b4b3-f1bc54a357e8", "rel_ix": "P127_205", "pattern_ix": 0}
+{"prompt": "Google Labs owner [MASK] .", "sub_label": "Google Labs", "obj_label": "Google", "uuid": "0cf52228-1793-42aa-b4b3-f1bc54a357e8", "rel_ix": "P127_205", "pattern_ix": 1}
+{"prompt": "[MASK] owns Google Labs .", "sub_label": "Google Labs", "obj_label": "Google", "uuid": "0cf52228-1793-42aa-b4b3-f1bc54a357e8", "rel_ix": "P127_205", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Google Labs", "sub_label": "Google Labs", "obj_label": "Google", "uuid": "0cf52228-1793-42aa-b4b3-f1bc54a357e8", "rel_ix": "P127_205", "pattern_ix": 3}
+{"prompt": "Funkturm Berlin is owned by [MASK] .", "sub_label": "Funkturm Berlin", "obj_label": "Berlin", "uuid": "77165101-0fdd-4b77-b02d-d409e048229c", "rel_ix": "P127_206", "pattern_ix": 0}
+{"prompt": "Funkturm Berlin owner [MASK] .", "sub_label": "Funkturm Berlin", "obj_label": "Berlin", "uuid": "77165101-0fdd-4b77-b02d-d409e048229c", "rel_ix": "P127_206", "pattern_ix": 1}
+{"prompt": "[MASK] owns Funkturm Berlin .", "sub_label": "Funkturm Berlin", "obj_label": "Berlin", "uuid": "77165101-0fdd-4b77-b02d-d409e048229c", "rel_ix": "P127_206", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Funkturm Berlin", "sub_label": "Funkturm Berlin", "obj_label": "Berlin", "uuid": "77165101-0fdd-4b77-b02d-d409e048229c", "rel_ix": "P127_206", "pattern_ix": 3}
+{"prompt": "Scotiabank Saddledome is owned by [MASK] .", "sub_label": "Scotiabank Saddledome", "obj_label": "Calgary", "uuid": "f25f9ba3-9c85-4ccb-b920-dd32042aa864", "rel_ix": "P127_217", "pattern_ix": 0}
+{"prompt": "Scotiabank Saddledome owner [MASK] .", "sub_label": "Scotiabank Saddledome", "obj_label": "Calgary", "uuid": "f25f9ba3-9c85-4ccb-b920-dd32042aa864", "rel_ix": "P127_217", "pattern_ix": 1}
+{"prompt": "[MASK] owns Scotiabank Saddledome .", "sub_label": "Scotiabank Saddledome", "obj_label": "Calgary", "uuid": "f25f9ba3-9c85-4ccb-b920-dd32042aa864", "rel_ix": "P127_217", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Scotiabank Saddledome", "sub_label": "Scotiabank Saddledome", "obj_label": "Calgary", "uuid": "f25f9ba3-9c85-4ccb-b920-dd32042aa864", "rel_ix": "P127_217", "pattern_ix": 3}
+{"prompt": "Renault Trucks is owned by [MASK] .", "sub_label": "Renault Trucks", "obj_label": "Volvo", "uuid": "03c99174-6664-4bef-9260-0530064c669e", "rel_ix": "P127_221", "pattern_ix": 0}
+{"prompt": "Renault Trucks owner [MASK] .", "sub_label": "Renault Trucks", "obj_label": "Volvo", "uuid": "03c99174-6664-4bef-9260-0530064c669e", "rel_ix": "P127_221", "pattern_ix": 1}
+{"prompt": "[MASK] owns Renault Trucks .", "sub_label": "Renault Trucks", "obj_label": "Volvo", "uuid": "03c99174-6664-4bef-9260-0530064c669e", "rel_ix": "P127_221", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Renault Trucks", "sub_label": "Renault Trucks", "obj_label": "Volvo", "uuid": "03c99174-6664-4bef-9260-0530064c669e", "rel_ix": "P127_221", "pattern_ix": 3}
+{"prompt": "ESPN.com is owned by [MASK] .", "sub_label": "ESPN.com", "obj_label": "ESPN", "uuid": "cf019c20-3faf-4246-90cf-cc23fda49254", "rel_ix": "P127_223", "pattern_ix": 0}
+{"prompt": "ESPN.com owner [MASK] .", "sub_label": "ESPN.com", "obj_label": "ESPN", "uuid": "cf019c20-3faf-4246-90cf-cc23fda49254", "rel_ix": "P127_223", "pattern_ix": 1}
+{"prompt": "[MASK] owns ESPN.com .", "sub_label": "ESPN.com", "obj_label": "ESPN", "uuid": "cf019c20-3faf-4246-90cf-cc23fda49254", "rel_ix": "P127_223", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned ESPN.com", "sub_label": "ESPN.com", "obj_label": "ESPN", "uuid": "cf019c20-3faf-4246-90cf-cc23fda49254", "rel_ix": "P127_223", "pattern_ix": 3}
+{"prompt": "Pyra Labs is owned by [MASK] .", "sub_label": "Pyra Labs", "obj_label": "Google", "uuid": "bb3acead-293f-4913-9d7d-f22329957b39", "rel_ix": "P127_229", "pattern_ix": 0}
+{"prompt": "Pyra Labs owner [MASK] .", "sub_label": "Pyra Labs", "obj_label": "Google", "uuid": "bb3acead-293f-4913-9d7d-f22329957b39", "rel_ix": "P127_229", "pattern_ix": 1}
+{"prompt": "[MASK] owns Pyra Labs .", "sub_label": "Pyra Labs", "obj_label": "Google", "uuid": "bb3acead-293f-4913-9d7d-f22329957b39", "rel_ix": "P127_229", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Pyra Labs", "sub_label": "Pyra Labs", "obj_label": "Google", "uuid": "bb3acead-293f-4913-9d7d-f22329957b39", "rel_ix": "P127_229", "pattern_ix": 3}
+{"prompt": "Google Patents is owned by [MASK] .", "sub_label": "Google Patents", "obj_label": "Google", "uuid": "adfa3bb7-917b-46e5-b448-69a1360f97f0", "rel_ix": "P127_243", "pattern_ix": 0}
+{"prompt": "Google Patents owner [MASK] .", "sub_label": "Google Patents", "obj_label": "Google", "uuid": "adfa3bb7-917b-46e5-b448-69a1360f97f0", "rel_ix": "P127_243", "pattern_ix": 1}
+{"prompt": "[MASK] owns Google Patents .", "sub_label": "Google Patents", "obj_label": "Google", "uuid": "adfa3bb7-917b-46e5-b448-69a1360f97f0", "rel_ix": "P127_243", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Google Patents", "sub_label": "Google Patents", "obj_label": "Google", "uuid": "adfa3bb7-917b-46e5-b448-69a1360f97f0", "rel_ix": "P127_243", "pattern_ix": 3}
+{"prompt": "SCE Studio Liverpool is owned by [MASK] .", "sub_label": "SCE Studio Liverpool", "obj_label": "Sony", "uuid": "3eef371b-afdf-446c-9b24-c6b6e3c5794c", "rel_ix": "P127_245", "pattern_ix": 0}
+{"prompt": "SCE Studio Liverpool owner [MASK] .", "sub_label": "SCE Studio Liverpool", "obj_label": "Sony", "uuid": "3eef371b-afdf-446c-9b24-c6b6e3c5794c", "rel_ix": "P127_245", "pattern_ix": 1}
+{"prompt": "[MASK] owns SCE Studio Liverpool .", "sub_label": "SCE Studio Liverpool", "obj_label": "Sony", "uuid": "3eef371b-afdf-446c-9b24-c6b6e3c5794c", "rel_ix": "P127_245", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned SCE Studio Liverpool", "sub_label": "SCE Studio Liverpool", "obj_label": "Sony", "uuid": "3eef371b-afdf-446c-9b24-c6b6e3c5794c", "rel_ix": "P127_245", "pattern_ix": 3}
+{"prompt": "Idaho State Capitol is owned by [MASK] .", "sub_label": "Idaho State Capitol", "obj_label": "Idaho", "uuid": "f8881618-40f8-4831-b366-3c185c0ed78d", "rel_ix": "P127_248", "pattern_ix": 0}
+{"prompt": "Idaho State Capitol owner [MASK] .", "sub_label": "Idaho State Capitol", "obj_label": "Idaho", "uuid": "f8881618-40f8-4831-b366-3c185c0ed78d", "rel_ix": "P127_248", "pattern_ix": 1}
+{"prompt": "[MASK] owns Idaho State Capitol .", "sub_label": "Idaho State Capitol", "obj_label": "Idaho", "uuid": "f8881618-40f8-4831-b366-3c185c0ed78d", "rel_ix": "P127_248", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Idaho State Capitol", "sub_label": "Idaho State Capitol", "obj_label": "Idaho", "uuid": "f8881618-40f8-4831-b366-3c185c0ed78d", "rel_ix": "P127_248", "pattern_ix": 3}
+{"prompt": "Genesis Convention Center is owned by [MASK] .", "sub_label": "Genesis Convention Center", "obj_label": "Gary", "uuid": "c2e9014a-6846-4d12-a373-4d6d1aae4064", "rel_ix": "P127_253", "pattern_ix": 0}
+{"prompt": "Genesis Convention Center owner [MASK] .", "sub_label": "Genesis Convention Center", "obj_label": "Gary", "uuid": "c2e9014a-6846-4d12-a373-4d6d1aae4064", "rel_ix": "P127_253", "pattern_ix": 1}
+{"prompt": "[MASK] owns Genesis Convention Center .", "sub_label": "Genesis Convention Center", "obj_label": "Gary", "uuid": "c2e9014a-6846-4d12-a373-4d6d1aae4064", "rel_ix": "P127_253", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Genesis Convention Center", "sub_label": "Genesis Convention Center", "obj_label": "Gary", "uuid": "c2e9014a-6846-4d12-a373-4d6d1aae4064", "rel_ix": "P127_253", "pattern_ix": 3}
+{"prompt": "Final Fantasy is owned by [MASK] .", "sub_label": "Final Fantasy", "obj_label": "Square", "uuid": "bfbcd226-6506-4573-9e2c-ff2353e8270b", "rel_ix": "P127_264", "pattern_ix": 0}
+{"prompt": "Final Fantasy owner [MASK] .", "sub_label": "Final Fantasy", "obj_label": "Square", "uuid": "bfbcd226-6506-4573-9e2c-ff2353e8270b", "rel_ix": "P127_264", "pattern_ix": 1}
+{"prompt": "[MASK] owns Final Fantasy .", "sub_label": "Final Fantasy", "obj_label": "Square", "uuid": "bfbcd226-6506-4573-9e2c-ff2353e8270b", "rel_ix": "P127_264", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Final Fantasy", "sub_label": "Final Fantasy", "obj_label": "Square", "uuid": "bfbcd226-6506-4573-9e2c-ff2353e8270b", "rel_ix": "P127_264", "pattern_ix": 3}
+{"prompt": "National Stadium, Bukit Jalil is owned by [MASK] .", "sub_label": "National Stadium, Bukit Jalil", "obj_label": "Malaysia", "uuid": "f2bf74dc-2196-4709-8a83-c22315a0c108", "rel_ix": "P127_273", "pattern_ix": 0}
+{"prompt": "National Stadium, Bukit Jalil owner [MASK] .", "sub_label": "National Stadium, Bukit Jalil", "obj_label": "Malaysia", "uuid": "f2bf74dc-2196-4709-8a83-c22315a0c108", "rel_ix": "P127_273", "pattern_ix": 1}
+{"prompt": "[MASK] owns National Stadium, Bukit Jalil .", "sub_label": "National Stadium, Bukit Jalil", "obj_label": "Malaysia", "uuid": "f2bf74dc-2196-4709-8a83-c22315a0c108", "rel_ix": "P127_273", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned National Stadium, Bukit Jalil", "sub_label": "National Stadium, Bukit Jalil", "obj_label": "Malaysia", "uuid": "f2bf74dc-2196-4709-8a83-c22315a0c108", "rel_ix": "P127_273", "pattern_ix": 3}
+{"prompt": "Reunion Arena is owned by [MASK] .", "sub_label": "Reunion Arena", "obj_label": "Dallas", "uuid": "df6d69c3-c239-433e-a6fd-ef0f64d0f9e6", "rel_ix": "P127_280", "pattern_ix": 0}
+{"prompt": "Reunion Arena owner [MASK] .", "sub_label": "Reunion Arena", "obj_label": "Dallas", "uuid": "df6d69c3-c239-433e-a6fd-ef0f64d0f9e6", "rel_ix": "P127_280", "pattern_ix": 1}
+{"prompt": "[MASK] owns Reunion Arena .", "sub_label": "Reunion Arena", "obj_label": "Dallas", "uuid": "df6d69c3-c239-433e-a6fd-ef0f64d0f9e6", "rel_ix": "P127_280", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Reunion Arena", "sub_label": "Reunion Arena", "obj_label": "Dallas", "uuid": "df6d69c3-c239-433e-a6fd-ef0f64d0f9e6", "rel_ix": "P127_280", "pattern_ix": 3}
+{"prompt": "U-matic is owned by [MASK] .", "sub_label": "U-matic", "obj_label": "Sony", "uuid": "467fae01-79b1-4859-8277-e915f9d0985e", "rel_ix": "P127_284", "pattern_ix": 0}
+{"prompt": "U-matic owner [MASK] .", "sub_label": "U-matic", "obj_label": "Sony", "uuid": "467fae01-79b1-4859-8277-e915f9d0985e", "rel_ix": "P127_284", "pattern_ix": 1}
+{"prompt": "[MASK] owns U-matic .", "sub_label": "U-matic", "obj_label": "Sony", "uuid": "467fae01-79b1-4859-8277-e915f9d0985e", "rel_ix": "P127_284", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned U-matic", "sub_label": "U-matic", "obj_label": "Sony", "uuid": "467fae01-79b1-4859-8277-e915f9d0985e", "rel_ix": "P127_284", "pattern_ix": 3}
+{"prompt": "BBC Alba is owned by [MASK] .", "sub_label": "BBC Alba", "obj_label": "BBC", "uuid": "9d726fb1-0ddd-4bad-a705-9c65d871ef72", "rel_ix": "P127_287", "pattern_ix": 0}
+{"prompt": "BBC Alba owner [MASK] .", "sub_label": "BBC Alba", "obj_label": "BBC", "uuid": "9d726fb1-0ddd-4bad-a705-9c65d871ef72", "rel_ix": "P127_287", "pattern_ix": 1}
+{"prompt": "[MASK] owns BBC Alba .", "sub_label": "BBC Alba", "obj_label": "BBC", "uuid": "9d726fb1-0ddd-4bad-a705-9c65d871ef72", "rel_ix": "P127_287", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned BBC Alba", "sub_label": "BBC Alba", "obj_label": "BBC", "uuid": "9d726fb1-0ddd-4bad-a705-9c65d871ef72", "rel_ix": "P127_287", "pattern_ix": 3}
+{"prompt": "HBO Films is owned by [MASK] .", "sub_label": "HBO Films", "obj_label": "HBO", "uuid": "7ede3f2f-0696-4624-bda1-5f44ae33d0fc", "rel_ix": "P127_288", "pattern_ix": 0}
+{"prompt": "HBO Films owner [MASK] .", "sub_label": "HBO Films", "obj_label": "HBO", "uuid": "7ede3f2f-0696-4624-bda1-5f44ae33d0fc", "rel_ix": "P127_288", "pattern_ix": 1}
+{"prompt": "[MASK] owns HBO Films .", "sub_label": "HBO Films", "obj_label": "HBO", "uuid": "7ede3f2f-0696-4624-bda1-5f44ae33d0fc", "rel_ix": "P127_288", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned HBO Films", "sub_label": "HBO Films", "obj_label": "HBO", "uuid": "7ede3f2f-0696-4624-bda1-5f44ae33d0fc", "rel_ix": "P127_288", "pattern_ix": 3}
+{"prompt": "Bundesautobahn 45 is owned by [MASK] .", "sub_label": "Bundesautobahn 45", "obj_label": "Germany", "uuid": "3d2d1d43-76eb-4502-880c-15db06709307", "rel_ix": "P127_289", "pattern_ix": 0}
+{"prompt": "Bundesautobahn 45 owner [MASK] .", "sub_label": "Bundesautobahn 45", "obj_label": "Germany", "uuid": "3d2d1d43-76eb-4502-880c-15db06709307", "rel_ix": "P127_289", "pattern_ix": 1}
+{"prompt": "[MASK] owns Bundesautobahn 45 .", "sub_label": "Bundesautobahn 45", "obj_label": "Germany", "uuid": "3d2d1d43-76eb-4502-880c-15db06709307", "rel_ix": "P127_289", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Bundesautobahn 45", "sub_label": "Bundesautobahn 45", "obj_label": "Germany", "uuid": "3d2d1d43-76eb-4502-880c-15db06709307", "rel_ix": "P127_289", "pattern_ix": 3}
+{"prompt": "BBC Parliament is owned by [MASK] .", "sub_label": "BBC Parliament", "obj_label": "BBC", "uuid": "82315054-a110-4948-885d-1bafc3388655", "rel_ix": "P127_309", "pattern_ix": 0}
+{"prompt": "BBC Parliament owner [MASK] .", "sub_label": "BBC Parliament", "obj_label": "BBC", "uuid": "82315054-a110-4948-885d-1bafc3388655", "rel_ix": "P127_309", "pattern_ix": 1}
+{"prompt": "[MASK] owns BBC Parliament .", "sub_label": "BBC Parliament", "obj_label": "BBC", "uuid": "82315054-a110-4948-885d-1bafc3388655", "rel_ix": "P127_309", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned BBC Parliament", "sub_label": "BBC Parliament", "obj_label": "BBC", "uuid": "82315054-a110-4948-885d-1bafc3388655", "rel_ix": "P127_309", "pattern_ix": 3}
+{"prompt": "Google Shopping is owned by [MASK] .", "sub_label": "Google Shopping", "obj_label": "Google", "uuid": "5c056850-51dc-44d0-b5cb-50e64c096d16", "rel_ix": "P127_310", "pattern_ix": 0}
+{"prompt": "Google Shopping owner [MASK] .", "sub_label": "Google Shopping", "obj_label": "Google", "uuid": "5c056850-51dc-44d0-b5cb-50e64c096d16", "rel_ix": "P127_310", "pattern_ix": 1}
+{"prompt": "[MASK] owns Google Shopping .", "sub_label": "Google Shopping", "obj_label": "Google", "uuid": "5c056850-51dc-44d0-b5cb-50e64c096d16", "rel_ix": "P127_310", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Google Shopping", "sub_label": "Google Shopping", "obj_label": "Google", "uuid": "5c056850-51dc-44d0-b5cb-50e64c096d16", "rel_ix": "P127_310", "pattern_ix": 3}
+{"prompt": "Sky Atlantic is owned by [MASK] .", "sub_label": "Sky Atlantic", "obj_label": "Sky", "uuid": "15872a28-d88e-4727-9f41-0f9fb8ca9b15", "rel_ix": "P127_313", "pattern_ix": 0}
+{"prompt": "Sky Atlantic owner [MASK] .", "sub_label": "Sky Atlantic", "obj_label": "Sky", "uuid": "15872a28-d88e-4727-9f41-0f9fb8ca9b15", "rel_ix": "P127_313", "pattern_ix": 1}
+{"prompt": "[MASK] owns Sky Atlantic .", "sub_label": "Sky Atlantic", "obj_label": "Sky", "uuid": "15872a28-d88e-4727-9f41-0f9fb8ca9b15", "rel_ix": "P127_313", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Sky Atlantic", "sub_label": "Sky Atlantic", "obj_label": "Sky", "uuid": "15872a28-d88e-4727-9f41-0f9fb8ca9b15", "rel_ix": "P127_313", "pattern_ix": 3}
+{"prompt": "Sky Sports News is owned by [MASK] .", "sub_label": "Sky Sports News", "obj_label": "Sky", "uuid": "b5c4ca39-8b06-4e52-b8c5-67c17a26ccec", "rel_ix": "P127_321", "pattern_ix": 0}
+{"prompt": "Sky Sports News owner [MASK] .", "sub_label": "Sky Sports News", "obj_label": "Sky", "uuid": "b5c4ca39-8b06-4e52-b8c5-67c17a26ccec", "rel_ix": "P127_321", "pattern_ix": 1}
+{"prompt": "[MASK] owns Sky Sports News .", "sub_label": "Sky Sports News", "obj_label": "Sky", "uuid": "b5c4ca39-8b06-4e52-b8c5-67c17a26ccec", "rel_ix": "P127_321", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Sky Sports News", "sub_label": "Sky Sports News", "obj_label": "Sky", "uuid": "b5c4ca39-8b06-4e52-b8c5-67c17a26ccec", "rel_ix": "P127_321", "pattern_ix": 3}
+{"prompt": "Arte is owned by [MASK] .", "sub_label": "Arte", "obj_label": "France", "uuid": "26d389fa-6c46-437a-9d9e-96c017a3dafc", "rel_ix": "P127_324", "pattern_ix": 0}
+{"prompt": "Arte owner [MASK] .", "sub_label": "Arte", "obj_label": "France", "uuid": "26d389fa-6c46-437a-9d9e-96c017a3dafc", "rel_ix": "P127_324", "pattern_ix": 1}
+{"prompt": "[MASK] owns Arte .", "sub_label": "Arte", "obj_label": "France", "uuid": "26d389fa-6c46-437a-9d9e-96c017a3dafc", "rel_ix": "P127_324", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Arte", "sub_label": "Arte", "obj_label": "France", "uuid": "26d389fa-6c46-437a-9d9e-96c017a3dafc", "rel_ix": "P127_324", "pattern_ix": 3}
+{"prompt": "Brisbane Entertainment Centre is owned by [MASK] .", "sub_label": "Brisbane Entertainment Centre", "obj_label": "Queensland", "uuid": "ef006eff-75f0-41e1-aeb6-d8b611bac354", "rel_ix": "P127_327", "pattern_ix": 0}
+{"prompt": "Brisbane Entertainment Centre owner [MASK] .", "sub_label": "Brisbane Entertainment Centre", "obj_label": "Queensland", "uuid": "ef006eff-75f0-41e1-aeb6-d8b611bac354", "rel_ix": "P127_327", "pattern_ix": 1}
+{"prompt": "[MASK] owns Brisbane Entertainment Centre .", "sub_label": "Brisbane Entertainment Centre", "obj_label": "Queensland", "uuid": "ef006eff-75f0-41e1-aeb6-d8b611bac354", "rel_ix": "P127_327", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Brisbane Entertainment Centre", "sub_label": "Brisbane Entertainment Centre", "obj_label": "Queensland", "uuid": "ef006eff-75f0-41e1-aeb6-d8b611bac354", "rel_ix": "P127_327", "pattern_ix": 3}
+{"prompt": "Fiat Aviazione is owned by [MASK] .", "sub_label": "Fiat Aviazione", "obj_label": "Fiat", "uuid": "0b1da438-593c-4bc6-8662-bc8e05010c6e", "rel_ix": "P127_364", "pattern_ix": 0}
+{"prompt": "Fiat Aviazione owner [MASK] .", "sub_label": "Fiat Aviazione", "obj_label": "Fiat", "uuid": "0b1da438-593c-4bc6-8662-bc8e05010c6e", "rel_ix": "P127_364", "pattern_ix": 1}
+{"prompt": "[MASK] owns Fiat Aviazione .", "sub_label": "Fiat Aviazione", "obj_label": "Fiat", "uuid": "0b1da438-593c-4bc6-8662-bc8e05010c6e", "rel_ix": "P127_364", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Fiat Aviazione", "sub_label": "Fiat Aviazione", "obj_label": "Fiat", "uuid": "0b1da438-593c-4bc6-8662-bc8e05010c6e", "rel_ix": "P127_364", "pattern_ix": 3}
+{"prompt": "Narodne novine is owned by [MASK] .", "sub_label": "Narodne novine", "obj_label": "Croatia", "uuid": "adb917a4-586a-4cc9-bd2b-de52a5aa2417", "rel_ix": "P127_396", "pattern_ix": 0}
+{"prompt": "Narodne novine owner [MASK] .", "sub_label": "Narodne novine", "obj_label": "Croatia", "uuid": "adb917a4-586a-4cc9-bd2b-de52a5aa2417", "rel_ix": "P127_396", "pattern_ix": 1}
+{"prompt": "[MASK] owns Narodne novine .", "sub_label": "Narodne novine", "obj_label": "Croatia", "uuid": "adb917a4-586a-4cc9-bd2b-de52a5aa2417", "rel_ix": "P127_396", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Narodne novine", "sub_label": "Narodne novine", "obj_label": "Croatia", "uuid": "adb917a4-586a-4cc9-bd2b-de52a5aa2417", "rel_ix": "P127_396", "pattern_ix": 3}
+{"prompt": "Acrobat.com is owned by [MASK] .", "sub_label": "Acrobat.com", "obj_label": "Adobe", "uuid": "38587f18-93b1-4a59-99b7-4ce25954afaf", "rel_ix": "P127_399", "pattern_ix": 0}
+{"prompt": "Acrobat.com owner [MASK] .", "sub_label": "Acrobat.com", "obj_label": "Adobe", "uuid": "38587f18-93b1-4a59-99b7-4ce25954afaf", "rel_ix": "P127_399", "pattern_ix": 1}
+{"prompt": "[MASK] owns Acrobat.com .", "sub_label": "Acrobat.com", "obj_label": "Adobe", "uuid": "38587f18-93b1-4a59-99b7-4ce25954afaf", "rel_ix": "P127_399", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Acrobat.com", "sub_label": "Acrobat.com", "obj_label": "Adobe", "uuid": "38587f18-93b1-4a59-99b7-4ce25954afaf", "rel_ix": "P127_399", "pattern_ix": 3}
+{"prompt": "Uluburun shipwreck is owned by [MASK] .", "sub_label": "Uluburun shipwreck", "obj_label": "Turkey", "uuid": "2e844444-f0e8-4696-be3e-ddd914f0801e", "rel_ix": "P127_413", "pattern_ix": 0}
+{"prompt": "Uluburun shipwreck owner [MASK] .", "sub_label": "Uluburun shipwreck", "obj_label": "Turkey", "uuid": "2e844444-f0e8-4696-be3e-ddd914f0801e", "rel_ix": "P127_413", "pattern_ix": 1}
+{"prompt": "[MASK] owns Uluburun shipwreck .", "sub_label": "Uluburun shipwreck", "obj_label": "Turkey", "uuid": "2e844444-f0e8-4696-be3e-ddd914f0801e", "rel_ix": "P127_413", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Uluburun shipwreck", "sub_label": "Uluburun shipwreck", "obj_label": "Turkey", "uuid": "2e844444-f0e8-4696-be3e-ddd914f0801e", "rel_ix": "P127_413", "pattern_ix": 3}
+{"prompt": "Bundesautobahn 100 is owned by [MASK] .", "sub_label": "Bundesautobahn 100", "obj_label": "Germany", "uuid": "5e04bcef-3a85-454a-9c9a-3fc5452c45ad", "rel_ix": "P127_415", "pattern_ix": 0}
+{"prompt": "Bundesautobahn 100 owner [MASK] .", "sub_label": "Bundesautobahn 100", "obj_label": "Germany", "uuid": "5e04bcef-3a85-454a-9c9a-3fc5452c45ad", "rel_ix": "P127_415", "pattern_ix": 1}
+{"prompt": "[MASK] owns Bundesautobahn 100 .", "sub_label": "Bundesautobahn 100", "obj_label": "Germany", "uuid": "5e04bcef-3a85-454a-9c9a-3fc5452c45ad", "rel_ix": "P127_415", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Bundesautobahn 100", "sub_label": "Bundesautobahn 100", "obj_label": "Germany", "uuid": "5e04bcef-3a85-454a-9c9a-3fc5452c45ad", "rel_ix": "P127_415", "pattern_ix": 3}
+{"prompt": "Bundesautobahn 113 is owned by [MASK] .", "sub_label": "Bundesautobahn 113", "obj_label": "Germany", "uuid": "60908774-ce2d-47a7-b9e5-e466edb7967a", "rel_ix": "P127_416", "pattern_ix": 0}
+{"prompt": "Bundesautobahn 113 owner [MASK] .", "sub_label": "Bundesautobahn 113", "obj_label": "Germany", "uuid": "60908774-ce2d-47a7-b9e5-e466edb7967a", "rel_ix": "P127_416", "pattern_ix": 1}
+{"prompt": "[MASK] owns Bundesautobahn 113 .", "sub_label": "Bundesautobahn 113", "obj_label": "Germany", "uuid": "60908774-ce2d-47a7-b9e5-e466edb7967a", "rel_ix": "P127_416", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Bundesautobahn 113", "sub_label": "Bundesautobahn 113", "obj_label": "Germany", "uuid": "60908774-ce2d-47a7-b9e5-e466edb7967a", "rel_ix": "P127_416", "pattern_ix": 3}
+{"prompt": "VBS.tv is owned by [MASK] .", "sub_label": "VBS.tv", "obj_label": "Vice", "uuid": "d4889f15-a4a9-40a8-939c-0162a3b077be", "rel_ix": "P127_420", "pattern_ix": 0}
+{"prompt": "VBS.tv owner [MASK] .", "sub_label": "VBS.tv", "obj_label": "Vice", "uuid": "d4889f15-a4a9-40a8-939c-0162a3b077be", "rel_ix": "P127_420", "pattern_ix": 1}
+{"prompt": "[MASK] owns VBS.tv .", "sub_label": "VBS.tv", "obj_label": "Vice", "uuid": "d4889f15-a4a9-40a8-939c-0162a3b077be", "rel_ix": "P127_420", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned VBS.tv", "sub_label": "VBS.tv", "obj_label": "Vice", "uuid": "d4889f15-a4a9-40a8-939c-0162a3b077be", "rel_ix": "P127_420", "pattern_ix": 3}
+{"prompt": "Google Custom Search is owned by [MASK] .", "sub_label": "Google Custom Search", "obj_label": "Google", "uuid": "115b5c58-a77f-4c6d-86d8-f66e87e451af", "rel_ix": "P127_421", "pattern_ix": 0}
+{"prompt": "Google Custom Search owner [MASK] .", "sub_label": "Google Custom Search", "obj_label": "Google", "uuid": "115b5c58-a77f-4c6d-86d8-f66e87e451af", "rel_ix": "P127_421", "pattern_ix": 1}
+{"prompt": "[MASK] owns Google Custom Search .", "sub_label": "Google Custom Search", "obj_label": "Google", "uuid": "115b5c58-a77f-4c6d-86d8-f66e87e451af", "rel_ix": "P127_421", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Google Custom Search", "sub_label": "Google Custom Search", "obj_label": "Google", "uuid": "115b5c58-a77f-4c6d-86d8-f66e87e451af", "rel_ix": "P127_421", "pattern_ix": 3}
+{"prompt": "Mercedes-Benz Superdome is owned by [MASK] .", "sub_label": "Mercedes-Benz Superdome", "obj_label": "Louisiana", "uuid": "1def4196-9098-4420-9352-156587362353", "rel_ix": "P127_424", "pattern_ix": 0}
+{"prompt": "Mercedes-Benz Superdome owner [MASK] .", "sub_label": "Mercedes-Benz Superdome", "obj_label": "Louisiana", "uuid": "1def4196-9098-4420-9352-156587362353", "rel_ix": "P127_424", "pattern_ix": 1}
+{"prompt": "[MASK] owns Mercedes-Benz Superdome .", "sub_label": "Mercedes-Benz Superdome", "obj_label": "Louisiana", "uuid": "1def4196-9098-4420-9352-156587362353", "rel_ix": "P127_424", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Mercedes-Benz Superdome", "sub_label": "Mercedes-Benz Superdome", "obj_label": "Louisiana", "uuid": "1def4196-9098-4420-9352-156587362353", "rel_ix": "P127_424", "pattern_ix": 3}
+{"prompt": "FeedBurner is owned by [MASK] .", "sub_label": "FeedBurner", "obj_label": "Google", "uuid": "7c8572bb-fd4e-457b-aecc-5af7fbe52c70", "rel_ix": "P127_429", "pattern_ix": 0}
+{"prompt": "FeedBurner owner [MASK] .", "sub_label": "FeedBurner", "obj_label": "Google", "uuid": "7c8572bb-fd4e-457b-aecc-5af7fbe52c70", "rel_ix": "P127_429", "pattern_ix": 1}
+{"prompt": "[MASK] owns FeedBurner .", "sub_label": "FeedBurner", "obj_label": "Google", "uuid": "7c8572bb-fd4e-457b-aecc-5af7fbe52c70", "rel_ix": "P127_429", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned FeedBurner", "sub_label": "FeedBurner", "obj_label": "Google", "uuid": "7c8572bb-fd4e-457b-aecc-5af7fbe52c70", "rel_ix": "P127_429", "pattern_ix": 3}
+{"prompt": "Hamburg City Hall is owned by [MASK] .", "sub_label": "Hamburg City Hall", "obj_label": "Hamburg", "uuid": "a7551fcc-b553-4634-89c3-fcf0d4519c8e", "rel_ix": "P127_430", "pattern_ix": 0}
+{"prompt": "Hamburg City Hall owner [MASK] .", "sub_label": "Hamburg City Hall", "obj_label": "Hamburg", "uuid": "a7551fcc-b553-4634-89c3-fcf0d4519c8e", "rel_ix": "P127_430", "pattern_ix": 1}
+{"prompt": "[MASK] owns Hamburg City Hall .", "sub_label": "Hamburg City Hall", "obj_label": "Hamburg", "uuid": "a7551fcc-b553-4634-89c3-fcf0d4519c8e", "rel_ix": "P127_430", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Hamburg City Hall", "sub_label": "Hamburg City Hall", "obj_label": "Hamburg", "uuid": "a7551fcc-b553-4634-89c3-fcf0d4519c8e", "rel_ix": "P127_430", "pattern_ix": 3}
+{"prompt": "Louisiana State Capitol is owned by [MASK] .", "sub_label": "Louisiana State Capitol", "obj_label": "Louisiana", "uuid": "c21bbf6a-e3ed-4251-ad57-786050549ea1", "rel_ix": "P127_434", "pattern_ix": 0}
+{"prompt": "Louisiana State Capitol owner [MASK] .", "sub_label": "Louisiana State Capitol", "obj_label": "Louisiana", "uuid": "c21bbf6a-e3ed-4251-ad57-786050549ea1", "rel_ix": "P127_434", "pattern_ix": 1}
+{"prompt": "[MASK] owns Louisiana State Capitol .", "sub_label": "Louisiana State Capitol", "obj_label": "Louisiana", "uuid": "c21bbf6a-e3ed-4251-ad57-786050549ea1", "rel_ix": "P127_434", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Louisiana State Capitol", "sub_label": "Louisiana State Capitol", "obj_label": "Louisiana", "uuid": "c21bbf6a-e3ed-4251-ad57-786050549ea1", "rel_ix": "P127_434", "pattern_ix": 3}
+{"prompt": "BBC Persian Television is owned by [MASK] .", "sub_label": "BBC Persian Television", "obj_label": "BBC", "uuid": "a7364d0f-faf7-4631-94cf-640c870cb1bf", "rel_ix": "P127_435", "pattern_ix": 0}
+{"prompt": "BBC Persian Television owner [MASK] .", "sub_label": "BBC Persian Television", "obj_label": "BBC", "uuid": "a7364d0f-faf7-4631-94cf-640c870cb1bf", "rel_ix": "P127_435", "pattern_ix": 1}
+{"prompt": "[MASK] owns BBC Persian Television .", "sub_label": "BBC Persian Television", "obj_label": "BBC", "uuid": "a7364d0f-faf7-4631-94cf-640c870cb1bf", "rel_ix": "P127_435", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned BBC Persian Television", "sub_label": "BBC Persian Television", "obj_label": "BBC", "uuid": "a7364d0f-faf7-4631-94cf-640c870cb1bf", "rel_ix": "P127_435", "pattern_ix": 3}
+{"prompt": "Gotthard Road Tunnel is owned by [MASK] .", "sub_label": "Gotthard Road Tunnel", "obj_label": "Switzerland", "uuid": "a4b753b6-082a-48fc-868a-c940d37dc227", "rel_ix": "P127_437", "pattern_ix": 0}
+{"prompt": "Gotthard Road Tunnel owner [MASK] .", "sub_label": "Gotthard Road Tunnel", "obj_label": "Switzerland", "uuid": "a4b753b6-082a-48fc-868a-c940d37dc227", "rel_ix": "P127_437", "pattern_ix": 1}
+{"prompt": "[MASK] owns Gotthard Road Tunnel .", "sub_label": "Gotthard Road Tunnel", "obj_label": "Switzerland", "uuid": "a4b753b6-082a-48fc-868a-c940d37dc227", "rel_ix": "P127_437", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Gotthard Road Tunnel", "sub_label": "Gotthard Road Tunnel", "obj_label": "Switzerland", "uuid": "a4b753b6-082a-48fc-868a-c940d37dc227", "rel_ix": "P127_437", "pattern_ix": 3}
+{"prompt": "Dino is owned by [MASK] .", "sub_label": "Dino", "obj_label": "Ferrari", "uuid": "3d699ae5-87d4-4f21-912e-38c1638457f1", "rel_ix": "P127_440", "pattern_ix": 0}
+{"prompt": "Dino owner [MASK] .", "sub_label": "Dino", "obj_label": "Ferrari", "uuid": "3d699ae5-87d4-4f21-912e-38c1638457f1", "rel_ix": "P127_440", "pattern_ix": 1}
+{"prompt": "[MASK] owns Dino .", "sub_label": "Dino", "obj_label": "Ferrari", "uuid": "3d699ae5-87d4-4f21-912e-38c1638457f1", "rel_ix": "P127_440", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Dino", "sub_label": "Dino", "obj_label": "Ferrari", "uuid": "3d699ae5-87d4-4f21-912e-38c1638457f1", "rel_ix": "P127_440", "pattern_ix": 3}
+{"prompt": "Clarke Stadium is owned by [MASK] .", "sub_label": "Clarke Stadium", "obj_label": "Edmonton", "uuid": "f4ca9bba-7b77-468f-bad8-50d2afaf33f3", "rel_ix": "P127_446", "pattern_ix": 0}
+{"prompt": "Clarke Stadium owner [MASK] .", "sub_label": "Clarke Stadium", "obj_label": "Edmonton", "uuid": "f4ca9bba-7b77-468f-bad8-50d2afaf33f3", "rel_ix": "P127_446", "pattern_ix": 1}
+{"prompt": "[MASK] owns Clarke Stadium .", "sub_label": "Clarke Stadium", "obj_label": "Edmonton", "uuid": "f4ca9bba-7b77-468f-bad8-50d2afaf33f3", "rel_ix": "P127_446", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Clarke Stadium", "sub_label": "Clarke Stadium", "obj_label": "Edmonton", "uuid": "f4ca9bba-7b77-468f-bad8-50d2afaf33f3", "rel_ix": "P127_446", "pattern_ix": 3}
+{"prompt": "The Shard is owned by [MASK] .", "sub_label": "The Shard", "obj_label": "Qatar", "uuid": "197d2f95-870f-4ba2-b9a5-10f8e0f575c6", "rel_ix": "P127_449", "pattern_ix": 0}
+{"prompt": "The Shard owner [MASK] .", "sub_label": "The Shard", "obj_label": "Qatar", "uuid": "197d2f95-870f-4ba2-b9a5-10f8e0f575c6", "rel_ix": "P127_449", "pattern_ix": 1}
+{"prompt": "[MASK] owns The Shard .", "sub_label": "The Shard", "obj_label": "Qatar", "uuid": "197d2f95-870f-4ba2-b9a5-10f8e0f575c6", "rel_ix": "P127_449", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned The Shard", "sub_label": "The Shard", "obj_label": "Qatar", "uuid": "197d2f95-870f-4ba2-b9a5-10f8e0f575c6", "rel_ix": "P127_449", "pattern_ix": 3}
+{"prompt": "Doug Mitchell Thunderbird Sports Centre is owned by [MASK] .", "sub_label": "Doug Mitchell Thunderbird Sports Centre", "obj_label": "Vancouver", "uuid": "b056c9b6-0175-4742-bd79-6a555ef46ea6", "rel_ix": "P127_455", "pattern_ix": 0}
+{"prompt": "Doug Mitchell Thunderbird Sports Centre owner [MASK] .", "sub_label": "Doug Mitchell Thunderbird Sports Centre", "obj_label": "Vancouver", "uuid": "b056c9b6-0175-4742-bd79-6a555ef46ea6", "rel_ix": "P127_455", "pattern_ix": 1}
+{"prompt": "[MASK] owns Doug Mitchell Thunderbird Sports Centre .", "sub_label": "Doug Mitchell Thunderbird Sports Centre", "obj_label": "Vancouver", "uuid": "b056c9b6-0175-4742-bd79-6a555ef46ea6", "rel_ix": "P127_455", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Doug Mitchell Thunderbird Sports Centre", "sub_label": "Doug Mitchell Thunderbird Sports Centre", "obj_label": "Vancouver", "uuid": "b056c9b6-0175-4742-bd79-6a555ef46ea6", "rel_ix": "P127_455", "pattern_ix": 3}
+{"prompt": "Microsoft account is owned by [MASK] .", "sub_label": "Microsoft account", "obj_label": "Microsoft", "uuid": "9b665ebc-4a9a-4cd2-a168-a6c5a2da6a2f", "rel_ix": "P127_456", "pattern_ix": 0}
+{"prompt": "Microsoft account owner [MASK] .", "sub_label": "Microsoft account", "obj_label": "Microsoft", "uuid": "9b665ebc-4a9a-4cd2-a168-a6c5a2da6a2f", "rel_ix": "P127_456", "pattern_ix": 1}
+{"prompt": "[MASK] owns Microsoft account .", "sub_label": "Microsoft account", "obj_label": "Microsoft", "uuid": "9b665ebc-4a9a-4cd2-a168-a6c5a2da6a2f", "rel_ix": "P127_456", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Microsoft account", "sub_label": "Microsoft account", "obj_label": "Microsoft", "uuid": "9b665ebc-4a9a-4cd2-a168-a6c5a2da6a2f", "rel_ix": "P127_456", "pattern_ix": 3}
+{"prompt": "BBC Archives is owned by [MASK] .", "sub_label": "BBC Archives", "obj_label": "BBC", "uuid": "b6d4d108-3388-4906-bdd9-2f58011fb05c", "rel_ix": "P127_460", "pattern_ix": 0}
+{"prompt": "BBC Archives owner [MASK] .", "sub_label": "BBC Archives", "obj_label": "BBC", "uuid": "b6d4d108-3388-4906-bdd9-2f58011fb05c", "rel_ix": "P127_460", "pattern_ix": 1}
+{"prompt": "[MASK] owns BBC Archives .", "sub_label": "BBC Archives", "obj_label": "BBC", "uuid": "b6d4d108-3388-4906-bdd9-2f58011fb05c", "rel_ix": "P127_460", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned BBC Archives", "sub_label": "BBC Archives", "obj_label": "BBC", "uuid": "b6d4d108-3388-4906-bdd9-2f58011fb05c", "rel_ix": "P127_460", "pattern_ix": 3}
+{"prompt": "Arena Civica is owned by [MASK] .", "sub_label": "Arena Civica", "obj_label": "Milan", "uuid": "e177fcb8-ec69-42eb-afb2-b67635bd9bfb", "rel_ix": "P127_463", "pattern_ix": 0}
+{"prompt": "Arena Civica owner [MASK] .", "sub_label": "Arena Civica", "obj_label": "Milan", "uuid": "e177fcb8-ec69-42eb-afb2-b67635bd9bfb", "rel_ix": "P127_463", "pattern_ix": 1}
+{"prompt": "[MASK] owns Arena Civica .", "sub_label": "Arena Civica", "obj_label": "Milan", "uuid": "e177fcb8-ec69-42eb-afb2-b67635bd9bfb", "rel_ix": "P127_463", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Arena Civica", "sub_label": "Arena Civica", "obj_label": "Milan", "uuid": "e177fcb8-ec69-42eb-afb2-b67635bd9bfb", "rel_ix": "P127_463", "pattern_ix": 3}
+{"prompt": "Powder Tower is owned by [MASK] .", "sub_label": "Powder Tower", "obj_label": "Prague", "uuid": "2d992225-9654-455e-934f-d7bb287c8004", "rel_ix": "P127_465", "pattern_ix": 0}
+{"prompt": "Powder Tower owner [MASK] .", "sub_label": "Powder Tower", "obj_label": "Prague", "uuid": "2d992225-9654-455e-934f-d7bb287c8004", "rel_ix": "P127_465", "pattern_ix": 1}
+{"prompt": "[MASK] owns Powder Tower .", "sub_label": "Powder Tower", "obj_label": "Prague", "uuid": "2d992225-9654-455e-934f-d7bb287c8004", "rel_ix": "P127_465", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Powder Tower", "sub_label": "Powder Tower", "obj_label": "Prague", "uuid": "2d992225-9654-455e-934f-d7bb287c8004", "rel_ix": "P127_465", "pattern_ix": 3}
+{"prompt": "Google Reader is owned by [MASK] .", "sub_label": "Google Reader", "obj_label": "Google", "uuid": "b4625970-49ea-44ed-9e37-e10c650d96ca", "rel_ix": "P127_471", "pattern_ix": 0}
+{"prompt": "Google Reader owner [MASK] .", "sub_label": "Google Reader", "obj_label": "Google", "uuid": "b4625970-49ea-44ed-9e37-e10c650d96ca", "rel_ix": "P127_471", "pattern_ix": 1}
+{"prompt": "[MASK] owns Google Reader .", "sub_label": "Google Reader", "obj_label": "Google", "uuid": "b4625970-49ea-44ed-9e37-e10c650d96ca", "rel_ix": "P127_471", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Google Reader", "sub_label": "Google Reader", "obj_label": "Google", "uuid": "b4625970-49ea-44ed-9e37-e10c650d96ca", "rel_ix": "P127_471", "pattern_ix": 3}
+{"prompt": "Tumblr is owned by [MASK] .", "sub_label": "Tumblr", "obj_label": "Yahoo", "uuid": "a3d6c98c-b1c4-41bf-94ac-ba396ba082f0", "rel_ix": "P127_473", "pattern_ix": 0}
+{"prompt": "Tumblr owner [MASK] .", "sub_label": "Tumblr", "obj_label": "Yahoo", "uuid": "a3d6c98c-b1c4-41bf-94ac-ba396ba082f0", "rel_ix": "P127_473", "pattern_ix": 1}
+{"prompt": "[MASK] owns Tumblr .", "sub_label": "Tumblr", "obj_label": "Yahoo", "uuid": "a3d6c98c-b1c4-41bf-94ac-ba396ba082f0", "rel_ix": "P127_473", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Tumblr", "sub_label": "Tumblr", "obj_label": "Yahoo", "uuid": "a3d6c98c-b1c4-41bf-94ac-ba396ba082f0", "rel_ix": "P127_473", "pattern_ix": 3}
+{"prompt": "Google Fiber is owned by [MASK] .", "sub_label": "Google Fiber", "obj_label": "Google", "uuid": "2ea685ea-ce6d-41e7-a747-00d725b52095", "rel_ix": "P127_474", "pattern_ix": 0}
+{"prompt": "Google Fiber owner [MASK] .", "sub_label": "Google Fiber", "obj_label": "Google", "uuid": "2ea685ea-ce6d-41e7-a747-00d725b52095", "rel_ix": "P127_474", "pattern_ix": 1}
+{"prompt": "[MASK] owns Google Fiber .", "sub_label": "Google Fiber", "obj_label": "Google", "uuid": "2ea685ea-ce6d-41e7-a747-00d725b52095", "rel_ix": "P127_474", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Google Fiber", "sub_label": "Google Fiber", "obj_label": "Google", "uuid": "2ea685ea-ce6d-41e7-a747-00d725b52095", "rel_ix": "P127_474", "pattern_ix": 3}
+{"prompt": "iAd is owned by [MASK] .", "sub_label": "iAd", "obj_label": "Apple", "uuid": "66f75a84-19a1-4317-8224-5a40e680a125", "rel_ix": "P127_475", "pattern_ix": 0}
+{"prompt": "iAd owner [MASK] .", "sub_label": "iAd", "obj_label": "Apple", "uuid": "66f75a84-19a1-4317-8224-5a40e680a125", "rel_ix": "P127_475", "pattern_ix": 1}
+{"prompt": "[MASK] owns iAd .", "sub_label": "iAd", "obj_label": "Apple", "uuid": "66f75a84-19a1-4317-8224-5a40e680a125", "rel_ix": "P127_475", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned iAd", "sub_label": "iAd", "obj_label": "Apple", "uuid": "66f75a84-19a1-4317-8224-5a40e680a125", "rel_ix": "P127_475", "pattern_ix": 3}
+{"prompt": "Meebo is owned by [MASK] .", "sub_label": "Meebo", "obj_label": "Google", "uuid": "d205a538-3614-42bf-a99e-ae3b99fb270f", "rel_ix": "P127_477", "pattern_ix": 0}
+{"prompt": "Meebo owner [MASK] .", "sub_label": "Meebo", "obj_label": "Google", "uuid": "d205a538-3614-42bf-a99e-ae3b99fb270f", "rel_ix": "P127_477", "pattern_ix": 1}
+{"prompt": "[MASK] owns Meebo .", "sub_label": "Meebo", "obj_label": "Google", "uuid": "d205a538-3614-42bf-a99e-ae3b99fb270f", "rel_ix": "P127_477", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Meebo", "sub_label": "Meebo", "obj_label": "Google", "uuid": "d205a538-3614-42bf-a99e-ae3b99fb270f", "rel_ix": "P127_477", "pattern_ix": 3}
+{"prompt": "Pinnacle Bank Arena is owned by [MASK] .", "sub_label": "Pinnacle Bank Arena", "obj_label": "Lincoln", "uuid": "f8286e1c-6631-46a2-a813-b6f703ac6f3e", "rel_ix": "P127_480", "pattern_ix": 0}
+{"prompt": "Pinnacle Bank Arena owner [MASK] .", "sub_label": "Pinnacle Bank Arena", "obj_label": "Lincoln", "uuid": "f8286e1c-6631-46a2-a813-b6f703ac6f3e", "rel_ix": "P127_480", "pattern_ix": 1}
+{"prompt": "[MASK] owns Pinnacle Bank Arena .", "sub_label": "Pinnacle Bank Arena", "obj_label": "Lincoln", "uuid": "f8286e1c-6631-46a2-a813-b6f703ac6f3e", "rel_ix": "P127_480", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Pinnacle Bank Arena", "sub_label": "Pinnacle Bank Arena", "obj_label": "Lincoln", "uuid": "f8286e1c-6631-46a2-a813-b6f703ac6f3e", "rel_ix": "P127_480", "pattern_ix": 3}
+{"prompt": "Stadio San Paolo is owned by [MASK] .", "sub_label": "Stadio San Paolo", "obj_label": "Naples", "uuid": "b8e919e4-6e2b-4406-a9cf-42a21fe1161a", "rel_ix": "P127_482", "pattern_ix": 0}
+{"prompt": "Stadio San Paolo owner [MASK] .", "sub_label": "Stadio San Paolo", "obj_label": "Naples", "uuid": "b8e919e4-6e2b-4406-a9cf-42a21fe1161a", "rel_ix": "P127_482", "pattern_ix": 1}
+{"prompt": "[MASK] owns Stadio San Paolo .", "sub_label": "Stadio San Paolo", "obj_label": "Naples", "uuid": "b8e919e4-6e2b-4406-a9cf-42a21fe1161a", "rel_ix": "P127_482", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Stadio San Paolo", "sub_label": "Stadio San Paolo", "obj_label": "Naples", "uuid": "b8e919e4-6e2b-4406-a9cf-42a21fe1161a", "rel_ix": "P127_482", "pattern_ix": 3}
+{"prompt": "HBO Asia is owned by [MASK] .", "sub_label": "HBO Asia", "obj_label": "HBO", "uuid": "f1542555-0948-446a-8a6c-58526d1a818c", "rel_ix": "P127_494", "pattern_ix": 0}
+{"prompt": "HBO Asia owner [MASK] .", "sub_label": "HBO Asia", "obj_label": "HBO", "uuid": "f1542555-0948-446a-8a6c-58526d1a818c", "rel_ix": "P127_494", "pattern_ix": 1}
+{"prompt": "[MASK] owns HBO Asia .", "sub_label": "HBO Asia", "obj_label": "HBO", "uuid": "f1542555-0948-446a-8a6c-58526d1a818c", "rel_ix": "P127_494", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned HBO Asia", "sub_label": "HBO Asia", "obj_label": "HBO", "uuid": "f1542555-0948-446a-8a6c-58526d1a818c", "rel_ix": "P127_494", "pattern_ix": 3}
+{"prompt": "Columbia TriStar Motion Picture Group is owned by [MASK] .", "sub_label": "Columbia TriStar Motion Picture Group", "obj_label": "Sony", "uuid": "9a8e9010-3129-4120-bd8f-43db49326242", "rel_ix": "P127_497", "pattern_ix": 0}
+{"prompt": "Columbia TriStar Motion Picture Group owner [MASK] .", "sub_label": "Columbia TriStar Motion Picture Group", "obj_label": "Sony", "uuid": "9a8e9010-3129-4120-bd8f-43db49326242", "rel_ix": "P127_497", "pattern_ix": 1}
+{"prompt": "[MASK] owns Columbia TriStar Motion Picture Group .", "sub_label": "Columbia TriStar Motion Picture Group", "obj_label": "Sony", "uuid": "9a8e9010-3129-4120-bd8f-43db49326242", "rel_ix": "P127_497", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Columbia TriStar Motion Picture Group", "sub_label": "Columbia TriStar Motion Picture Group", "obj_label": "Sony", "uuid": "9a8e9010-3129-4120-bd8f-43db49326242", "rel_ix": "P127_497", "pattern_ix": 3}
+{"prompt": "Chromebook is owned by [MASK] .", "sub_label": "Chromebook", "obj_label": "Google", "uuid": "fe9f376c-bee9-4d64-a80c-29cb07654e4a", "rel_ix": "P127_502", "pattern_ix": 0}
+{"prompt": "Chromebook owner [MASK] .", "sub_label": "Chromebook", "obj_label": "Google", "uuid": "fe9f376c-bee9-4d64-a80c-29cb07654e4a", "rel_ix": "P127_502", "pattern_ix": 1}
+{"prompt": "[MASK] owns Chromebook .", "sub_label": "Chromebook", "obj_label": "Google", "uuid": "fe9f376c-bee9-4d64-a80c-29cb07654e4a", "rel_ix": "P127_502", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Chromebook", "sub_label": "Chromebook", "obj_label": "Google", "uuid": "fe9f376c-bee9-4d64-a80c-29cb07654e4a", "rel_ix": "P127_502", "pattern_ix": 3}
+{"prompt": "BBC Domesday Reloaded is owned by [MASK] .", "sub_label": "BBC Domesday Reloaded", "obj_label": "BBC", "uuid": "a97a6d1f-d4f8-4e0d-bc22-2126ee7e3515", "rel_ix": "P127_503", "pattern_ix": 0}
+{"prompt": "BBC Domesday Reloaded owner [MASK] .", "sub_label": "BBC Domesday Reloaded", "obj_label": "BBC", "uuid": "a97a6d1f-d4f8-4e0d-bc22-2126ee7e3515", "rel_ix": "P127_503", "pattern_ix": 1}
+{"prompt": "[MASK] owns BBC Domesday Reloaded .", "sub_label": "BBC Domesday Reloaded", "obj_label": "BBC", "uuid": "a97a6d1f-d4f8-4e0d-bc22-2126ee7e3515", "rel_ix": "P127_503", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned BBC Domesday Reloaded", "sub_label": "BBC Domesday Reloaded", "obj_label": "BBC", "uuid": "a97a6d1f-d4f8-4e0d-bc22-2126ee7e3515", "rel_ix": "P127_503", "pattern_ix": 3}
+{"prompt": "Hell Gate Bridge is owned by [MASK] .", "sub_label": "Hell Gate Bridge", "obj_label": "Amtrak", "uuid": "5cca5ff6-ebc7-4ea6-8588-beb4d451e183", "rel_ix": "P127_506", "pattern_ix": 0}
+{"prompt": "Hell Gate Bridge owner [MASK] .", "sub_label": "Hell Gate Bridge", "obj_label": "Amtrak", "uuid": "5cca5ff6-ebc7-4ea6-8588-beb4d451e183", "rel_ix": "P127_506", "pattern_ix": 1}
+{"prompt": "[MASK] owns Hell Gate Bridge .", "sub_label": "Hell Gate Bridge", "obj_label": "Amtrak", "uuid": "5cca5ff6-ebc7-4ea6-8588-beb4d451e183", "rel_ix": "P127_506", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Hell Gate Bridge", "sub_label": "Hell Gate Bridge", "obj_label": "Amtrak", "uuid": "5cca5ff6-ebc7-4ea6-8588-beb4d451e183", "rel_ix": "P127_506", "pattern_ix": 3}
+{"prompt": "Revolution Analytics is owned by [MASK] .", "sub_label": "Revolution Analytics", "obj_label": "Microsoft", "uuid": "a2553b9d-ab2e-4c73-b53b-b5f17f682830", "rel_ix": "P127_511", "pattern_ix": 0}
+{"prompt": "Revolution Analytics owner [MASK] .", "sub_label": "Revolution Analytics", "obj_label": "Microsoft", "uuid": "a2553b9d-ab2e-4c73-b53b-b5f17f682830", "rel_ix": "P127_511", "pattern_ix": 1}
+{"prompt": "[MASK] owns Revolution Analytics .", "sub_label": "Revolution Analytics", "obj_label": "Microsoft", "uuid": "a2553b9d-ab2e-4c73-b53b-b5f17f682830", "rel_ix": "P127_511", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Revolution Analytics", "sub_label": "Revolution Analytics", "obj_label": "Microsoft", "uuid": "a2553b9d-ab2e-4c73-b53b-b5f17f682830", "rel_ix": "P127_511", "pattern_ix": 3}
+{"prompt": "Permanent School Fund is owned by [MASK] .", "sub_label": "Permanent School Fund", "obj_label": "Texas", "uuid": "7a8b9e46-b6f4-490e-9202-27852695a7b6", "rel_ix": "P127_512", "pattern_ix": 0}
+{"prompt": "Permanent School Fund owner [MASK] .", "sub_label": "Permanent School Fund", "obj_label": "Texas", "uuid": "7a8b9e46-b6f4-490e-9202-27852695a7b6", "rel_ix": "P127_512", "pattern_ix": 1}
+{"prompt": "[MASK] owns Permanent School Fund .", "sub_label": "Permanent School Fund", "obj_label": "Texas", "uuid": "7a8b9e46-b6f4-490e-9202-27852695a7b6", "rel_ix": "P127_512", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Permanent School Fund", "sub_label": "Permanent School Fund", "obj_label": "Texas", "uuid": "7a8b9e46-b6f4-490e-9202-27852695a7b6", "rel_ix": "P127_512", "pattern_ix": 3}
+{"prompt": "Sky Sports F1 is owned by [MASK] .", "sub_label": "Sky Sports F1", "obj_label": "Sky", "uuid": "d0cfbf2d-20e9-41a2-bc60-74a52f9d00d4", "rel_ix": "P127_520", "pattern_ix": 0}
+{"prompt": "Sky Sports F1 owner [MASK] .", "sub_label": "Sky Sports F1", "obj_label": "Sky", "uuid": "d0cfbf2d-20e9-41a2-bc60-74a52f9d00d4", "rel_ix": "P127_520", "pattern_ix": 1}
+{"prompt": "[MASK] owns Sky Sports F1 .", "sub_label": "Sky Sports F1", "obj_label": "Sky", "uuid": "d0cfbf2d-20e9-41a2-bc60-74a52f9d00d4", "rel_ix": "P127_520", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Sky Sports F1", "sub_label": "Sky Sports F1", "obj_label": "Sky", "uuid": "d0cfbf2d-20e9-41a2-bc60-74a52f9d00d4", "rel_ix": "P127_520", "pattern_ix": 3}
+{"prompt": "Google Arts & Culture is owned by [MASK] .", "sub_label": "Google Arts & Culture", "obj_label": "Google", "uuid": "38d1a0dd-9693-4433-87f1-dad52fee7a0f", "rel_ix": "P127_521", "pattern_ix": 0}
+{"prompt": "Google Arts & Culture owner [MASK] .", "sub_label": "Google Arts & Culture", "obj_label": "Google", "uuid": "38d1a0dd-9693-4433-87f1-dad52fee7a0f", "rel_ix": "P127_521", "pattern_ix": 1}
+{"prompt": "[MASK] owns Google Arts & Culture .", "sub_label": "Google Arts & Culture", "obj_label": "Google", "uuid": "38d1a0dd-9693-4433-87f1-dad52fee7a0f", "rel_ix": "P127_521", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Google Arts & Culture", "sub_label": "Google Arts & Culture", "obj_label": "Google", "uuid": "38d1a0dd-9693-4433-87f1-dad52fee7a0f", "rel_ix": "P127_521", "pattern_ix": 3}
+{"prompt": "Google Now is owned by [MASK] .", "sub_label": "Google Now", "obj_label": "Google", "uuid": "f677132c-f89a-4798-a9be-e8865a62946c", "rel_ix": "P127_525", "pattern_ix": 0}
+{"prompt": "Google Now owner [MASK] .", "sub_label": "Google Now", "obj_label": "Google", "uuid": "f677132c-f89a-4798-a9be-e8865a62946c", "rel_ix": "P127_525", "pattern_ix": 1}
+{"prompt": "[MASK] owns Google Now .", "sub_label": "Google Now", "obj_label": "Google", "uuid": "f677132c-f89a-4798-a9be-e8865a62946c", "rel_ix": "P127_525", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Google Now", "sub_label": "Google Now", "obj_label": "Google", "uuid": "f677132c-f89a-4798-a9be-e8865a62946c", "rel_ix": "P127_525", "pattern_ix": 3}
+{"prompt": "Hamburger Hochbahn is owned by [MASK] .", "sub_label": "Hamburger Hochbahn", "obj_label": "Hamburg", "uuid": "5f6508db-eb49-468e-a013-373879b4b264", "rel_ix": "P127_526", "pattern_ix": 0}
+{"prompt": "Hamburger Hochbahn owner [MASK] .", "sub_label": "Hamburger Hochbahn", "obj_label": "Hamburg", "uuid": "5f6508db-eb49-468e-a013-373879b4b264", "rel_ix": "P127_526", "pattern_ix": 1}
+{"prompt": "[MASK] owns Hamburger Hochbahn .", "sub_label": "Hamburger Hochbahn", "obj_label": "Hamburg", "uuid": "5f6508db-eb49-468e-a013-373879b4b264", "rel_ix": "P127_526", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Hamburger Hochbahn", "sub_label": "Hamburger Hochbahn", "obj_label": "Hamburg", "uuid": "5f6508db-eb49-468e-a013-373879b4b264", "rel_ix": "P127_526", "pattern_ix": 3}
+{"prompt": "bpost is owned by [MASK] .", "sub_label": "bpost", "obj_label": "Belgium", "uuid": "6d1e696d-d23d-4c70-bc2f-0c700f8eef87", "rel_ix": "P127_531", "pattern_ix": 0}
+{"prompt": "bpost owner [MASK] .", "sub_label": "bpost", "obj_label": "Belgium", "uuid": "6d1e696d-d23d-4c70-bc2f-0c700f8eef87", "rel_ix": "P127_531", "pattern_ix": 1}
+{"prompt": "[MASK] owns bpost .", "sub_label": "bpost", "obj_label": "Belgium", "uuid": "6d1e696d-d23d-4c70-bc2f-0c700f8eef87", "rel_ix": "P127_531", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned bpost", "sub_label": "bpost", "obj_label": "Belgium", "uuid": "6d1e696d-d23d-4c70-bc2f-0c700f8eef87", "rel_ix": "P127_531", "pattern_ix": 3}
+{"prompt": "Azienda Trasporti Milanesi is owned by [MASK] .", "sub_label": "Azienda Trasporti Milanesi", "obj_label": "Milan", "uuid": "ca1c58ef-eade-4a9c-a182-0d350ae0581d", "rel_ix": "P127_535", "pattern_ix": 0}
+{"prompt": "Azienda Trasporti Milanesi owner [MASK] .", "sub_label": "Azienda Trasporti Milanesi", "obj_label": "Milan", "uuid": "ca1c58ef-eade-4a9c-a182-0d350ae0581d", "rel_ix": "P127_535", "pattern_ix": 1}
+{"prompt": "[MASK] owns Azienda Trasporti Milanesi .", "sub_label": "Azienda Trasporti Milanesi", "obj_label": "Milan", "uuid": "ca1c58ef-eade-4a9c-a182-0d350ae0581d", "rel_ix": "P127_535", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Azienda Trasporti Milanesi", "sub_label": "Azienda Trasporti Milanesi", "obj_label": "Milan", "uuid": "ca1c58ef-eade-4a9c-a182-0d350ae0581d", "rel_ix": "P127_535", "pattern_ix": 3}
+{"prompt": "Google Keep is owned by [MASK] .", "sub_label": "Google Keep", "obj_label": "Google", "uuid": "159d9bac-8ccb-4141-843e-49c8e6b3a41d", "rel_ix": "P127_539", "pattern_ix": 0}
+{"prompt": "Google Keep owner [MASK] .", "sub_label": "Google Keep", "obj_label": "Google", "uuid": "159d9bac-8ccb-4141-843e-49c8e6b3a41d", "rel_ix": "P127_539", "pattern_ix": 1}
+{"prompt": "[MASK] owns Google Keep .", "sub_label": "Google Keep", "obj_label": "Google", "uuid": "159d9bac-8ccb-4141-843e-49c8e6b3a41d", "rel_ix": "P127_539", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Google Keep", "sub_label": "Google Keep", "obj_label": "Google", "uuid": "159d9bac-8ccb-4141-843e-49c8e6b3a41d", "rel_ix": "P127_539", "pattern_ix": 3}
+{"prompt": "Hitachi Rail Italy is owned by [MASK] .", "sub_label": "Hitachi Rail Italy", "obj_label": "Leonardo", "uuid": "d2191f67-6de6-425f-b04e-4932238409c5", "rel_ix": "P127_545", "pattern_ix": 0}
+{"prompt": "Hitachi Rail Italy owner [MASK] .", "sub_label": "Hitachi Rail Italy", "obj_label": "Leonardo", "uuid": "d2191f67-6de6-425f-b04e-4932238409c5", "rel_ix": "P127_545", "pattern_ix": 1}
+{"prompt": "[MASK] owns Hitachi Rail Italy .", "sub_label": "Hitachi Rail Italy", "obj_label": "Leonardo", "uuid": "d2191f67-6de6-425f-b04e-4932238409c5", "rel_ix": "P127_545", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Hitachi Rail Italy", "sub_label": "Hitachi Rail Italy", "obj_label": "Leonardo", "uuid": "d2191f67-6de6-425f-b04e-4932238409c5", "rel_ix": "P127_545", "pattern_ix": 3}
+{"prompt": "Beats Music is owned by [MASK] .", "sub_label": "Beats Music", "obj_label": "Apple", "uuid": "57eef3a7-edfd-4f68-b0fe-e362ec42be9c", "rel_ix": "P127_550", "pattern_ix": 0}
+{"prompt": "Beats Music owner [MASK] .", "sub_label": "Beats Music", "obj_label": "Apple", "uuid": "57eef3a7-edfd-4f68-b0fe-e362ec42be9c", "rel_ix": "P127_550", "pattern_ix": 1}
+{"prompt": "[MASK] owns Beats Music .", "sub_label": "Beats Music", "obj_label": "Apple", "uuid": "57eef3a7-edfd-4f68-b0fe-e362ec42be9c", "rel_ix": "P127_550", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Beats Music", "sub_label": "Beats Music", "obj_label": "Apple", "uuid": "57eef3a7-edfd-4f68-b0fe-e362ec42be9c", "rel_ix": "P127_550", "pattern_ix": 3}
+{"prompt": "Day Software is owned by [MASK] .", "sub_label": "Day Software", "obj_label": "Adobe", "uuid": "d245c727-23eb-43d9-b1d2-5a43496a73e8", "rel_ix": "P127_557", "pattern_ix": 0}
+{"prompt": "Day Software owner [MASK] .", "sub_label": "Day Software", "obj_label": "Adobe", "uuid": "d245c727-23eb-43d9-b1d2-5a43496a73e8", "rel_ix": "P127_557", "pattern_ix": 1}
+{"prompt": "[MASK] owns Day Software .", "sub_label": "Day Software", "obj_label": "Adobe", "uuid": "d245c727-23eb-43d9-b1d2-5a43496a73e8", "rel_ix": "P127_557", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Day Software", "sub_label": "Day Software", "obj_label": "Adobe", "uuid": "d245c727-23eb-43d9-b1d2-5a43496a73e8", "rel_ix": "P127_557", "pattern_ix": 3}
+{"prompt": "BBC News is owned by [MASK] .", "sub_label": "BBC News", "obj_label": "BBC", "uuid": "cb970bf4-004e-4444-9056-ba72d8cd5378", "rel_ix": "P127_559", "pattern_ix": 0}
+{"prompt": "BBC News owner [MASK] .", "sub_label": "BBC News", "obj_label": "BBC", "uuid": "cb970bf4-004e-4444-9056-ba72d8cd5378", "rel_ix": "P127_559", "pattern_ix": 1}
+{"prompt": "[MASK] owns BBC News .", "sub_label": "BBC News", "obj_label": "BBC", "uuid": "cb970bf4-004e-4444-9056-ba72d8cd5378", "rel_ix": "P127_559", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned BBC News", "sub_label": "BBC News", "obj_label": "BBC", "uuid": "cb970bf4-004e-4444-9056-ba72d8cd5378", "rel_ix": "P127_559", "pattern_ix": 3}
+{"prompt": "Centennial Park Stadium is owned by [MASK] .", "sub_label": "Centennial Park Stadium", "obj_label": "Toronto", "uuid": "deb01f8d-dfbd-4085-9987-761b77a629a0", "rel_ix": "P127_567", "pattern_ix": 0}
+{"prompt": "Centennial Park Stadium owner [MASK] .", "sub_label": "Centennial Park Stadium", "obj_label": "Toronto", "uuid": "deb01f8d-dfbd-4085-9987-761b77a629a0", "rel_ix": "P127_567", "pattern_ix": 1}
+{"prompt": "[MASK] owns Centennial Park Stadium .", "sub_label": "Centennial Park Stadium", "obj_label": "Toronto", "uuid": "deb01f8d-dfbd-4085-9987-761b77a629a0", "rel_ix": "P127_567", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Centennial Park Stadium", "sub_label": "Centennial Park Stadium", "obj_label": "Toronto", "uuid": "deb01f8d-dfbd-4085-9987-761b77a629a0", "rel_ix": "P127_567", "pattern_ix": 3}
+{"prompt": "Hajime Yatate is owned by [MASK] .", "sub_label": "Hajime Yatate", "obj_label": "Sunrise", "uuid": "71bb293a-a92e-469a-af47-09f694596a02", "rel_ix": "P127_573", "pattern_ix": 0}
+{"prompt": "Hajime Yatate owner [MASK] .", "sub_label": "Hajime Yatate", "obj_label": "Sunrise", "uuid": "71bb293a-a92e-469a-af47-09f694596a02", "rel_ix": "P127_573", "pattern_ix": 1}
+{"prompt": "[MASK] owns Hajime Yatate .", "sub_label": "Hajime Yatate", "obj_label": "Sunrise", "uuid": "71bb293a-a92e-469a-af47-09f694596a02", "rel_ix": "P127_573", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Hajime Yatate", "sub_label": "Hajime Yatate", "obj_label": "Sunrise", "uuid": "71bb293a-a92e-469a-af47-09f694596a02", "rel_ix": "P127_573", "pattern_ix": 3}
+{"prompt": "Bundesautobahn 40 is owned by [MASK] .", "sub_label": "Bundesautobahn 40", "obj_label": "Germany", "uuid": "b9148650-e8e4-4eeb-b52e-f8a82f64cc47", "rel_ix": "P127_576", "pattern_ix": 0}
+{"prompt": "Bundesautobahn 40 owner [MASK] .", "sub_label": "Bundesautobahn 40", "obj_label": "Germany", "uuid": "b9148650-e8e4-4eeb-b52e-f8a82f64cc47", "rel_ix": "P127_576", "pattern_ix": 1}
+{"prompt": "[MASK] owns Bundesautobahn 40 .", "sub_label": "Bundesautobahn 40", "obj_label": "Germany", "uuid": "b9148650-e8e4-4eeb-b52e-f8a82f64cc47", "rel_ix": "P127_576", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Bundesautobahn 40", "sub_label": "Bundesautobahn 40", "obj_label": "Germany", "uuid": "b9148650-e8e4-4eeb-b52e-f8a82f64cc47", "rel_ix": "P127_576", "pattern_ix": 3}
+{"prompt": "Mark sense is owned by [MASK] .", "sub_label": "Mark sense", "obj_label": "IBM", "uuid": "1e4ca793-a963-4a24-bd22-c8d7b0469995", "rel_ix": "P127_579", "pattern_ix": 0}
+{"prompt": "Mark sense owner [MASK] .", "sub_label": "Mark sense", "obj_label": "IBM", "uuid": "1e4ca793-a963-4a24-bd22-c8d7b0469995", "rel_ix": "P127_579", "pattern_ix": 1}
+{"prompt": "[MASK] owns Mark sense .", "sub_label": "Mark sense", "obj_label": "IBM", "uuid": "1e4ca793-a963-4a24-bd22-c8d7b0469995", "rel_ix": "P127_579", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Mark sense", "sub_label": "Mark sense", "obj_label": "IBM", "uuid": "1e4ca793-a963-4a24-bd22-c8d7b0469995", "rel_ix": "P127_579", "pattern_ix": 3}
+{"prompt": "El Alto International Airport is owned by [MASK] .", "sub_label": "El Alto International Airport", "obj_label": "Bolivia", "uuid": "a6050219-c64c-4806-a608-e152c2171bce", "rel_ix": "P127_586", "pattern_ix": 0}
+{"prompt": "El Alto International Airport owner [MASK] .", "sub_label": "El Alto International Airport", "obj_label": "Bolivia", "uuid": "a6050219-c64c-4806-a608-e152c2171bce", "rel_ix": "P127_586", "pattern_ix": 1}
+{"prompt": "[MASK] owns El Alto International Airport .", "sub_label": "El Alto International Airport", "obj_label": "Bolivia", "uuid": "a6050219-c64c-4806-a608-e152c2171bce", "rel_ix": "P127_586", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned El Alto International Airport", "sub_label": "El Alto International Airport", "obj_label": "Bolivia", "uuid": "a6050219-c64c-4806-a608-e152c2171bce", "rel_ix": "P127_586", "pattern_ix": 3}
+{"prompt": "Upcoming is owned by [MASK] .", "sub_label": "Upcoming", "obj_label": "Yahoo", "uuid": "bb1e2b5f-21a9-4c7e-aaec-025af4e13c2c", "rel_ix": "P127_591", "pattern_ix": 0}
+{"prompt": "Upcoming owner [MASK] .", "sub_label": "Upcoming", "obj_label": "Yahoo", "uuid": "bb1e2b5f-21a9-4c7e-aaec-025af4e13c2c", "rel_ix": "P127_591", "pattern_ix": 1}
+{"prompt": "[MASK] owns Upcoming .", "sub_label": "Upcoming", "obj_label": "Yahoo", "uuid": "bb1e2b5f-21a9-4c7e-aaec-025af4e13c2c", "rel_ix": "P127_591", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Upcoming", "sub_label": "Upcoming", "obj_label": "Yahoo", "uuid": "bb1e2b5f-21a9-4c7e-aaec-025af4e13c2c", "rel_ix": "P127_591", "pattern_ix": 3}
+{"prompt": "Vancouver City Hall is owned by [MASK] .", "sub_label": "Vancouver City Hall", "obj_label": "Vancouver", "uuid": "3e5f316d-b7a5-4696-9431-5c7c783de98c", "rel_ix": "P127_594", "pattern_ix": 0}
+{"prompt": "Vancouver City Hall owner [MASK] .", "sub_label": "Vancouver City Hall", "obj_label": "Vancouver", "uuid": "3e5f316d-b7a5-4696-9431-5c7c783de98c", "rel_ix": "P127_594", "pattern_ix": 1}
+{"prompt": "[MASK] owns Vancouver City Hall .", "sub_label": "Vancouver City Hall", "obj_label": "Vancouver", "uuid": "3e5f316d-b7a5-4696-9431-5c7c783de98c", "rel_ix": "P127_594", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Vancouver City Hall", "sub_label": "Vancouver City Hall", "obj_label": "Vancouver", "uuid": "3e5f316d-b7a5-4696-9431-5c7c783de98c", "rel_ix": "P127_594", "pattern_ix": 3}
+{"prompt": "Winnipeg Route 90 is owned by [MASK] .", "sub_label": "Winnipeg Route 90", "obj_label": "Winnipeg", "uuid": "b885ebb5-c8dc-4fc3-a03b-f76cd6f90f9c", "rel_ix": "P127_596", "pattern_ix": 0}
+{"prompt": "Winnipeg Route 90 owner [MASK] .", "sub_label": "Winnipeg Route 90", "obj_label": "Winnipeg", "uuid": "b885ebb5-c8dc-4fc3-a03b-f76cd6f90f9c", "rel_ix": "P127_596", "pattern_ix": 1}
+{"prompt": "[MASK] owns Winnipeg Route 90 .", "sub_label": "Winnipeg Route 90", "obj_label": "Winnipeg", "uuid": "b885ebb5-c8dc-4fc3-a03b-f76cd6f90f9c", "rel_ix": "P127_596", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Winnipeg Route 90", "sub_label": "Winnipeg Route 90", "obj_label": "Winnipeg", "uuid": "b885ebb5-c8dc-4fc3-a03b-f76cd6f90f9c", "rel_ix": "P127_596", "pattern_ix": 3}
+{"prompt": "BBC Weather is owned by [MASK] .", "sub_label": "BBC Weather", "obj_label": "BBC", "uuid": "30fa244f-365c-407e-b4f8-5b26d68817db", "rel_ix": "P127_598", "pattern_ix": 0}
+{"prompt": "BBC Weather owner [MASK] .", "sub_label": "BBC Weather", "obj_label": "BBC", "uuid": "30fa244f-365c-407e-b4f8-5b26d68817db", "rel_ix": "P127_598", "pattern_ix": 1}
+{"prompt": "[MASK] owns BBC Weather .", "sub_label": "BBC Weather", "obj_label": "BBC", "uuid": "30fa244f-365c-407e-b4f8-5b26d68817db", "rel_ix": "P127_598", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned BBC Weather", "sub_label": "BBC Weather", "obj_label": "BBC", "uuid": "30fa244f-365c-407e-b4f8-5b26d68817db", "rel_ix": "P127_598", "pattern_ix": 3}
+{"prompt": "Bundesautobahn 44 is owned by [MASK] .", "sub_label": "Bundesautobahn 44", "obj_label": "Germany", "uuid": "597e541a-9abd-4223-9df2-34929b0fe992", "rel_ix": "P127_600", "pattern_ix": 0}
+{"prompt": "Bundesautobahn 44 owner [MASK] .", "sub_label": "Bundesautobahn 44", "obj_label": "Germany", "uuid": "597e541a-9abd-4223-9df2-34929b0fe992", "rel_ix": "P127_600", "pattern_ix": 1}
+{"prompt": "[MASK] owns Bundesautobahn 44 .", "sub_label": "Bundesautobahn 44", "obj_label": "Germany", "uuid": "597e541a-9abd-4223-9df2-34929b0fe992", "rel_ix": "P127_600", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Bundesautobahn 44", "sub_label": "Bundesautobahn 44", "obj_label": "Germany", "uuid": "597e541a-9abd-4223-9df2-34929b0fe992", "rel_ix": "P127_600", "pattern_ix": 3}
+{"prompt": "Bundesautobahn 24 is owned by [MASK] .", "sub_label": "Bundesautobahn 24", "obj_label": "Germany", "uuid": "cf598b3b-ec35-4d72-b170-f5ed091dba4f", "rel_ix": "P127_603", "pattern_ix": 0}
+{"prompt": "Bundesautobahn 24 owner [MASK] .", "sub_label": "Bundesautobahn 24", "obj_label": "Germany", "uuid": "cf598b3b-ec35-4d72-b170-f5ed091dba4f", "rel_ix": "P127_603", "pattern_ix": 1}
+{"prompt": "[MASK] owns Bundesautobahn 24 .", "sub_label": "Bundesautobahn 24", "obj_label": "Germany", "uuid": "cf598b3b-ec35-4d72-b170-f5ed091dba4f", "rel_ix": "P127_603", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Bundesautobahn 24", "sub_label": "Bundesautobahn 24", "obj_label": "Germany", "uuid": "cf598b3b-ec35-4d72-b170-f5ed091dba4f", "rel_ix": "P127_603", "pattern_ix": 3}
+{"prompt": "Bundesautobahn 29 is owned by [MASK] .", "sub_label": "Bundesautobahn 29", "obj_label": "Germany", "uuid": "0102dbdb-6ae7-4492-ab7e-c614a804e277", "rel_ix": "P127_604", "pattern_ix": 0}
+{"prompt": "Bundesautobahn 29 owner [MASK] .", "sub_label": "Bundesautobahn 29", "obj_label": "Germany", "uuid": "0102dbdb-6ae7-4492-ab7e-c614a804e277", "rel_ix": "P127_604", "pattern_ix": 1}
+{"prompt": "[MASK] owns Bundesautobahn 29 .", "sub_label": "Bundesautobahn 29", "obj_label": "Germany", "uuid": "0102dbdb-6ae7-4492-ab7e-c614a804e277", "rel_ix": "P127_604", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Bundesautobahn 29", "sub_label": "Bundesautobahn 29", "obj_label": "Germany", "uuid": "0102dbdb-6ae7-4492-ab7e-c614a804e277", "rel_ix": "P127_604", "pattern_ix": 3}
+{"prompt": "Fargodome is owned by [MASK] .", "sub_label": "Fargodome", "obj_label": "Fargo", "uuid": "d81fd9fa-a046-4364-bc5c-c107c372f917", "rel_ix": "P127_609", "pattern_ix": 0}
+{"prompt": "Fargodome owner [MASK] .", "sub_label": "Fargodome", "obj_label": "Fargo", "uuid": "d81fd9fa-a046-4364-bc5c-c107c372f917", "rel_ix": "P127_609", "pattern_ix": 1}
+{"prompt": "[MASK] owns Fargodome .", "sub_label": "Fargodome", "obj_label": "Fargo", "uuid": "d81fd9fa-a046-4364-bc5c-c107c372f917", "rel_ix": "P127_609", "pattern_ix": 2}
+{"prompt": "The [MASK]-owned Fargodome", "sub_label": "Fargodome", "obj_label": "Fargo", "uuid": "d81fd9fa-a046-4364-bc5c-c107c372f917", "rel_ix": "P127_609", "pattern_ix": 3}

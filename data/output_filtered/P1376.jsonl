@@ -1,0 +1,490 @@
+{"prompt": "Edmonton is the capital of [MASK].", "sub_label": "Edmonton", "obj_label": "Alberta", "uuid": "30bca7f1-a48a-47bd-9153-653623b11766", "rel_ix": "P1376_0", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Edmonton.", "sub_label": "Edmonton", "obj_label": "Alberta", "uuid": "30bca7f1-a48a-47bd-9153-653623b11766", "rel_ix": "P1376_0", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Edmonton.", "sub_label": "Edmonton", "obj_label": "Alberta", "uuid": "30bca7f1-a48a-47bd-9153-653623b11766", "rel_ix": "P1376_0", "pattern_ix": 2}
+{"prompt": "Edmonton is the capital city of [MASK].", "sub_label": "Edmonton", "obj_label": "Alberta", "uuid": "30bca7f1-a48a-47bd-9153-653623b11766", "rel_ix": "P1376_0", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Edmonton.", "sub_label": "Edmonton", "obj_label": "Alberta", "uuid": "30bca7f1-a48a-47bd-9153-653623b11766", "rel_ix": "P1376_0", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Edmonton.", "sub_label": "Edmonton", "obj_label": "Alberta", "uuid": "30bca7f1-a48a-47bd-9153-653623b11766", "rel_ix": "P1376_0", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Edmonton.", "sub_label": "Edmonton", "obj_label": "Alberta", "uuid": "30bca7f1-a48a-47bd-9153-653623b11766", "rel_ix": "P1376_0", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Edmonton.", "sub_label": "Edmonton", "obj_label": "Alberta", "uuid": "30bca7f1-a48a-47bd-9153-653623b11766", "rel_ix": "P1376_0", "pattern_ix": 7}
+{"prompt": "Edmonton, the capital of [MASK].", "sub_label": "Edmonton", "obj_label": "Alberta", "uuid": "30bca7f1-a48a-47bd-9153-653623b11766", "rel_ix": "P1376_0", "pattern_ix": 8}
+{"prompt": "Edmonton, the capital city of [MASK].", "sub_label": "Edmonton", "obj_label": "Alberta", "uuid": "30bca7f1-a48a-47bd-9153-653623b11766", "rel_ix": "P1376_0", "pattern_ix": 9}
+{"prompt": "Edmonton, that is the capital of [MASK].", "sub_label": "Edmonton", "obj_label": "Alberta", "uuid": "30bca7f1-a48a-47bd-9153-653623b11766", "rel_ix": "P1376_0", "pattern_ix": 10}
+{"prompt": "Edmonton, that is the capital city of [MASK].", "sub_label": "Edmonton", "obj_label": "Alberta", "uuid": "30bca7f1-a48a-47bd-9153-653623b11766", "rel_ix": "P1376_0", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Edmonton.", "sub_label": "Edmonton", "obj_label": "Alberta", "uuid": "30bca7f1-a48a-47bd-9153-653623b11766", "rel_ix": "P1376_0", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Edmonton.", "sub_label": "Edmonton", "obj_label": "Alberta", "uuid": "30bca7f1-a48a-47bd-9153-653623b11766", "rel_ix": "P1376_0", "pattern_ix": 13}
+{"prompt": "Cairo is the capital of [MASK].", "sub_label": "Cairo", "obj_label": "Egypt", "uuid": "815f1695-41b0-4504-88db-11184b728e41", "rel_ix": "P1376_4", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Cairo.", "sub_label": "Cairo", "obj_label": "Egypt", "uuid": "815f1695-41b0-4504-88db-11184b728e41", "rel_ix": "P1376_4", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Cairo.", "sub_label": "Cairo", "obj_label": "Egypt", "uuid": "815f1695-41b0-4504-88db-11184b728e41", "rel_ix": "P1376_4", "pattern_ix": 2}
+{"prompt": "Cairo is the capital city of [MASK].", "sub_label": "Cairo", "obj_label": "Egypt", "uuid": "815f1695-41b0-4504-88db-11184b728e41", "rel_ix": "P1376_4", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Cairo.", "sub_label": "Cairo", "obj_label": "Egypt", "uuid": "815f1695-41b0-4504-88db-11184b728e41", "rel_ix": "P1376_4", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Cairo.", "sub_label": "Cairo", "obj_label": "Egypt", "uuid": "815f1695-41b0-4504-88db-11184b728e41", "rel_ix": "P1376_4", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Cairo.", "sub_label": "Cairo", "obj_label": "Egypt", "uuid": "815f1695-41b0-4504-88db-11184b728e41", "rel_ix": "P1376_4", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Cairo.", "sub_label": "Cairo", "obj_label": "Egypt", "uuid": "815f1695-41b0-4504-88db-11184b728e41", "rel_ix": "P1376_4", "pattern_ix": 7}
+{"prompt": "Cairo, the capital of [MASK].", "sub_label": "Cairo", "obj_label": "Egypt", "uuid": "815f1695-41b0-4504-88db-11184b728e41", "rel_ix": "P1376_4", "pattern_ix": 8}
+{"prompt": "Cairo, the capital city of [MASK].", "sub_label": "Cairo", "obj_label": "Egypt", "uuid": "815f1695-41b0-4504-88db-11184b728e41", "rel_ix": "P1376_4", "pattern_ix": 9}
+{"prompt": "Cairo, that is the capital of [MASK].", "sub_label": "Cairo", "obj_label": "Egypt", "uuid": "815f1695-41b0-4504-88db-11184b728e41", "rel_ix": "P1376_4", "pattern_ix": 10}
+{"prompt": "Cairo, that is the capital city of [MASK].", "sub_label": "Cairo", "obj_label": "Egypt", "uuid": "815f1695-41b0-4504-88db-11184b728e41", "rel_ix": "P1376_4", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Cairo.", "sub_label": "Cairo", "obj_label": "Egypt", "uuid": "815f1695-41b0-4504-88db-11184b728e41", "rel_ix": "P1376_4", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Cairo.", "sub_label": "Cairo", "obj_label": "Egypt", "uuid": "815f1695-41b0-4504-88db-11184b728e41", "rel_ix": "P1376_4", "pattern_ix": 13}
+{"prompt": "Bonn is the capital of [MASK].", "sub_label": "Bonn", "obj_label": "Germany", "uuid": "d52525c0-32a0-48e6-a2a0-597242cc59d9", "rel_ix": "P1376_14", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Bonn.", "sub_label": "Bonn", "obj_label": "Germany", "uuid": "d52525c0-32a0-48e6-a2a0-597242cc59d9", "rel_ix": "P1376_14", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Bonn.", "sub_label": "Bonn", "obj_label": "Germany", "uuid": "d52525c0-32a0-48e6-a2a0-597242cc59d9", "rel_ix": "P1376_14", "pattern_ix": 2}
+{"prompt": "Bonn is the capital city of [MASK].", "sub_label": "Bonn", "obj_label": "Germany", "uuid": "d52525c0-32a0-48e6-a2a0-597242cc59d9", "rel_ix": "P1376_14", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Bonn.", "sub_label": "Bonn", "obj_label": "Germany", "uuid": "d52525c0-32a0-48e6-a2a0-597242cc59d9", "rel_ix": "P1376_14", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Bonn.", "sub_label": "Bonn", "obj_label": "Germany", "uuid": "d52525c0-32a0-48e6-a2a0-597242cc59d9", "rel_ix": "P1376_14", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Bonn.", "sub_label": "Bonn", "obj_label": "Germany", "uuid": "d52525c0-32a0-48e6-a2a0-597242cc59d9", "rel_ix": "P1376_14", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Bonn.", "sub_label": "Bonn", "obj_label": "Germany", "uuid": "d52525c0-32a0-48e6-a2a0-597242cc59d9", "rel_ix": "P1376_14", "pattern_ix": 7}
+{"prompt": "Bonn, the capital of [MASK].", "sub_label": "Bonn", "obj_label": "Germany", "uuid": "d52525c0-32a0-48e6-a2a0-597242cc59d9", "rel_ix": "P1376_14", "pattern_ix": 8}
+{"prompt": "Bonn, the capital city of [MASK].", "sub_label": "Bonn", "obj_label": "Germany", "uuid": "d52525c0-32a0-48e6-a2a0-597242cc59d9", "rel_ix": "P1376_14", "pattern_ix": 9}
+{"prompt": "Bonn, that is the capital of [MASK].", "sub_label": "Bonn", "obj_label": "Germany", "uuid": "d52525c0-32a0-48e6-a2a0-597242cc59d9", "rel_ix": "P1376_14", "pattern_ix": 10}
+{"prompt": "Bonn, that is the capital city of [MASK].", "sub_label": "Bonn", "obj_label": "Germany", "uuid": "d52525c0-32a0-48e6-a2a0-597242cc59d9", "rel_ix": "P1376_14", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Bonn.", "sub_label": "Bonn", "obj_label": "Germany", "uuid": "d52525c0-32a0-48e6-a2a0-597242cc59d9", "rel_ix": "P1376_14", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Bonn.", "sub_label": "Bonn", "obj_label": "Germany", "uuid": "d52525c0-32a0-48e6-a2a0-597242cc59d9", "rel_ix": "P1376_14", "pattern_ix": 13}
+{"prompt": "Chongqing is the capital of [MASK].", "sub_label": "Chongqing", "obj_label": "Taiwan", "uuid": "84504d57-e865-44ba-a712-217fa32e3515", "rel_ix": "P1376_22", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Chongqing.", "sub_label": "Chongqing", "obj_label": "Taiwan", "uuid": "84504d57-e865-44ba-a712-217fa32e3515", "rel_ix": "P1376_22", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Chongqing.", "sub_label": "Chongqing", "obj_label": "Taiwan", "uuid": "84504d57-e865-44ba-a712-217fa32e3515", "rel_ix": "P1376_22", "pattern_ix": 2}
+{"prompt": "Chongqing is the capital city of [MASK].", "sub_label": "Chongqing", "obj_label": "Taiwan", "uuid": "84504d57-e865-44ba-a712-217fa32e3515", "rel_ix": "P1376_22", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Chongqing.", "sub_label": "Chongqing", "obj_label": "Taiwan", "uuid": "84504d57-e865-44ba-a712-217fa32e3515", "rel_ix": "P1376_22", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Chongqing.", "sub_label": "Chongqing", "obj_label": "Taiwan", "uuid": "84504d57-e865-44ba-a712-217fa32e3515", "rel_ix": "P1376_22", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Chongqing.", "sub_label": "Chongqing", "obj_label": "Taiwan", "uuid": "84504d57-e865-44ba-a712-217fa32e3515", "rel_ix": "P1376_22", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Chongqing.", "sub_label": "Chongqing", "obj_label": "Taiwan", "uuid": "84504d57-e865-44ba-a712-217fa32e3515", "rel_ix": "P1376_22", "pattern_ix": 7}
+{"prompt": "Chongqing, the capital of [MASK].", "sub_label": "Chongqing", "obj_label": "Taiwan", "uuid": "84504d57-e865-44ba-a712-217fa32e3515", "rel_ix": "P1376_22", "pattern_ix": 8}
+{"prompt": "Chongqing, the capital city of [MASK].", "sub_label": "Chongqing", "obj_label": "Taiwan", "uuid": "84504d57-e865-44ba-a712-217fa32e3515", "rel_ix": "P1376_22", "pattern_ix": 9}
+{"prompt": "Chongqing, that is the capital of [MASK].", "sub_label": "Chongqing", "obj_label": "Taiwan", "uuid": "84504d57-e865-44ba-a712-217fa32e3515", "rel_ix": "P1376_22", "pattern_ix": 10}
+{"prompt": "Chongqing, that is the capital city of [MASK].", "sub_label": "Chongqing", "obj_label": "Taiwan", "uuid": "84504d57-e865-44ba-a712-217fa32e3515", "rel_ix": "P1376_22", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Chongqing.", "sub_label": "Chongqing", "obj_label": "Taiwan", "uuid": "84504d57-e865-44ba-a712-217fa32e3515", "rel_ix": "P1376_22", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Chongqing.", "sub_label": "Chongqing", "obj_label": "Taiwan", "uuid": "84504d57-e865-44ba-a712-217fa32e3515", "rel_ix": "P1376_22", "pattern_ix": 13}
+{"prompt": "Havana is the capital of [MASK].", "sub_label": "Havana", "obj_label": "Cuba", "uuid": "65e70460-45d0-4a71-ba9a-c0e329f03512", "rel_ix": "P1376_23", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Havana.", "sub_label": "Havana", "obj_label": "Cuba", "uuid": "65e70460-45d0-4a71-ba9a-c0e329f03512", "rel_ix": "P1376_23", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Havana.", "sub_label": "Havana", "obj_label": "Cuba", "uuid": "65e70460-45d0-4a71-ba9a-c0e329f03512", "rel_ix": "P1376_23", "pattern_ix": 2}
+{"prompt": "Havana is the capital city of [MASK].", "sub_label": "Havana", "obj_label": "Cuba", "uuid": "65e70460-45d0-4a71-ba9a-c0e329f03512", "rel_ix": "P1376_23", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Havana.", "sub_label": "Havana", "obj_label": "Cuba", "uuid": "65e70460-45d0-4a71-ba9a-c0e329f03512", "rel_ix": "P1376_23", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Havana.", "sub_label": "Havana", "obj_label": "Cuba", "uuid": "65e70460-45d0-4a71-ba9a-c0e329f03512", "rel_ix": "P1376_23", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Havana.", "sub_label": "Havana", "obj_label": "Cuba", "uuid": "65e70460-45d0-4a71-ba9a-c0e329f03512", "rel_ix": "P1376_23", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Havana.", "sub_label": "Havana", "obj_label": "Cuba", "uuid": "65e70460-45d0-4a71-ba9a-c0e329f03512", "rel_ix": "P1376_23", "pattern_ix": 7}
+{"prompt": "Havana, the capital of [MASK].", "sub_label": "Havana", "obj_label": "Cuba", "uuid": "65e70460-45d0-4a71-ba9a-c0e329f03512", "rel_ix": "P1376_23", "pattern_ix": 8}
+{"prompt": "Havana, the capital city of [MASK].", "sub_label": "Havana", "obj_label": "Cuba", "uuid": "65e70460-45d0-4a71-ba9a-c0e329f03512", "rel_ix": "P1376_23", "pattern_ix": 9}
+{"prompt": "Havana, that is the capital of [MASK].", "sub_label": "Havana", "obj_label": "Cuba", "uuid": "65e70460-45d0-4a71-ba9a-c0e329f03512", "rel_ix": "P1376_23", "pattern_ix": 10}
+{"prompt": "Havana, that is the capital city of [MASK].", "sub_label": "Havana", "obj_label": "Cuba", "uuid": "65e70460-45d0-4a71-ba9a-c0e329f03512", "rel_ix": "P1376_23", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Havana.", "sub_label": "Havana", "obj_label": "Cuba", "uuid": "65e70460-45d0-4a71-ba9a-c0e329f03512", "rel_ix": "P1376_23", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Havana.", "sub_label": "Havana", "obj_label": "Cuba", "uuid": "65e70460-45d0-4a71-ba9a-c0e329f03512", "rel_ix": "P1376_23", "pattern_ix": 13}
+{"prompt": "Damascus is the capital of [MASK].", "sub_label": "Damascus", "obj_label": "Syria", "uuid": "724c16a2-f987-4cbe-b920-d5bf53489a25", "rel_ix": "P1376_33", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Damascus.", "sub_label": "Damascus", "obj_label": "Syria", "uuid": "724c16a2-f987-4cbe-b920-d5bf53489a25", "rel_ix": "P1376_33", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Damascus.", "sub_label": "Damascus", "obj_label": "Syria", "uuid": "724c16a2-f987-4cbe-b920-d5bf53489a25", "rel_ix": "P1376_33", "pattern_ix": 2}
+{"prompt": "Damascus is the capital city of [MASK].", "sub_label": "Damascus", "obj_label": "Syria", "uuid": "724c16a2-f987-4cbe-b920-d5bf53489a25", "rel_ix": "P1376_33", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Damascus.", "sub_label": "Damascus", "obj_label": "Syria", "uuid": "724c16a2-f987-4cbe-b920-d5bf53489a25", "rel_ix": "P1376_33", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Damascus.", "sub_label": "Damascus", "obj_label": "Syria", "uuid": "724c16a2-f987-4cbe-b920-d5bf53489a25", "rel_ix": "P1376_33", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Damascus.", "sub_label": "Damascus", "obj_label": "Syria", "uuid": "724c16a2-f987-4cbe-b920-d5bf53489a25", "rel_ix": "P1376_33", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Damascus.", "sub_label": "Damascus", "obj_label": "Syria", "uuid": "724c16a2-f987-4cbe-b920-d5bf53489a25", "rel_ix": "P1376_33", "pattern_ix": 7}
+{"prompt": "Damascus, the capital of [MASK].", "sub_label": "Damascus", "obj_label": "Syria", "uuid": "724c16a2-f987-4cbe-b920-d5bf53489a25", "rel_ix": "P1376_33", "pattern_ix": 8}
+{"prompt": "Damascus, the capital city of [MASK].", "sub_label": "Damascus", "obj_label": "Syria", "uuid": "724c16a2-f987-4cbe-b920-d5bf53489a25", "rel_ix": "P1376_33", "pattern_ix": 9}
+{"prompt": "Damascus, that is the capital of [MASK].", "sub_label": "Damascus", "obj_label": "Syria", "uuid": "724c16a2-f987-4cbe-b920-d5bf53489a25", "rel_ix": "P1376_33", "pattern_ix": 10}
+{"prompt": "Damascus, that is the capital city of [MASK].", "sub_label": "Damascus", "obj_label": "Syria", "uuid": "724c16a2-f987-4cbe-b920-d5bf53489a25", "rel_ix": "P1376_33", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Damascus.", "sub_label": "Damascus", "obj_label": "Syria", "uuid": "724c16a2-f987-4cbe-b920-d5bf53489a25", "rel_ix": "P1376_33", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Damascus.", "sub_label": "Damascus", "obj_label": "Syria", "uuid": "724c16a2-f987-4cbe-b920-d5bf53489a25", "rel_ix": "P1376_33", "pattern_ix": 13}
+{"prompt": "Stockholm is the capital of [MASK].", "sub_label": "Stockholm", "obj_label": "Sweden", "uuid": "41036d7a-2302-43f0-afbb-9ac364a9bc62", "rel_ix": "P1376_35", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Stockholm.", "sub_label": "Stockholm", "obj_label": "Sweden", "uuid": "41036d7a-2302-43f0-afbb-9ac364a9bc62", "rel_ix": "P1376_35", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Stockholm.", "sub_label": "Stockholm", "obj_label": "Sweden", "uuid": "41036d7a-2302-43f0-afbb-9ac364a9bc62", "rel_ix": "P1376_35", "pattern_ix": 2}
+{"prompt": "Stockholm is the capital city of [MASK].", "sub_label": "Stockholm", "obj_label": "Sweden", "uuid": "41036d7a-2302-43f0-afbb-9ac364a9bc62", "rel_ix": "P1376_35", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Stockholm.", "sub_label": "Stockholm", "obj_label": "Sweden", "uuid": "41036d7a-2302-43f0-afbb-9ac364a9bc62", "rel_ix": "P1376_35", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Stockholm.", "sub_label": "Stockholm", "obj_label": "Sweden", "uuid": "41036d7a-2302-43f0-afbb-9ac364a9bc62", "rel_ix": "P1376_35", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Stockholm.", "sub_label": "Stockholm", "obj_label": "Sweden", "uuid": "41036d7a-2302-43f0-afbb-9ac364a9bc62", "rel_ix": "P1376_35", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Stockholm.", "sub_label": "Stockholm", "obj_label": "Sweden", "uuid": "41036d7a-2302-43f0-afbb-9ac364a9bc62", "rel_ix": "P1376_35", "pattern_ix": 7}
+{"prompt": "Stockholm, the capital of [MASK].", "sub_label": "Stockholm", "obj_label": "Sweden", "uuid": "41036d7a-2302-43f0-afbb-9ac364a9bc62", "rel_ix": "P1376_35", "pattern_ix": 8}
+{"prompt": "Stockholm, the capital city of [MASK].", "sub_label": "Stockholm", "obj_label": "Sweden", "uuid": "41036d7a-2302-43f0-afbb-9ac364a9bc62", "rel_ix": "P1376_35", "pattern_ix": 9}
+{"prompt": "Stockholm, that is the capital of [MASK].", "sub_label": "Stockholm", "obj_label": "Sweden", "uuid": "41036d7a-2302-43f0-afbb-9ac364a9bc62", "rel_ix": "P1376_35", "pattern_ix": 10}
+{"prompt": "Stockholm, that is the capital city of [MASK].", "sub_label": "Stockholm", "obj_label": "Sweden", "uuid": "41036d7a-2302-43f0-afbb-9ac364a9bc62", "rel_ix": "P1376_35", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Stockholm.", "sub_label": "Stockholm", "obj_label": "Sweden", "uuid": "41036d7a-2302-43f0-afbb-9ac364a9bc62", "rel_ix": "P1376_35", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Stockholm.", "sub_label": "Stockholm", "obj_label": "Sweden", "uuid": "41036d7a-2302-43f0-afbb-9ac364a9bc62", "rel_ix": "P1376_35", "pattern_ix": 13}
+{"prompt": "Helsinki is the capital of [MASK].", "sub_label": "Helsinki", "obj_label": "Finland", "uuid": "58b5ec79-a84e-4241-83c1-ac5f39349b24", "rel_ix": "P1376_36", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Helsinki.", "sub_label": "Helsinki", "obj_label": "Finland", "uuid": "58b5ec79-a84e-4241-83c1-ac5f39349b24", "rel_ix": "P1376_36", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Helsinki.", "sub_label": "Helsinki", "obj_label": "Finland", "uuid": "58b5ec79-a84e-4241-83c1-ac5f39349b24", "rel_ix": "P1376_36", "pattern_ix": 2}
+{"prompt": "Helsinki is the capital city of [MASK].", "sub_label": "Helsinki", "obj_label": "Finland", "uuid": "58b5ec79-a84e-4241-83c1-ac5f39349b24", "rel_ix": "P1376_36", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Helsinki.", "sub_label": "Helsinki", "obj_label": "Finland", "uuid": "58b5ec79-a84e-4241-83c1-ac5f39349b24", "rel_ix": "P1376_36", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Helsinki.", "sub_label": "Helsinki", "obj_label": "Finland", "uuid": "58b5ec79-a84e-4241-83c1-ac5f39349b24", "rel_ix": "P1376_36", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Helsinki.", "sub_label": "Helsinki", "obj_label": "Finland", "uuid": "58b5ec79-a84e-4241-83c1-ac5f39349b24", "rel_ix": "P1376_36", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Helsinki.", "sub_label": "Helsinki", "obj_label": "Finland", "uuid": "58b5ec79-a84e-4241-83c1-ac5f39349b24", "rel_ix": "P1376_36", "pattern_ix": 7}
+{"prompt": "Helsinki, the capital of [MASK].", "sub_label": "Helsinki", "obj_label": "Finland", "uuid": "58b5ec79-a84e-4241-83c1-ac5f39349b24", "rel_ix": "P1376_36", "pattern_ix": 8}
+{"prompt": "Helsinki, the capital city of [MASK].", "sub_label": "Helsinki", "obj_label": "Finland", "uuid": "58b5ec79-a84e-4241-83c1-ac5f39349b24", "rel_ix": "P1376_36", "pattern_ix": 9}
+{"prompt": "Helsinki, that is the capital of [MASK].", "sub_label": "Helsinki", "obj_label": "Finland", "uuid": "58b5ec79-a84e-4241-83c1-ac5f39349b24", "rel_ix": "P1376_36", "pattern_ix": 10}
+{"prompt": "Helsinki, that is the capital city of [MASK].", "sub_label": "Helsinki", "obj_label": "Finland", "uuid": "58b5ec79-a84e-4241-83c1-ac5f39349b24", "rel_ix": "P1376_36", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Helsinki.", "sub_label": "Helsinki", "obj_label": "Finland", "uuid": "58b5ec79-a84e-4241-83c1-ac5f39349b24", "rel_ix": "P1376_36", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Helsinki.", "sub_label": "Helsinki", "obj_label": "Finland", "uuid": "58b5ec79-a84e-4241-83c1-ac5f39349b24", "rel_ix": "P1376_36", "pattern_ix": 13}
+{"prompt": "Athens is the capital of [MASK].", "sub_label": "Athens", "obj_label": "Greece", "uuid": "4c78068f-8f0e-42e2-8824-c912281a97a8", "rel_ix": "P1376_42", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Athens.", "sub_label": "Athens", "obj_label": "Greece", "uuid": "4c78068f-8f0e-42e2-8824-c912281a97a8", "rel_ix": "P1376_42", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Athens.", "sub_label": "Athens", "obj_label": "Greece", "uuid": "4c78068f-8f0e-42e2-8824-c912281a97a8", "rel_ix": "P1376_42", "pattern_ix": 2}
+{"prompt": "Athens is the capital city of [MASK].", "sub_label": "Athens", "obj_label": "Greece", "uuid": "4c78068f-8f0e-42e2-8824-c912281a97a8", "rel_ix": "P1376_42", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Athens.", "sub_label": "Athens", "obj_label": "Greece", "uuid": "4c78068f-8f0e-42e2-8824-c912281a97a8", "rel_ix": "P1376_42", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Athens.", "sub_label": "Athens", "obj_label": "Greece", "uuid": "4c78068f-8f0e-42e2-8824-c912281a97a8", "rel_ix": "P1376_42", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Athens.", "sub_label": "Athens", "obj_label": "Greece", "uuid": "4c78068f-8f0e-42e2-8824-c912281a97a8", "rel_ix": "P1376_42", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Athens.", "sub_label": "Athens", "obj_label": "Greece", "uuid": "4c78068f-8f0e-42e2-8824-c912281a97a8", "rel_ix": "P1376_42", "pattern_ix": 7}
+{"prompt": "Athens, the capital of [MASK].", "sub_label": "Athens", "obj_label": "Greece", "uuid": "4c78068f-8f0e-42e2-8824-c912281a97a8", "rel_ix": "P1376_42", "pattern_ix": 8}
+{"prompt": "Athens, the capital city of [MASK].", "sub_label": "Athens", "obj_label": "Greece", "uuid": "4c78068f-8f0e-42e2-8824-c912281a97a8", "rel_ix": "P1376_42", "pattern_ix": 9}
+{"prompt": "Athens, that is the capital of [MASK].", "sub_label": "Athens", "obj_label": "Greece", "uuid": "4c78068f-8f0e-42e2-8824-c912281a97a8", "rel_ix": "P1376_42", "pattern_ix": 10}
+{"prompt": "Athens, that is the capital city of [MASK].", "sub_label": "Athens", "obj_label": "Greece", "uuid": "4c78068f-8f0e-42e2-8824-c912281a97a8", "rel_ix": "P1376_42", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Athens.", "sub_label": "Athens", "obj_label": "Greece", "uuid": "4c78068f-8f0e-42e2-8824-c912281a97a8", "rel_ix": "P1376_42", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Athens.", "sub_label": "Athens", "obj_label": "Greece", "uuid": "4c78068f-8f0e-42e2-8824-c912281a97a8", "rel_ix": "P1376_42", "pattern_ix": 13}
+{"prompt": "Hobart is the capital of [MASK].", "sub_label": "Hobart", "obj_label": "Tasmania", "uuid": "5aca61ae-87de-40ae-af4c-7f86fe97c0bb", "rel_ix": "P1376_43", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Hobart.", "sub_label": "Hobart", "obj_label": "Tasmania", "uuid": "5aca61ae-87de-40ae-af4c-7f86fe97c0bb", "rel_ix": "P1376_43", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Hobart.", "sub_label": "Hobart", "obj_label": "Tasmania", "uuid": "5aca61ae-87de-40ae-af4c-7f86fe97c0bb", "rel_ix": "P1376_43", "pattern_ix": 2}
+{"prompt": "Hobart is the capital city of [MASK].", "sub_label": "Hobart", "obj_label": "Tasmania", "uuid": "5aca61ae-87de-40ae-af4c-7f86fe97c0bb", "rel_ix": "P1376_43", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Hobart.", "sub_label": "Hobart", "obj_label": "Tasmania", "uuid": "5aca61ae-87de-40ae-af4c-7f86fe97c0bb", "rel_ix": "P1376_43", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Hobart.", "sub_label": "Hobart", "obj_label": "Tasmania", "uuid": "5aca61ae-87de-40ae-af4c-7f86fe97c0bb", "rel_ix": "P1376_43", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Hobart.", "sub_label": "Hobart", "obj_label": "Tasmania", "uuid": "5aca61ae-87de-40ae-af4c-7f86fe97c0bb", "rel_ix": "P1376_43", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Hobart.", "sub_label": "Hobart", "obj_label": "Tasmania", "uuid": "5aca61ae-87de-40ae-af4c-7f86fe97c0bb", "rel_ix": "P1376_43", "pattern_ix": 7}
+{"prompt": "Hobart, the capital of [MASK].", "sub_label": "Hobart", "obj_label": "Tasmania", "uuid": "5aca61ae-87de-40ae-af4c-7f86fe97c0bb", "rel_ix": "P1376_43", "pattern_ix": 8}
+{"prompt": "Hobart, the capital city of [MASK].", "sub_label": "Hobart", "obj_label": "Tasmania", "uuid": "5aca61ae-87de-40ae-af4c-7f86fe97c0bb", "rel_ix": "P1376_43", "pattern_ix": 9}
+{"prompt": "Hobart, that is the capital of [MASK].", "sub_label": "Hobart", "obj_label": "Tasmania", "uuid": "5aca61ae-87de-40ae-af4c-7f86fe97c0bb", "rel_ix": "P1376_43", "pattern_ix": 10}
+{"prompt": "Hobart, that is the capital city of [MASK].", "sub_label": "Hobart", "obj_label": "Tasmania", "uuid": "5aca61ae-87de-40ae-af4c-7f86fe97c0bb", "rel_ix": "P1376_43", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Hobart.", "sub_label": "Hobart", "obj_label": "Tasmania", "uuid": "5aca61ae-87de-40ae-af4c-7f86fe97c0bb", "rel_ix": "P1376_43", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Hobart.", "sub_label": "Hobart", "obj_label": "Tasmania", "uuid": "5aca61ae-87de-40ae-af4c-7f86fe97c0bb", "rel_ix": "P1376_43", "pattern_ix": 13}
+{"prompt": "Islamabad is the capital of [MASK].", "sub_label": "Islamabad", "obj_label": "Pakistan", "uuid": "b50fbe82-4822-49ec-951b-29c95c554b43", "rel_ix": "P1376_51", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Islamabad.", "sub_label": "Islamabad", "obj_label": "Pakistan", "uuid": "b50fbe82-4822-49ec-951b-29c95c554b43", "rel_ix": "P1376_51", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Islamabad.", "sub_label": "Islamabad", "obj_label": "Pakistan", "uuid": "b50fbe82-4822-49ec-951b-29c95c554b43", "rel_ix": "P1376_51", "pattern_ix": 2}
+{"prompt": "Islamabad is the capital city of [MASK].", "sub_label": "Islamabad", "obj_label": "Pakistan", "uuid": "b50fbe82-4822-49ec-951b-29c95c554b43", "rel_ix": "P1376_51", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Islamabad.", "sub_label": "Islamabad", "obj_label": "Pakistan", "uuid": "b50fbe82-4822-49ec-951b-29c95c554b43", "rel_ix": "P1376_51", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Islamabad.", "sub_label": "Islamabad", "obj_label": "Pakistan", "uuid": "b50fbe82-4822-49ec-951b-29c95c554b43", "rel_ix": "P1376_51", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Islamabad.", "sub_label": "Islamabad", "obj_label": "Pakistan", "uuid": "b50fbe82-4822-49ec-951b-29c95c554b43", "rel_ix": "P1376_51", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Islamabad.", "sub_label": "Islamabad", "obj_label": "Pakistan", "uuid": "b50fbe82-4822-49ec-951b-29c95c554b43", "rel_ix": "P1376_51", "pattern_ix": 7}
+{"prompt": "Islamabad, the capital of [MASK].", "sub_label": "Islamabad", "obj_label": "Pakistan", "uuid": "b50fbe82-4822-49ec-951b-29c95c554b43", "rel_ix": "P1376_51", "pattern_ix": 8}
+{"prompt": "Islamabad, the capital city of [MASK].", "sub_label": "Islamabad", "obj_label": "Pakistan", "uuid": "b50fbe82-4822-49ec-951b-29c95c554b43", "rel_ix": "P1376_51", "pattern_ix": 9}
+{"prompt": "Islamabad, that is the capital of [MASK].", "sub_label": "Islamabad", "obj_label": "Pakistan", "uuid": "b50fbe82-4822-49ec-951b-29c95c554b43", "rel_ix": "P1376_51", "pattern_ix": 10}
+{"prompt": "Islamabad, that is the capital city of [MASK].", "sub_label": "Islamabad", "obj_label": "Pakistan", "uuid": "b50fbe82-4822-49ec-951b-29c95c554b43", "rel_ix": "P1376_51", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Islamabad.", "sub_label": "Islamabad", "obj_label": "Pakistan", "uuid": "b50fbe82-4822-49ec-951b-29c95c554b43", "rel_ix": "P1376_51", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Islamabad.", "sub_label": "Islamabad", "obj_label": "Pakistan", "uuid": "b50fbe82-4822-49ec-951b-29c95c554b43", "rel_ix": "P1376_51", "pattern_ix": 13}
+{"prompt": "Vilnius is the capital of [MASK].", "sub_label": "Vilnius", "obj_label": "Lithuania", "uuid": "0c6396cb-066f-427b-8701-31d4a9ec38a5", "rel_ix": "P1376_54", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Vilnius.", "sub_label": "Vilnius", "obj_label": "Lithuania", "uuid": "0c6396cb-066f-427b-8701-31d4a9ec38a5", "rel_ix": "P1376_54", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Vilnius.", "sub_label": "Vilnius", "obj_label": "Lithuania", "uuid": "0c6396cb-066f-427b-8701-31d4a9ec38a5", "rel_ix": "P1376_54", "pattern_ix": 2}
+{"prompt": "Vilnius is the capital city of [MASK].", "sub_label": "Vilnius", "obj_label": "Lithuania", "uuid": "0c6396cb-066f-427b-8701-31d4a9ec38a5", "rel_ix": "P1376_54", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Vilnius.", "sub_label": "Vilnius", "obj_label": "Lithuania", "uuid": "0c6396cb-066f-427b-8701-31d4a9ec38a5", "rel_ix": "P1376_54", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Vilnius.", "sub_label": "Vilnius", "obj_label": "Lithuania", "uuid": "0c6396cb-066f-427b-8701-31d4a9ec38a5", "rel_ix": "P1376_54", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Vilnius.", "sub_label": "Vilnius", "obj_label": "Lithuania", "uuid": "0c6396cb-066f-427b-8701-31d4a9ec38a5", "rel_ix": "P1376_54", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Vilnius.", "sub_label": "Vilnius", "obj_label": "Lithuania", "uuid": "0c6396cb-066f-427b-8701-31d4a9ec38a5", "rel_ix": "P1376_54", "pattern_ix": 7}
+{"prompt": "Vilnius, the capital of [MASK].", "sub_label": "Vilnius", "obj_label": "Lithuania", "uuid": "0c6396cb-066f-427b-8701-31d4a9ec38a5", "rel_ix": "P1376_54", "pattern_ix": 8}
+{"prompt": "Vilnius, the capital city of [MASK].", "sub_label": "Vilnius", "obj_label": "Lithuania", "uuid": "0c6396cb-066f-427b-8701-31d4a9ec38a5", "rel_ix": "P1376_54", "pattern_ix": 9}
+{"prompt": "Vilnius, that is the capital of [MASK].", "sub_label": "Vilnius", "obj_label": "Lithuania", "uuid": "0c6396cb-066f-427b-8701-31d4a9ec38a5", "rel_ix": "P1376_54", "pattern_ix": 10}
+{"prompt": "Vilnius, that is the capital city of [MASK].", "sub_label": "Vilnius", "obj_label": "Lithuania", "uuid": "0c6396cb-066f-427b-8701-31d4a9ec38a5", "rel_ix": "P1376_54", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Vilnius.", "sub_label": "Vilnius", "obj_label": "Lithuania", "uuid": "0c6396cb-066f-427b-8701-31d4a9ec38a5", "rel_ix": "P1376_54", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Vilnius.", "sub_label": "Vilnius", "obj_label": "Lithuania", "uuid": "0c6396cb-066f-427b-8701-31d4a9ec38a5", "rel_ix": "P1376_54", "pattern_ix": 13}
+{"prompt": "Lisbon is the capital of [MASK].", "sub_label": "Lisbon", "obj_label": "Portugal", "uuid": "51dd5c10-24d3-4776-aa9d-9e2e36b92530", "rel_ix": "P1376_56", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Lisbon.", "sub_label": "Lisbon", "obj_label": "Portugal", "uuid": "51dd5c10-24d3-4776-aa9d-9e2e36b92530", "rel_ix": "P1376_56", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Lisbon.", "sub_label": "Lisbon", "obj_label": "Portugal", "uuid": "51dd5c10-24d3-4776-aa9d-9e2e36b92530", "rel_ix": "P1376_56", "pattern_ix": 2}
+{"prompt": "Lisbon is the capital city of [MASK].", "sub_label": "Lisbon", "obj_label": "Portugal", "uuid": "51dd5c10-24d3-4776-aa9d-9e2e36b92530", "rel_ix": "P1376_56", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Lisbon.", "sub_label": "Lisbon", "obj_label": "Portugal", "uuid": "51dd5c10-24d3-4776-aa9d-9e2e36b92530", "rel_ix": "P1376_56", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Lisbon.", "sub_label": "Lisbon", "obj_label": "Portugal", "uuid": "51dd5c10-24d3-4776-aa9d-9e2e36b92530", "rel_ix": "P1376_56", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Lisbon.", "sub_label": "Lisbon", "obj_label": "Portugal", "uuid": "51dd5c10-24d3-4776-aa9d-9e2e36b92530", "rel_ix": "P1376_56", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Lisbon.", "sub_label": "Lisbon", "obj_label": "Portugal", "uuid": "51dd5c10-24d3-4776-aa9d-9e2e36b92530", "rel_ix": "P1376_56", "pattern_ix": 7}
+{"prompt": "Lisbon, the capital of [MASK].", "sub_label": "Lisbon", "obj_label": "Portugal", "uuid": "51dd5c10-24d3-4776-aa9d-9e2e36b92530", "rel_ix": "P1376_56", "pattern_ix": 8}
+{"prompt": "Lisbon, the capital city of [MASK].", "sub_label": "Lisbon", "obj_label": "Portugal", "uuid": "51dd5c10-24d3-4776-aa9d-9e2e36b92530", "rel_ix": "P1376_56", "pattern_ix": 9}
+{"prompt": "Lisbon, that is the capital of [MASK].", "sub_label": "Lisbon", "obj_label": "Portugal", "uuid": "51dd5c10-24d3-4776-aa9d-9e2e36b92530", "rel_ix": "P1376_56", "pattern_ix": 10}
+{"prompt": "Lisbon, that is the capital city of [MASK].", "sub_label": "Lisbon", "obj_label": "Portugal", "uuid": "51dd5c10-24d3-4776-aa9d-9e2e36b92530", "rel_ix": "P1376_56", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Lisbon.", "sub_label": "Lisbon", "obj_label": "Portugal", "uuid": "51dd5c10-24d3-4776-aa9d-9e2e36b92530", "rel_ix": "P1376_56", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Lisbon.", "sub_label": "Lisbon", "obj_label": "Portugal", "uuid": "51dd5c10-24d3-4776-aa9d-9e2e36b92530", "rel_ix": "P1376_56", "pattern_ix": 13}
+{"prompt": "Ottawa is the capital of [MASK].", "sub_label": "Ottawa", "obj_label": "Canada", "uuid": "cccc691f-644c-40ce-b13b-827e5457082c", "rel_ix": "P1376_62", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Ottawa.", "sub_label": "Ottawa", "obj_label": "Canada", "uuid": "cccc691f-644c-40ce-b13b-827e5457082c", "rel_ix": "P1376_62", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Ottawa.", "sub_label": "Ottawa", "obj_label": "Canada", "uuid": "cccc691f-644c-40ce-b13b-827e5457082c", "rel_ix": "P1376_62", "pattern_ix": 2}
+{"prompt": "Ottawa is the capital city of [MASK].", "sub_label": "Ottawa", "obj_label": "Canada", "uuid": "cccc691f-644c-40ce-b13b-827e5457082c", "rel_ix": "P1376_62", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Ottawa.", "sub_label": "Ottawa", "obj_label": "Canada", "uuid": "cccc691f-644c-40ce-b13b-827e5457082c", "rel_ix": "P1376_62", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Ottawa.", "sub_label": "Ottawa", "obj_label": "Canada", "uuid": "cccc691f-644c-40ce-b13b-827e5457082c", "rel_ix": "P1376_62", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Ottawa.", "sub_label": "Ottawa", "obj_label": "Canada", "uuid": "cccc691f-644c-40ce-b13b-827e5457082c", "rel_ix": "P1376_62", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Ottawa.", "sub_label": "Ottawa", "obj_label": "Canada", "uuid": "cccc691f-644c-40ce-b13b-827e5457082c", "rel_ix": "P1376_62", "pattern_ix": 7}
+{"prompt": "Ottawa, the capital of [MASK].", "sub_label": "Ottawa", "obj_label": "Canada", "uuid": "cccc691f-644c-40ce-b13b-827e5457082c", "rel_ix": "P1376_62", "pattern_ix": 8}
+{"prompt": "Ottawa, the capital city of [MASK].", "sub_label": "Ottawa", "obj_label": "Canada", "uuid": "cccc691f-644c-40ce-b13b-827e5457082c", "rel_ix": "P1376_62", "pattern_ix": 9}
+{"prompt": "Ottawa, that is the capital of [MASK].", "sub_label": "Ottawa", "obj_label": "Canada", "uuid": "cccc691f-644c-40ce-b13b-827e5457082c", "rel_ix": "P1376_62", "pattern_ix": 10}
+{"prompt": "Ottawa, that is the capital city of [MASK].", "sub_label": "Ottawa", "obj_label": "Canada", "uuid": "cccc691f-644c-40ce-b13b-827e5457082c", "rel_ix": "P1376_62", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Ottawa.", "sub_label": "Ottawa", "obj_label": "Canada", "uuid": "cccc691f-644c-40ce-b13b-827e5457082c", "rel_ix": "P1376_62", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Ottawa.", "sub_label": "Ottawa", "obj_label": "Canada", "uuid": "cccc691f-644c-40ce-b13b-827e5457082c", "rel_ix": "P1376_62", "pattern_ix": 13}
+{"prompt": "Montevideo is the capital of [MASK].", "sub_label": "Montevideo", "obj_label": "Uruguay", "uuid": "a949eed2-4ff2-4c83-a809-dcfaabe9ec3b", "rel_ix": "P1376_63", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Montevideo.", "sub_label": "Montevideo", "obj_label": "Uruguay", "uuid": "a949eed2-4ff2-4c83-a809-dcfaabe9ec3b", "rel_ix": "P1376_63", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Montevideo.", "sub_label": "Montevideo", "obj_label": "Uruguay", "uuid": "a949eed2-4ff2-4c83-a809-dcfaabe9ec3b", "rel_ix": "P1376_63", "pattern_ix": 2}
+{"prompt": "Montevideo is the capital city of [MASK].", "sub_label": "Montevideo", "obj_label": "Uruguay", "uuid": "a949eed2-4ff2-4c83-a809-dcfaabe9ec3b", "rel_ix": "P1376_63", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Montevideo.", "sub_label": "Montevideo", "obj_label": "Uruguay", "uuid": "a949eed2-4ff2-4c83-a809-dcfaabe9ec3b", "rel_ix": "P1376_63", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Montevideo.", "sub_label": "Montevideo", "obj_label": "Uruguay", "uuid": "a949eed2-4ff2-4c83-a809-dcfaabe9ec3b", "rel_ix": "P1376_63", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Montevideo.", "sub_label": "Montevideo", "obj_label": "Uruguay", "uuid": "a949eed2-4ff2-4c83-a809-dcfaabe9ec3b", "rel_ix": "P1376_63", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Montevideo.", "sub_label": "Montevideo", "obj_label": "Uruguay", "uuid": "a949eed2-4ff2-4c83-a809-dcfaabe9ec3b", "rel_ix": "P1376_63", "pattern_ix": 7}
+{"prompt": "Montevideo, the capital of [MASK].", "sub_label": "Montevideo", "obj_label": "Uruguay", "uuid": "a949eed2-4ff2-4c83-a809-dcfaabe9ec3b", "rel_ix": "P1376_63", "pattern_ix": 8}
+{"prompt": "Montevideo, the capital city of [MASK].", "sub_label": "Montevideo", "obj_label": "Uruguay", "uuid": "a949eed2-4ff2-4c83-a809-dcfaabe9ec3b", "rel_ix": "P1376_63", "pattern_ix": 9}
+{"prompt": "Montevideo, that is the capital of [MASK].", "sub_label": "Montevideo", "obj_label": "Uruguay", "uuid": "a949eed2-4ff2-4c83-a809-dcfaabe9ec3b", "rel_ix": "P1376_63", "pattern_ix": 10}
+{"prompt": "Montevideo, that is the capital city of [MASK].", "sub_label": "Montevideo", "obj_label": "Uruguay", "uuid": "a949eed2-4ff2-4c83-a809-dcfaabe9ec3b", "rel_ix": "P1376_63", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Montevideo.", "sub_label": "Montevideo", "obj_label": "Uruguay", "uuid": "a949eed2-4ff2-4c83-a809-dcfaabe9ec3b", "rel_ix": "P1376_63", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Montevideo.", "sub_label": "Montevideo", "obj_label": "Uruguay", "uuid": "a949eed2-4ff2-4c83-a809-dcfaabe9ec3b", "rel_ix": "P1376_63", "pattern_ix": 13}
+{"prompt": "Budapest is the capital of [MASK].", "sub_label": "Budapest", "obj_label": "Hungary", "uuid": "da779178-4cfe-4995-92cc-4af2a3254631", "rel_ix": "P1376_65", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Budapest.", "sub_label": "Budapest", "obj_label": "Hungary", "uuid": "da779178-4cfe-4995-92cc-4af2a3254631", "rel_ix": "P1376_65", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Budapest.", "sub_label": "Budapest", "obj_label": "Hungary", "uuid": "da779178-4cfe-4995-92cc-4af2a3254631", "rel_ix": "P1376_65", "pattern_ix": 2}
+{"prompt": "Budapest is the capital city of [MASK].", "sub_label": "Budapest", "obj_label": "Hungary", "uuid": "da779178-4cfe-4995-92cc-4af2a3254631", "rel_ix": "P1376_65", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Budapest.", "sub_label": "Budapest", "obj_label": "Hungary", "uuid": "da779178-4cfe-4995-92cc-4af2a3254631", "rel_ix": "P1376_65", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Budapest.", "sub_label": "Budapest", "obj_label": "Hungary", "uuid": "da779178-4cfe-4995-92cc-4af2a3254631", "rel_ix": "P1376_65", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Budapest.", "sub_label": "Budapest", "obj_label": "Hungary", "uuid": "da779178-4cfe-4995-92cc-4af2a3254631", "rel_ix": "P1376_65", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Budapest.", "sub_label": "Budapest", "obj_label": "Hungary", "uuid": "da779178-4cfe-4995-92cc-4af2a3254631", "rel_ix": "P1376_65", "pattern_ix": 7}
+{"prompt": "Budapest, the capital of [MASK].", "sub_label": "Budapest", "obj_label": "Hungary", "uuid": "da779178-4cfe-4995-92cc-4af2a3254631", "rel_ix": "P1376_65", "pattern_ix": 8}
+{"prompt": "Budapest, the capital city of [MASK].", "sub_label": "Budapest", "obj_label": "Hungary", "uuid": "da779178-4cfe-4995-92cc-4af2a3254631", "rel_ix": "P1376_65", "pattern_ix": 9}
+{"prompt": "Budapest, that is the capital of [MASK].", "sub_label": "Budapest", "obj_label": "Hungary", "uuid": "da779178-4cfe-4995-92cc-4af2a3254631", "rel_ix": "P1376_65", "pattern_ix": 10}
+{"prompt": "Budapest, that is the capital city of [MASK].", "sub_label": "Budapest", "obj_label": "Hungary", "uuid": "da779178-4cfe-4995-92cc-4af2a3254631", "rel_ix": "P1376_65", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Budapest.", "sub_label": "Budapest", "obj_label": "Hungary", "uuid": "da779178-4cfe-4995-92cc-4af2a3254631", "rel_ix": "P1376_65", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Budapest.", "sub_label": "Budapest", "obj_label": "Hungary", "uuid": "da779178-4cfe-4995-92cc-4af2a3254631", "rel_ix": "P1376_65", "pattern_ix": 13}
+{"prompt": "Panama City is the capital of [MASK].", "sub_label": "Panama City", "obj_label": "Panama", "uuid": "b1d0e05a-13cd-42b2-9e7b-4faee309eb86", "rel_ix": "P1376_69", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Panama City.", "sub_label": "Panama City", "obj_label": "Panama", "uuid": "b1d0e05a-13cd-42b2-9e7b-4faee309eb86", "rel_ix": "P1376_69", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Panama City.", "sub_label": "Panama City", "obj_label": "Panama", "uuid": "b1d0e05a-13cd-42b2-9e7b-4faee309eb86", "rel_ix": "P1376_69", "pattern_ix": 2}
+{"prompt": "Panama City is the capital city of [MASK].", "sub_label": "Panama City", "obj_label": "Panama", "uuid": "b1d0e05a-13cd-42b2-9e7b-4faee309eb86", "rel_ix": "P1376_69", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Panama City.", "sub_label": "Panama City", "obj_label": "Panama", "uuid": "b1d0e05a-13cd-42b2-9e7b-4faee309eb86", "rel_ix": "P1376_69", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Panama City.", "sub_label": "Panama City", "obj_label": "Panama", "uuid": "b1d0e05a-13cd-42b2-9e7b-4faee309eb86", "rel_ix": "P1376_69", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Panama City.", "sub_label": "Panama City", "obj_label": "Panama", "uuid": "b1d0e05a-13cd-42b2-9e7b-4faee309eb86", "rel_ix": "P1376_69", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Panama City.", "sub_label": "Panama City", "obj_label": "Panama", "uuid": "b1d0e05a-13cd-42b2-9e7b-4faee309eb86", "rel_ix": "P1376_69", "pattern_ix": 7}
+{"prompt": "Panama City, the capital of [MASK].", "sub_label": "Panama City", "obj_label": "Panama", "uuid": "b1d0e05a-13cd-42b2-9e7b-4faee309eb86", "rel_ix": "P1376_69", "pattern_ix": 8}
+{"prompt": "Panama City, the capital city of [MASK].", "sub_label": "Panama City", "obj_label": "Panama", "uuid": "b1d0e05a-13cd-42b2-9e7b-4faee309eb86", "rel_ix": "P1376_69", "pattern_ix": 9}
+{"prompt": "Panama City, that is the capital of [MASK].", "sub_label": "Panama City", "obj_label": "Panama", "uuid": "b1d0e05a-13cd-42b2-9e7b-4faee309eb86", "rel_ix": "P1376_69", "pattern_ix": 10}
+{"prompt": "Panama City, that is the capital city of [MASK].", "sub_label": "Panama City", "obj_label": "Panama", "uuid": "b1d0e05a-13cd-42b2-9e7b-4faee309eb86", "rel_ix": "P1376_69", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Panama City.", "sub_label": "Panama City", "obj_label": "Panama", "uuid": "b1d0e05a-13cd-42b2-9e7b-4faee309eb86", "rel_ix": "P1376_69", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Panama City.", "sub_label": "Panama City", "obj_label": "Panama", "uuid": "b1d0e05a-13cd-42b2-9e7b-4faee309eb86", "rel_ix": "P1376_69", "pattern_ix": 13}
+{"prompt": "New Delhi is the capital of [MASK].", "sub_label": "New Delhi", "obj_label": "India", "uuid": "259d790d-9456-41bf-8a01-8102b92d2585", "rel_ix": "P1376_74", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is New Delhi.", "sub_label": "New Delhi", "obj_label": "India", "uuid": "259d790d-9456-41bf-8a01-8102b92d2585", "rel_ix": "P1376_74", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is New Delhi.", "sub_label": "New Delhi", "obj_label": "India", "uuid": "259d790d-9456-41bf-8a01-8102b92d2585", "rel_ix": "P1376_74", "pattern_ix": 2}
+{"prompt": "New Delhi is the capital city of [MASK].", "sub_label": "New Delhi", "obj_label": "India", "uuid": "259d790d-9456-41bf-8a01-8102b92d2585", "rel_ix": "P1376_74", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, New Delhi.", "sub_label": "New Delhi", "obj_label": "India", "uuid": "259d790d-9456-41bf-8a01-8102b92d2585", "rel_ix": "P1376_74", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, New Delhi.", "sub_label": "New Delhi", "obj_label": "India", "uuid": "259d790d-9456-41bf-8a01-8102b92d2585", "rel_ix": "P1376_74", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is New Delhi.", "sub_label": "New Delhi", "obj_label": "India", "uuid": "259d790d-9456-41bf-8a01-8102b92d2585", "rel_ix": "P1376_74", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is New Delhi.", "sub_label": "New Delhi", "obj_label": "India", "uuid": "259d790d-9456-41bf-8a01-8102b92d2585", "rel_ix": "P1376_74", "pattern_ix": 7}
+{"prompt": "New Delhi, the capital of [MASK].", "sub_label": "New Delhi", "obj_label": "India", "uuid": "259d790d-9456-41bf-8a01-8102b92d2585", "rel_ix": "P1376_74", "pattern_ix": 8}
+{"prompt": "New Delhi, the capital city of [MASK].", "sub_label": "New Delhi", "obj_label": "India", "uuid": "259d790d-9456-41bf-8a01-8102b92d2585", "rel_ix": "P1376_74", "pattern_ix": 9}
+{"prompt": "New Delhi, that is the capital of [MASK].", "sub_label": "New Delhi", "obj_label": "India", "uuid": "259d790d-9456-41bf-8a01-8102b92d2585", "rel_ix": "P1376_74", "pattern_ix": 10}
+{"prompt": "New Delhi, that is the capital city of [MASK].", "sub_label": "New Delhi", "obj_label": "India", "uuid": "259d790d-9456-41bf-8a01-8102b92d2585", "rel_ix": "P1376_74", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital New Delhi.", "sub_label": "New Delhi", "obj_label": "India", "uuid": "259d790d-9456-41bf-8a01-8102b92d2585", "rel_ix": "P1376_74", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city New Delhi.", "sub_label": "New Delhi", "obj_label": "India", "uuid": "259d790d-9456-41bf-8a01-8102b92d2585", "rel_ix": "P1376_74", "pattern_ix": 13}
+{"prompt": "Abuja is the capital of [MASK].", "sub_label": "Abuja", "obj_label": "Nigeria", "uuid": "f71cc42e-561e-4abb-ac38-6e8933c6341d", "rel_ix": "P1376_79", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Abuja.", "sub_label": "Abuja", "obj_label": "Nigeria", "uuid": "f71cc42e-561e-4abb-ac38-6e8933c6341d", "rel_ix": "P1376_79", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Abuja.", "sub_label": "Abuja", "obj_label": "Nigeria", "uuid": "f71cc42e-561e-4abb-ac38-6e8933c6341d", "rel_ix": "P1376_79", "pattern_ix": 2}
+{"prompt": "Abuja is the capital city of [MASK].", "sub_label": "Abuja", "obj_label": "Nigeria", "uuid": "f71cc42e-561e-4abb-ac38-6e8933c6341d", "rel_ix": "P1376_79", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Abuja.", "sub_label": "Abuja", "obj_label": "Nigeria", "uuid": "f71cc42e-561e-4abb-ac38-6e8933c6341d", "rel_ix": "P1376_79", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Abuja.", "sub_label": "Abuja", "obj_label": "Nigeria", "uuid": "f71cc42e-561e-4abb-ac38-6e8933c6341d", "rel_ix": "P1376_79", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Abuja.", "sub_label": "Abuja", "obj_label": "Nigeria", "uuid": "f71cc42e-561e-4abb-ac38-6e8933c6341d", "rel_ix": "P1376_79", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Abuja.", "sub_label": "Abuja", "obj_label": "Nigeria", "uuid": "f71cc42e-561e-4abb-ac38-6e8933c6341d", "rel_ix": "P1376_79", "pattern_ix": 7}
+{"prompt": "Abuja, the capital of [MASK].", "sub_label": "Abuja", "obj_label": "Nigeria", "uuid": "f71cc42e-561e-4abb-ac38-6e8933c6341d", "rel_ix": "P1376_79", "pattern_ix": 8}
+{"prompt": "Abuja, the capital city of [MASK].", "sub_label": "Abuja", "obj_label": "Nigeria", "uuid": "f71cc42e-561e-4abb-ac38-6e8933c6341d", "rel_ix": "P1376_79", "pattern_ix": 9}
+{"prompt": "Abuja, that is the capital of [MASK].", "sub_label": "Abuja", "obj_label": "Nigeria", "uuid": "f71cc42e-561e-4abb-ac38-6e8933c6341d", "rel_ix": "P1376_79", "pattern_ix": 10}
+{"prompt": "Abuja, that is the capital city of [MASK].", "sub_label": "Abuja", "obj_label": "Nigeria", "uuid": "f71cc42e-561e-4abb-ac38-6e8933c6341d", "rel_ix": "P1376_79", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Abuja.", "sub_label": "Abuja", "obj_label": "Nigeria", "uuid": "f71cc42e-561e-4abb-ac38-6e8933c6341d", "rel_ix": "P1376_79", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Abuja.", "sub_label": "Abuja", "obj_label": "Nigeria", "uuid": "f71cc42e-561e-4abb-ac38-6e8933c6341d", "rel_ix": "P1376_79", "pattern_ix": 13}
+{"prompt": "Sofia is the capital of [MASK].", "sub_label": "Sofia", "obj_label": "Bulgaria", "uuid": "e572fe3e-24bc-4b73-9f1e-922f855b04d3", "rel_ix": "P1376_80", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Sofia.", "sub_label": "Sofia", "obj_label": "Bulgaria", "uuid": "e572fe3e-24bc-4b73-9f1e-922f855b04d3", "rel_ix": "P1376_80", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Sofia.", "sub_label": "Sofia", "obj_label": "Bulgaria", "uuid": "e572fe3e-24bc-4b73-9f1e-922f855b04d3", "rel_ix": "P1376_80", "pattern_ix": 2}
+{"prompt": "Sofia is the capital city of [MASK].", "sub_label": "Sofia", "obj_label": "Bulgaria", "uuid": "e572fe3e-24bc-4b73-9f1e-922f855b04d3", "rel_ix": "P1376_80", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Sofia.", "sub_label": "Sofia", "obj_label": "Bulgaria", "uuid": "e572fe3e-24bc-4b73-9f1e-922f855b04d3", "rel_ix": "P1376_80", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Sofia.", "sub_label": "Sofia", "obj_label": "Bulgaria", "uuid": "e572fe3e-24bc-4b73-9f1e-922f855b04d3", "rel_ix": "P1376_80", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Sofia.", "sub_label": "Sofia", "obj_label": "Bulgaria", "uuid": "e572fe3e-24bc-4b73-9f1e-922f855b04d3", "rel_ix": "P1376_80", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Sofia.", "sub_label": "Sofia", "obj_label": "Bulgaria", "uuid": "e572fe3e-24bc-4b73-9f1e-922f855b04d3", "rel_ix": "P1376_80", "pattern_ix": 7}
+{"prompt": "Sofia, the capital of [MASK].", "sub_label": "Sofia", "obj_label": "Bulgaria", "uuid": "e572fe3e-24bc-4b73-9f1e-922f855b04d3", "rel_ix": "P1376_80", "pattern_ix": 8}
+{"prompt": "Sofia, the capital city of [MASK].", "sub_label": "Sofia", "obj_label": "Bulgaria", "uuid": "e572fe3e-24bc-4b73-9f1e-922f855b04d3", "rel_ix": "P1376_80", "pattern_ix": 9}
+{"prompt": "Sofia, that is the capital of [MASK].", "sub_label": "Sofia", "obj_label": "Bulgaria", "uuid": "e572fe3e-24bc-4b73-9f1e-922f855b04d3", "rel_ix": "P1376_80", "pattern_ix": 10}
+{"prompt": "Sofia, that is the capital city of [MASK].", "sub_label": "Sofia", "obj_label": "Bulgaria", "uuid": "e572fe3e-24bc-4b73-9f1e-922f855b04d3", "rel_ix": "P1376_80", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Sofia.", "sub_label": "Sofia", "obj_label": "Bulgaria", "uuid": "e572fe3e-24bc-4b73-9f1e-922f855b04d3", "rel_ix": "P1376_80", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Sofia.", "sub_label": "Sofia", "obj_label": "Bulgaria", "uuid": "e572fe3e-24bc-4b73-9f1e-922f855b04d3", "rel_ix": "P1376_80", "pattern_ix": 13}
+{"prompt": "Salt Lake City is the capital of [MASK].", "sub_label": "Salt Lake City", "obj_label": "Utah", "uuid": "b963dd3b-6bc1-4c33-b490-40ff891c04d2", "rel_ix": "P1376_81", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Salt Lake City.", "sub_label": "Salt Lake City", "obj_label": "Utah", "uuid": "b963dd3b-6bc1-4c33-b490-40ff891c04d2", "rel_ix": "P1376_81", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Salt Lake City.", "sub_label": "Salt Lake City", "obj_label": "Utah", "uuid": "b963dd3b-6bc1-4c33-b490-40ff891c04d2", "rel_ix": "P1376_81", "pattern_ix": 2}
+{"prompt": "Salt Lake City is the capital city of [MASK].", "sub_label": "Salt Lake City", "obj_label": "Utah", "uuid": "b963dd3b-6bc1-4c33-b490-40ff891c04d2", "rel_ix": "P1376_81", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Salt Lake City.", "sub_label": "Salt Lake City", "obj_label": "Utah", "uuid": "b963dd3b-6bc1-4c33-b490-40ff891c04d2", "rel_ix": "P1376_81", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Salt Lake City.", "sub_label": "Salt Lake City", "obj_label": "Utah", "uuid": "b963dd3b-6bc1-4c33-b490-40ff891c04d2", "rel_ix": "P1376_81", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Salt Lake City.", "sub_label": "Salt Lake City", "obj_label": "Utah", "uuid": "b963dd3b-6bc1-4c33-b490-40ff891c04d2", "rel_ix": "P1376_81", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Salt Lake City.", "sub_label": "Salt Lake City", "obj_label": "Utah", "uuid": "b963dd3b-6bc1-4c33-b490-40ff891c04d2", "rel_ix": "P1376_81", "pattern_ix": 7}
+{"prompt": "Salt Lake City, the capital of [MASK].", "sub_label": "Salt Lake City", "obj_label": "Utah", "uuid": "b963dd3b-6bc1-4c33-b490-40ff891c04d2", "rel_ix": "P1376_81", "pattern_ix": 8}
+{"prompt": "Salt Lake City, the capital city of [MASK].", "sub_label": "Salt Lake City", "obj_label": "Utah", "uuid": "b963dd3b-6bc1-4c33-b490-40ff891c04d2", "rel_ix": "P1376_81", "pattern_ix": 9}
+{"prompt": "Salt Lake City, that is the capital of [MASK].", "sub_label": "Salt Lake City", "obj_label": "Utah", "uuid": "b963dd3b-6bc1-4c33-b490-40ff891c04d2", "rel_ix": "P1376_81", "pattern_ix": 10}
+{"prompt": "Salt Lake City, that is the capital city of [MASK].", "sub_label": "Salt Lake City", "obj_label": "Utah", "uuid": "b963dd3b-6bc1-4c33-b490-40ff891c04d2", "rel_ix": "P1376_81", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Salt Lake City.", "sub_label": "Salt Lake City", "obj_label": "Utah", "uuid": "b963dd3b-6bc1-4c33-b490-40ff891c04d2", "rel_ix": "P1376_81", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Salt Lake City.", "sub_label": "Salt Lake City", "obj_label": "Utah", "uuid": "b963dd3b-6bc1-4c33-b490-40ff891c04d2", "rel_ix": "P1376_81", "pattern_ix": 13}
+{"prompt": "Quebec City is the capital of [MASK].", "sub_label": "Quebec City", "obj_label": "Quebec", "uuid": "bc69f25f-6947-4901-b878-b10c27a0977d", "rel_ix": "P1376_84", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Quebec City.", "sub_label": "Quebec City", "obj_label": "Quebec", "uuid": "bc69f25f-6947-4901-b878-b10c27a0977d", "rel_ix": "P1376_84", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Quebec City.", "sub_label": "Quebec City", "obj_label": "Quebec", "uuid": "bc69f25f-6947-4901-b878-b10c27a0977d", "rel_ix": "P1376_84", "pattern_ix": 2}
+{"prompt": "Quebec City is the capital city of [MASK].", "sub_label": "Quebec City", "obj_label": "Quebec", "uuid": "bc69f25f-6947-4901-b878-b10c27a0977d", "rel_ix": "P1376_84", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Quebec City.", "sub_label": "Quebec City", "obj_label": "Quebec", "uuid": "bc69f25f-6947-4901-b878-b10c27a0977d", "rel_ix": "P1376_84", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Quebec City.", "sub_label": "Quebec City", "obj_label": "Quebec", "uuid": "bc69f25f-6947-4901-b878-b10c27a0977d", "rel_ix": "P1376_84", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Quebec City.", "sub_label": "Quebec City", "obj_label": "Quebec", "uuid": "bc69f25f-6947-4901-b878-b10c27a0977d", "rel_ix": "P1376_84", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Quebec City.", "sub_label": "Quebec City", "obj_label": "Quebec", "uuid": "bc69f25f-6947-4901-b878-b10c27a0977d", "rel_ix": "P1376_84", "pattern_ix": 7}
+{"prompt": "Quebec City, the capital of [MASK].", "sub_label": "Quebec City", "obj_label": "Quebec", "uuid": "bc69f25f-6947-4901-b878-b10c27a0977d", "rel_ix": "P1376_84", "pattern_ix": 8}
+{"prompt": "Quebec City, the capital city of [MASK].", "sub_label": "Quebec City", "obj_label": "Quebec", "uuid": "bc69f25f-6947-4901-b878-b10c27a0977d", "rel_ix": "P1376_84", "pattern_ix": 9}
+{"prompt": "Quebec City, that is the capital of [MASK].", "sub_label": "Quebec City", "obj_label": "Quebec", "uuid": "bc69f25f-6947-4901-b878-b10c27a0977d", "rel_ix": "P1376_84", "pattern_ix": 10}
+{"prompt": "Quebec City, that is the capital city of [MASK].", "sub_label": "Quebec City", "obj_label": "Quebec", "uuid": "bc69f25f-6947-4901-b878-b10c27a0977d", "rel_ix": "P1376_84", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Quebec City.", "sub_label": "Quebec City", "obj_label": "Quebec", "uuid": "bc69f25f-6947-4901-b878-b10c27a0977d", "rel_ix": "P1376_84", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Quebec City.", "sub_label": "Quebec City", "obj_label": "Quebec", "uuid": "bc69f25f-6947-4901-b878-b10c27a0977d", "rel_ix": "P1376_84", "pattern_ix": 13}
+{"prompt": "Dhaka is the capital of [MASK].", "sub_label": "Dhaka", "obj_label": "Bangladesh", "uuid": "297c3f6b-ca54-4607-a35f-f7b16d12247b", "rel_ix": "P1376_85", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Dhaka.", "sub_label": "Dhaka", "obj_label": "Bangladesh", "uuid": "297c3f6b-ca54-4607-a35f-f7b16d12247b", "rel_ix": "P1376_85", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Dhaka.", "sub_label": "Dhaka", "obj_label": "Bangladesh", "uuid": "297c3f6b-ca54-4607-a35f-f7b16d12247b", "rel_ix": "P1376_85", "pattern_ix": 2}
+{"prompt": "Dhaka is the capital city of [MASK].", "sub_label": "Dhaka", "obj_label": "Bangladesh", "uuid": "297c3f6b-ca54-4607-a35f-f7b16d12247b", "rel_ix": "P1376_85", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Dhaka.", "sub_label": "Dhaka", "obj_label": "Bangladesh", "uuid": "297c3f6b-ca54-4607-a35f-f7b16d12247b", "rel_ix": "P1376_85", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Dhaka.", "sub_label": "Dhaka", "obj_label": "Bangladesh", "uuid": "297c3f6b-ca54-4607-a35f-f7b16d12247b", "rel_ix": "P1376_85", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Dhaka.", "sub_label": "Dhaka", "obj_label": "Bangladesh", "uuid": "297c3f6b-ca54-4607-a35f-f7b16d12247b", "rel_ix": "P1376_85", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Dhaka.", "sub_label": "Dhaka", "obj_label": "Bangladesh", "uuid": "297c3f6b-ca54-4607-a35f-f7b16d12247b", "rel_ix": "P1376_85", "pattern_ix": 7}
+{"prompt": "Dhaka, the capital of [MASK].", "sub_label": "Dhaka", "obj_label": "Bangladesh", "uuid": "297c3f6b-ca54-4607-a35f-f7b16d12247b", "rel_ix": "P1376_85", "pattern_ix": 8}
+{"prompt": "Dhaka, the capital city of [MASK].", "sub_label": "Dhaka", "obj_label": "Bangladesh", "uuid": "297c3f6b-ca54-4607-a35f-f7b16d12247b", "rel_ix": "P1376_85", "pattern_ix": 9}
+{"prompt": "Dhaka, that is the capital of [MASK].", "sub_label": "Dhaka", "obj_label": "Bangladesh", "uuid": "297c3f6b-ca54-4607-a35f-f7b16d12247b", "rel_ix": "P1376_85", "pattern_ix": 10}
+{"prompt": "Dhaka, that is the capital city of [MASK].", "sub_label": "Dhaka", "obj_label": "Bangladesh", "uuid": "297c3f6b-ca54-4607-a35f-f7b16d12247b", "rel_ix": "P1376_85", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Dhaka.", "sub_label": "Dhaka", "obj_label": "Bangladesh", "uuid": "297c3f6b-ca54-4607-a35f-f7b16d12247b", "rel_ix": "P1376_85", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Dhaka.", "sub_label": "Dhaka", "obj_label": "Bangladesh", "uuid": "297c3f6b-ca54-4607-a35f-f7b16d12247b", "rel_ix": "P1376_85", "pattern_ix": 13}
+{"prompt": "Phnom Penh is the capital of [MASK].", "sub_label": "Phnom Penh", "obj_label": "Cambodia", "uuid": "875b0acc-5d0c-4348-9d89-9b6297ea7e50", "rel_ix": "P1376_92", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Phnom Penh.", "sub_label": "Phnom Penh", "obj_label": "Cambodia", "uuid": "875b0acc-5d0c-4348-9d89-9b6297ea7e50", "rel_ix": "P1376_92", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Phnom Penh.", "sub_label": "Phnom Penh", "obj_label": "Cambodia", "uuid": "875b0acc-5d0c-4348-9d89-9b6297ea7e50", "rel_ix": "P1376_92", "pattern_ix": 2}
+{"prompt": "Phnom Penh is the capital city of [MASK].", "sub_label": "Phnom Penh", "obj_label": "Cambodia", "uuid": "875b0acc-5d0c-4348-9d89-9b6297ea7e50", "rel_ix": "P1376_92", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Phnom Penh.", "sub_label": "Phnom Penh", "obj_label": "Cambodia", "uuid": "875b0acc-5d0c-4348-9d89-9b6297ea7e50", "rel_ix": "P1376_92", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Phnom Penh.", "sub_label": "Phnom Penh", "obj_label": "Cambodia", "uuid": "875b0acc-5d0c-4348-9d89-9b6297ea7e50", "rel_ix": "P1376_92", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Phnom Penh.", "sub_label": "Phnom Penh", "obj_label": "Cambodia", "uuid": "875b0acc-5d0c-4348-9d89-9b6297ea7e50", "rel_ix": "P1376_92", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Phnom Penh.", "sub_label": "Phnom Penh", "obj_label": "Cambodia", "uuid": "875b0acc-5d0c-4348-9d89-9b6297ea7e50", "rel_ix": "P1376_92", "pattern_ix": 7}
+{"prompt": "Phnom Penh, the capital of [MASK].", "sub_label": "Phnom Penh", "obj_label": "Cambodia", "uuid": "875b0acc-5d0c-4348-9d89-9b6297ea7e50", "rel_ix": "P1376_92", "pattern_ix": 8}
+{"prompt": "Phnom Penh, the capital city of [MASK].", "sub_label": "Phnom Penh", "obj_label": "Cambodia", "uuid": "875b0acc-5d0c-4348-9d89-9b6297ea7e50", "rel_ix": "P1376_92", "pattern_ix": 9}
+{"prompt": "Phnom Penh, that is the capital of [MASK].", "sub_label": "Phnom Penh", "obj_label": "Cambodia", "uuid": "875b0acc-5d0c-4348-9d89-9b6297ea7e50", "rel_ix": "P1376_92", "pattern_ix": 10}
+{"prompt": "Phnom Penh, that is the capital city of [MASK].", "sub_label": "Phnom Penh", "obj_label": "Cambodia", "uuid": "875b0acc-5d0c-4348-9d89-9b6297ea7e50", "rel_ix": "P1376_92", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Phnom Penh.", "sub_label": "Phnom Penh", "obj_label": "Cambodia", "uuid": "875b0acc-5d0c-4348-9d89-9b6297ea7e50", "rel_ix": "P1376_92", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Phnom Penh.", "sub_label": "Phnom Penh", "obj_label": "Cambodia", "uuid": "875b0acc-5d0c-4348-9d89-9b6297ea7e50", "rel_ix": "P1376_92", "pattern_ix": 13}
+{"prompt": "Managua is the capital of [MASK].", "sub_label": "Managua", "obj_label": "Nicaragua", "uuid": "9807a8f5-9864-40ee-a977-6ae8cd4d7521", "rel_ix": "P1376_97", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Managua.", "sub_label": "Managua", "obj_label": "Nicaragua", "uuid": "9807a8f5-9864-40ee-a977-6ae8cd4d7521", "rel_ix": "P1376_97", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Managua.", "sub_label": "Managua", "obj_label": "Nicaragua", "uuid": "9807a8f5-9864-40ee-a977-6ae8cd4d7521", "rel_ix": "P1376_97", "pattern_ix": 2}
+{"prompt": "Managua is the capital city of [MASK].", "sub_label": "Managua", "obj_label": "Nicaragua", "uuid": "9807a8f5-9864-40ee-a977-6ae8cd4d7521", "rel_ix": "P1376_97", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Managua.", "sub_label": "Managua", "obj_label": "Nicaragua", "uuid": "9807a8f5-9864-40ee-a977-6ae8cd4d7521", "rel_ix": "P1376_97", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Managua.", "sub_label": "Managua", "obj_label": "Nicaragua", "uuid": "9807a8f5-9864-40ee-a977-6ae8cd4d7521", "rel_ix": "P1376_97", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Managua.", "sub_label": "Managua", "obj_label": "Nicaragua", "uuid": "9807a8f5-9864-40ee-a977-6ae8cd4d7521", "rel_ix": "P1376_97", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Managua.", "sub_label": "Managua", "obj_label": "Nicaragua", "uuid": "9807a8f5-9864-40ee-a977-6ae8cd4d7521", "rel_ix": "P1376_97", "pattern_ix": 7}
+{"prompt": "Managua, the capital of [MASK].", "sub_label": "Managua", "obj_label": "Nicaragua", "uuid": "9807a8f5-9864-40ee-a977-6ae8cd4d7521", "rel_ix": "P1376_97", "pattern_ix": 8}
+{"prompt": "Managua, the capital city of [MASK].", "sub_label": "Managua", "obj_label": "Nicaragua", "uuid": "9807a8f5-9864-40ee-a977-6ae8cd4d7521", "rel_ix": "P1376_97", "pattern_ix": 9}
+{"prompt": "Managua, that is the capital of [MASK].", "sub_label": "Managua", "obj_label": "Nicaragua", "uuid": "9807a8f5-9864-40ee-a977-6ae8cd4d7521", "rel_ix": "P1376_97", "pattern_ix": 10}
+{"prompt": "Managua, that is the capital city of [MASK].", "sub_label": "Managua", "obj_label": "Nicaragua", "uuid": "9807a8f5-9864-40ee-a977-6ae8cd4d7521", "rel_ix": "P1376_97", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Managua.", "sub_label": "Managua", "obj_label": "Nicaragua", "uuid": "9807a8f5-9864-40ee-a977-6ae8cd4d7521", "rel_ix": "P1376_97", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Managua.", "sub_label": "Managua", "obj_label": "Nicaragua", "uuid": "9807a8f5-9864-40ee-a977-6ae8cd4d7521", "rel_ix": "P1376_97", "pattern_ix": 13}
+{"prompt": "Kuwait City is the capital of [MASK].", "sub_label": "Kuwait City", "obj_label": "Kuwait", "uuid": "4a702136-b54b-42e5-9bae-a087cc1824f5", "rel_ix": "P1376_112", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Kuwait City.", "sub_label": "Kuwait City", "obj_label": "Kuwait", "uuid": "4a702136-b54b-42e5-9bae-a087cc1824f5", "rel_ix": "P1376_112", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Kuwait City.", "sub_label": "Kuwait City", "obj_label": "Kuwait", "uuid": "4a702136-b54b-42e5-9bae-a087cc1824f5", "rel_ix": "P1376_112", "pattern_ix": 2}
+{"prompt": "Kuwait City is the capital city of [MASK].", "sub_label": "Kuwait City", "obj_label": "Kuwait", "uuid": "4a702136-b54b-42e5-9bae-a087cc1824f5", "rel_ix": "P1376_112", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Kuwait City.", "sub_label": "Kuwait City", "obj_label": "Kuwait", "uuid": "4a702136-b54b-42e5-9bae-a087cc1824f5", "rel_ix": "P1376_112", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Kuwait City.", "sub_label": "Kuwait City", "obj_label": "Kuwait", "uuid": "4a702136-b54b-42e5-9bae-a087cc1824f5", "rel_ix": "P1376_112", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Kuwait City.", "sub_label": "Kuwait City", "obj_label": "Kuwait", "uuid": "4a702136-b54b-42e5-9bae-a087cc1824f5", "rel_ix": "P1376_112", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Kuwait City.", "sub_label": "Kuwait City", "obj_label": "Kuwait", "uuid": "4a702136-b54b-42e5-9bae-a087cc1824f5", "rel_ix": "P1376_112", "pattern_ix": 7}
+{"prompt": "Kuwait City, the capital of [MASK].", "sub_label": "Kuwait City", "obj_label": "Kuwait", "uuid": "4a702136-b54b-42e5-9bae-a087cc1824f5", "rel_ix": "P1376_112", "pattern_ix": 8}
+{"prompt": "Kuwait City, the capital city of [MASK].", "sub_label": "Kuwait City", "obj_label": "Kuwait", "uuid": "4a702136-b54b-42e5-9bae-a087cc1824f5", "rel_ix": "P1376_112", "pattern_ix": 9}
+{"prompt": "Kuwait City, that is the capital of [MASK].", "sub_label": "Kuwait City", "obj_label": "Kuwait", "uuid": "4a702136-b54b-42e5-9bae-a087cc1824f5", "rel_ix": "P1376_112", "pattern_ix": 10}
+{"prompt": "Kuwait City, that is the capital city of [MASK].", "sub_label": "Kuwait City", "obj_label": "Kuwait", "uuid": "4a702136-b54b-42e5-9bae-a087cc1824f5", "rel_ix": "P1376_112", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Kuwait City.", "sub_label": "Kuwait City", "obj_label": "Kuwait", "uuid": "4a702136-b54b-42e5-9bae-a087cc1824f5", "rel_ix": "P1376_112", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Kuwait City.", "sub_label": "Kuwait City", "obj_label": "Kuwait", "uuid": "4a702136-b54b-42e5-9bae-a087cc1824f5", "rel_ix": "P1376_112", "pattern_ix": 13}
+{"prompt": "Des Moines is the capital of [MASK].", "sub_label": "Des Moines", "obj_label": "Iowa", "uuid": "1192eac3-2643-4bda-b6a5-e5caec18dc44", "rel_ix": "P1376_115", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Des Moines.", "sub_label": "Des Moines", "obj_label": "Iowa", "uuid": "1192eac3-2643-4bda-b6a5-e5caec18dc44", "rel_ix": "P1376_115", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Des Moines.", "sub_label": "Des Moines", "obj_label": "Iowa", "uuid": "1192eac3-2643-4bda-b6a5-e5caec18dc44", "rel_ix": "P1376_115", "pattern_ix": 2}
+{"prompt": "Des Moines is the capital city of [MASK].", "sub_label": "Des Moines", "obj_label": "Iowa", "uuid": "1192eac3-2643-4bda-b6a5-e5caec18dc44", "rel_ix": "P1376_115", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Des Moines.", "sub_label": "Des Moines", "obj_label": "Iowa", "uuid": "1192eac3-2643-4bda-b6a5-e5caec18dc44", "rel_ix": "P1376_115", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Des Moines.", "sub_label": "Des Moines", "obj_label": "Iowa", "uuid": "1192eac3-2643-4bda-b6a5-e5caec18dc44", "rel_ix": "P1376_115", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Des Moines.", "sub_label": "Des Moines", "obj_label": "Iowa", "uuid": "1192eac3-2643-4bda-b6a5-e5caec18dc44", "rel_ix": "P1376_115", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Des Moines.", "sub_label": "Des Moines", "obj_label": "Iowa", "uuid": "1192eac3-2643-4bda-b6a5-e5caec18dc44", "rel_ix": "P1376_115", "pattern_ix": 7}
+{"prompt": "Des Moines, the capital of [MASK].", "sub_label": "Des Moines", "obj_label": "Iowa", "uuid": "1192eac3-2643-4bda-b6a5-e5caec18dc44", "rel_ix": "P1376_115", "pattern_ix": 8}
+{"prompt": "Des Moines, the capital city of [MASK].", "sub_label": "Des Moines", "obj_label": "Iowa", "uuid": "1192eac3-2643-4bda-b6a5-e5caec18dc44", "rel_ix": "P1376_115", "pattern_ix": 9}
+{"prompt": "Des Moines, that is the capital of [MASK].", "sub_label": "Des Moines", "obj_label": "Iowa", "uuid": "1192eac3-2643-4bda-b6a5-e5caec18dc44", "rel_ix": "P1376_115", "pattern_ix": 10}
+{"prompt": "Des Moines, that is the capital city of [MASK].", "sub_label": "Des Moines", "obj_label": "Iowa", "uuid": "1192eac3-2643-4bda-b6a5-e5caec18dc44", "rel_ix": "P1376_115", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Des Moines.", "sub_label": "Des Moines", "obj_label": "Iowa", "uuid": "1192eac3-2643-4bda-b6a5-e5caec18dc44", "rel_ix": "P1376_115", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Des Moines.", "sub_label": "Des Moines", "obj_label": "Iowa", "uuid": "1192eac3-2643-4bda-b6a5-e5caec18dc44", "rel_ix": "P1376_115", "pattern_ix": 13}
+{"prompt": "Thiruvananthapuram is the capital of [MASK].", "sub_label": "Thiruvananthapuram", "obj_label": "Kerala", "uuid": "6fbbd471-e8df-49f8-ac68-56222b4bd7a9", "rel_ix": "P1376_125", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Thiruvananthapuram.", "sub_label": "Thiruvananthapuram", "obj_label": "Kerala", "uuid": "6fbbd471-e8df-49f8-ac68-56222b4bd7a9", "rel_ix": "P1376_125", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Thiruvananthapuram.", "sub_label": "Thiruvananthapuram", "obj_label": "Kerala", "uuid": "6fbbd471-e8df-49f8-ac68-56222b4bd7a9", "rel_ix": "P1376_125", "pattern_ix": 2}
+{"prompt": "Thiruvananthapuram is the capital city of [MASK].", "sub_label": "Thiruvananthapuram", "obj_label": "Kerala", "uuid": "6fbbd471-e8df-49f8-ac68-56222b4bd7a9", "rel_ix": "P1376_125", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Thiruvananthapuram.", "sub_label": "Thiruvananthapuram", "obj_label": "Kerala", "uuid": "6fbbd471-e8df-49f8-ac68-56222b4bd7a9", "rel_ix": "P1376_125", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Thiruvananthapuram.", "sub_label": "Thiruvananthapuram", "obj_label": "Kerala", "uuid": "6fbbd471-e8df-49f8-ac68-56222b4bd7a9", "rel_ix": "P1376_125", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Thiruvananthapuram.", "sub_label": "Thiruvananthapuram", "obj_label": "Kerala", "uuid": "6fbbd471-e8df-49f8-ac68-56222b4bd7a9", "rel_ix": "P1376_125", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Thiruvananthapuram.", "sub_label": "Thiruvananthapuram", "obj_label": "Kerala", "uuid": "6fbbd471-e8df-49f8-ac68-56222b4bd7a9", "rel_ix": "P1376_125", "pattern_ix": 7}
+{"prompt": "Thiruvananthapuram, the capital of [MASK].", "sub_label": "Thiruvananthapuram", "obj_label": "Kerala", "uuid": "6fbbd471-e8df-49f8-ac68-56222b4bd7a9", "rel_ix": "P1376_125", "pattern_ix": 8}
+{"prompt": "Thiruvananthapuram, the capital city of [MASK].", "sub_label": "Thiruvananthapuram", "obj_label": "Kerala", "uuid": "6fbbd471-e8df-49f8-ac68-56222b4bd7a9", "rel_ix": "P1376_125", "pattern_ix": 9}
+{"prompt": "Thiruvananthapuram, that is the capital of [MASK].", "sub_label": "Thiruvananthapuram", "obj_label": "Kerala", "uuid": "6fbbd471-e8df-49f8-ac68-56222b4bd7a9", "rel_ix": "P1376_125", "pattern_ix": 10}
+{"prompt": "Thiruvananthapuram, that is the capital city of [MASK].", "sub_label": "Thiruvananthapuram", "obj_label": "Kerala", "uuid": "6fbbd471-e8df-49f8-ac68-56222b4bd7a9", "rel_ix": "P1376_125", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Thiruvananthapuram.", "sub_label": "Thiruvananthapuram", "obj_label": "Kerala", "uuid": "6fbbd471-e8df-49f8-ac68-56222b4bd7a9", "rel_ix": "P1376_125", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Thiruvananthapuram.", "sub_label": "Thiruvananthapuram", "obj_label": "Kerala", "uuid": "6fbbd471-e8df-49f8-ac68-56222b4bd7a9", "rel_ix": "P1376_125", "pattern_ix": 13}
+{"prompt": "Chandigarh is the capital of [MASK].", "sub_label": "Chandigarh", "obj_label": "Punjab", "uuid": "c9968752-7ec7-4987-a27e-b1977b3556e2", "rel_ix": "P1376_130", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Chandigarh.", "sub_label": "Chandigarh", "obj_label": "Punjab", "uuid": "c9968752-7ec7-4987-a27e-b1977b3556e2", "rel_ix": "P1376_130", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Chandigarh.", "sub_label": "Chandigarh", "obj_label": "Punjab", "uuid": "c9968752-7ec7-4987-a27e-b1977b3556e2", "rel_ix": "P1376_130", "pattern_ix": 2}
+{"prompt": "Chandigarh is the capital city of [MASK].", "sub_label": "Chandigarh", "obj_label": "Punjab", "uuid": "c9968752-7ec7-4987-a27e-b1977b3556e2", "rel_ix": "P1376_130", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Chandigarh.", "sub_label": "Chandigarh", "obj_label": "Punjab", "uuid": "c9968752-7ec7-4987-a27e-b1977b3556e2", "rel_ix": "P1376_130", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Chandigarh.", "sub_label": "Chandigarh", "obj_label": "Punjab", "uuid": "c9968752-7ec7-4987-a27e-b1977b3556e2", "rel_ix": "P1376_130", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Chandigarh.", "sub_label": "Chandigarh", "obj_label": "Punjab", "uuid": "c9968752-7ec7-4987-a27e-b1977b3556e2", "rel_ix": "P1376_130", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Chandigarh.", "sub_label": "Chandigarh", "obj_label": "Punjab", "uuid": "c9968752-7ec7-4987-a27e-b1977b3556e2", "rel_ix": "P1376_130", "pattern_ix": 7}
+{"prompt": "Chandigarh, the capital of [MASK].", "sub_label": "Chandigarh", "obj_label": "Punjab", "uuid": "c9968752-7ec7-4987-a27e-b1977b3556e2", "rel_ix": "P1376_130", "pattern_ix": 8}
+{"prompt": "Chandigarh, the capital city of [MASK].", "sub_label": "Chandigarh", "obj_label": "Punjab", "uuid": "c9968752-7ec7-4987-a27e-b1977b3556e2", "rel_ix": "P1376_130", "pattern_ix": 9}
+{"prompt": "Chandigarh, that is the capital of [MASK].", "sub_label": "Chandigarh", "obj_label": "Punjab", "uuid": "c9968752-7ec7-4987-a27e-b1977b3556e2", "rel_ix": "P1376_130", "pattern_ix": 10}
+{"prompt": "Chandigarh, that is the capital city of [MASK].", "sub_label": "Chandigarh", "obj_label": "Punjab", "uuid": "c9968752-7ec7-4987-a27e-b1977b3556e2", "rel_ix": "P1376_130", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Chandigarh.", "sub_label": "Chandigarh", "obj_label": "Punjab", "uuid": "c9968752-7ec7-4987-a27e-b1977b3556e2", "rel_ix": "P1376_130", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Chandigarh.", "sub_label": "Chandigarh", "obj_label": "Punjab", "uuid": "c9968752-7ec7-4987-a27e-b1977b3556e2", "rel_ix": "P1376_130", "pattern_ix": 13}
+{"prompt": "Winchester is the capital of [MASK].", "sub_label": "Winchester", "obj_label": "England", "uuid": "83fe23c4-d227-4a56-b1db-4f038d602764", "rel_ix": "P1376_137", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Winchester.", "sub_label": "Winchester", "obj_label": "England", "uuid": "83fe23c4-d227-4a56-b1db-4f038d602764", "rel_ix": "P1376_137", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Winchester.", "sub_label": "Winchester", "obj_label": "England", "uuid": "83fe23c4-d227-4a56-b1db-4f038d602764", "rel_ix": "P1376_137", "pattern_ix": 2}
+{"prompt": "Winchester is the capital city of [MASK].", "sub_label": "Winchester", "obj_label": "England", "uuid": "83fe23c4-d227-4a56-b1db-4f038d602764", "rel_ix": "P1376_137", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Winchester.", "sub_label": "Winchester", "obj_label": "England", "uuid": "83fe23c4-d227-4a56-b1db-4f038d602764", "rel_ix": "P1376_137", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Winchester.", "sub_label": "Winchester", "obj_label": "England", "uuid": "83fe23c4-d227-4a56-b1db-4f038d602764", "rel_ix": "P1376_137", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Winchester.", "sub_label": "Winchester", "obj_label": "England", "uuid": "83fe23c4-d227-4a56-b1db-4f038d602764", "rel_ix": "P1376_137", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Winchester.", "sub_label": "Winchester", "obj_label": "England", "uuid": "83fe23c4-d227-4a56-b1db-4f038d602764", "rel_ix": "P1376_137", "pattern_ix": 7}
+{"prompt": "Winchester, the capital of [MASK].", "sub_label": "Winchester", "obj_label": "England", "uuid": "83fe23c4-d227-4a56-b1db-4f038d602764", "rel_ix": "P1376_137", "pattern_ix": 8}
+{"prompt": "Winchester, the capital city of [MASK].", "sub_label": "Winchester", "obj_label": "England", "uuid": "83fe23c4-d227-4a56-b1db-4f038d602764", "rel_ix": "P1376_137", "pattern_ix": 9}
+{"prompt": "Winchester, that is the capital of [MASK].", "sub_label": "Winchester", "obj_label": "England", "uuid": "83fe23c4-d227-4a56-b1db-4f038d602764", "rel_ix": "P1376_137", "pattern_ix": 10}
+{"prompt": "Winchester, that is the capital city of [MASK].", "sub_label": "Winchester", "obj_label": "England", "uuid": "83fe23c4-d227-4a56-b1db-4f038d602764", "rel_ix": "P1376_137", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Winchester.", "sub_label": "Winchester", "obj_label": "England", "uuid": "83fe23c4-d227-4a56-b1db-4f038d602764", "rel_ix": "P1376_137", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Winchester.", "sub_label": "Winchester", "obj_label": "England", "uuid": "83fe23c4-d227-4a56-b1db-4f038d602764", "rel_ix": "P1376_137", "pattern_ix": 13}
+{"prompt": "Bukittinggi is the capital of [MASK].", "sub_label": "Bukittinggi", "obj_label": "Indonesia", "uuid": "93f33466-6dd9-40f0-bbb5-d22fe7f348c5", "rel_ix": "P1376_150", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Bukittinggi.", "sub_label": "Bukittinggi", "obj_label": "Indonesia", "uuid": "93f33466-6dd9-40f0-bbb5-d22fe7f348c5", "rel_ix": "P1376_150", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Bukittinggi.", "sub_label": "Bukittinggi", "obj_label": "Indonesia", "uuid": "93f33466-6dd9-40f0-bbb5-d22fe7f348c5", "rel_ix": "P1376_150", "pattern_ix": 2}
+{"prompt": "Bukittinggi is the capital city of [MASK].", "sub_label": "Bukittinggi", "obj_label": "Indonesia", "uuid": "93f33466-6dd9-40f0-bbb5-d22fe7f348c5", "rel_ix": "P1376_150", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Bukittinggi.", "sub_label": "Bukittinggi", "obj_label": "Indonesia", "uuid": "93f33466-6dd9-40f0-bbb5-d22fe7f348c5", "rel_ix": "P1376_150", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Bukittinggi.", "sub_label": "Bukittinggi", "obj_label": "Indonesia", "uuid": "93f33466-6dd9-40f0-bbb5-d22fe7f348c5", "rel_ix": "P1376_150", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Bukittinggi.", "sub_label": "Bukittinggi", "obj_label": "Indonesia", "uuid": "93f33466-6dd9-40f0-bbb5-d22fe7f348c5", "rel_ix": "P1376_150", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Bukittinggi.", "sub_label": "Bukittinggi", "obj_label": "Indonesia", "uuid": "93f33466-6dd9-40f0-bbb5-d22fe7f348c5", "rel_ix": "P1376_150", "pattern_ix": 7}
+{"prompt": "Bukittinggi, the capital of [MASK].", "sub_label": "Bukittinggi", "obj_label": "Indonesia", "uuid": "93f33466-6dd9-40f0-bbb5-d22fe7f348c5", "rel_ix": "P1376_150", "pattern_ix": 8}
+{"prompt": "Bukittinggi, the capital city of [MASK].", "sub_label": "Bukittinggi", "obj_label": "Indonesia", "uuid": "93f33466-6dd9-40f0-bbb5-d22fe7f348c5", "rel_ix": "P1376_150", "pattern_ix": 9}
+{"prompt": "Bukittinggi, that is the capital of [MASK].", "sub_label": "Bukittinggi", "obj_label": "Indonesia", "uuid": "93f33466-6dd9-40f0-bbb5-d22fe7f348c5", "rel_ix": "P1376_150", "pattern_ix": 10}
+{"prompt": "Bukittinggi, that is the capital city of [MASK].", "sub_label": "Bukittinggi", "obj_label": "Indonesia", "uuid": "93f33466-6dd9-40f0-bbb5-d22fe7f348c5", "rel_ix": "P1376_150", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Bukittinggi.", "sub_label": "Bukittinggi", "obj_label": "Indonesia", "uuid": "93f33466-6dd9-40f0-bbb5-d22fe7f348c5", "rel_ix": "P1376_150", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Bukittinggi.", "sub_label": "Bukittinggi", "obj_label": "Indonesia", "uuid": "93f33466-6dd9-40f0-bbb5-d22fe7f348c5", "rel_ix": "P1376_150", "pattern_ix": 13}
+{"prompt": "Boise is the capital of [MASK].", "sub_label": "Boise", "obj_label": "Idaho", "uuid": "d60102b9-4bf5-49f2-8e05-a1c4effbb989", "rel_ix": "P1376_153", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Boise.", "sub_label": "Boise", "obj_label": "Idaho", "uuid": "d60102b9-4bf5-49f2-8e05-a1c4effbb989", "rel_ix": "P1376_153", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Boise.", "sub_label": "Boise", "obj_label": "Idaho", "uuid": "d60102b9-4bf5-49f2-8e05-a1c4effbb989", "rel_ix": "P1376_153", "pattern_ix": 2}
+{"prompt": "Boise is the capital city of [MASK].", "sub_label": "Boise", "obj_label": "Idaho", "uuid": "d60102b9-4bf5-49f2-8e05-a1c4effbb989", "rel_ix": "P1376_153", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Boise.", "sub_label": "Boise", "obj_label": "Idaho", "uuid": "d60102b9-4bf5-49f2-8e05-a1c4effbb989", "rel_ix": "P1376_153", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Boise.", "sub_label": "Boise", "obj_label": "Idaho", "uuid": "d60102b9-4bf5-49f2-8e05-a1c4effbb989", "rel_ix": "P1376_153", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Boise.", "sub_label": "Boise", "obj_label": "Idaho", "uuid": "d60102b9-4bf5-49f2-8e05-a1c4effbb989", "rel_ix": "P1376_153", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Boise.", "sub_label": "Boise", "obj_label": "Idaho", "uuid": "d60102b9-4bf5-49f2-8e05-a1c4effbb989", "rel_ix": "P1376_153", "pattern_ix": 7}
+{"prompt": "Boise, the capital of [MASK].", "sub_label": "Boise", "obj_label": "Idaho", "uuid": "d60102b9-4bf5-49f2-8e05-a1c4effbb989", "rel_ix": "P1376_153", "pattern_ix": 8}
+{"prompt": "Boise, the capital city of [MASK].", "sub_label": "Boise", "obj_label": "Idaho", "uuid": "d60102b9-4bf5-49f2-8e05-a1c4effbb989", "rel_ix": "P1376_153", "pattern_ix": 9}
+{"prompt": "Boise, that is the capital of [MASK].", "sub_label": "Boise", "obj_label": "Idaho", "uuid": "d60102b9-4bf5-49f2-8e05-a1c4effbb989", "rel_ix": "P1376_153", "pattern_ix": 10}
+{"prompt": "Boise, that is the capital city of [MASK].", "sub_label": "Boise", "obj_label": "Idaho", "uuid": "d60102b9-4bf5-49f2-8e05-a1c4effbb989", "rel_ix": "P1376_153", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Boise.", "sub_label": "Boise", "obj_label": "Idaho", "uuid": "d60102b9-4bf5-49f2-8e05-a1c4effbb989", "rel_ix": "P1376_153", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Boise.", "sub_label": "Boise", "obj_label": "Idaho", "uuid": "d60102b9-4bf5-49f2-8e05-a1c4effbb989", "rel_ix": "P1376_153", "pattern_ix": 13}
+{"prompt": "Jayapura is the capital of [MASK].", "sub_label": "Jayapura", "obj_label": "Papua", "uuid": "6a6499a5-d106-473e-a2e3-61cfdf2cb016", "rel_ix": "P1376_157", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Jayapura.", "sub_label": "Jayapura", "obj_label": "Papua", "uuid": "6a6499a5-d106-473e-a2e3-61cfdf2cb016", "rel_ix": "P1376_157", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Jayapura.", "sub_label": "Jayapura", "obj_label": "Papua", "uuid": "6a6499a5-d106-473e-a2e3-61cfdf2cb016", "rel_ix": "P1376_157", "pattern_ix": 2}
+{"prompt": "Jayapura is the capital city of [MASK].", "sub_label": "Jayapura", "obj_label": "Papua", "uuid": "6a6499a5-d106-473e-a2e3-61cfdf2cb016", "rel_ix": "P1376_157", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Jayapura.", "sub_label": "Jayapura", "obj_label": "Papua", "uuid": "6a6499a5-d106-473e-a2e3-61cfdf2cb016", "rel_ix": "P1376_157", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Jayapura.", "sub_label": "Jayapura", "obj_label": "Papua", "uuid": "6a6499a5-d106-473e-a2e3-61cfdf2cb016", "rel_ix": "P1376_157", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Jayapura.", "sub_label": "Jayapura", "obj_label": "Papua", "uuid": "6a6499a5-d106-473e-a2e3-61cfdf2cb016", "rel_ix": "P1376_157", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Jayapura.", "sub_label": "Jayapura", "obj_label": "Papua", "uuid": "6a6499a5-d106-473e-a2e3-61cfdf2cb016", "rel_ix": "P1376_157", "pattern_ix": 7}
+{"prompt": "Jayapura, the capital of [MASK].", "sub_label": "Jayapura", "obj_label": "Papua", "uuid": "6a6499a5-d106-473e-a2e3-61cfdf2cb016", "rel_ix": "P1376_157", "pattern_ix": 8}
+{"prompt": "Jayapura, the capital city of [MASK].", "sub_label": "Jayapura", "obj_label": "Papua", "uuid": "6a6499a5-d106-473e-a2e3-61cfdf2cb016", "rel_ix": "P1376_157", "pattern_ix": 9}
+{"prompt": "Jayapura, that is the capital of [MASK].", "sub_label": "Jayapura", "obj_label": "Papua", "uuid": "6a6499a5-d106-473e-a2e3-61cfdf2cb016", "rel_ix": "P1376_157", "pattern_ix": 10}
+{"prompt": "Jayapura, that is the capital city of [MASK].", "sub_label": "Jayapura", "obj_label": "Papua", "uuid": "6a6499a5-d106-473e-a2e3-61cfdf2cb016", "rel_ix": "P1376_157", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Jayapura.", "sub_label": "Jayapura", "obj_label": "Papua", "uuid": "6a6499a5-d106-473e-a2e3-61cfdf2cb016", "rel_ix": "P1376_157", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Jayapura.", "sub_label": "Jayapura", "obj_label": "Papua", "uuid": "6a6499a5-d106-473e-a2e3-61cfdf2cb016", "rel_ix": "P1376_157", "pattern_ix": 13}
+{"prompt": "Saint Paul is the capital of [MASK].", "sub_label": "Saint Paul", "obj_label": "Minnesota", "uuid": "3e5000c2-e45c-4489-9074-9814507eae95", "rel_ix": "P1376_159", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Saint Paul.", "sub_label": "Saint Paul", "obj_label": "Minnesota", "uuid": "3e5000c2-e45c-4489-9074-9814507eae95", "rel_ix": "P1376_159", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Saint Paul.", "sub_label": "Saint Paul", "obj_label": "Minnesota", "uuid": "3e5000c2-e45c-4489-9074-9814507eae95", "rel_ix": "P1376_159", "pattern_ix": 2}
+{"prompt": "Saint Paul is the capital city of [MASK].", "sub_label": "Saint Paul", "obj_label": "Minnesota", "uuid": "3e5000c2-e45c-4489-9074-9814507eae95", "rel_ix": "P1376_159", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Saint Paul.", "sub_label": "Saint Paul", "obj_label": "Minnesota", "uuid": "3e5000c2-e45c-4489-9074-9814507eae95", "rel_ix": "P1376_159", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Saint Paul.", "sub_label": "Saint Paul", "obj_label": "Minnesota", "uuid": "3e5000c2-e45c-4489-9074-9814507eae95", "rel_ix": "P1376_159", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Saint Paul.", "sub_label": "Saint Paul", "obj_label": "Minnesota", "uuid": "3e5000c2-e45c-4489-9074-9814507eae95", "rel_ix": "P1376_159", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Saint Paul.", "sub_label": "Saint Paul", "obj_label": "Minnesota", "uuid": "3e5000c2-e45c-4489-9074-9814507eae95", "rel_ix": "P1376_159", "pattern_ix": 7}
+{"prompt": "Saint Paul, the capital of [MASK].", "sub_label": "Saint Paul", "obj_label": "Minnesota", "uuid": "3e5000c2-e45c-4489-9074-9814507eae95", "rel_ix": "P1376_159", "pattern_ix": 8}
+{"prompt": "Saint Paul, the capital city of [MASK].", "sub_label": "Saint Paul", "obj_label": "Minnesota", "uuid": "3e5000c2-e45c-4489-9074-9814507eae95", "rel_ix": "P1376_159", "pattern_ix": 9}
+{"prompt": "Saint Paul, that is the capital of [MASK].", "sub_label": "Saint Paul", "obj_label": "Minnesota", "uuid": "3e5000c2-e45c-4489-9074-9814507eae95", "rel_ix": "P1376_159", "pattern_ix": 10}
+{"prompt": "Saint Paul, that is the capital city of [MASK].", "sub_label": "Saint Paul", "obj_label": "Minnesota", "uuid": "3e5000c2-e45c-4489-9074-9814507eae95", "rel_ix": "P1376_159", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Saint Paul.", "sub_label": "Saint Paul", "obj_label": "Minnesota", "uuid": "3e5000c2-e45c-4489-9074-9814507eae95", "rel_ix": "P1376_159", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Saint Paul.", "sub_label": "Saint Paul", "obj_label": "Minnesota", "uuid": "3e5000c2-e45c-4489-9074-9814507eae95", "rel_ix": "P1376_159", "pattern_ix": 13}
+{"prompt": "Topeka is the capital of [MASK].", "sub_label": "Topeka", "obj_label": "Kansas", "uuid": "4f63162e-7c75-40a3-87f6-0734ab0ba5ed", "rel_ix": "P1376_169", "pattern_ix": 0}
+{"prompt": "The capital of [MASK] is Topeka.", "sub_label": "Topeka", "obj_label": "Kansas", "uuid": "4f63162e-7c75-40a3-87f6-0734ab0ba5ed", "rel_ix": "P1376_169", "pattern_ix": 1}
+{"prompt": "The capital city of [MASK] is Topeka.", "sub_label": "Topeka", "obj_label": "Kansas", "uuid": "4f63162e-7c75-40a3-87f6-0734ab0ba5ed", "rel_ix": "P1376_169", "pattern_ix": 2}
+{"prompt": "Topeka is the capital city of [MASK].", "sub_label": "Topeka", "obj_label": "Kansas", "uuid": "4f63162e-7c75-40a3-87f6-0734ab0ba5ed", "rel_ix": "P1376_169", "pattern_ix": 3}
+{"prompt": "[MASK]'s capital, Topeka.", "sub_label": "Topeka", "obj_label": "Kansas", "uuid": "4f63162e-7c75-40a3-87f6-0734ab0ba5ed", "rel_ix": "P1376_169", "pattern_ix": 4}
+{"prompt": "[MASK]'s capital city, Topeka.", "sub_label": "Topeka", "obj_label": "Kansas", "uuid": "4f63162e-7c75-40a3-87f6-0734ab0ba5ed", "rel_ix": "P1376_169", "pattern_ix": 5}
+{"prompt": "[MASK]'s capital is Topeka.", "sub_label": "Topeka", "obj_label": "Kansas", "uuid": "4f63162e-7c75-40a3-87f6-0734ab0ba5ed", "rel_ix": "P1376_169", "pattern_ix": 6}
+{"prompt": "[MASK]'s capital city is Topeka.", "sub_label": "Topeka", "obj_label": "Kansas", "uuid": "4f63162e-7c75-40a3-87f6-0734ab0ba5ed", "rel_ix": "P1376_169", "pattern_ix": 7}
+{"prompt": "Topeka, the capital of [MASK].", "sub_label": "Topeka", "obj_label": "Kansas", "uuid": "4f63162e-7c75-40a3-87f6-0734ab0ba5ed", "rel_ix": "P1376_169", "pattern_ix": 8}
+{"prompt": "Topeka, the capital city of [MASK].", "sub_label": "Topeka", "obj_label": "Kansas", "uuid": "4f63162e-7c75-40a3-87f6-0734ab0ba5ed", "rel_ix": "P1376_169", "pattern_ix": 9}
+{"prompt": "Topeka, that is the capital of [MASK].", "sub_label": "Topeka", "obj_label": "Kansas", "uuid": "4f63162e-7c75-40a3-87f6-0734ab0ba5ed", "rel_ix": "P1376_169", "pattern_ix": 10}
+{"prompt": "Topeka, that is the capital city of [MASK].", "sub_label": "Topeka", "obj_label": "Kansas", "uuid": "4f63162e-7c75-40a3-87f6-0734ab0ba5ed", "rel_ix": "P1376_169", "pattern_ix": 11}
+{"prompt": "[MASK], which has the capital Topeka.", "sub_label": "Topeka", "obj_label": "Kansas", "uuid": "4f63162e-7c75-40a3-87f6-0734ab0ba5ed", "rel_ix": "P1376_169", "pattern_ix": 12}
+{"prompt": "[MASK], which has the capital city Topeka.", "sub_label": "Topeka", "obj_label": "Kansas", "uuid": "4f63162e-7c75-40a3-87f6-0734ab0ba5ed", "rel_ix": "P1376_169", "pattern_ix": 13}

@@ -1,0 +1,720 @@
+{"prompt": "Decorin is a subclass of [MASK].", "sub_label": "Decorin", "obj_label": "protein", "uuid": "71c6eab0-f099-4891-962e-f0bee702d686", "rel_ix": "P279_11", "pattern_ix": 0}
+{"prompt": "Decorin, which is a subclass of [MASK].", "sub_label": "Decorin", "obj_label": "protein", "uuid": "71c6eab0-f099-4891-962e-f0bee702d686", "rel_ix": "P279_11", "pattern_ix": 1}
+{"prompt": "Decorin,  a subclass of [MASK].", "sub_label": "Decorin", "obj_label": "protein", "uuid": "71c6eab0-f099-4891-962e-f0bee702d686", "rel_ix": "P279_11", "pattern_ix": 2}
+{"prompt": "Decorin,  a type of [MASK].", "sub_label": "Decorin", "obj_label": "protein", "uuid": "71c6eab0-f099-4891-962e-f0bee702d686", "rel_ix": "P279_11", "pattern_ix": 3}
+{"prompt": "descriptive statistics is a subclass of [MASK].", "sub_label": "descriptive statistics", "obj_label": "statistics", "uuid": "babeedcf-6bd0-4161-8ddb-8fcf3eef15d8", "rel_ix": "P279_14", "pattern_ix": 0}
+{"prompt": "descriptive statistics, which is a subclass of [MASK].", "sub_label": "descriptive statistics", "obj_label": "statistics", "uuid": "babeedcf-6bd0-4161-8ddb-8fcf3eef15d8", "rel_ix": "P279_14", "pattern_ix": 1}
+{"prompt": "descriptive statistics,  a subclass of [MASK].", "sub_label": "descriptive statistics", "obj_label": "statistics", "uuid": "babeedcf-6bd0-4161-8ddb-8fcf3eef15d8", "rel_ix": "P279_14", "pattern_ix": 2}
+{"prompt": "descriptive statistics,  a type of [MASK].", "sub_label": "descriptive statistics", "obj_label": "statistics", "uuid": "babeedcf-6bd0-4161-8ddb-8fcf3eef15d8", "rel_ix": "P279_14", "pattern_ix": 3}
+{"prompt": "data science is a subclass of [MASK].", "sub_label": "data science", "obj_label": "statistics", "uuid": "32a9488d-3e7a-4790-993e-c596154bec32", "rel_ix": "P279_16", "pattern_ix": 0}
+{"prompt": "data science, which is a subclass of [MASK].", "sub_label": "data science", "obj_label": "statistics", "uuid": "32a9488d-3e7a-4790-993e-c596154bec32", "rel_ix": "P279_16", "pattern_ix": 1}
+{"prompt": "data science,  a subclass of [MASK].", "sub_label": "data science", "obj_label": "statistics", "uuid": "32a9488d-3e7a-4790-993e-c596154bec32", "rel_ix": "P279_16", "pattern_ix": 2}
+{"prompt": "data science,  a type of [MASK].", "sub_label": "data science", "obj_label": "statistics", "uuid": "32a9488d-3e7a-4790-993e-c596154bec32", "rel_ix": "P279_16", "pattern_ix": 3}
+{"prompt": "articled clerk is a subclass of [MASK].", "sub_label": "articled clerk", "obj_label": "apprentice", "uuid": "8c61171f-381b-4b20-9849-1fe1e3821f18", "rel_ix": "P279_29", "pattern_ix": 0}
+{"prompt": "articled clerk, which is a subclass of [MASK].", "sub_label": "articled clerk", "obj_label": "apprentice", "uuid": "8c61171f-381b-4b20-9849-1fe1e3821f18", "rel_ix": "P279_29", "pattern_ix": 1}
+{"prompt": "articled clerk,  a subclass of [MASK].", "sub_label": "articled clerk", "obj_label": "apprentice", "uuid": "8c61171f-381b-4b20-9849-1fe1e3821f18", "rel_ix": "P279_29", "pattern_ix": 2}
+{"prompt": "articled clerk,  a type of [MASK].", "sub_label": "articled clerk", "obj_label": "apprentice", "uuid": "8c61171f-381b-4b20-9849-1fe1e3821f18", "rel_ix": "P279_29", "pattern_ix": 3}
+{"prompt": "head teacher is a subclass of [MASK].", "sub_label": "head teacher", "obj_label": "teacher", "uuid": "c1917fe7-9bc3-47c5-912f-4f7b691eb07f", "rel_ix": "P279_34", "pattern_ix": 0}
+{"prompt": "head teacher, which is a subclass of [MASK].", "sub_label": "head teacher", "obj_label": "teacher", "uuid": "c1917fe7-9bc3-47c5-912f-4f7b691eb07f", "rel_ix": "P279_34", "pattern_ix": 1}
+{"prompt": "head teacher,  a subclass of [MASK].", "sub_label": "head teacher", "obj_label": "teacher", "uuid": "c1917fe7-9bc3-47c5-912f-4f7b691eb07f", "rel_ix": "P279_34", "pattern_ix": 2}
+{"prompt": "head teacher,  a type of [MASK].", "sub_label": "head teacher", "obj_label": "teacher", "uuid": "c1917fe7-9bc3-47c5-912f-4f7b691eb07f", "rel_ix": "P279_34", "pattern_ix": 3}
+{"prompt": "suffragan bishop is a subclass of [MASK].", "sub_label": "suffragan bishop", "obj_label": "bishop", "uuid": "66cf014b-405b-4ec5-a1f1-6b416bca44bf", "rel_ix": "P279_36", "pattern_ix": 0}
+{"prompt": "suffragan bishop, which is a subclass of [MASK].", "sub_label": "suffragan bishop", "obj_label": "bishop", "uuid": "66cf014b-405b-4ec5-a1f1-6b416bca44bf", "rel_ix": "P279_36", "pattern_ix": 1}
+{"prompt": "suffragan bishop,  a subclass of [MASK].", "sub_label": "suffragan bishop", "obj_label": "bishop", "uuid": "66cf014b-405b-4ec5-a1f1-6b416bca44bf", "rel_ix": "P279_36", "pattern_ix": 2}
+{"prompt": "suffragan bishop,  a type of [MASK].", "sub_label": "suffragan bishop", "obj_label": "bishop", "uuid": "66cf014b-405b-4ec5-a1f1-6b416bca44bf", "rel_ix": "P279_36", "pattern_ix": 3}
+{"prompt": "sector light is a subclass of [MASK].", "sub_label": "sector light", "obj_label": "lighthouse", "uuid": "1ff33d56-3e27-4da9-b2af-f042225fa3d0", "rel_ix": "P279_43", "pattern_ix": 0}
+{"prompt": "sector light, which is a subclass of [MASK].", "sub_label": "sector light", "obj_label": "lighthouse", "uuid": "1ff33d56-3e27-4da9-b2af-f042225fa3d0", "rel_ix": "P279_43", "pattern_ix": 1}
+{"prompt": "sector light,  a subclass of [MASK].", "sub_label": "sector light", "obj_label": "lighthouse", "uuid": "1ff33d56-3e27-4da9-b2af-f042225fa3d0", "rel_ix": "P279_43", "pattern_ix": 2}
+{"prompt": "sector light,  a type of [MASK].", "sub_label": "sector light", "obj_label": "lighthouse", "uuid": "1ff33d56-3e27-4da9-b2af-f042225fa3d0", "rel_ix": "P279_43", "pattern_ix": 3}
+{"prompt": "natural resource management is a subclass of [MASK].", "sub_label": "natural resource management", "obj_label": "management", "uuid": "478b53eb-dafa-42b7-96f5-a1338a06cf78", "rel_ix": "P279_49", "pattern_ix": 0}
+{"prompt": "natural resource management, which is a subclass of [MASK].", "sub_label": "natural resource management", "obj_label": "management", "uuid": "478b53eb-dafa-42b7-96f5-a1338a06cf78", "rel_ix": "P279_49", "pattern_ix": 1}
+{"prompt": "natural resource management,  a subclass of [MASK].", "sub_label": "natural resource management", "obj_label": "management", "uuid": "478b53eb-dafa-42b7-96f5-a1338a06cf78", "rel_ix": "P279_49", "pattern_ix": 2}
+{"prompt": "natural resource management,  a type of [MASK].", "sub_label": "natural resource management", "obj_label": "management", "uuid": "478b53eb-dafa-42b7-96f5-a1338a06cf78", "rel_ix": "P279_49", "pattern_ix": 3}
+{"prompt": "Morris Oxford Farina is a subclass of [MASK].", "sub_label": "Morris Oxford Farina", "obj_label": "car", "uuid": "ef07eb8a-830d-4199-a52d-79255d04a836", "rel_ix": "P279_50", "pattern_ix": 0}
+{"prompt": "Morris Oxford Farina, which is a subclass of [MASK].", "sub_label": "Morris Oxford Farina", "obj_label": "car", "uuid": "ef07eb8a-830d-4199-a52d-79255d04a836", "rel_ix": "P279_50", "pattern_ix": 1}
+{"prompt": "Morris Oxford Farina,  a subclass of [MASK].", "sub_label": "Morris Oxford Farina", "obj_label": "car", "uuid": "ef07eb8a-830d-4199-a52d-79255d04a836", "rel_ix": "P279_50", "pattern_ix": 2}
+{"prompt": "Morris Oxford Farina,  a type of [MASK].", "sub_label": "Morris Oxford Farina", "obj_label": "car", "uuid": "ef07eb8a-830d-4199-a52d-79255d04a836", "rel_ix": "P279_50", "pattern_ix": 3}
+{"prompt": "personal information manager is a subclass of [MASK].", "sub_label": "personal information manager", "obj_label": "application", "uuid": "a9797e3f-ccfb-42b5-aa44-1d8300ffd5e6", "rel_ix": "P279_51", "pattern_ix": 0}
+{"prompt": "personal information manager, which is a subclass of [MASK].", "sub_label": "personal information manager", "obj_label": "application", "uuid": "a9797e3f-ccfb-42b5-aa44-1d8300ffd5e6", "rel_ix": "P279_51", "pattern_ix": 1}
+{"prompt": "personal information manager,  a subclass of [MASK].", "sub_label": "personal information manager", "obj_label": "application", "uuid": "a9797e3f-ccfb-42b5-aa44-1d8300ffd5e6", "rel_ix": "P279_51", "pattern_ix": 2}
+{"prompt": "personal information manager,  a type of [MASK].", "sub_label": "personal information manager", "obj_label": "application", "uuid": "a9797e3f-ccfb-42b5-aa44-1d8300ffd5e6", "rel_ix": "P279_51", "pattern_ix": 3}
+{"prompt": "English verb is a subclass of [MASK].", "sub_label": "English verb", "obj_label": "verb", "uuid": "bee16345-cc9b-477d-8f9c-afa9c4399fca", "rel_ix": "P279_56", "pattern_ix": 0}
+{"prompt": "English verb, which is a subclass of [MASK].", "sub_label": "English verb", "obj_label": "verb", "uuid": "bee16345-cc9b-477d-8f9c-afa9c4399fca", "rel_ix": "P279_56", "pattern_ix": 1}
+{"prompt": "English verb,  a subclass of [MASK].", "sub_label": "English verb", "obj_label": "verb", "uuid": "bee16345-cc9b-477d-8f9c-afa9c4399fca", "rel_ix": "P279_56", "pattern_ix": 2}
+{"prompt": "English verb,  a type of [MASK].", "sub_label": "English verb", "obj_label": "verb", "uuid": "bee16345-cc9b-477d-8f9c-afa9c4399fca", "rel_ix": "P279_56", "pattern_ix": 3}
+{"prompt": "frame drum is a subclass of [MASK].", "sub_label": "frame drum", "obj_label": "drum", "uuid": "84041d1d-c65a-433f-8a92-9fc692d1c12b", "rel_ix": "P279_57", "pattern_ix": 0}
+{"prompt": "frame drum, which is a subclass of [MASK].", "sub_label": "frame drum", "obj_label": "drum", "uuid": "84041d1d-c65a-433f-8a92-9fc692d1c12b", "rel_ix": "P279_57", "pattern_ix": 1}
+{"prompt": "frame drum,  a subclass of [MASK].", "sub_label": "frame drum", "obj_label": "drum", "uuid": "84041d1d-c65a-433f-8a92-9fc692d1c12b", "rel_ix": "P279_57", "pattern_ix": 2}
+{"prompt": "frame drum,  a type of [MASK].", "sub_label": "frame drum", "obj_label": "drum", "uuid": "84041d1d-c65a-433f-8a92-9fc692d1c12b", "rel_ix": "P279_57", "pattern_ix": 3}
+{"prompt": "mineral spring is a subclass of [MASK].", "sub_label": "mineral spring", "obj_label": "spring", "uuid": "be29273e-8253-4b4c-a4a8-314c645d67c6", "rel_ix": "P279_60", "pattern_ix": 0}
+{"prompt": "mineral spring, which is a subclass of [MASK].", "sub_label": "mineral spring", "obj_label": "spring", "uuid": "be29273e-8253-4b4c-a4a8-314c645d67c6", "rel_ix": "P279_60", "pattern_ix": 1}
+{"prompt": "mineral spring,  a subclass of [MASK].", "sub_label": "mineral spring", "obj_label": "spring", "uuid": "be29273e-8253-4b4c-a4a8-314c645d67c6", "rel_ix": "P279_60", "pattern_ix": 2}
+{"prompt": "mineral spring,  a type of [MASK].", "sub_label": "mineral spring", "obj_label": "spring", "uuid": "be29273e-8253-4b4c-a4a8-314c645d67c6", "rel_ix": "P279_60", "pattern_ix": 3}
+{"prompt": "Homeobox is a subclass of [MASK].", "sub_label": "Homeobox", "obj_label": "protein", "uuid": "0dff8bea-b1d5-40f8-abba-d97b9cac0af4", "rel_ix": "P279_65", "pattern_ix": 0}
+{"prompt": "Homeobox, which is a subclass of [MASK].", "sub_label": "Homeobox", "obj_label": "protein", "uuid": "0dff8bea-b1d5-40f8-abba-d97b9cac0af4", "rel_ix": "P279_65", "pattern_ix": 1}
+{"prompt": "Homeobox,  a subclass of [MASK].", "sub_label": "Homeobox", "obj_label": "protein", "uuid": "0dff8bea-b1d5-40f8-abba-d97b9cac0af4", "rel_ix": "P279_65", "pattern_ix": 2}
+{"prompt": "Homeobox,  a type of [MASK].", "sub_label": "Homeobox", "obj_label": "protein", "uuid": "0dff8bea-b1d5-40f8-abba-d97b9cac0af4", "rel_ix": "P279_65", "pattern_ix": 3}
+{"prompt": "Tupolev Tu-2 is a subclass of [MASK].", "sub_label": "Tupolev Tu-2", "obj_label": "bomber", "uuid": "9cae7a3a-87b2-4353-9f3e-3dc0cc1192b4", "rel_ix": "P279_79", "pattern_ix": 0}
+{"prompt": "Tupolev Tu-2, which is a subclass of [MASK].", "sub_label": "Tupolev Tu-2", "obj_label": "bomber", "uuid": "9cae7a3a-87b2-4353-9f3e-3dc0cc1192b4", "rel_ix": "P279_79", "pattern_ix": 1}
+{"prompt": "Tupolev Tu-2,  a subclass of [MASK].", "sub_label": "Tupolev Tu-2", "obj_label": "bomber", "uuid": "9cae7a3a-87b2-4353-9f3e-3dc0cc1192b4", "rel_ix": "P279_79", "pattern_ix": 2}
+{"prompt": "Tupolev Tu-2,  a type of [MASK].", "sub_label": "Tupolev Tu-2", "obj_label": "bomber", "uuid": "9cae7a3a-87b2-4353-9f3e-3dc0cc1192b4", "rel_ix": "P279_79", "pattern_ix": 3}
+{"prompt": "G and H-class destroyer is a subclass of [MASK].", "sub_label": "G and H-class destroyer", "obj_label": "destroyer", "uuid": "c3e7ae31-ab6e-40a3-afe7-7c3cd9b2a84a", "rel_ix": "P279_98", "pattern_ix": 0}
+{"prompt": "G and H-class destroyer, which is a subclass of [MASK].", "sub_label": "G and H-class destroyer", "obj_label": "destroyer", "uuid": "c3e7ae31-ab6e-40a3-afe7-7c3cd9b2a84a", "rel_ix": "P279_98", "pattern_ix": 1}
+{"prompt": "G and H-class destroyer,  a subclass of [MASK].", "sub_label": "G and H-class destroyer", "obj_label": "destroyer", "uuid": "c3e7ae31-ab6e-40a3-afe7-7c3cd9b2a84a", "rel_ix": "P279_98", "pattern_ix": 2}
+{"prompt": "G and H-class destroyer,  a type of [MASK].", "sub_label": "G and H-class destroyer", "obj_label": "destroyer", "uuid": "c3e7ae31-ab6e-40a3-afe7-7c3cd9b2a84a", "rel_ix": "P279_98", "pattern_ix": 3}
+{"prompt": "extrasolar planet is a subclass of [MASK].", "sub_label": "extrasolar planet", "obj_label": "planet", "uuid": "ce03c289-e77f-4ad9-9559-cecff48f2be2", "rel_ix": "P279_105", "pattern_ix": 0}
+{"prompt": "extrasolar planet, which is a subclass of [MASK].", "sub_label": "extrasolar planet", "obj_label": "planet", "uuid": "ce03c289-e77f-4ad9-9559-cecff48f2be2", "rel_ix": "P279_105", "pattern_ix": 1}
+{"prompt": "extrasolar planet,  a subclass of [MASK].", "sub_label": "extrasolar planet", "obj_label": "planet", "uuid": "ce03c289-e77f-4ad9-9559-cecff48f2be2", "rel_ix": "P279_105", "pattern_ix": 2}
+{"prompt": "extrasolar planet,  a type of [MASK].", "sub_label": "extrasolar planet", "obj_label": "planet", "uuid": "ce03c289-e77f-4ad9-9559-cecff48f2be2", "rel_ix": "P279_105", "pattern_ix": 3}
+{"prompt": "standard French is a subclass of [MASK].", "sub_label": "standard French", "obj_label": "French", "uuid": "7d73ec16-d659-41cc-b070-ac588308d7a7", "rel_ix": "P279_110", "pattern_ix": 0}
+{"prompt": "standard French, which is a subclass of [MASK].", "sub_label": "standard French", "obj_label": "French", "uuid": "7d73ec16-d659-41cc-b070-ac588308d7a7", "rel_ix": "P279_110", "pattern_ix": 1}
+{"prompt": "standard French,  a subclass of [MASK].", "sub_label": "standard French", "obj_label": "French", "uuid": "7d73ec16-d659-41cc-b070-ac588308d7a7", "rel_ix": "P279_110", "pattern_ix": 2}
+{"prompt": "standard French,  a type of [MASK].", "sub_label": "standard French", "obj_label": "French", "uuid": "7d73ec16-d659-41cc-b070-ac588308d7a7", "rel_ix": "P279_110", "pattern_ix": 3}
+{"prompt": "Feijoada is a subclass of [MASK].", "sub_label": "Feijoada", "obj_label": "stew", "uuid": "8c44c766-5df9-4b47-8b2b-180bf9b3e39c", "rel_ix": "P279_113", "pattern_ix": 0}
+{"prompt": "Feijoada, which is a subclass of [MASK].", "sub_label": "Feijoada", "obj_label": "stew", "uuid": "8c44c766-5df9-4b47-8b2b-180bf9b3e39c", "rel_ix": "P279_113", "pattern_ix": 1}
+{"prompt": "Feijoada,  a subclass of [MASK].", "sub_label": "Feijoada", "obj_label": "stew", "uuid": "8c44c766-5df9-4b47-8b2b-180bf9b3e39c", "rel_ix": "P279_113", "pattern_ix": 2}
+{"prompt": "Feijoada,  a type of [MASK].", "sub_label": "Feijoada", "obj_label": "stew", "uuid": "8c44c766-5df9-4b47-8b2b-180bf9b3e39c", "rel_ix": "P279_113", "pattern_ix": 3}
+{"prompt": "New Haven-style pizza is a subclass of [MASK].", "sub_label": "New Haven-style pizza", "obj_label": "pizza", "uuid": "29454d4e-2946-4042-bc0e-abe31134e324", "rel_ix": "P279_114", "pattern_ix": 0}
+{"prompt": "New Haven-style pizza, which is a subclass of [MASK].", "sub_label": "New Haven-style pizza", "obj_label": "pizza", "uuid": "29454d4e-2946-4042-bc0e-abe31134e324", "rel_ix": "P279_114", "pattern_ix": 1}
+{"prompt": "New Haven-style pizza,  a subclass of [MASK].", "sub_label": "New Haven-style pizza", "obj_label": "pizza", "uuid": "29454d4e-2946-4042-bc0e-abe31134e324", "rel_ix": "P279_114", "pattern_ix": 2}
+{"prompt": "New Haven-style pizza,  a type of [MASK].", "sub_label": "New Haven-style pizza", "obj_label": "pizza", "uuid": "29454d4e-2946-4042-bc0e-abe31134e324", "rel_ix": "P279_114", "pattern_ix": 3}
+{"prompt": "unsaturated fat is a subclass of [MASK].", "sub_label": "unsaturated fat", "obj_label": "fat", "uuid": "cb455293-7e22-498d-a13c-074a4b64a9d2", "rel_ix": "P279_120", "pattern_ix": 0}
+{"prompt": "unsaturated fat, which is a subclass of [MASK].", "sub_label": "unsaturated fat", "obj_label": "fat", "uuid": "cb455293-7e22-498d-a13c-074a4b64a9d2", "rel_ix": "P279_120", "pattern_ix": 1}
+{"prompt": "unsaturated fat,  a subclass of [MASK].", "sub_label": "unsaturated fat", "obj_label": "fat", "uuid": "cb455293-7e22-498d-a13c-074a4b64a9d2", "rel_ix": "P279_120", "pattern_ix": 2}
+{"prompt": "unsaturated fat,  a type of [MASK].", "sub_label": "unsaturated fat", "obj_label": "fat", "uuid": "cb455293-7e22-498d-a13c-074a4b64a9d2", "rel_ix": "P279_120", "pattern_ix": 3}
+{"prompt": "OH-58 Kiowa is a subclass of [MASK].", "sub_label": "OH-58 Kiowa", "obj_label": "helicopter", "uuid": "95691803-93cc-46a7-a566-562b20cff366", "rel_ix": "P279_134", "pattern_ix": 0}
+{"prompt": "OH-58 Kiowa, which is a subclass of [MASK].", "sub_label": "OH-58 Kiowa", "obj_label": "helicopter", "uuid": "95691803-93cc-46a7-a566-562b20cff366", "rel_ix": "P279_134", "pattern_ix": 1}
+{"prompt": "OH-58 Kiowa,  a subclass of [MASK].", "sub_label": "OH-58 Kiowa", "obj_label": "helicopter", "uuid": "95691803-93cc-46a7-a566-562b20cff366", "rel_ix": "P279_134", "pattern_ix": 2}
+{"prompt": "OH-58 Kiowa,  a type of [MASK].", "sub_label": "OH-58 Kiowa", "obj_label": "helicopter", "uuid": "95691803-93cc-46a7-a566-562b20cff366", "rel_ix": "P279_134", "pattern_ix": 3}
+{"prompt": "Protestant Bible is a subclass of [MASK].", "sub_label": "Protestant Bible", "obj_label": "Bible", "uuid": "58d58f27-4d80-47ec-a672-71c55082b0e5", "rel_ix": "P279_139", "pattern_ix": 0}
+{"prompt": "Protestant Bible, which is a subclass of [MASK].", "sub_label": "Protestant Bible", "obj_label": "Bible", "uuid": "58d58f27-4d80-47ec-a672-71c55082b0e5", "rel_ix": "P279_139", "pattern_ix": 1}
+{"prompt": "Protestant Bible,  a subclass of [MASK].", "sub_label": "Protestant Bible", "obj_label": "Bible", "uuid": "58d58f27-4d80-47ec-a672-71c55082b0e5", "rel_ix": "P279_139", "pattern_ix": 2}
+{"prompt": "Protestant Bible,  a type of [MASK].", "sub_label": "Protestant Bible", "obj_label": "Bible", "uuid": "58d58f27-4d80-47ec-a672-71c55082b0e5", "rel_ix": "P279_139", "pattern_ix": 3}
+{"prompt": "robotic telescope is a subclass of [MASK].", "sub_label": "robotic telescope", "obj_label": "telescope", "uuid": "d6edb734-1348-4f87-8254-7182c5eccd2d", "rel_ix": "P279_158", "pattern_ix": 0}
+{"prompt": "robotic telescope, which is a subclass of [MASK].", "sub_label": "robotic telescope", "obj_label": "telescope", "uuid": "d6edb734-1348-4f87-8254-7182c5eccd2d", "rel_ix": "P279_158", "pattern_ix": 1}
+{"prompt": "robotic telescope,  a subclass of [MASK].", "sub_label": "robotic telescope", "obj_label": "telescope", "uuid": "d6edb734-1348-4f87-8254-7182c5eccd2d", "rel_ix": "P279_158", "pattern_ix": 2}
+{"prompt": "robotic telescope,  a type of [MASK].", "sub_label": "robotic telescope", "obj_label": "telescope", "uuid": "d6edb734-1348-4f87-8254-7182c5eccd2d", "rel_ix": "P279_158", "pattern_ix": 3}
+{"prompt": "social philosophy is a subclass of [MASK].", "sub_label": "social philosophy", "obj_label": "philosophy", "uuid": "31934281-f416-41aa-9c6f-8e481cc80b94", "rel_ix": "P279_161", "pattern_ix": 0}
+{"prompt": "social philosophy, which is a subclass of [MASK].", "sub_label": "social philosophy", "obj_label": "philosophy", "uuid": "31934281-f416-41aa-9c6f-8e481cc80b94", "rel_ix": "P279_161", "pattern_ix": 1}
+{"prompt": "social philosophy,  a subclass of [MASK].", "sub_label": "social philosophy", "obj_label": "philosophy", "uuid": "31934281-f416-41aa-9c6f-8e481cc80b94", "rel_ix": "P279_161", "pattern_ix": 2}
+{"prompt": "social philosophy,  a type of [MASK].", "sub_label": "social philosophy", "obj_label": "philosophy", "uuid": "31934281-f416-41aa-9c6f-8e481cc80b94", "rel_ix": "P279_161", "pattern_ix": 3}
+{"prompt": "SMAD family member 4 is a subclass of [MASK].", "sub_label": "SMAD family member 4", "obj_label": "protein", "uuid": "1b967d2f-9986-41c0-9738-bcc63e322634", "rel_ix": "P279_162", "pattern_ix": 0}
+{"prompt": "SMAD family member 4, which is a subclass of [MASK].", "sub_label": "SMAD family member 4", "obj_label": "protein", "uuid": "1b967d2f-9986-41c0-9738-bcc63e322634", "rel_ix": "P279_162", "pattern_ix": 1}
+{"prompt": "SMAD family member 4,  a subclass of [MASK].", "sub_label": "SMAD family member 4", "obj_label": "protein", "uuid": "1b967d2f-9986-41c0-9738-bcc63e322634", "rel_ix": "P279_162", "pattern_ix": 2}
+{"prompt": "SMAD family member 4,  a type of [MASK].", "sub_label": "SMAD family member 4", "obj_label": "protein", "uuid": "1b967d2f-9986-41c0-9738-bcc63e322634", "rel_ix": "P279_162", "pattern_ix": 3}
+{"prompt": "prison rape is a subclass of [MASK].", "sub_label": "prison rape", "obj_label": "rape", "uuid": "6783fccd-1fc5-4c09-b905-994b08d71cd1", "rel_ix": "P279_174", "pattern_ix": 0}
+{"prompt": "prison rape, which is a subclass of [MASK].", "sub_label": "prison rape", "obj_label": "rape", "uuid": "6783fccd-1fc5-4c09-b905-994b08d71cd1", "rel_ix": "P279_174", "pattern_ix": 1}
+{"prompt": "prison rape,  a subclass of [MASK].", "sub_label": "prison rape", "obj_label": "rape", "uuid": "6783fccd-1fc5-4c09-b905-994b08d71cd1", "rel_ix": "P279_174", "pattern_ix": 2}
+{"prompt": "prison rape,  a type of [MASK].", "sub_label": "prison rape", "obj_label": "rape", "uuid": "6783fccd-1fc5-4c09-b905-994b08d71cd1", "rel_ix": "P279_174", "pattern_ix": 3}
+{"prompt": "Envelope glycoprotein GP120 is a subclass of [MASK].", "sub_label": "Envelope glycoprotein GP120", "obj_label": "protein", "uuid": "196e72b0-b819-4720-89a3-db49e675cd7a", "rel_ix": "P279_178", "pattern_ix": 0}
+{"prompt": "Envelope glycoprotein GP120, which is a subclass of [MASK].", "sub_label": "Envelope glycoprotein GP120", "obj_label": "protein", "uuid": "196e72b0-b819-4720-89a3-db49e675cd7a", "rel_ix": "P279_178", "pattern_ix": 1}
+{"prompt": "Envelope glycoprotein GP120,  a subclass of [MASK].", "sub_label": "Envelope glycoprotein GP120", "obj_label": "protein", "uuid": "196e72b0-b819-4720-89a3-db49e675cd7a", "rel_ix": "P279_178", "pattern_ix": 2}
+{"prompt": "Envelope glycoprotein GP120,  a type of [MASK].", "sub_label": "Envelope glycoprotein GP120", "obj_label": "protein", "uuid": "196e72b0-b819-4720-89a3-db49e675cd7a", "rel_ix": "P279_178", "pattern_ix": 3}
+{"prompt": "gamete is a subclass of [MASK].", "sub_label": "gamete", "obj_label": "cell", "uuid": "d93968dd-bc33-43e1-8f4e-ca871e4ddee1", "rel_ix": "P279_181", "pattern_ix": 0}
+{"prompt": "gamete, which is a subclass of [MASK].", "sub_label": "gamete", "obj_label": "cell", "uuid": "d93968dd-bc33-43e1-8f4e-ca871e4ddee1", "rel_ix": "P279_181", "pattern_ix": 1}
+{"prompt": "gamete,  a subclass of [MASK].", "sub_label": "gamete", "obj_label": "cell", "uuid": "d93968dd-bc33-43e1-8f4e-ca871e4ddee1", "rel_ix": "P279_181", "pattern_ix": 2}
+{"prompt": "gamete,  a type of [MASK].", "sub_label": "gamete", "obj_label": "cell", "uuid": "d93968dd-bc33-43e1-8f4e-ca871e4ddee1", "rel_ix": "P279_181", "pattern_ix": 3}
+{"prompt": "Super Tuesday is a subclass of [MASK].", "sub_label": "Super Tuesday", "obj_label": "caucus", "uuid": "cd64ee86-a36f-4da9-9b8d-8a2ae98cbc6e", "rel_ix": "P279_197", "pattern_ix": 0}
+{"prompt": "Super Tuesday, which is a subclass of [MASK].", "sub_label": "Super Tuesday", "obj_label": "caucus", "uuid": "cd64ee86-a36f-4da9-9b8d-8a2ae98cbc6e", "rel_ix": "P279_197", "pattern_ix": 1}
+{"prompt": "Super Tuesday,  a subclass of [MASK].", "sub_label": "Super Tuesday", "obj_label": "caucus", "uuid": "cd64ee86-a36f-4da9-9b8d-8a2ae98cbc6e", "rel_ix": "P279_197", "pattern_ix": 2}
+{"prompt": "Super Tuesday,  a type of [MASK].", "sub_label": "Super Tuesday", "obj_label": "caucus", "uuid": "cd64ee86-a36f-4da9-9b8d-8a2ae98cbc6e", "rel_ix": "P279_197", "pattern_ix": 3}
+{"prompt": "AEG G.IV is a subclass of [MASK].", "sub_label": "AEG G.IV", "obj_label": "bomber", "uuid": "a05bafcb-62dc-472e-a35b-fed7752009a7", "rel_ix": "P279_206", "pattern_ix": 0}
+{"prompt": "AEG G.IV, which is a subclass of [MASK].", "sub_label": "AEG G.IV", "obj_label": "bomber", "uuid": "a05bafcb-62dc-472e-a35b-fed7752009a7", "rel_ix": "P279_206", "pattern_ix": 1}
+{"prompt": "AEG G.IV,  a subclass of [MASK].", "sub_label": "AEG G.IV", "obj_label": "bomber", "uuid": "a05bafcb-62dc-472e-a35b-fed7752009a7", "rel_ix": "P279_206", "pattern_ix": 2}
+{"prompt": "AEG G.IV,  a type of [MASK].", "sub_label": "AEG G.IV", "obj_label": "bomber", "uuid": "a05bafcb-62dc-472e-a35b-fed7752009a7", "rel_ix": "P279_206", "pattern_ix": 3}
+{"prompt": "Jewish studies is a subclass of [MASK].", "sub_label": "Jewish studies", "obj_label": "history", "uuid": "80f98a76-c155-4b8e-8ffd-917b3e869041", "rel_ix": "P279_209", "pattern_ix": 0}
+{"prompt": "Jewish studies, which is a subclass of [MASK].", "sub_label": "Jewish studies", "obj_label": "history", "uuid": "80f98a76-c155-4b8e-8ffd-917b3e869041", "rel_ix": "P279_209", "pattern_ix": 1}
+{"prompt": "Jewish studies,  a subclass of [MASK].", "sub_label": "Jewish studies", "obj_label": "history", "uuid": "80f98a76-c155-4b8e-8ffd-917b3e869041", "rel_ix": "P279_209", "pattern_ix": 2}
+{"prompt": "Jewish studies,  a type of [MASK].", "sub_label": "Jewish studies", "obj_label": "history", "uuid": "80f98a76-c155-4b8e-8ffd-917b3e869041", "rel_ix": "P279_209", "pattern_ix": 3}
+{"prompt": "Glutamate metabotropic receptor 2 is a subclass of [MASK].", "sub_label": "Glutamate metabotropic receptor 2", "obj_label": "protein", "uuid": "645d684f-6b8a-4692-ac38-bd9bab60e281", "rel_ix": "P279_210", "pattern_ix": 0}
+{"prompt": "Glutamate metabotropic receptor 2, which is a subclass of [MASK].", "sub_label": "Glutamate metabotropic receptor 2", "obj_label": "protein", "uuid": "645d684f-6b8a-4692-ac38-bd9bab60e281", "rel_ix": "P279_210", "pattern_ix": 1}
+{"prompt": "Glutamate metabotropic receptor 2,  a subclass of [MASK].", "sub_label": "Glutamate metabotropic receptor 2", "obj_label": "protein", "uuid": "645d684f-6b8a-4692-ac38-bd9bab60e281", "rel_ix": "P279_210", "pattern_ix": 2}
+{"prompt": "Glutamate metabotropic receptor 2,  a type of [MASK].", "sub_label": "Glutamate metabotropic receptor 2", "obj_label": "protein", "uuid": "645d684f-6b8a-4692-ac38-bd9bab60e281", "rel_ix": "P279_210", "pattern_ix": 3}
+{"prompt": "public toilet is a subclass of [MASK].", "sub_label": "public toilet", "obj_label": "toilet", "uuid": "95563816-52b4-4f0f-b31f-f8d1bcfd2f2e", "rel_ix": "P279_212", "pattern_ix": 0}
+{"prompt": "public toilet, which is a subclass of [MASK].", "sub_label": "public toilet", "obj_label": "toilet", "uuid": "95563816-52b4-4f0f-b31f-f8d1bcfd2f2e", "rel_ix": "P279_212", "pattern_ix": 1}
+{"prompt": "public toilet,  a subclass of [MASK].", "sub_label": "public toilet", "obj_label": "toilet", "uuid": "95563816-52b4-4f0f-b31f-f8d1bcfd2f2e", "rel_ix": "P279_212", "pattern_ix": 2}
+{"prompt": "public toilet,  a type of [MASK].", "sub_label": "public toilet", "obj_label": "toilet", "uuid": "95563816-52b4-4f0f-b31f-f8d1bcfd2f2e", "rel_ix": "P279_212", "pattern_ix": 3}
+{"prompt": "oxidoreductase is a subclass of [MASK].", "sub_label": "oxidoreductase", "obj_label": "enzyme", "uuid": "a41f60e8-77e1-4eee-a4cd-52cfd556cca8", "rel_ix": "P279_222", "pattern_ix": 0}
+{"prompt": "oxidoreductase, which is a subclass of [MASK].", "sub_label": "oxidoreductase", "obj_label": "enzyme", "uuid": "a41f60e8-77e1-4eee-a4cd-52cfd556cca8", "rel_ix": "P279_222", "pattern_ix": 1}
+{"prompt": "oxidoreductase,  a subclass of [MASK].", "sub_label": "oxidoreductase", "obj_label": "enzyme", "uuid": "a41f60e8-77e1-4eee-a4cd-52cfd556cca8", "rel_ix": "P279_222", "pattern_ix": 2}
+{"prompt": "oxidoreductase,  a type of [MASK].", "sub_label": "oxidoreductase", "obj_label": "enzyme", "uuid": "a41f60e8-77e1-4eee-a4cd-52cfd556cca8", "rel_ix": "P279_222", "pattern_ix": 3}
+{"prompt": "news presenter is a subclass of [MASK].", "sub_label": "news presenter", "obj_label": "presenter", "uuid": "4bcbd690-0ba1-441b-bbab-79932f6f9fd2", "rel_ix": "P279_223", "pattern_ix": 0}
+{"prompt": "news presenter, which is a subclass of [MASK].", "sub_label": "news presenter", "obj_label": "presenter", "uuid": "4bcbd690-0ba1-441b-bbab-79932f6f9fd2", "rel_ix": "P279_223", "pattern_ix": 1}
+{"prompt": "news presenter,  a subclass of [MASK].", "sub_label": "news presenter", "obj_label": "presenter", "uuid": "4bcbd690-0ba1-441b-bbab-79932f6f9fd2", "rel_ix": "P279_223", "pattern_ix": 2}
+{"prompt": "news presenter,  a type of [MASK].", "sub_label": "news presenter", "obj_label": "presenter", "uuid": "4bcbd690-0ba1-441b-bbab-79932f6f9fd2", "rel_ix": "P279_223", "pattern_ix": 3}
+{"prompt": "freight train is a subclass of [MASK].", "sub_label": "freight train", "obj_label": "train", "uuid": "701ee9a6-4ff8-4778-8b7f-7ecad432447a", "rel_ix": "P279_235", "pattern_ix": 0}
+{"prompt": "freight train, which is a subclass of [MASK].", "sub_label": "freight train", "obj_label": "train", "uuid": "701ee9a6-4ff8-4778-8b7f-7ecad432447a", "rel_ix": "P279_235", "pattern_ix": 1}
+{"prompt": "freight train,  a subclass of [MASK].", "sub_label": "freight train", "obj_label": "train", "uuid": "701ee9a6-4ff8-4778-8b7f-7ecad432447a", "rel_ix": "P279_235", "pattern_ix": 2}
+{"prompt": "freight train,  a type of [MASK].", "sub_label": "freight train", "obj_label": "train", "uuid": "701ee9a6-4ff8-4778-8b7f-7ecad432447a", "rel_ix": "P279_235", "pattern_ix": 3}
+{"prompt": "Internet censorship is a subclass of [MASK].", "sub_label": "Internet censorship", "obj_label": "censorship", "uuid": "0645994c-1da3-4fe4-bc59-ed1433467012", "rel_ix": "P279_237", "pattern_ix": 0}
+{"prompt": "Internet censorship, which is a subclass of [MASK].", "sub_label": "Internet censorship", "obj_label": "censorship", "uuid": "0645994c-1da3-4fe4-bc59-ed1433467012", "rel_ix": "P279_237", "pattern_ix": 1}
+{"prompt": "Internet censorship,  a subclass of [MASK].", "sub_label": "Internet censorship", "obj_label": "censorship", "uuid": "0645994c-1da3-4fe4-bc59-ed1433467012", "rel_ix": "P279_237", "pattern_ix": 2}
+{"prompt": "Internet censorship,  a type of [MASK].", "sub_label": "Internet censorship", "obj_label": "censorship", "uuid": "0645994c-1da3-4fe4-bc59-ed1433467012", "rel_ix": "P279_237", "pattern_ix": 3}
+{"prompt": "Supersynchronous orbit is a subclass of [MASK].", "sub_label": "Supersynchronous orbit", "obj_label": "orbit", "uuid": "3510908d-7282-4488-b99e-57528f0ddc4d", "rel_ix": "P279_245", "pattern_ix": 0}
+{"prompt": "Supersynchronous orbit, which is a subclass of [MASK].", "sub_label": "Supersynchronous orbit", "obj_label": "orbit", "uuid": "3510908d-7282-4488-b99e-57528f0ddc4d", "rel_ix": "P279_245", "pattern_ix": 1}
+{"prompt": "Supersynchronous orbit,  a subclass of [MASK].", "sub_label": "Supersynchronous orbit", "obj_label": "orbit", "uuid": "3510908d-7282-4488-b99e-57528f0ddc4d", "rel_ix": "P279_245", "pattern_ix": 2}
+{"prompt": "Supersynchronous orbit,  a type of [MASK].", "sub_label": "Supersynchronous orbit", "obj_label": "orbit", "uuid": "3510908d-7282-4488-b99e-57528f0ddc4d", "rel_ix": "P279_245", "pattern_ix": 3}
+{"prompt": "personal defense weapon is a subclass of [MASK].", "sub_label": "personal defense weapon", "obj_label": "firearm", "uuid": "5d5c4c07-4f14-4206-ab49-47567bd7e4d9", "rel_ix": "P279_246", "pattern_ix": 0}
+{"prompt": "personal defense weapon, which is a subclass of [MASK].", "sub_label": "personal defense weapon", "obj_label": "firearm", "uuid": "5d5c4c07-4f14-4206-ab49-47567bd7e4d9", "rel_ix": "P279_246", "pattern_ix": 1}
+{"prompt": "personal defense weapon,  a subclass of [MASK].", "sub_label": "personal defense weapon", "obj_label": "firearm", "uuid": "5d5c4c07-4f14-4206-ab49-47567bd7e4d9", "rel_ix": "P279_246", "pattern_ix": 2}
+{"prompt": "personal defense weapon,  a type of [MASK].", "sub_label": "personal defense weapon", "obj_label": "firearm", "uuid": "5d5c4c07-4f14-4206-ab49-47567bd7e4d9", "rel_ix": "P279_246", "pattern_ix": 3}
+{"prompt": "pedestal desk is a subclass of [MASK].", "sub_label": "pedestal desk", "obj_label": "desk", "uuid": "1745eaa9-63ce-4ce1-ab1a-c526cf17d64c", "rel_ix": "P279_251", "pattern_ix": 0}
+{"prompt": "pedestal desk, which is a subclass of [MASK].", "sub_label": "pedestal desk", "obj_label": "desk", "uuid": "1745eaa9-63ce-4ce1-ab1a-c526cf17d64c", "rel_ix": "P279_251", "pattern_ix": 1}
+{"prompt": "pedestal desk,  a subclass of [MASK].", "sub_label": "pedestal desk", "obj_label": "desk", "uuid": "1745eaa9-63ce-4ce1-ab1a-c526cf17d64c", "rel_ix": "P279_251", "pattern_ix": 2}
+{"prompt": "pedestal desk,  a type of [MASK].", "sub_label": "pedestal desk", "obj_label": "desk", "uuid": "1745eaa9-63ce-4ce1-ab1a-c526cf17d64c", "rel_ix": "P279_251", "pattern_ix": 3}
+{"prompt": "Roadster (bicycle) is a subclass of [MASK].", "sub_label": "Roadster (bicycle)", "obj_label": "bicycle", "uuid": "510978b9-2b16-4434-9195-eb725baba5b6", "rel_ix": "P279_252", "pattern_ix": 0}
+{"prompt": "Roadster (bicycle), which is a subclass of [MASK].", "sub_label": "Roadster (bicycle)", "obj_label": "bicycle", "uuid": "510978b9-2b16-4434-9195-eb725baba5b6", "rel_ix": "P279_252", "pattern_ix": 1}
+{"prompt": "Roadster (bicycle),  a subclass of [MASK].", "sub_label": "Roadster (bicycle)", "obj_label": "bicycle", "uuid": "510978b9-2b16-4434-9195-eb725baba5b6", "rel_ix": "P279_252", "pattern_ix": 2}
+{"prompt": "Roadster (bicycle),  a type of [MASK].", "sub_label": "Roadster (bicycle)", "obj_label": "bicycle", "uuid": "510978b9-2b16-4434-9195-eb725baba5b6", "rel_ix": "P279_252", "pattern_ix": 3}
+{"prompt": "Thromboxane A2 receptor is a subclass of [MASK].", "sub_label": "Thromboxane A2 receptor", "obj_label": "protein", "uuid": "01abd73c-c0c0-4d35-8ed1-5243343903ec", "rel_ix": "P279_253", "pattern_ix": 0}
+{"prompt": "Thromboxane A2 receptor, which is a subclass of [MASK].", "sub_label": "Thromboxane A2 receptor", "obj_label": "protein", "uuid": "01abd73c-c0c0-4d35-8ed1-5243343903ec", "rel_ix": "P279_253", "pattern_ix": 1}
+{"prompt": "Thromboxane A2 receptor,  a subclass of [MASK].", "sub_label": "Thromboxane A2 receptor", "obj_label": "protein", "uuid": "01abd73c-c0c0-4d35-8ed1-5243343903ec", "rel_ix": "P279_253", "pattern_ix": 2}
+{"prompt": "Thromboxane A2 receptor,  a type of [MASK].", "sub_label": "Thromboxane A2 receptor", "obj_label": "protein", "uuid": "01abd73c-c0c0-4d35-8ed1-5243343903ec", "rel_ix": "P279_253", "pattern_ix": 3}
+{"prompt": "Boston Marathon is a subclass of [MASK].", "sub_label": "Boston Marathon", "obj_label": "marathon", "uuid": "55aa1e4b-f2a6-4a3f-b64b-949bba5696ed", "rel_ix": "P279_254", "pattern_ix": 0}
+{"prompt": "Boston Marathon, which is a subclass of [MASK].", "sub_label": "Boston Marathon", "obj_label": "marathon", "uuid": "55aa1e4b-f2a6-4a3f-b64b-949bba5696ed", "rel_ix": "P279_254", "pattern_ix": 1}
+{"prompt": "Boston Marathon,  a subclass of [MASK].", "sub_label": "Boston Marathon", "obj_label": "marathon", "uuid": "55aa1e4b-f2a6-4a3f-b64b-949bba5696ed", "rel_ix": "P279_254", "pattern_ix": 2}
+{"prompt": "Boston Marathon,  a type of [MASK].", "sub_label": "Boston Marathon", "obj_label": "marathon", "uuid": "55aa1e4b-f2a6-4a3f-b64b-949bba5696ed", "rel_ix": "P279_254", "pattern_ix": 3}
+{"prompt": "ice stream is a subclass of [MASK].", "sub_label": "ice stream", "obj_label": "glacier", "uuid": "c271336b-9cb3-420f-b23c-6d26398af861", "rel_ix": "P279_257", "pattern_ix": 0}
+{"prompt": "ice stream, which is a subclass of [MASK].", "sub_label": "ice stream", "obj_label": "glacier", "uuid": "c271336b-9cb3-420f-b23c-6d26398af861", "rel_ix": "P279_257", "pattern_ix": 1}
+{"prompt": "ice stream,  a subclass of [MASK].", "sub_label": "ice stream", "obj_label": "glacier", "uuid": "c271336b-9cb3-420f-b23c-6d26398af861", "rel_ix": "P279_257", "pattern_ix": 2}
+{"prompt": "ice stream,  a type of [MASK].", "sub_label": "ice stream", "obj_label": "glacier", "uuid": "c271336b-9cb3-420f-b23c-6d26398af861", "rel_ix": "P279_257", "pattern_ix": 3}
+{"prompt": "multivariate statistics is a subclass of [MASK].", "sub_label": "multivariate statistics", "obj_label": "statistics", "uuid": "f795775c-cc4b-4443-872e-00bce6a2b9d6", "rel_ix": "P279_264", "pattern_ix": 0}
+{"prompt": "multivariate statistics, which is a subclass of [MASK].", "sub_label": "multivariate statistics", "obj_label": "statistics", "uuid": "f795775c-cc4b-4443-872e-00bce6a2b9d6", "rel_ix": "P279_264", "pattern_ix": 1}
+{"prompt": "multivariate statistics,  a subclass of [MASK].", "sub_label": "multivariate statistics", "obj_label": "statistics", "uuid": "f795775c-cc4b-4443-872e-00bce6a2b9d6", "rel_ix": "P279_264", "pattern_ix": 2}
+{"prompt": "multivariate statistics,  a type of [MASK].", "sub_label": "multivariate statistics", "obj_label": "statistics", "uuid": "f795775c-cc4b-4443-872e-00bce6a2b9d6", "rel_ix": "P279_264", "pattern_ix": 3}
+{"prompt": "cyberterrorism is a subclass of [MASK].", "sub_label": "cyberterrorism", "obj_label": "terrorism", "uuid": "76d940ab-c0d0-4fe4-b017-95dd2ea38f29", "rel_ix": "P279_270", "pattern_ix": 0}
+{"prompt": "cyberterrorism, which is a subclass of [MASK].", "sub_label": "cyberterrorism", "obj_label": "terrorism", "uuid": "76d940ab-c0d0-4fe4-b017-95dd2ea38f29", "rel_ix": "P279_270", "pattern_ix": 1}
+{"prompt": "cyberterrorism,  a subclass of [MASK].", "sub_label": "cyberterrorism", "obj_label": "terrorism", "uuid": "76d940ab-c0d0-4fe4-b017-95dd2ea38f29", "rel_ix": "P279_270", "pattern_ix": 2}
+{"prompt": "cyberterrorism,  a type of [MASK].", "sub_label": "cyberterrorism", "obj_label": "terrorism", "uuid": "76d940ab-c0d0-4fe4-b017-95dd2ea38f29", "rel_ix": "P279_270", "pattern_ix": 3}
+{"prompt": "Transboundary river is a subclass of [MASK].", "sub_label": "Transboundary river", "obj_label": "river", "uuid": "270b58ac-8d19-420f-8c49-0d77de54959f", "rel_ix": "P279_272", "pattern_ix": 0}
+{"prompt": "Transboundary river, which is a subclass of [MASK].", "sub_label": "Transboundary river", "obj_label": "river", "uuid": "270b58ac-8d19-420f-8c49-0d77de54959f", "rel_ix": "P279_272", "pattern_ix": 1}
+{"prompt": "Transboundary river,  a subclass of [MASK].", "sub_label": "Transboundary river", "obj_label": "river", "uuid": "270b58ac-8d19-420f-8c49-0d77de54959f", "rel_ix": "P279_272", "pattern_ix": 2}
+{"prompt": "Transboundary river,  a type of [MASK].", "sub_label": "Transboundary river", "obj_label": "river", "uuid": "270b58ac-8d19-420f-8c49-0d77de54959f", "rel_ix": "P279_272", "pattern_ix": 3}
+{"prompt": "character actor is a subclass of [MASK].", "sub_label": "character actor", "obj_label": "actor", "uuid": "b46e5dd8-f72f-481b-aa15-f134a5ae8488", "rel_ix": "P279_280", "pattern_ix": 0}
+{"prompt": "character actor, which is a subclass of [MASK].", "sub_label": "character actor", "obj_label": "actor", "uuid": "b46e5dd8-f72f-481b-aa15-f134a5ae8488", "rel_ix": "P279_280", "pattern_ix": 1}
+{"prompt": "character actor,  a subclass of [MASK].", "sub_label": "character actor", "obj_label": "actor", "uuid": "b46e5dd8-f72f-481b-aa15-f134a5ae8488", "rel_ix": "P279_280", "pattern_ix": 2}
+{"prompt": "character actor,  a type of [MASK].", "sub_label": "character actor", "obj_label": "actor", "uuid": "b46e5dd8-f72f-481b-aa15-f134a5ae8488", "rel_ix": "P279_280", "pattern_ix": 3}
+{"prompt": "manual transmission is a subclass of [MASK].", "sub_label": "manual transmission", "obj_label": "transmission", "uuid": "2091aae1-9bda-4caf-a444-1b8622001cf2", "rel_ix": "P279_284", "pattern_ix": 0}
+{"prompt": "manual transmission, which is a subclass of [MASK].", "sub_label": "manual transmission", "obj_label": "transmission", "uuid": "2091aae1-9bda-4caf-a444-1b8622001cf2", "rel_ix": "P279_284", "pattern_ix": 1}
+{"prompt": "manual transmission,  a subclass of [MASK].", "sub_label": "manual transmission", "obj_label": "transmission", "uuid": "2091aae1-9bda-4caf-a444-1b8622001cf2", "rel_ix": "P279_284", "pattern_ix": 2}
+{"prompt": "manual transmission,  a type of [MASK].", "sub_label": "manual transmission", "obj_label": "transmission", "uuid": "2091aae1-9bda-4caf-a444-1b8622001cf2", "rel_ix": "P279_284", "pattern_ix": 3}
+{"prompt": "calendaring software is a subclass of [MASK].", "sub_label": "calendaring software", "obj_label": "application", "uuid": "7e03b5e1-b8bd-434e-9265-a67df6d1093e", "rel_ix": "P279_285", "pattern_ix": 0}
+{"prompt": "calendaring software, which is a subclass of [MASK].", "sub_label": "calendaring software", "obj_label": "application", "uuid": "7e03b5e1-b8bd-434e-9265-a67df6d1093e", "rel_ix": "P279_285", "pattern_ix": 1}
+{"prompt": "calendaring software,  a subclass of [MASK].", "sub_label": "calendaring software", "obj_label": "application", "uuid": "7e03b5e1-b8bd-434e-9265-a67df6d1093e", "rel_ix": "P279_285", "pattern_ix": 2}
+{"prompt": "calendaring software,  a type of [MASK].", "sub_label": "calendaring software", "obj_label": "application", "uuid": "7e03b5e1-b8bd-434e-9265-a67df6d1093e", "rel_ix": "P279_285", "pattern_ix": 3}
+{"prompt": "old-growth forest is a subclass of [MASK].", "sub_label": "old-growth forest", "obj_label": "forest", "uuid": "d40272e5-653b-4a4d-a113-04925357577b", "rel_ix": "P279_286", "pattern_ix": 0}
+{"prompt": "old-growth forest, which is a subclass of [MASK].", "sub_label": "old-growth forest", "obj_label": "forest", "uuid": "d40272e5-653b-4a4d-a113-04925357577b", "rel_ix": "P279_286", "pattern_ix": 1}
+{"prompt": "old-growth forest,  a subclass of [MASK].", "sub_label": "old-growth forest", "obj_label": "forest", "uuid": "d40272e5-653b-4a4d-a113-04925357577b", "rel_ix": "P279_286", "pattern_ix": 2}
+{"prompt": "old-growth forest,  a type of [MASK].", "sub_label": "old-growth forest", "obj_label": "forest", "uuid": "d40272e5-653b-4a4d-a113-04925357577b", "rel_ix": "P279_286", "pattern_ix": 3}
+{"prompt": "bouldering is a subclass of [MASK].", "sub_label": "bouldering", "obj_label": "climbing", "uuid": "8a6176b4-9791-4d41-b128-25be1c54b791", "rel_ix": "P279_289", "pattern_ix": 0}
+{"prompt": "bouldering, which is a subclass of [MASK].", "sub_label": "bouldering", "obj_label": "climbing", "uuid": "8a6176b4-9791-4d41-b128-25be1c54b791", "rel_ix": "P279_289", "pattern_ix": 1}
+{"prompt": "bouldering,  a subclass of [MASK].", "sub_label": "bouldering", "obj_label": "climbing", "uuid": "8a6176b4-9791-4d41-b128-25be1c54b791", "rel_ix": "P279_289", "pattern_ix": 2}
+{"prompt": "bouldering,  a type of [MASK].", "sub_label": "bouldering", "obj_label": "climbing", "uuid": "8a6176b4-9791-4d41-b128-25be1c54b791", "rel_ix": "P279_289", "pattern_ix": 3}
+{"prompt": "salmorejo is a subclass of [MASK].", "sub_label": "salmorejo", "obj_label": "soup", "uuid": "001fe5ef-ef83-4ca4-8c10-c83194138f52", "rel_ix": "P279_294", "pattern_ix": 0}
+{"prompt": "salmorejo, which is a subclass of [MASK].", "sub_label": "salmorejo", "obj_label": "soup", "uuid": "001fe5ef-ef83-4ca4-8c10-c83194138f52", "rel_ix": "P279_294", "pattern_ix": 1}
+{"prompt": "salmorejo,  a subclass of [MASK].", "sub_label": "salmorejo", "obj_label": "soup", "uuid": "001fe5ef-ef83-4ca4-8c10-c83194138f52", "rel_ix": "P279_294", "pattern_ix": 2}
+{"prompt": "salmorejo,  a type of [MASK].", "sub_label": "salmorejo", "obj_label": "soup", "uuid": "001fe5ef-ef83-4ca4-8c10-c83194138f52", "rel_ix": "P279_294", "pattern_ix": 3}
+{"prompt": "shinty is a subclass of [MASK].", "sub_label": "shinty", "obj_label": "basketball", "uuid": "d0095076-6db1-4002-84be-049b28a17d57", "rel_ix": "P279_299", "pattern_ix": 0}
+{"prompt": "shinty, which is a subclass of [MASK].", "sub_label": "shinty", "obj_label": "basketball", "uuid": "d0095076-6db1-4002-84be-049b28a17d57", "rel_ix": "P279_299", "pattern_ix": 1}
+{"prompt": "shinty,  a subclass of [MASK].", "sub_label": "shinty", "obj_label": "basketball", "uuid": "d0095076-6db1-4002-84be-049b28a17d57", "rel_ix": "P279_299", "pattern_ix": 2}
+{"prompt": "shinty,  a type of [MASK].", "sub_label": "shinty", "obj_label": "basketball", "uuid": "d0095076-6db1-4002-84be-049b28a17d57", "rel_ix": "P279_299", "pattern_ix": 3}
+{"prompt": "Soto ayam is a subclass of [MASK].", "sub_label": "Soto ayam", "obj_label": "soup", "uuid": "678258ec-3dd5-4d0c-b7d6-baf0499ca129", "rel_ix": "P279_307", "pattern_ix": 0}
+{"prompt": "Soto ayam, which is a subclass of [MASK].", "sub_label": "Soto ayam", "obj_label": "soup", "uuid": "678258ec-3dd5-4d0c-b7d6-baf0499ca129", "rel_ix": "P279_307", "pattern_ix": 1}
+{"prompt": "Soto ayam,  a subclass of [MASK].", "sub_label": "Soto ayam", "obj_label": "soup", "uuid": "678258ec-3dd5-4d0c-b7d6-baf0499ca129", "rel_ix": "P279_307", "pattern_ix": 2}
+{"prompt": "Soto ayam,  a type of [MASK].", "sub_label": "Soto ayam", "obj_label": "soup", "uuid": "678258ec-3dd5-4d0c-b7d6-baf0499ca129", "rel_ix": "P279_307", "pattern_ix": 3}
+{"prompt": "beam bridge is a subclass of [MASK].", "sub_label": "beam bridge", "obj_label": "bridge", "uuid": "ed72759e-d6e8-475b-a71c-ae5923b67c0f", "rel_ix": "P279_309", "pattern_ix": 0}
+{"prompt": "beam bridge, which is a subclass of [MASK].", "sub_label": "beam bridge", "obj_label": "bridge", "uuid": "ed72759e-d6e8-475b-a71c-ae5923b67c0f", "rel_ix": "P279_309", "pattern_ix": 1}
+{"prompt": "beam bridge,  a subclass of [MASK].", "sub_label": "beam bridge", "obj_label": "bridge", "uuid": "ed72759e-d6e8-475b-a71c-ae5923b67c0f", "rel_ix": "P279_309", "pattern_ix": 2}
+{"prompt": "beam bridge,  a type of [MASK].", "sub_label": "beam bridge", "obj_label": "bridge", "uuid": "ed72759e-d6e8-475b-a71c-ae5923b67c0f", "rel_ix": "P279_309", "pattern_ix": 3}
+{"prompt": "four-centred arch is a subclass of [MASK].", "sub_label": "four-centred arch", "obj_label": "arch", "uuid": "37d6f467-396e-45b0-bf42-b466a7458358", "rel_ix": "P279_310", "pattern_ix": 0}
+{"prompt": "four-centred arch, which is a subclass of [MASK].", "sub_label": "four-centred arch", "obj_label": "arch", "uuid": "37d6f467-396e-45b0-bf42-b466a7458358", "rel_ix": "P279_310", "pattern_ix": 1}
+{"prompt": "four-centred arch,  a subclass of [MASK].", "sub_label": "four-centred arch", "obj_label": "arch", "uuid": "37d6f467-396e-45b0-bf42-b466a7458358", "rel_ix": "P279_310", "pattern_ix": 2}
+{"prompt": "four-centred arch,  a type of [MASK].", "sub_label": "four-centred arch", "obj_label": "arch", "uuid": "37d6f467-396e-45b0-bf42-b466a7458358", "rel_ix": "P279_310", "pattern_ix": 3}
+{"prompt": "waterboarding is a subclass of [MASK].", "sub_label": "waterboarding", "obj_label": "torture", "uuid": "6a927003-4c9e-4834-ad56-d8b4d632c5d1", "rel_ix": "P279_315", "pattern_ix": 0}
+{"prompt": "waterboarding, which is a subclass of [MASK].", "sub_label": "waterboarding", "obj_label": "torture", "uuid": "6a927003-4c9e-4834-ad56-d8b4d632c5d1", "rel_ix": "P279_315", "pattern_ix": 1}
+{"prompt": "waterboarding,  a subclass of [MASK].", "sub_label": "waterboarding", "obj_label": "torture", "uuid": "6a927003-4c9e-4834-ad56-d8b4d632c5d1", "rel_ix": "P279_315", "pattern_ix": 2}
+{"prompt": "waterboarding,  a type of [MASK].", "sub_label": "waterboarding", "obj_label": "torture", "uuid": "6a927003-4c9e-4834-ad56-d8b4d632c5d1", "rel_ix": "P279_315", "pattern_ix": 3}
+{"prompt": "McClellan saddle is a subclass of [MASK].", "sub_label": "McClellan saddle", "obj_label": "saddle", "uuid": "ab09f2d1-059a-474c-bdee-a4ea1f5fa18b", "rel_ix": "P279_321", "pattern_ix": 0}
+{"prompt": "McClellan saddle, which is a subclass of [MASK].", "sub_label": "McClellan saddle", "obj_label": "saddle", "uuid": "ab09f2d1-059a-474c-bdee-a4ea1f5fa18b", "rel_ix": "P279_321", "pattern_ix": 1}
+{"prompt": "McClellan saddle,  a subclass of [MASK].", "sub_label": "McClellan saddle", "obj_label": "saddle", "uuid": "ab09f2d1-059a-474c-bdee-a4ea1f5fa18b", "rel_ix": "P279_321", "pattern_ix": 2}
+{"prompt": "McClellan saddle,  a type of [MASK].", "sub_label": "McClellan saddle", "obj_label": "saddle", "uuid": "ab09f2d1-059a-474c-bdee-a4ea1f5fa18b", "rel_ix": "P279_321", "pattern_ix": 3}
+{"prompt": "Hohmann transfer orbit is a subclass of [MASK].", "sub_label": "Hohmann transfer orbit", "obj_label": "orbit", "uuid": "16d37202-d46c-4a2d-8dbe-231fa30011ad", "rel_ix": "P279_329", "pattern_ix": 0}
+{"prompt": "Hohmann transfer orbit, which is a subclass of [MASK].", "sub_label": "Hohmann transfer orbit", "obj_label": "orbit", "uuid": "16d37202-d46c-4a2d-8dbe-231fa30011ad", "rel_ix": "P279_329", "pattern_ix": 1}
+{"prompt": "Hohmann transfer orbit,  a subclass of [MASK].", "sub_label": "Hohmann transfer orbit", "obj_label": "orbit", "uuid": "16d37202-d46c-4a2d-8dbe-231fa30011ad", "rel_ix": "P279_329", "pattern_ix": 2}
+{"prompt": "Hohmann transfer orbit,  a type of [MASK].", "sub_label": "Hohmann transfer orbit", "obj_label": "orbit", "uuid": "16d37202-d46c-4a2d-8dbe-231fa30011ad", "rel_ix": "P279_329", "pattern_ix": 3}
+{"prompt": "natural law is a subclass of [MASK].", "sub_label": "natural law", "obj_label": "law", "uuid": "be06b88d-7d08-4a8f-9aed-f0b47fda2f22", "rel_ix": "P279_331", "pattern_ix": 0}
+{"prompt": "natural law, which is a subclass of [MASK].", "sub_label": "natural law", "obj_label": "law", "uuid": "be06b88d-7d08-4a8f-9aed-f0b47fda2f22", "rel_ix": "P279_331", "pattern_ix": 1}
+{"prompt": "natural law,  a subclass of [MASK].", "sub_label": "natural law", "obj_label": "law", "uuid": "be06b88d-7d08-4a8f-9aed-f0b47fda2f22", "rel_ix": "P279_331", "pattern_ix": 2}
+{"prompt": "natural law,  a type of [MASK].", "sub_label": "natural law", "obj_label": "law", "uuid": "be06b88d-7d08-4a8f-9aed-f0b47fda2f22", "rel_ix": "P279_331", "pattern_ix": 3}
+{"prompt": "presbyter is a subclass of [MASK].", "sub_label": "presbyter", "obj_label": "priest", "uuid": "b4391e06-2469-4aea-8b8e-32105056b218", "rel_ix": "P279_336", "pattern_ix": 0}
+{"prompt": "presbyter, which is a subclass of [MASK].", "sub_label": "presbyter", "obj_label": "priest", "uuid": "b4391e06-2469-4aea-8b8e-32105056b218", "rel_ix": "P279_336", "pattern_ix": 1}
+{"prompt": "presbyter,  a subclass of [MASK].", "sub_label": "presbyter", "obj_label": "priest", "uuid": "b4391e06-2469-4aea-8b8e-32105056b218", "rel_ix": "P279_336", "pattern_ix": 2}
+{"prompt": "presbyter,  a type of [MASK].", "sub_label": "presbyter", "obj_label": "priest", "uuid": "b4391e06-2469-4aea-8b8e-32105056b218", "rel_ix": "P279_336", "pattern_ix": 3}
+{"prompt": "succubus is a subclass of [MASK].", "sub_label": "succubus", "obj_label": "demon", "uuid": "e308c059-0161-4065-a00f-83f7c5e80274", "rel_ix": "P279_343", "pattern_ix": 0}
+{"prompt": "succubus, which is a subclass of [MASK].", "sub_label": "succubus", "obj_label": "demon", "uuid": "e308c059-0161-4065-a00f-83f7c5e80274", "rel_ix": "P279_343", "pattern_ix": 1}
+{"prompt": "succubus,  a subclass of [MASK].", "sub_label": "succubus", "obj_label": "demon", "uuid": "e308c059-0161-4065-a00f-83f7c5e80274", "rel_ix": "P279_343", "pattern_ix": 2}
+{"prompt": "succubus,  a type of [MASK].", "sub_label": "succubus", "obj_label": "demon", "uuid": "e308c059-0161-4065-a00f-83f7c5e80274", "rel_ix": "P279_343", "pattern_ix": 3}
+{"prompt": "tomato sauce is a subclass of [MASK].", "sub_label": "tomato sauce", "obj_label": "sauce", "uuid": "f9343588-52fb-4816-95ec-1785b12c4d4c", "rel_ix": "P279_348", "pattern_ix": 0}
+{"prompt": "tomato sauce, which is a subclass of [MASK].", "sub_label": "tomato sauce", "obj_label": "sauce", "uuid": "f9343588-52fb-4816-95ec-1785b12c4d4c", "rel_ix": "P279_348", "pattern_ix": 1}
+{"prompt": "tomato sauce,  a subclass of [MASK].", "sub_label": "tomato sauce", "obj_label": "sauce", "uuid": "f9343588-52fb-4816-95ec-1785b12c4d4c", "rel_ix": "P279_348", "pattern_ix": 2}
+{"prompt": "tomato sauce,  a type of [MASK].", "sub_label": "tomato sauce", "obj_label": "sauce", "uuid": "f9343588-52fb-4816-95ec-1785b12c4d4c", "rel_ix": "P279_348", "pattern_ix": 3}
+{"prompt": "euthanasia is a subclass of [MASK].", "sub_label": "euthanasia", "obj_label": "homicide", "uuid": "c9d6ab75-d384-4e0e-aff8-3983424a84bd", "rel_ix": "P279_350", "pattern_ix": 0}
+{"prompt": "euthanasia, which is a subclass of [MASK].", "sub_label": "euthanasia", "obj_label": "homicide", "uuid": "c9d6ab75-d384-4e0e-aff8-3983424a84bd", "rel_ix": "P279_350", "pattern_ix": 1}
+{"prompt": "euthanasia,  a subclass of [MASK].", "sub_label": "euthanasia", "obj_label": "homicide", "uuid": "c9d6ab75-d384-4e0e-aff8-3983424a84bd", "rel_ix": "P279_350", "pattern_ix": 2}
+{"prompt": "euthanasia,  a type of [MASK].", "sub_label": "euthanasia", "obj_label": "homicide", "uuid": "c9d6ab75-d384-4e0e-aff8-3983424a84bd", "rel_ix": "P279_350", "pattern_ix": 3}
+{"prompt": "Fms related tyrosine kinase 3 is a subclass of [MASK].", "sub_label": "Fms related tyrosine kinase 3", "obj_label": "protein", "uuid": "189b30ff-0735-4328-aeda-1eabd0aea12d", "rel_ix": "P279_352", "pattern_ix": 0}
+{"prompt": "Fms related tyrosine kinase 3, which is a subclass of [MASK].", "sub_label": "Fms related tyrosine kinase 3", "obj_label": "protein", "uuid": "189b30ff-0735-4328-aeda-1eabd0aea12d", "rel_ix": "P279_352", "pattern_ix": 1}
+{"prompt": "Fms related tyrosine kinase 3,  a subclass of [MASK].", "sub_label": "Fms related tyrosine kinase 3", "obj_label": "protein", "uuid": "189b30ff-0735-4328-aeda-1eabd0aea12d", "rel_ix": "P279_352", "pattern_ix": 2}
+{"prompt": "Fms related tyrosine kinase 3,  a type of [MASK].", "sub_label": "Fms related tyrosine kinase 3", "obj_label": "protein", "uuid": "189b30ff-0735-4328-aeda-1eabd0aea12d", "rel_ix": "P279_352", "pattern_ix": 3}
+{"prompt": "Ornithine carbamoyltransferase is a subclass of [MASK].", "sub_label": "Ornithine carbamoyltransferase", "obj_label": "protein", "uuid": "8cc4a932-cb55-41be-998c-e00c4cb981e2", "rel_ix": "P279_353", "pattern_ix": 0}
+{"prompt": "Ornithine carbamoyltransferase, which is a subclass of [MASK].", "sub_label": "Ornithine carbamoyltransferase", "obj_label": "protein", "uuid": "8cc4a932-cb55-41be-998c-e00c4cb981e2", "rel_ix": "P279_353", "pattern_ix": 1}
+{"prompt": "Ornithine carbamoyltransferase,  a subclass of [MASK].", "sub_label": "Ornithine carbamoyltransferase", "obj_label": "protein", "uuid": "8cc4a932-cb55-41be-998c-e00c4cb981e2", "rel_ix": "P279_353", "pattern_ix": 2}
+{"prompt": "Ornithine carbamoyltransferase,  a type of [MASK].", "sub_label": "Ornithine carbamoyltransferase", "obj_label": "protein", "uuid": "8cc4a932-cb55-41be-998c-e00c4cb981e2", "rel_ix": "P279_353", "pattern_ix": 3}
+{"prompt": "subtraction is a subclass of [MASK].", "sub_label": "subtraction", "obj_label": "operation", "uuid": "e0de98b8-8495-4a32-9578-7e0375533a71", "rel_ix": "P279_354", "pattern_ix": 0}
+{"prompt": "subtraction, which is a subclass of [MASK].", "sub_label": "subtraction", "obj_label": "operation", "uuid": "e0de98b8-8495-4a32-9578-7e0375533a71", "rel_ix": "P279_354", "pattern_ix": 1}
+{"prompt": "subtraction,  a subclass of [MASK].", "sub_label": "subtraction", "obj_label": "operation", "uuid": "e0de98b8-8495-4a32-9578-7e0375533a71", "rel_ix": "P279_354", "pattern_ix": 2}
+{"prompt": "subtraction,  a type of [MASK].", "sub_label": "subtraction", "obj_label": "operation", "uuid": "e0de98b8-8495-4a32-9578-7e0375533a71", "rel_ix": "P279_354", "pattern_ix": 3}
+{"prompt": "enteritis is a subclass of [MASK].", "sub_label": "enteritis", "obj_label": "inflammation", "uuid": "414f6a27-fe81-4232-b3b2-40d7377bf2eb", "rel_ix": "P279_362", "pattern_ix": 0}
+{"prompt": "enteritis, which is a subclass of [MASK].", "sub_label": "enteritis", "obj_label": "inflammation", "uuid": "414f6a27-fe81-4232-b3b2-40d7377bf2eb", "rel_ix": "P279_362", "pattern_ix": 1}
+{"prompt": "enteritis,  a subclass of [MASK].", "sub_label": "enteritis", "obj_label": "inflammation", "uuid": "414f6a27-fe81-4232-b3b2-40d7377bf2eb", "rel_ix": "P279_362", "pattern_ix": 2}
+{"prompt": "enteritis,  a type of [MASK].", "sub_label": "enteritis", "obj_label": "inflammation", "uuid": "414f6a27-fe81-4232-b3b2-40d7377bf2eb", "rel_ix": "P279_362", "pattern_ix": 3}
+{"prompt": "technical communication is a subclass of [MASK].", "sub_label": "technical communication", "obj_label": "communication", "uuid": "dd6393db-498a-4e25-9655-e665c0052af9", "rel_ix": "P279_366", "pattern_ix": 0}
+{"prompt": "technical communication, which is a subclass of [MASK].", "sub_label": "technical communication", "obj_label": "communication", "uuid": "dd6393db-498a-4e25-9655-e665c0052af9", "rel_ix": "P279_366", "pattern_ix": 1}
+{"prompt": "technical communication,  a subclass of [MASK].", "sub_label": "technical communication", "obj_label": "communication", "uuid": "dd6393db-498a-4e25-9655-e665c0052af9", "rel_ix": "P279_366", "pattern_ix": 2}
+{"prompt": "technical communication,  a type of [MASK].", "sub_label": "technical communication", "obj_label": "communication", "uuid": "dd6393db-498a-4e25-9655-e665c0052af9", "rel_ix": "P279_366", "pattern_ix": 3}
+{"prompt": "murder is a subclass of [MASK].", "sub_label": "murder", "obj_label": "homicide", "uuid": "d1c1d998-14b4-43c2-944c-b9abceddc875", "rel_ix": "P279_369", "pattern_ix": 0}
+{"prompt": "murder, which is a subclass of [MASK].", "sub_label": "murder", "obj_label": "homicide", "uuid": "d1c1d998-14b4-43c2-944c-b9abceddc875", "rel_ix": "P279_369", "pattern_ix": 1}
+{"prompt": "murder,  a subclass of [MASK].", "sub_label": "murder", "obj_label": "homicide", "uuid": "d1c1d998-14b4-43c2-944c-b9abceddc875", "rel_ix": "P279_369", "pattern_ix": 2}
+{"prompt": "murder,  a type of [MASK].", "sub_label": "murder", "obj_label": "homicide", "uuid": "d1c1d998-14b4-43c2-944c-b9abceddc875", "rel_ix": "P279_369", "pattern_ix": 3}
+{"prompt": "Czech wine is a subclass of [MASK].", "sub_label": "Czech wine", "obj_label": "wine", "uuid": "eda8b660-23f3-45f0-8fe6-316c0f33b5a8", "rel_ix": "P279_370", "pattern_ix": 0}
+{"prompt": "Czech wine, which is a subclass of [MASK].", "sub_label": "Czech wine", "obj_label": "wine", "uuid": "eda8b660-23f3-45f0-8fe6-316c0f33b5a8", "rel_ix": "P279_370", "pattern_ix": 1}
+{"prompt": "Czech wine,  a subclass of [MASK].", "sub_label": "Czech wine", "obj_label": "wine", "uuid": "eda8b660-23f3-45f0-8fe6-316c0f33b5a8", "rel_ix": "P279_370", "pattern_ix": 2}
+{"prompt": "Czech wine,  a type of [MASK].", "sub_label": "Czech wine", "obj_label": "wine", "uuid": "eda8b660-23f3-45f0-8fe6-316c0f33b5a8", "rel_ix": "P279_370", "pattern_ix": 3}
+{"prompt": "architect is a subclass of [MASK].", "sub_label": "architect", "obj_label": "artist", "uuid": "a927ff56-6e43-4c0e-86ba-f6b9c6ce18c8", "rel_ix": "P279_372", "pattern_ix": 0}
+{"prompt": "architect, which is a subclass of [MASK].", "sub_label": "architect", "obj_label": "artist", "uuid": "a927ff56-6e43-4c0e-86ba-f6b9c6ce18c8", "rel_ix": "P279_372", "pattern_ix": 1}
+{"prompt": "architect,  a subclass of [MASK].", "sub_label": "architect", "obj_label": "artist", "uuid": "a927ff56-6e43-4c0e-86ba-f6b9c6ce18c8", "rel_ix": "P279_372", "pattern_ix": 2}
+{"prompt": "architect,  a type of [MASK].", "sub_label": "architect", "obj_label": "artist", "uuid": "a927ff56-6e43-4c0e-86ba-f6b9c6ce18c8", "rel_ix": "P279_372", "pattern_ix": 3}
+{"prompt": "anthology film is a subclass of [MASK].", "sub_label": "anthology film", "obj_label": "anthology", "uuid": "6a8b44ac-b1aa-472b-8838-15dd228bb7b7", "rel_ix": "P279_380", "pattern_ix": 0}
+{"prompt": "anthology film, which is a subclass of [MASK].", "sub_label": "anthology film", "obj_label": "anthology", "uuid": "6a8b44ac-b1aa-472b-8838-15dd228bb7b7", "rel_ix": "P279_380", "pattern_ix": 1}
+{"prompt": "anthology film,  a subclass of [MASK].", "sub_label": "anthology film", "obj_label": "anthology", "uuid": "6a8b44ac-b1aa-472b-8838-15dd228bb7b7", "rel_ix": "P279_380", "pattern_ix": 2}
+{"prompt": "anthology film,  a type of [MASK].", "sub_label": "anthology film", "obj_label": "anthology", "uuid": "6a8b44ac-b1aa-472b-8838-15dd228bb7b7", "rel_ix": "P279_380", "pattern_ix": 3}
+{"prompt": "masa is a subclass of [MASK].", "sub_label": "masa", "obj_label": "dough", "uuid": "8dbb74dd-cf26-4b8f-b350-4505a5bb8008", "rel_ix": "P279_390", "pattern_ix": 0}
+{"prompt": "masa, which is a subclass of [MASK].", "sub_label": "masa", "obj_label": "dough", "uuid": "8dbb74dd-cf26-4b8f-b350-4505a5bb8008", "rel_ix": "P279_390", "pattern_ix": 1}
+{"prompt": "masa,  a subclass of [MASK].", "sub_label": "masa", "obj_label": "dough", "uuid": "8dbb74dd-cf26-4b8f-b350-4505a5bb8008", "rel_ix": "P279_390", "pattern_ix": 2}
+{"prompt": "masa,  a type of [MASK].", "sub_label": "masa", "obj_label": "dough", "uuid": "8dbb74dd-cf26-4b8f-b350-4505a5bb8008", "rel_ix": "P279_390", "pattern_ix": 3}
+{"prompt": "worker cooperative is a subclass of [MASK].", "sub_label": "worker cooperative", "obj_label": "cooperative", "uuid": "0021e12a-568f-45ed-a7d0-1da8ae07a429", "rel_ix": "P279_392", "pattern_ix": 0}
+{"prompt": "worker cooperative, which is a subclass of [MASK].", "sub_label": "worker cooperative", "obj_label": "cooperative", "uuid": "0021e12a-568f-45ed-a7d0-1da8ae07a429", "rel_ix": "P279_392", "pattern_ix": 1}
+{"prompt": "worker cooperative,  a subclass of [MASK].", "sub_label": "worker cooperative", "obj_label": "cooperative", "uuid": "0021e12a-568f-45ed-a7d0-1da8ae07a429", "rel_ix": "P279_392", "pattern_ix": 2}
+{"prompt": "worker cooperative,  a type of [MASK].", "sub_label": "worker cooperative", "obj_label": "cooperative", "uuid": "0021e12a-568f-45ed-a7d0-1da8ae07a429", "rel_ix": "P279_392", "pattern_ix": 3}
+{"prompt": "hot dog is a subclass of [MASK].", "sub_label": "hot dog", "obj_label": "sandwich", "uuid": "bc51c920-040c-494e-9295-d9c1c8948654", "rel_ix": "P279_393", "pattern_ix": 0}
+{"prompt": "hot dog, which is a subclass of [MASK].", "sub_label": "hot dog", "obj_label": "sandwich", "uuid": "bc51c920-040c-494e-9295-d9c1c8948654", "rel_ix": "P279_393", "pattern_ix": 1}
+{"prompt": "hot dog,  a subclass of [MASK].", "sub_label": "hot dog", "obj_label": "sandwich", "uuid": "bc51c920-040c-494e-9295-d9c1c8948654", "rel_ix": "P279_393", "pattern_ix": 2}
+{"prompt": "hot dog,  a type of [MASK].", "sub_label": "hot dog", "obj_label": "sandwich", "uuid": "bc51c920-040c-494e-9295-d9c1c8948654", "rel_ix": "P279_393", "pattern_ix": 3}
+{"prompt": "Urocortin is a subclass of [MASK].", "sub_label": "Urocortin", "obj_label": "protein", "uuid": "14cb9111-0c0c-44a3-b5a2-57e1ef5d219d", "rel_ix": "P279_400", "pattern_ix": 0}
+{"prompt": "Urocortin, which is a subclass of [MASK].", "sub_label": "Urocortin", "obj_label": "protein", "uuid": "14cb9111-0c0c-44a3-b5a2-57e1ef5d219d", "rel_ix": "P279_400", "pattern_ix": 1}
+{"prompt": "Urocortin,  a subclass of [MASK].", "sub_label": "Urocortin", "obj_label": "protein", "uuid": "14cb9111-0c0c-44a3-b5a2-57e1ef5d219d", "rel_ix": "P279_400", "pattern_ix": 2}
+{"prompt": "Urocortin,  a type of [MASK].", "sub_label": "Urocortin", "obj_label": "protein", "uuid": "14cb9111-0c0c-44a3-b5a2-57e1ef5d219d", "rel_ix": "P279_400", "pattern_ix": 3}
+{"prompt": "Happy Hardcore is a subclass of [MASK].", "sub_label": "Happy Hardcore", "obj_label": "hardcore", "uuid": "f1271e11-6e8b-4ec1-903a-12f355905ed2", "rel_ix": "P279_405", "pattern_ix": 0}
+{"prompt": "Happy Hardcore, which is a subclass of [MASK].", "sub_label": "Happy Hardcore", "obj_label": "hardcore", "uuid": "f1271e11-6e8b-4ec1-903a-12f355905ed2", "rel_ix": "P279_405", "pattern_ix": 1}
+{"prompt": "Happy Hardcore,  a subclass of [MASK].", "sub_label": "Happy Hardcore", "obj_label": "hardcore", "uuid": "f1271e11-6e8b-4ec1-903a-12f355905ed2", "rel_ix": "P279_405", "pattern_ix": 2}
+{"prompt": "Happy Hardcore,  a type of [MASK].", "sub_label": "Happy Hardcore", "obj_label": "hardcore", "uuid": "f1271e11-6e8b-4ec1-903a-12f355905ed2", "rel_ix": "P279_405", "pattern_ix": 3}
+{"prompt": "record label is a subclass of [MASK].", "sub_label": "record label", "obj_label": "trademark", "uuid": "14d8793a-8916-46fe-8708-1247e97defe0", "rel_ix": "P279_407", "pattern_ix": 0}
+{"prompt": "record label, which is a subclass of [MASK].", "sub_label": "record label", "obj_label": "trademark", "uuid": "14d8793a-8916-46fe-8708-1247e97defe0", "rel_ix": "P279_407", "pattern_ix": 1}
+{"prompt": "record label,  a subclass of [MASK].", "sub_label": "record label", "obj_label": "trademark", "uuid": "14d8793a-8916-46fe-8708-1247e97defe0", "rel_ix": "P279_407", "pattern_ix": 2}
+{"prompt": "record label,  a type of [MASK].", "sub_label": "record label", "obj_label": "trademark", "uuid": "14d8793a-8916-46fe-8708-1247e97defe0", "rel_ix": "P279_407", "pattern_ix": 3}
+{"prompt": "high fantasy is a subclass of [MASK].", "sub_label": "high fantasy", "obj_label": "fantasy", "uuid": "274e5fb7-7e29-4e06-852a-b4ad879f2c98", "rel_ix": "P279_413", "pattern_ix": 0}
+{"prompt": "high fantasy, which is a subclass of [MASK].", "sub_label": "high fantasy", "obj_label": "fantasy", "uuid": "274e5fb7-7e29-4e06-852a-b4ad879f2c98", "rel_ix": "P279_413", "pattern_ix": 1}
+{"prompt": "high fantasy,  a subclass of [MASK].", "sub_label": "high fantasy", "obj_label": "fantasy", "uuid": "274e5fb7-7e29-4e06-852a-b4ad879f2c98", "rel_ix": "P279_413", "pattern_ix": 2}
+{"prompt": "high fantasy,  a type of [MASK].", "sub_label": "high fantasy", "obj_label": "fantasy", "uuid": "274e5fb7-7e29-4e06-852a-b4ad879f2c98", "rel_ix": "P279_413", "pattern_ix": 3}
+{"prompt": "kings' sagas is a subclass of [MASK].", "sub_label": "kings' sagas", "obj_label": "saga", "uuid": "9568fefd-39f5-41c4-801e-0d354b20de0e", "rel_ix": "P279_414", "pattern_ix": 0}
+{"prompt": "kings' sagas, which is a subclass of [MASK].", "sub_label": "kings' sagas", "obj_label": "saga", "uuid": "9568fefd-39f5-41c4-801e-0d354b20de0e", "rel_ix": "P279_414", "pattern_ix": 1}
+{"prompt": "kings' sagas,  a subclass of [MASK].", "sub_label": "kings' sagas", "obj_label": "saga", "uuid": "9568fefd-39f5-41c4-801e-0d354b20de0e", "rel_ix": "P279_414", "pattern_ix": 2}
+{"prompt": "kings' sagas,  a type of [MASK].", "sub_label": "kings' sagas", "obj_label": "saga", "uuid": "9568fefd-39f5-41c4-801e-0d354b20de0e", "rel_ix": "P279_414", "pattern_ix": 3}
+{"prompt": "BH3 interacting domain death agonist is a subclass of [MASK].", "sub_label": "BH3 interacting domain death agonist", "obj_label": "protein", "uuid": "3bb0d088-e098-47b4-b4b4-d3ddaf154b38", "rel_ix": "P279_421", "pattern_ix": 0}
+{"prompt": "BH3 interacting domain death agonist, which is a subclass of [MASK].", "sub_label": "BH3 interacting domain death agonist", "obj_label": "protein", "uuid": "3bb0d088-e098-47b4-b4b4-d3ddaf154b38", "rel_ix": "P279_421", "pattern_ix": 1}
+{"prompt": "BH3 interacting domain death agonist,  a subclass of [MASK].", "sub_label": "BH3 interacting domain death agonist", "obj_label": "protein", "uuid": "3bb0d088-e098-47b4-b4b4-d3ddaf154b38", "rel_ix": "P279_421", "pattern_ix": 2}
+{"prompt": "BH3 interacting domain death agonist,  a type of [MASK].", "sub_label": "BH3 interacting domain death agonist", "obj_label": "protein", "uuid": "3bb0d088-e098-47b4-b4b4-d3ddaf154b38", "rel_ix": "P279_421", "pattern_ix": 3}
+{"prompt": "cable ferry is a subclass of [MASK].", "sub_label": "cable ferry", "obj_label": "ferry", "uuid": "3da6647e-ebc0-4cee-9236-21a7b524c7cc", "rel_ix": "P279_423", "pattern_ix": 0}
+{"prompt": "cable ferry, which is a subclass of [MASK].", "sub_label": "cable ferry", "obj_label": "ferry", "uuid": "3da6647e-ebc0-4cee-9236-21a7b524c7cc", "rel_ix": "P279_423", "pattern_ix": 1}
+{"prompt": "cable ferry,  a subclass of [MASK].", "sub_label": "cable ferry", "obj_label": "ferry", "uuid": "3da6647e-ebc0-4cee-9236-21a7b524c7cc", "rel_ix": "P279_423", "pattern_ix": 2}
+{"prompt": "cable ferry,  a type of [MASK].", "sub_label": "cable ferry", "obj_label": "ferry", "uuid": "3da6647e-ebc0-4cee-9236-21a7b524c7cc", "rel_ix": "P279_423", "pattern_ix": 3}
+{"prompt": "Growth factor receptor bound protein 10 is a subclass of [MASK].", "sub_label": "Growth factor receptor bound protein 10", "obj_label": "protein", "uuid": "39906e32-d652-47c6-92dd-f0e91b4eedbc", "rel_ix": "P279_424", "pattern_ix": 0}
+{"prompt": "Growth factor receptor bound protein 10, which is a subclass of [MASK].", "sub_label": "Growth factor receptor bound protein 10", "obj_label": "protein", "uuid": "39906e32-d652-47c6-92dd-f0e91b4eedbc", "rel_ix": "P279_424", "pattern_ix": 1}
+{"prompt": "Growth factor receptor bound protein 10,  a subclass of [MASK].", "sub_label": "Growth factor receptor bound protein 10", "obj_label": "protein", "uuid": "39906e32-d652-47c6-92dd-f0e91b4eedbc", "rel_ix": "P279_424", "pattern_ix": 2}
+{"prompt": "Growth factor receptor bound protein 10,  a type of [MASK].", "sub_label": "Growth factor receptor bound protein 10", "obj_label": "protein", "uuid": "39906e32-d652-47c6-92dd-f0e91b4eedbc", "rel_ix": "P279_424", "pattern_ix": 3}
+{"prompt": "D-type asteroid is a subclass of [MASK].", "sub_label": "D-type asteroid", "obj_label": "asteroid", "uuid": "d817b31e-2f18-4fb2-b990-a7e6df3c4171", "rel_ix": "P279_425", "pattern_ix": 0}
+{"prompt": "D-type asteroid, which is a subclass of [MASK].", "sub_label": "D-type asteroid", "obj_label": "asteroid", "uuid": "d817b31e-2f18-4fb2-b990-a7e6df3c4171", "rel_ix": "P279_425", "pattern_ix": 1}
+{"prompt": "D-type asteroid,  a subclass of [MASK].", "sub_label": "D-type asteroid", "obj_label": "asteroid", "uuid": "d817b31e-2f18-4fb2-b990-a7e6df3c4171", "rel_ix": "P279_425", "pattern_ix": 2}
+{"prompt": "D-type asteroid,  a type of [MASK].", "sub_label": "D-type asteroid", "obj_label": "asteroid", "uuid": "d817b31e-2f18-4fb2-b990-a7e6df3c4171", "rel_ix": "P279_425", "pattern_ix": 3}
+{"prompt": "Progesterone receptor is a subclass of [MASK].", "sub_label": "Progesterone receptor", "obj_label": "protein", "uuid": "e0a6dc1f-c634-4620-b309-4d8529ea4783", "rel_ix": "P279_430", "pattern_ix": 0}
+{"prompt": "Progesterone receptor, which is a subclass of [MASK].", "sub_label": "Progesterone receptor", "obj_label": "protein", "uuid": "e0a6dc1f-c634-4620-b309-4d8529ea4783", "rel_ix": "P279_430", "pattern_ix": 1}
+{"prompt": "Progesterone receptor,  a subclass of [MASK].", "sub_label": "Progesterone receptor", "obj_label": "protein", "uuid": "e0a6dc1f-c634-4620-b309-4d8529ea4783", "rel_ix": "P279_430", "pattern_ix": 2}
+{"prompt": "Progesterone receptor,  a type of [MASK].", "sub_label": "Progesterone receptor", "obj_label": "protein", "uuid": "e0a6dc1f-c634-4620-b309-4d8529ea4783", "rel_ix": "P279_430", "pattern_ix": 3}
+{"prompt": "T-cell receptor is a subclass of [MASK].", "sub_label": "T-cell receptor", "obj_label": "protein", "uuid": "6643981f-641b-48f0-9a52-583ddd473270", "rel_ix": "P279_434", "pattern_ix": 0}
+{"prompt": "T-cell receptor, which is a subclass of [MASK].", "sub_label": "T-cell receptor", "obj_label": "protein", "uuid": "6643981f-641b-48f0-9a52-583ddd473270", "rel_ix": "P279_434", "pattern_ix": 1}
+{"prompt": "T-cell receptor,  a subclass of [MASK].", "sub_label": "T-cell receptor", "obj_label": "protein", "uuid": "6643981f-641b-48f0-9a52-583ddd473270", "rel_ix": "P279_434", "pattern_ix": 2}
+{"prompt": "T-cell receptor,  a type of [MASK].", "sub_label": "T-cell receptor", "obj_label": "protein", "uuid": "6643981f-641b-48f0-9a52-583ddd473270", "rel_ix": "P279_434", "pattern_ix": 3}
+{"prompt": "applied physics is a subclass of [MASK].", "sub_label": "applied physics", "obj_label": "physics", "uuid": "fe0c3fa4-795d-4b57-903c-abf1166a5aba", "rel_ix": "P279_444", "pattern_ix": 0}
+{"prompt": "applied physics, which is a subclass of [MASK].", "sub_label": "applied physics", "obj_label": "physics", "uuid": "fe0c3fa4-795d-4b57-903c-abf1166a5aba", "rel_ix": "P279_444", "pattern_ix": 1}
+{"prompt": "applied physics,  a subclass of [MASK].", "sub_label": "applied physics", "obj_label": "physics", "uuid": "fe0c3fa4-795d-4b57-903c-abf1166a5aba", "rel_ix": "P279_444", "pattern_ix": 2}
+{"prompt": "applied physics,  a type of [MASK].", "sub_label": "applied physics", "obj_label": "physics", "uuid": "fe0c3fa4-795d-4b57-903c-abf1166a5aba", "rel_ix": "P279_444", "pattern_ix": 3}
+{"prompt": "phenetics is a subclass of [MASK].", "sub_label": "phenetics", "obj_label": "biology", "uuid": "71ac621d-5031-4b55-8a56-7c8b822d1da8", "rel_ix": "P279_446", "pattern_ix": 0}
+{"prompt": "phenetics, which is a subclass of [MASK].", "sub_label": "phenetics", "obj_label": "biology", "uuid": "71ac621d-5031-4b55-8a56-7c8b822d1da8", "rel_ix": "P279_446", "pattern_ix": 1}
+{"prompt": "phenetics,  a subclass of [MASK].", "sub_label": "phenetics", "obj_label": "biology", "uuid": "71ac621d-5031-4b55-8a56-7c8b822d1da8", "rel_ix": "P279_446", "pattern_ix": 2}
+{"prompt": "phenetics,  a type of [MASK].", "sub_label": "phenetics", "obj_label": "biology", "uuid": "71ac621d-5031-4b55-8a56-7c8b822d1da8", "rel_ix": "P279_446", "pattern_ix": 3}
+{"prompt": "video game is a subclass of [MASK].", "sub_label": "video game", "obj_label": "application", "uuid": "325d3c0d-7350-4678-802f-a3ad4da7b0ad", "rel_ix": "P279_450", "pattern_ix": 0}
+{"prompt": "video game, which is a subclass of [MASK].", "sub_label": "video game", "obj_label": "application", "uuid": "325d3c0d-7350-4678-802f-a3ad4da7b0ad", "rel_ix": "P279_450", "pattern_ix": 1}
+{"prompt": "video game,  a subclass of [MASK].", "sub_label": "video game", "obj_label": "application", "uuid": "325d3c0d-7350-4678-802f-a3ad4da7b0ad", "rel_ix": "P279_450", "pattern_ix": 2}
+{"prompt": "video game,  a type of [MASK].", "sub_label": "video game", "obj_label": "application", "uuid": "325d3c0d-7350-4678-802f-a3ad4da7b0ad", "rel_ix": "P279_450", "pattern_ix": 3}
+{"prompt": "comic fantasy is a subclass of [MASK].", "sub_label": "comic fantasy", "obj_label": "fantasy", "uuid": "920f12c0-7b77-4592-9cbf-30a4999ce036", "rel_ix": "P279_463", "pattern_ix": 0}
+{"prompt": "comic fantasy, which is a subclass of [MASK].", "sub_label": "comic fantasy", "obj_label": "fantasy", "uuid": "920f12c0-7b77-4592-9cbf-30a4999ce036", "rel_ix": "P279_463", "pattern_ix": 1}
+{"prompt": "comic fantasy,  a subclass of [MASK].", "sub_label": "comic fantasy", "obj_label": "fantasy", "uuid": "920f12c0-7b77-4592-9cbf-30a4999ce036", "rel_ix": "P279_463", "pattern_ix": 2}
+{"prompt": "comic fantasy,  a type of [MASK].", "sub_label": "comic fantasy", "obj_label": "fantasy", "uuid": "920f12c0-7b77-4592-9cbf-30a4999ce036", "rel_ix": "P279_463", "pattern_ix": 3}
+{"prompt": "Safeway Inc. is a subclass of [MASK].", "sub_label": "Safeway Inc.", "obj_label": "supermarket", "uuid": "828e32f7-3832-421d-8ccf-dc79120ab04a", "rel_ix": "P279_464", "pattern_ix": 0}
+{"prompt": "Safeway Inc., which is a subclass of [MASK].", "sub_label": "Safeway Inc.", "obj_label": "supermarket", "uuid": "828e32f7-3832-421d-8ccf-dc79120ab04a", "rel_ix": "P279_464", "pattern_ix": 1}
+{"prompt": "Safeway Inc.,  a subclass of [MASK].", "sub_label": "Safeway Inc.", "obj_label": "supermarket", "uuid": "828e32f7-3832-421d-8ccf-dc79120ab04a", "rel_ix": "P279_464", "pattern_ix": 2}
+{"prompt": "Safeway Inc.,  a type of [MASK].", "sub_label": "Safeway Inc.", "obj_label": "supermarket", "uuid": "828e32f7-3832-421d-8ccf-dc79120ab04a", "rel_ix": "P279_464", "pattern_ix": 3}
+{"prompt": "uxoricide is a subclass of [MASK].", "sub_label": "uxoricide", "obj_label": "homicide", "uuid": "594c6543-008d-40a4-b941-00b8a3695f7c", "rel_ix": "P279_468", "pattern_ix": 0}
+{"prompt": "uxoricide, which is a subclass of [MASK].", "sub_label": "uxoricide", "obj_label": "homicide", "uuid": "594c6543-008d-40a4-b941-00b8a3695f7c", "rel_ix": "P279_468", "pattern_ix": 1}
+{"prompt": "uxoricide,  a subclass of [MASK].", "sub_label": "uxoricide", "obj_label": "homicide", "uuid": "594c6543-008d-40a4-b941-00b8a3695f7c", "rel_ix": "P279_468", "pattern_ix": 2}
+{"prompt": "uxoricide,  a type of [MASK].", "sub_label": "uxoricide", "obj_label": "homicide", "uuid": "594c6543-008d-40a4-b941-00b8a3695f7c", "rel_ix": "P279_468", "pattern_ix": 3}
+{"prompt": "Algherese dialect is a subclass of [MASK].", "sub_label": "Algherese dialect", "obj_label": "Catalan", "uuid": "82353102-f410-4703-aef7-0b665827fcca", "rel_ix": "P279_469", "pattern_ix": 0}
+{"prompt": "Algherese dialect, which is a subclass of [MASK].", "sub_label": "Algherese dialect", "obj_label": "Catalan", "uuid": "82353102-f410-4703-aef7-0b665827fcca", "rel_ix": "P279_469", "pattern_ix": 1}
+{"prompt": "Algherese dialect,  a subclass of [MASK].", "sub_label": "Algherese dialect", "obj_label": "Catalan", "uuid": "82353102-f410-4703-aef7-0b665827fcca", "rel_ix": "P279_469", "pattern_ix": 2}
+{"prompt": "Algherese dialect,  a type of [MASK].", "sub_label": "Algherese dialect", "obj_label": "Catalan", "uuid": "82353102-f410-4703-aef7-0b665827fcca", "rel_ix": "P279_469", "pattern_ix": 3}
+{"prompt": "pontoon bridge is a subclass of [MASK].", "sub_label": "pontoon bridge", "obj_label": "bridge", "uuid": "e08091ad-7c1f-4c64-825e-d39b0784de90", "rel_ix": "P279_471", "pattern_ix": 0}
+{"prompt": "pontoon bridge, which is a subclass of [MASK].", "sub_label": "pontoon bridge", "obj_label": "bridge", "uuid": "e08091ad-7c1f-4c64-825e-d39b0784de90", "rel_ix": "P279_471", "pattern_ix": 1}
+{"prompt": "pontoon bridge,  a subclass of [MASK].", "sub_label": "pontoon bridge", "obj_label": "bridge", "uuid": "e08091ad-7c1f-4c64-825e-d39b0784de90", "rel_ix": "P279_471", "pattern_ix": 2}
+{"prompt": "pontoon bridge,  a type of [MASK].", "sub_label": "pontoon bridge", "obj_label": "bridge", "uuid": "e08091ad-7c1f-4c64-825e-d39b0784de90", "rel_ix": "P279_471", "pattern_ix": 3}
+{"prompt": "baba ghanoush is a subclass of [MASK].", "sub_label": "baba ghanoush", "obj_label": "salad", "uuid": "00a0a494-3a0c-4f5c-8885-3d541f73020d", "rel_ix": "P279_473", "pattern_ix": 0}
+{"prompt": "baba ghanoush, which is a subclass of [MASK].", "sub_label": "baba ghanoush", "obj_label": "salad", "uuid": "00a0a494-3a0c-4f5c-8885-3d541f73020d", "rel_ix": "P279_473", "pattern_ix": 1}
+{"prompt": "baba ghanoush,  a subclass of [MASK].", "sub_label": "baba ghanoush", "obj_label": "salad", "uuid": "00a0a494-3a0c-4f5c-8885-3d541f73020d", "rel_ix": "P279_473", "pattern_ix": 2}
+{"prompt": "baba ghanoush,  a type of [MASK].", "sub_label": "baba ghanoush", "obj_label": "salad", "uuid": "00a0a494-3a0c-4f5c-8885-3d541f73020d", "rel_ix": "P279_473", "pattern_ix": 3}
+{"prompt": "isomerase is a subclass of [MASK].", "sub_label": "isomerase", "obj_label": "enzyme", "uuid": "264bf104-585d-4b4f-ac2d-84365071a1e8", "rel_ix": "P279_477", "pattern_ix": 0}
+{"prompt": "isomerase, which is a subclass of [MASK].", "sub_label": "isomerase", "obj_label": "enzyme", "uuid": "264bf104-585d-4b4f-ac2d-84365071a1e8", "rel_ix": "P279_477", "pattern_ix": 1}
+{"prompt": "isomerase,  a subclass of [MASK].", "sub_label": "isomerase", "obj_label": "enzyme", "uuid": "264bf104-585d-4b4f-ac2d-84365071a1e8", "rel_ix": "P279_477", "pattern_ix": 2}
+{"prompt": "isomerase,  a type of [MASK].", "sub_label": "isomerase", "obj_label": "enzyme", "uuid": "264bf104-585d-4b4f-ac2d-84365071a1e8", "rel_ix": "P279_477", "pattern_ix": 3}
+{"prompt": "X-ray telescope is a subclass of [MASK].", "sub_label": "X-ray telescope", "obj_label": "telescope", "uuid": "3d05bec5-0f9e-413f-9f7d-7114b1daafe7", "rel_ix": "P279_480", "pattern_ix": 0}
+{"prompt": "X-ray telescope, which is a subclass of [MASK].", "sub_label": "X-ray telescope", "obj_label": "telescope", "uuid": "3d05bec5-0f9e-413f-9f7d-7114b1daafe7", "rel_ix": "P279_480", "pattern_ix": 1}
+{"prompt": "X-ray telescope,  a subclass of [MASK].", "sub_label": "X-ray telescope", "obj_label": "telescope", "uuid": "3d05bec5-0f9e-413f-9f7d-7114b1daafe7", "rel_ix": "P279_480", "pattern_ix": 2}
+{"prompt": "X-ray telescope,  a type of [MASK].", "sub_label": "X-ray telescope", "obj_label": "telescope", "uuid": "3d05bec5-0f9e-413f-9f7d-7114b1daafe7", "rel_ix": "P279_480", "pattern_ix": 3}
+{"prompt": "F-type asteroid is a subclass of [MASK].", "sub_label": "F-type asteroid", "obj_label": "asteroid", "uuid": "9e7812e6-f0a4-4b8e-bb4a-7194563ab551", "rel_ix": "P279_484", "pattern_ix": 0}
+{"prompt": "F-type asteroid, which is a subclass of [MASK].", "sub_label": "F-type asteroid", "obj_label": "asteroid", "uuid": "9e7812e6-f0a4-4b8e-bb4a-7194563ab551", "rel_ix": "P279_484", "pattern_ix": 1}
+{"prompt": "F-type asteroid,  a subclass of [MASK].", "sub_label": "F-type asteroid", "obj_label": "asteroid", "uuid": "9e7812e6-f0a4-4b8e-bb4a-7194563ab551", "rel_ix": "P279_484", "pattern_ix": 2}
+{"prompt": "F-type asteroid,  a type of [MASK].", "sub_label": "F-type asteroid", "obj_label": "asteroid", "uuid": "9e7812e6-f0a4-4b8e-bb4a-7194563ab551", "rel_ix": "P279_484", "pattern_ix": 3}
+{"prompt": "electromagnet is a subclass of [MASK].", "sub_label": "electromagnet", "obj_label": "magnet", "uuid": "f55e9722-3a89-4c66-a9c1-4312ed34fe8e", "rel_ix": "P279_487", "pattern_ix": 0}
+{"prompt": "electromagnet, which is a subclass of [MASK].", "sub_label": "electromagnet", "obj_label": "magnet", "uuid": "f55e9722-3a89-4c66-a9c1-4312ed34fe8e", "rel_ix": "P279_487", "pattern_ix": 1}
+{"prompt": "electromagnet,  a subclass of [MASK].", "sub_label": "electromagnet", "obj_label": "magnet", "uuid": "f55e9722-3a89-4c66-a9c1-4312ed34fe8e", "rel_ix": "P279_487", "pattern_ix": 2}
+{"prompt": "electromagnet,  a type of [MASK].", "sub_label": "electromagnet", "obj_label": "magnet", "uuid": "f55e9722-3a89-4c66-a9c1-4312ed34fe8e", "rel_ix": "P279_487", "pattern_ix": 3}
+{"prompt": "graupel is a subclass of [MASK].", "sub_label": "graupel", "obj_label": "precipitation", "uuid": "d6e268e9-495d-41a3-8b3f-8420a0e34f79", "rel_ix": "P279_496", "pattern_ix": 0}
+{"prompt": "graupel, which is a subclass of [MASK].", "sub_label": "graupel", "obj_label": "precipitation", "uuid": "d6e268e9-495d-41a3-8b3f-8420a0e34f79", "rel_ix": "P279_496", "pattern_ix": 1}
+{"prompt": "graupel,  a subclass of [MASK].", "sub_label": "graupel", "obj_label": "precipitation", "uuid": "d6e268e9-495d-41a3-8b3f-8420a0e34f79", "rel_ix": "P279_496", "pattern_ix": 2}
+{"prompt": "graupel,  a type of [MASK].", "sub_label": "graupel", "obj_label": "precipitation", "uuid": "d6e268e9-495d-41a3-8b3f-8420a0e34f79", "rel_ix": "P279_496", "pattern_ix": 3}
+{"prompt": "bermuda shorts is a subclass of [MASK].", "sub_label": "bermuda shorts", "obj_label": "shorts", "uuid": "f01b2862-dce9-43fe-b91a-013efcf0bc3a", "rel_ix": "P279_505", "pattern_ix": 0}
+{"prompt": "bermuda shorts, which is a subclass of [MASK].", "sub_label": "bermuda shorts", "obj_label": "shorts", "uuid": "f01b2862-dce9-43fe-b91a-013efcf0bc3a", "rel_ix": "P279_505", "pattern_ix": 1}
+{"prompt": "bermuda shorts,  a subclass of [MASK].", "sub_label": "bermuda shorts", "obj_label": "shorts", "uuid": "f01b2862-dce9-43fe-b91a-013efcf0bc3a", "rel_ix": "P279_505", "pattern_ix": 2}
+{"prompt": "bermuda shorts,  a type of [MASK].", "sub_label": "bermuda shorts", "obj_label": "shorts", "uuid": "f01b2862-dce9-43fe-b91a-013efcf0bc3a", "rel_ix": "P279_505", "pattern_ix": 3}
+{"prompt": "swing music is a subclass of [MASK].", "sub_label": "swing music", "obj_label": "jazz", "uuid": "a10edf68-05af-4316-80a0-c896966761e7", "rel_ix": "P279_508", "pattern_ix": 0}
+{"prompt": "swing music, which is a subclass of [MASK].", "sub_label": "swing music", "obj_label": "jazz", "uuid": "a10edf68-05af-4316-80a0-c896966761e7", "rel_ix": "P279_508", "pattern_ix": 1}
+{"prompt": "swing music,  a subclass of [MASK].", "sub_label": "swing music", "obj_label": "jazz", "uuid": "a10edf68-05af-4316-80a0-c896966761e7", "rel_ix": "P279_508", "pattern_ix": 2}
+{"prompt": "swing music,  a type of [MASK].", "sub_label": "swing music", "obj_label": "jazz", "uuid": "a10edf68-05af-4316-80a0-c896966761e7", "rel_ix": "P279_508", "pattern_ix": 3}
+{"prompt": "automotive industry is a subclass of [MASK].", "sub_label": "automotive industry", "obj_label": "industry", "uuid": "4f46ba02-36d3-490c-af36-ef2d4c1c42d4", "rel_ix": "P279_513", "pattern_ix": 0}
+{"prompt": "automotive industry, which is a subclass of [MASK].", "sub_label": "automotive industry", "obj_label": "industry", "uuid": "4f46ba02-36d3-490c-af36-ef2d4c1c42d4", "rel_ix": "P279_513", "pattern_ix": 1}
+{"prompt": "automotive industry,  a subclass of [MASK].", "sub_label": "automotive industry", "obj_label": "industry", "uuid": "4f46ba02-36d3-490c-af36-ef2d4c1c42d4", "rel_ix": "P279_513", "pattern_ix": 2}
+{"prompt": "automotive industry,  a type of [MASK].", "sub_label": "automotive industry", "obj_label": "industry", "uuid": "4f46ba02-36d3-490c-af36-ef2d4c1c42d4", "rel_ix": "P279_513", "pattern_ix": 3}
+{"prompt": "stunt performer is a subclass of [MASK].", "sub_label": "stunt performer", "obj_label": "actor", "uuid": "16023411-3ea0-4670-b802-27f33912c279", "rel_ix": "P279_527", "pattern_ix": 0}
+{"prompt": "stunt performer, which is a subclass of [MASK].", "sub_label": "stunt performer", "obj_label": "actor", "uuid": "16023411-3ea0-4670-b802-27f33912c279", "rel_ix": "P279_527", "pattern_ix": 1}
+{"prompt": "stunt performer,  a subclass of [MASK].", "sub_label": "stunt performer", "obj_label": "actor", "uuid": "16023411-3ea0-4670-b802-27f33912c279", "rel_ix": "P279_527", "pattern_ix": 2}
+{"prompt": "stunt performer,  a type of [MASK].", "sub_label": "stunt performer", "obj_label": "actor", "uuid": "16023411-3ea0-4670-b802-27f33912c279", "rel_ix": "P279_527", "pattern_ix": 3}
+{"prompt": "milkshake is a subclass of [MASK].", "sub_label": "milkshake", "obj_label": "milk", "uuid": "4d592e77-71eb-4f89-84fa-134f0dd9ded3", "rel_ix": "P279_529", "pattern_ix": 0}
+{"prompt": "milkshake, which is a subclass of [MASK].", "sub_label": "milkshake", "obj_label": "milk", "uuid": "4d592e77-71eb-4f89-84fa-134f0dd9ded3", "rel_ix": "P279_529", "pattern_ix": 1}
+{"prompt": "milkshake,  a subclass of [MASK].", "sub_label": "milkshake", "obj_label": "milk", "uuid": "4d592e77-71eb-4f89-84fa-134f0dd9ded3", "rel_ix": "P279_529", "pattern_ix": 2}
+{"prompt": "milkshake,  a type of [MASK].", "sub_label": "milkshake", "obj_label": "milk", "uuid": "4d592e77-71eb-4f89-84fa-134f0dd9ded3", "rel_ix": "P279_529", "pattern_ix": 3}
+{"prompt": "Love hotel is a subclass of [MASK].", "sub_label": "Love hotel", "obj_label": "hotel", "uuid": "8a966c9e-6973-4f2d-b24f-56f64476a835", "rel_ix": "P279_530", "pattern_ix": 0}
+{"prompt": "Love hotel, which is a subclass of [MASK].", "sub_label": "Love hotel", "obj_label": "hotel", "uuid": "8a966c9e-6973-4f2d-b24f-56f64476a835", "rel_ix": "P279_530", "pattern_ix": 1}
+{"prompt": "Love hotel,  a subclass of [MASK].", "sub_label": "Love hotel", "obj_label": "hotel", "uuid": "8a966c9e-6973-4f2d-b24f-56f64476a835", "rel_ix": "P279_530", "pattern_ix": 2}
+{"prompt": "Love hotel,  a type of [MASK].", "sub_label": "Love hotel", "obj_label": "hotel", "uuid": "8a966c9e-6973-4f2d-b24f-56f64476a835", "rel_ix": "P279_530", "pattern_ix": 3}
+{"prompt": "chronic fatigue syndrome is a subclass of [MASK].", "sub_label": "chronic fatigue syndrome", "obj_label": "syndrome", "uuid": "3dbf6bc7-b82c-4b2e-904a-ac78b58ab8eb", "rel_ix": "P279_541", "pattern_ix": 0}
+{"prompt": "chronic fatigue syndrome, which is a subclass of [MASK].", "sub_label": "chronic fatigue syndrome", "obj_label": "syndrome", "uuid": "3dbf6bc7-b82c-4b2e-904a-ac78b58ab8eb", "rel_ix": "P279_541", "pattern_ix": 1}
+{"prompt": "chronic fatigue syndrome,  a subclass of [MASK].", "sub_label": "chronic fatigue syndrome", "obj_label": "syndrome", "uuid": "3dbf6bc7-b82c-4b2e-904a-ac78b58ab8eb", "rel_ix": "P279_541", "pattern_ix": 2}
+{"prompt": "chronic fatigue syndrome,  a type of [MASK].", "sub_label": "chronic fatigue syndrome", "obj_label": "syndrome", "uuid": "3dbf6bc7-b82c-4b2e-904a-ac78b58ab8eb", "rel_ix": "P279_541", "pattern_ix": 3}
+{"prompt": "polio vaccine is a subclass of [MASK].", "sub_label": "polio vaccine", "obj_label": "vaccine", "uuid": "974268d8-83cf-471d-a50a-f6440fff2abf", "rel_ix": "P279_542", "pattern_ix": 0}
+{"prompt": "polio vaccine, which is a subclass of [MASK].", "sub_label": "polio vaccine", "obj_label": "vaccine", "uuid": "974268d8-83cf-471d-a50a-f6440fff2abf", "rel_ix": "P279_542", "pattern_ix": 1}
+{"prompt": "polio vaccine,  a subclass of [MASK].", "sub_label": "polio vaccine", "obj_label": "vaccine", "uuid": "974268d8-83cf-471d-a50a-f6440fff2abf", "rel_ix": "P279_542", "pattern_ix": 2}
+{"prompt": "polio vaccine,  a type of [MASK].", "sub_label": "polio vaccine", "obj_label": "vaccine", "uuid": "974268d8-83cf-471d-a50a-f6440fff2abf", "rel_ix": "P279_542", "pattern_ix": 3}
+{"prompt": "animal suicide is a subclass of [MASK].", "sub_label": "animal suicide", "obj_label": "suicide", "uuid": "67cbb523-8e4a-499e-857e-f1cf67fc20e1", "rel_ix": "P279_548", "pattern_ix": 0}
+{"prompt": "animal suicide, which is a subclass of [MASK].", "sub_label": "animal suicide", "obj_label": "suicide", "uuid": "67cbb523-8e4a-499e-857e-f1cf67fc20e1", "rel_ix": "P279_548", "pattern_ix": 1}
+{"prompt": "animal suicide,  a subclass of [MASK].", "sub_label": "animal suicide", "obj_label": "suicide", "uuid": "67cbb523-8e4a-499e-857e-f1cf67fc20e1", "rel_ix": "P279_548", "pattern_ix": 2}
+{"prompt": "animal suicide,  a type of [MASK].", "sub_label": "animal suicide", "obj_label": "suicide", "uuid": "67cbb523-8e4a-499e-857e-f1cf67fc20e1", "rel_ix": "P279_548", "pattern_ix": 3}
+{"prompt": "original net animation is a subclass of [MASK].", "sub_label": "original net animation", "obj_label": "anime", "uuid": "e2bf983a-c7fe-42d3-808a-be917084b4db", "rel_ix": "P279_552", "pattern_ix": 0}
+{"prompt": "original net animation, which is a subclass of [MASK].", "sub_label": "original net animation", "obj_label": "anime", "uuid": "e2bf983a-c7fe-42d3-808a-be917084b4db", "rel_ix": "P279_552", "pattern_ix": 1}
+{"prompt": "original net animation,  a subclass of [MASK].", "sub_label": "original net animation", "obj_label": "anime", "uuid": "e2bf983a-c7fe-42d3-808a-be917084b4db", "rel_ix": "P279_552", "pattern_ix": 2}
+{"prompt": "original net animation,  a type of [MASK].", "sub_label": "original net animation", "obj_label": "anime", "uuid": "e2bf983a-c7fe-42d3-808a-be917084b4db", "rel_ix": "P279_552", "pattern_ix": 3}
+{"prompt": "chemical database is a subclass of [MASK].", "sub_label": "chemical database", "obj_label": "database", "uuid": "8e593736-c4d7-48c6-a6f6-99daf05f7362", "rel_ix": "P279_557", "pattern_ix": 0}
+{"prompt": "chemical database, which is a subclass of [MASK].", "sub_label": "chemical database", "obj_label": "database", "uuid": "8e593736-c4d7-48c6-a6f6-99daf05f7362", "rel_ix": "P279_557", "pattern_ix": 1}
+{"prompt": "chemical database,  a subclass of [MASK].", "sub_label": "chemical database", "obj_label": "database", "uuid": "8e593736-c4d7-48c6-a6f6-99daf05f7362", "rel_ix": "P279_557", "pattern_ix": 2}
+{"prompt": "chemical database,  a type of [MASK].", "sub_label": "chemical database", "obj_label": "database", "uuid": "8e593736-c4d7-48c6-a6f6-99daf05f7362", "rel_ix": "P279_557", "pattern_ix": 3}
+{"prompt": "Hiller YH-32 Hornet is a subclass of [MASK].", "sub_label": "Hiller YH-32 Hornet", "obj_label": "helicopter", "uuid": "c300f849-fa92-4d92-bb6e-d69ab4228ec5", "rel_ix": "P279_569", "pattern_ix": 0}
+{"prompt": "Hiller YH-32 Hornet, which is a subclass of [MASK].", "sub_label": "Hiller YH-32 Hornet", "obj_label": "helicopter", "uuid": "c300f849-fa92-4d92-bb6e-d69ab4228ec5", "rel_ix": "P279_569", "pattern_ix": 1}
+{"prompt": "Hiller YH-32 Hornet,  a subclass of [MASK].", "sub_label": "Hiller YH-32 Hornet", "obj_label": "helicopter", "uuid": "c300f849-fa92-4d92-bb6e-d69ab4228ec5", "rel_ix": "P279_569", "pattern_ix": 2}
+{"prompt": "Hiller YH-32 Hornet,  a type of [MASK].", "sub_label": "Hiller YH-32 Hornet", "obj_label": "helicopter", "uuid": "c300f849-fa92-4d92-bb6e-d69ab4228ec5", "rel_ix": "P279_569", "pattern_ix": 3}
+{"prompt": "search algorithm is a subclass of [MASK].", "sub_label": "search algorithm", "obj_label": "algorithm", "uuid": "e3cd15dd-573f-4c5a-ba59-f8a96affcd8e", "rel_ix": "P279_570", "pattern_ix": 0}
+{"prompt": "search algorithm, which is a subclass of [MASK].", "sub_label": "search algorithm", "obj_label": "algorithm", "uuid": "e3cd15dd-573f-4c5a-ba59-f8a96affcd8e", "rel_ix": "P279_570", "pattern_ix": 1}
+{"prompt": "search algorithm,  a subclass of [MASK].", "sub_label": "search algorithm", "obj_label": "algorithm", "uuid": "e3cd15dd-573f-4c5a-ba59-f8a96affcd8e", "rel_ix": "P279_570", "pattern_ix": 2}
+{"prompt": "search algorithm,  a type of [MASK].", "sub_label": "search algorithm", "obj_label": "algorithm", "uuid": "e3cd15dd-573f-4c5a-ba59-f8a96affcd8e", "rel_ix": "P279_570", "pattern_ix": 3}
+{"prompt": "Waxiang Chinese is a subclass of [MASK].", "sub_label": "Waxiang Chinese", "obj_label": "Chinese", "uuid": "689e6e5f-f3b7-4a65-8c37-bc4ab2fa9ba1", "rel_ix": "P279_572", "pattern_ix": 0}
+{"prompt": "Waxiang Chinese, which is a subclass of [MASK].", "sub_label": "Waxiang Chinese", "obj_label": "Chinese", "uuid": "689e6e5f-f3b7-4a65-8c37-bc4ab2fa9ba1", "rel_ix": "P279_572", "pattern_ix": 1}
+{"prompt": "Waxiang Chinese,  a subclass of [MASK].", "sub_label": "Waxiang Chinese", "obj_label": "Chinese", "uuid": "689e6e5f-f3b7-4a65-8c37-bc4ab2fa9ba1", "rel_ix": "P279_572", "pattern_ix": 2}
+{"prompt": "Waxiang Chinese,  a type of [MASK].", "sub_label": "Waxiang Chinese", "obj_label": "Chinese", "uuid": "689e6e5f-f3b7-4a65-8c37-bc4ab2fa9ba1", "rel_ix": "P279_572", "pattern_ix": 3}
+{"prompt": "sphenoid bone is a subclass of [MASK].", "sub_label": "sphenoid bone", "obj_label": "bone", "uuid": "eeee0141-9878-4e08-a045-91156e00d2f9", "rel_ix": "P279_573", "pattern_ix": 0}
+{"prompt": "sphenoid bone, which is a subclass of [MASK].", "sub_label": "sphenoid bone", "obj_label": "bone", "uuid": "eeee0141-9878-4e08-a045-91156e00d2f9", "rel_ix": "P279_573", "pattern_ix": 1}
+{"prompt": "sphenoid bone,  a subclass of [MASK].", "sub_label": "sphenoid bone", "obj_label": "bone", "uuid": "eeee0141-9878-4e08-a045-91156e00d2f9", "rel_ix": "P279_573", "pattern_ix": 2}
+{"prompt": "sphenoid bone,  a type of [MASK].", "sub_label": "sphenoid bone", "obj_label": "bone", "uuid": "eeee0141-9878-4e08-a045-91156e00d2f9", "rel_ix": "P279_573", "pattern_ix": 3}
+{"prompt": "accidental death and dismemberment insurance is a subclass of [MASK].", "sub_label": "accidental death and dismemberment insurance", "obj_label": "insurance", "uuid": "1873f8fc-c3ff-4c63-b6fb-da3a136c01d8", "rel_ix": "P279_576", "pattern_ix": 0}
+{"prompt": "accidental death and dismemberment insurance, which is a subclass of [MASK].", "sub_label": "accidental death and dismemberment insurance", "obj_label": "insurance", "uuid": "1873f8fc-c3ff-4c63-b6fb-da3a136c01d8", "rel_ix": "P279_576", "pattern_ix": 1}
+{"prompt": "accidental death and dismemberment insurance,  a subclass of [MASK].", "sub_label": "accidental death and dismemberment insurance", "obj_label": "insurance", "uuid": "1873f8fc-c3ff-4c63-b6fb-da3a136c01d8", "rel_ix": "P279_576", "pattern_ix": 2}
+{"prompt": "accidental death and dismemberment insurance,  a type of [MASK].", "sub_label": "accidental death and dismemberment insurance", "obj_label": "insurance", "uuid": "1873f8fc-c3ff-4c63-b6fb-da3a136c01d8", "rel_ix": "P279_576", "pattern_ix": 3}
+{"prompt": "hay is a subclass of [MASK].", "sub_label": "hay", "obj_label": "grass", "uuid": "60a761f0-bb14-447f-893c-6733f988693a", "rel_ix": "P279_579", "pattern_ix": 0}
+{"prompt": "hay, which is a subclass of [MASK].", "sub_label": "hay", "obj_label": "grass", "uuid": "60a761f0-bb14-447f-893c-6733f988693a", "rel_ix": "P279_579", "pattern_ix": 1}
+{"prompt": "hay,  a subclass of [MASK].", "sub_label": "hay", "obj_label": "grass", "uuid": "60a761f0-bb14-447f-893c-6733f988693a", "rel_ix": "P279_579", "pattern_ix": 2}
+{"prompt": "hay,  a type of [MASK].", "sub_label": "hay", "obj_label": "grass", "uuid": "60a761f0-bb14-447f-893c-6733f988693a", "rel_ix": "P279_579", "pattern_ix": 3}
+{"prompt": "Pulse-Doppler radar is a subclass of [MASK].", "sub_label": "Pulse-Doppler radar", "obj_label": "radar", "uuid": "ae543d61-57c7-476e-9b4e-c9da9bb8391e", "rel_ix": "P279_582", "pattern_ix": 0}
+{"prompt": "Pulse-Doppler radar, which is a subclass of [MASK].", "sub_label": "Pulse-Doppler radar", "obj_label": "radar", "uuid": "ae543d61-57c7-476e-9b4e-c9da9bb8391e", "rel_ix": "P279_582", "pattern_ix": 1}
+{"prompt": "Pulse-Doppler radar,  a subclass of [MASK].", "sub_label": "Pulse-Doppler radar", "obj_label": "radar", "uuid": "ae543d61-57c7-476e-9b4e-c9da9bb8391e", "rel_ix": "P279_582", "pattern_ix": 2}
+{"prompt": "Pulse-Doppler radar,  a type of [MASK].", "sub_label": "Pulse-Doppler radar", "obj_label": "radar", "uuid": "ae543d61-57c7-476e-9b4e-c9da9bb8391e", "rel_ix": "P279_582", "pattern_ix": 3}
+{"prompt": "mince pie is a subclass of [MASK].", "sub_label": "mince pie", "obj_label": "pie", "uuid": "f63d068a-e40c-417f-91c5-8d702fc53613", "rel_ix": "P279_590", "pattern_ix": 0}
+{"prompt": "mince pie, which is a subclass of [MASK].", "sub_label": "mince pie", "obj_label": "pie", "uuid": "f63d068a-e40c-417f-91c5-8d702fc53613", "rel_ix": "P279_590", "pattern_ix": 1}
+{"prompt": "mince pie,  a subclass of [MASK].", "sub_label": "mince pie", "obj_label": "pie", "uuid": "f63d068a-e40c-417f-91c5-8d702fc53613", "rel_ix": "P279_590", "pattern_ix": 2}
+{"prompt": "mince pie,  a type of [MASK].", "sub_label": "mince pie", "obj_label": "pie", "uuid": "f63d068a-e40c-417f-91c5-8d702fc53613", "rel_ix": "P279_590", "pattern_ix": 3}
+{"prompt": "triquetral bone is a subclass of [MASK].", "sub_label": "triquetral bone", "obj_label": "bone", "uuid": "e00a51bb-a12a-4887-a136-e3c4bb543dfa", "rel_ix": "P279_594", "pattern_ix": 0}
+{"prompt": "triquetral bone, which is a subclass of [MASK].", "sub_label": "triquetral bone", "obj_label": "bone", "uuid": "e00a51bb-a12a-4887-a136-e3c4bb543dfa", "rel_ix": "P279_594", "pattern_ix": 1}
+{"prompt": "triquetral bone,  a subclass of [MASK].", "sub_label": "triquetral bone", "obj_label": "bone", "uuid": "e00a51bb-a12a-4887-a136-e3c4bb543dfa", "rel_ix": "P279_594", "pattern_ix": 2}
+{"prompt": "triquetral bone,  a type of [MASK].", "sub_label": "triquetral bone", "obj_label": "bone", "uuid": "e00a51bb-a12a-4887-a136-e3c4bb543dfa", "rel_ix": "P279_594", "pattern_ix": 3}
+{"prompt": "minestrone is a subclass of [MASK].", "sub_label": "minestrone", "obj_label": "soup", "uuid": "013699ff-c0df-49f1-b395-9e70f5c405af", "rel_ix": "P279_604", "pattern_ix": 0}
+{"prompt": "minestrone, which is a subclass of [MASK].", "sub_label": "minestrone", "obj_label": "soup", "uuid": "013699ff-c0df-49f1-b395-9e70f5c405af", "rel_ix": "P279_604", "pattern_ix": 1}
+{"prompt": "minestrone,  a subclass of [MASK].", "sub_label": "minestrone", "obj_label": "soup", "uuid": "013699ff-c0df-49f1-b395-9e70f5c405af", "rel_ix": "P279_604", "pattern_ix": 2}
+{"prompt": "minestrone,  a type of [MASK].", "sub_label": "minestrone", "obj_label": "soup", "uuid": "013699ff-c0df-49f1-b395-9e70f5c405af", "rel_ix": "P279_604", "pattern_ix": 3}
+{"prompt": "British L-class submarine is a subclass of [MASK].", "sub_label": "British L-class submarine", "obj_label": "submarine", "uuid": "20b823d7-139e-422c-ab5b-defb0acce999", "rel_ix": "P279_606", "pattern_ix": 0}
+{"prompt": "British L-class submarine, which is a subclass of [MASK].", "sub_label": "British L-class submarine", "obj_label": "submarine", "uuid": "20b823d7-139e-422c-ab5b-defb0acce999", "rel_ix": "P279_606", "pattern_ix": 1}
+{"prompt": "British L-class submarine,  a subclass of [MASK].", "sub_label": "British L-class submarine", "obj_label": "submarine", "uuid": "20b823d7-139e-422c-ab5b-defb0acce999", "rel_ix": "P279_606", "pattern_ix": 2}
+{"prompt": "British L-class submarine,  a type of [MASK].", "sub_label": "British L-class submarine", "obj_label": "submarine", "uuid": "20b823d7-139e-422c-ab5b-defb0acce999", "rel_ix": "P279_606", "pattern_ix": 3}
+{"prompt": "risk management is a subclass of [MASK].", "sub_label": "risk management", "obj_label": "management", "uuid": "0d63a3a6-ba07-4b34-a5a9-5288efb1bdd1", "rel_ix": "P279_611", "pattern_ix": 0}
+{"prompt": "risk management, which is a subclass of [MASK].", "sub_label": "risk management", "obj_label": "management", "uuid": "0d63a3a6-ba07-4b34-a5a9-5288efb1bdd1", "rel_ix": "P279_611", "pattern_ix": 1}
+{"prompt": "risk management,  a subclass of [MASK].", "sub_label": "risk management", "obj_label": "management", "uuid": "0d63a3a6-ba07-4b34-a5a9-5288efb1bdd1", "rel_ix": "P279_611", "pattern_ix": 2}
+{"prompt": "risk management,  a type of [MASK].", "sub_label": "risk management", "obj_label": "management", "uuid": "0d63a3a6-ba07-4b34-a5a9-5288efb1bdd1", "rel_ix": "P279_611", "pattern_ix": 3}
+{"prompt": "electromagnetic field is a subclass of [MASK].", "sub_label": "electromagnetic field", "obj_label": "field", "uuid": "769ca523-bb35-4d62-96b8-fb6684a20ff8", "rel_ix": "P279_614", "pattern_ix": 0}
+{"prompt": "electromagnetic field, which is a subclass of [MASK].", "sub_label": "electromagnetic field", "obj_label": "field", "uuid": "769ca523-bb35-4d62-96b8-fb6684a20ff8", "rel_ix": "P279_614", "pattern_ix": 1}
+{"prompt": "electromagnetic field,  a subclass of [MASK].", "sub_label": "electromagnetic field", "obj_label": "field", "uuid": "769ca523-bb35-4d62-96b8-fb6684a20ff8", "rel_ix": "P279_614", "pattern_ix": 2}
+{"prompt": "electromagnetic field,  a type of [MASK].", "sub_label": "electromagnetic field", "obj_label": "field", "uuid": "769ca523-bb35-4d62-96b8-fb6684a20ff8", "rel_ix": "P279_614", "pattern_ix": 3}
+{"prompt": "Chenier is a subclass of [MASK].", "sub_label": "Chenier", "obj_label": "ridge", "uuid": "0af9abf4-d39b-4450-8a6c-a8ff854e52d5", "rel_ix": "P279_616", "pattern_ix": 0}
+{"prompt": "Chenier, which is a subclass of [MASK].", "sub_label": "Chenier", "obj_label": "ridge", "uuid": "0af9abf4-d39b-4450-8a6c-a8ff854e52d5", "rel_ix": "P279_616", "pattern_ix": 1}
+{"prompt": "Chenier,  a subclass of [MASK].", "sub_label": "Chenier", "obj_label": "ridge", "uuid": "0af9abf4-d39b-4450-8a6c-a8ff854e52d5", "rel_ix": "P279_616", "pattern_ix": 2}
+{"prompt": "Chenier,  a type of [MASK].", "sub_label": "Chenier", "obj_label": "ridge", "uuid": "0af9abf4-d39b-4450-8a6c-a8ff854e52d5", "rel_ix": "P279_616", "pattern_ix": 3}
+{"prompt": "Catenin beta 1 is a subclass of [MASK].", "sub_label": "Catenin beta 1", "obj_label": "protein", "uuid": "d7e83627-0452-489f-80d7-2e976d16c8c3", "rel_ix": "P279_617", "pattern_ix": 0}
+{"prompt": "Catenin beta 1, which is a subclass of [MASK].", "sub_label": "Catenin beta 1", "obj_label": "protein", "uuid": "d7e83627-0452-489f-80d7-2e976d16c8c3", "rel_ix": "P279_617", "pattern_ix": 1}
+{"prompt": "Catenin beta 1,  a subclass of [MASK].", "sub_label": "Catenin beta 1", "obj_label": "protein", "uuid": "d7e83627-0452-489f-80d7-2e976d16c8c3", "rel_ix": "P279_617", "pattern_ix": 2}
+{"prompt": "Catenin beta 1,  a type of [MASK].", "sub_label": "Catenin beta 1", "obj_label": "protein", "uuid": "d7e83627-0452-489f-80d7-2e976d16c8c3", "rel_ix": "P279_617", "pattern_ix": 3}
+{"prompt": "classical physics is a subclass of [MASK].", "sub_label": "classical physics", "obj_label": "physics", "uuid": "6a0f1793-5b73-4e8b-a784-997c3be40c86", "rel_ix": "P279_619", "pattern_ix": 0}
+{"prompt": "classical physics, which is a subclass of [MASK].", "sub_label": "classical physics", "obj_label": "physics", "uuid": "6a0f1793-5b73-4e8b-a784-997c3be40c86", "rel_ix": "P279_619", "pattern_ix": 1}
+{"prompt": "classical physics,  a subclass of [MASK].", "sub_label": "classical physics", "obj_label": "physics", "uuid": "6a0f1793-5b73-4e8b-a784-997c3be40c86", "rel_ix": "P279_619", "pattern_ix": 2}
+{"prompt": "classical physics,  a type of [MASK].", "sub_label": "classical physics", "obj_label": "physics", "uuid": "6a0f1793-5b73-4e8b-a784-997c3be40c86", "rel_ix": "P279_619", "pattern_ix": 3}
+{"prompt": "Open Archival Information System is a subclass of [MASK].", "sub_label": "Open Archival Information System", "obj_label": "archive", "uuid": "6725c6f0-3195-420b-99d3-ea22aa7c8212", "rel_ix": "P279_624", "pattern_ix": 0}
+{"prompt": "Open Archival Information System, which is a subclass of [MASK].", "sub_label": "Open Archival Information System", "obj_label": "archive", "uuid": "6725c6f0-3195-420b-99d3-ea22aa7c8212", "rel_ix": "P279_624", "pattern_ix": 1}
+{"prompt": "Open Archival Information System,  a subclass of [MASK].", "sub_label": "Open Archival Information System", "obj_label": "archive", "uuid": "6725c6f0-3195-420b-99d3-ea22aa7c8212", "rel_ix": "P279_624", "pattern_ix": 2}
+{"prompt": "Open Archival Information System,  a type of [MASK].", "sub_label": "Open Archival Information System", "obj_label": "archive", "uuid": "6725c6f0-3195-420b-99d3-ea22aa7c8212", "rel_ix": "P279_624", "pattern_ix": 3}
+{"prompt": "Kajkavian dialect is a subclass of [MASK].", "sub_label": "Kajkavian dialect", "obj_label": "Croatian", "uuid": "eefada3c-934b-4b09-9faa-a935f49ca122", "rel_ix": "P279_627", "pattern_ix": 0}
+{"prompt": "Kajkavian dialect, which is a subclass of [MASK].", "sub_label": "Kajkavian dialect", "obj_label": "Croatian", "uuid": "eefada3c-934b-4b09-9faa-a935f49ca122", "rel_ix": "P279_627", "pattern_ix": 1}
+{"prompt": "Kajkavian dialect,  a subclass of [MASK].", "sub_label": "Kajkavian dialect", "obj_label": "Croatian", "uuid": "eefada3c-934b-4b09-9faa-a935f49ca122", "rel_ix": "P279_627", "pattern_ix": 2}
+{"prompt": "Kajkavian dialect,  a type of [MASK].", "sub_label": "Kajkavian dialect", "obj_label": "Croatian", "uuid": "eefada3c-934b-4b09-9faa-a935f49ca122", "rel_ix": "P279_627", "pattern_ix": 3}
+{"prompt": "glucose syrup is a subclass of [MASK].", "sub_label": "glucose syrup", "obj_label": "syrup", "uuid": "de0fa2aa-b373-4510-bc40-2aca5cd1d33b", "rel_ix": "P279_628", "pattern_ix": 0}
+{"prompt": "glucose syrup, which is a subclass of [MASK].", "sub_label": "glucose syrup", "obj_label": "syrup", "uuid": "de0fa2aa-b373-4510-bc40-2aca5cd1d33b", "rel_ix": "P279_628", "pattern_ix": 1}
+{"prompt": "glucose syrup,  a subclass of [MASK].", "sub_label": "glucose syrup", "obj_label": "syrup", "uuid": "de0fa2aa-b373-4510-bc40-2aca5cd1d33b", "rel_ix": "P279_628", "pattern_ix": 2}
+{"prompt": "glucose syrup,  a type of [MASK].", "sub_label": "glucose syrup", "obj_label": "syrup", "uuid": "de0fa2aa-b373-4510-bc40-2aca5cd1d33b", "rel_ix": "P279_628", "pattern_ix": 3}
+{"prompt": "All-aspect is a subclass of [MASK].", "sub_label": "All-aspect", "obj_label": "missile", "uuid": "6ded06ab-5b55-4788-abd5-92f0975e61fc", "rel_ix": "P279_629", "pattern_ix": 0}
+{"prompt": "All-aspect, which is a subclass of [MASK].", "sub_label": "All-aspect", "obj_label": "missile", "uuid": "6ded06ab-5b55-4788-abd5-92f0975e61fc", "rel_ix": "P279_629", "pattern_ix": 1}
+{"prompt": "All-aspect,  a subclass of [MASK].", "sub_label": "All-aspect", "obj_label": "missile", "uuid": "6ded06ab-5b55-4788-abd5-92f0975e61fc", "rel_ix": "P279_629", "pattern_ix": 2}
+{"prompt": "All-aspect,  a type of [MASK].", "sub_label": "All-aspect", "obj_label": "missile", "uuid": "6ded06ab-5b55-4788-abd5-92f0975e61fc", "rel_ix": "P279_629", "pattern_ix": 3}
+{"prompt": "tarsal bone is a subclass of [MASK].", "sub_label": "tarsal bone", "obj_label": "bone", "uuid": "f5a53cc4-11b7-4d2c-9e4b-0f3ee7db483d", "rel_ix": "P279_634", "pattern_ix": 0}
+{"prompt": "tarsal bone, which is a subclass of [MASK].", "sub_label": "tarsal bone", "obj_label": "bone", "uuid": "f5a53cc4-11b7-4d2c-9e4b-0f3ee7db483d", "rel_ix": "P279_634", "pattern_ix": 1}
+{"prompt": "tarsal bone,  a subclass of [MASK].", "sub_label": "tarsal bone", "obj_label": "bone", "uuid": "f5a53cc4-11b7-4d2c-9e4b-0f3ee7db483d", "rel_ix": "P279_634", "pattern_ix": 2}
+{"prompt": "tarsal bone,  a type of [MASK].", "sub_label": "tarsal bone", "obj_label": "bone", "uuid": "f5a53cc4-11b7-4d2c-9e4b-0f3ee7db483d", "rel_ix": "P279_634", "pattern_ix": 3}
+{"prompt": "Italo disco is a subclass of [MASK].", "sub_label": "Italo disco", "obj_label": "disco", "uuid": "2fd52a0f-ae52-4ea4-83ac-40bf9a1a2c2d", "rel_ix": "P279_642", "pattern_ix": 0}
+{"prompt": "Italo disco, which is a subclass of [MASK].", "sub_label": "Italo disco", "obj_label": "disco", "uuid": "2fd52a0f-ae52-4ea4-83ac-40bf9a1a2c2d", "rel_ix": "P279_642", "pattern_ix": 1}
+{"prompt": "Italo disco,  a subclass of [MASK].", "sub_label": "Italo disco", "obj_label": "disco", "uuid": "2fd52a0f-ae52-4ea4-83ac-40bf9a1a2c2d", "rel_ix": "P279_642", "pattern_ix": 2}
+{"prompt": "Italo disco,  a type of [MASK].", "sub_label": "Italo disco", "obj_label": "disco", "uuid": "2fd52a0f-ae52-4ea4-83ac-40bf9a1a2c2d", "rel_ix": "P279_642", "pattern_ix": 3}
+{"prompt": "disc galaxy is a subclass of [MASK].", "sub_label": "disc galaxy", "obj_label": "galaxy", "uuid": "e93175a6-85ba-4366-b96d-eb7536c04f34", "rel_ix": "P279_645", "pattern_ix": 0}
+{"prompt": "disc galaxy, which is a subclass of [MASK].", "sub_label": "disc galaxy", "obj_label": "galaxy", "uuid": "e93175a6-85ba-4366-b96d-eb7536c04f34", "rel_ix": "P279_645", "pattern_ix": 1}
+{"prompt": "disc galaxy,  a subclass of [MASK].", "sub_label": "disc galaxy", "obj_label": "galaxy", "uuid": "e93175a6-85ba-4366-b96d-eb7536c04f34", "rel_ix": "P279_645", "pattern_ix": 2}
+{"prompt": "disc galaxy,  a type of [MASK].", "sub_label": "disc galaxy", "obj_label": "galaxy", "uuid": "e93175a6-85ba-4366-b96d-eb7536c04f34", "rel_ix": "P279_645", "pattern_ix": 3}
+{"prompt": "copolymer is a subclass of [MASK].", "sub_label": "copolymer", "obj_label": "polymer", "uuid": "5ba52c9e-27a2-4157-a305-fd7b23685530", "rel_ix": "P279_648", "pattern_ix": 0}
+{"prompt": "copolymer, which is a subclass of [MASK].", "sub_label": "copolymer", "obj_label": "polymer", "uuid": "5ba52c9e-27a2-4157-a305-fd7b23685530", "rel_ix": "P279_648", "pattern_ix": 1}
+{"prompt": "copolymer,  a subclass of [MASK].", "sub_label": "copolymer", "obj_label": "polymer", "uuid": "5ba52c9e-27a2-4157-a305-fd7b23685530", "rel_ix": "P279_648", "pattern_ix": 2}
+{"prompt": "copolymer,  a type of [MASK].", "sub_label": "copolymer", "obj_label": "polymer", "uuid": "5ba52c9e-27a2-4157-a305-fd7b23685530", "rel_ix": "P279_648", "pattern_ix": 3}
+{"prompt": "white bread is a subclass of [MASK].", "sub_label": "white bread", "obj_label": "bread", "uuid": "ea9ff392-1583-45ab-8a84-529ff6f5d29f", "rel_ix": "P279_676", "pattern_ix": 0}
+{"prompt": "white bread, which is a subclass of [MASK].", "sub_label": "white bread", "obj_label": "bread", "uuid": "ea9ff392-1583-45ab-8a84-529ff6f5d29f", "rel_ix": "P279_676", "pattern_ix": 1}
+{"prompt": "white bread,  a subclass of [MASK].", "sub_label": "white bread", "obj_label": "bread", "uuid": "ea9ff392-1583-45ab-8a84-529ff6f5d29f", "rel_ix": "P279_676", "pattern_ix": 2}
+{"prompt": "white bread,  a type of [MASK].", "sub_label": "white bread", "obj_label": "bread", "uuid": "ea9ff392-1583-45ab-8a84-529ff6f5d29f", "rel_ix": "P279_676", "pattern_ix": 3}
+{"prompt": "foot guards is a subclass of [MASK].", "sub_label": "foot guards", "obj_label": "regiment", "uuid": "2c37a82b-bd36-4694-82cd-259d8df10636", "rel_ix": "P279_680", "pattern_ix": 0}
+{"prompt": "foot guards, which is a subclass of [MASK].", "sub_label": "foot guards", "obj_label": "regiment", "uuid": "2c37a82b-bd36-4694-82cd-259d8df10636", "rel_ix": "P279_680", "pattern_ix": 1}
+{"prompt": "foot guards,  a subclass of [MASK].", "sub_label": "foot guards", "obj_label": "regiment", "uuid": "2c37a82b-bd36-4694-82cd-259d8df10636", "rel_ix": "P279_680", "pattern_ix": 2}
+{"prompt": "foot guards,  a type of [MASK].", "sub_label": "foot guards", "obj_label": "regiment", "uuid": "2c37a82b-bd36-4694-82cd-259d8df10636", "rel_ix": "P279_680", "pattern_ix": 3}
+{"prompt": "pound cake is a subclass of [MASK].", "sub_label": "pound cake", "obj_label": "cake", "uuid": "f060790f-f159-4cc4-88ef-7071d8410de4", "rel_ix": "P279_684", "pattern_ix": 0}
+{"prompt": "pound cake, which is a subclass of [MASK].", "sub_label": "pound cake", "obj_label": "cake", "uuid": "f060790f-f159-4cc4-88ef-7071d8410de4", "rel_ix": "P279_684", "pattern_ix": 1}
+{"prompt": "pound cake,  a subclass of [MASK].", "sub_label": "pound cake", "obj_label": "cake", "uuid": "f060790f-f159-4cc4-88ef-7071d8410de4", "rel_ix": "P279_684", "pattern_ix": 2}
+{"prompt": "pound cake,  a type of [MASK].", "sub_label": "pound cake", "obj_label": "cake", "uuid": "f060790f-f159-4cc4-88ef-7071d8410de4", "rel_ix": "P279_684", "pattern_ix": 3}
+{"prompt": "Yule Marble is a subclass of [MASK].", "sub_label": "Yule Marble", "obj_label": "marble", "uuid": "d1137ef6-f647-4bbf-9bf4-ce4a24e9de8f", "rel_ix": "P279_687", "pattern_ix": 0}
+{"prompt": "Yule Marble, which is a subclass of [MASK].", "sub_label": "Yule Marble", "obj_label": "marble", "uuid": "d1137ef6-f647-4bbf-9bf4-ce4a24e9de8f", "rel_ix": "P279_687", "pattern_ix": 1}
+{"prompt": "Yule Marble,  a subclass of [MASK].", "sub_label": "Yule Marble", "obj_label": "marble", "uuid": "d1137ef6-f647-4bbf-9bf4-ce4a24e9de8f", "rel_ix": "P279_687", "pattern_ix": 2}
+{"prompt": "Yule Marble,  a type of [MASK].", "sub_label": "Yule Marble", "obj_label": "marble", "uuid": "d1137ef6-f647-4bbf-9bf4-ce4a24e9de8f", "rel_ix": "P279_687", "pattern_ix": 3}
+{"prompt": "computer simulation is a subclass of [MASK].", "sub_label": "computer simulation", "obj_label": "simulation", "uuid": "d69c784e-5bb0-48e1-a17a-39fcc887dd61", "rel_ix": "P279_691", "pattern_ix": 0}
+{"prompt": "computer simulation, which is a subclass of [MASK].", "sub_label": "computer simulation", "obj_label": "simulation", "uuid": "d69c784e-5bb0-48e1-a17a-39fcc887dd61", "rel_ix": "P279_691", "pattern_ix": 1}
+{"prompt": "computer simulation,  a subclass of [MASK].", "sub_label": "computer simulation", "obj_label": "simulation", "uuid": "d69c784e-5bb0-48e1-a17a-39fcc887dd61", "rel_ix": "P279_691", "pattern_ix": 2}
+{"prompt": "computer simulation,  a type of [MASK].", "sub_label": "computer simulation", "obj_label": "simulation", "uuid": "d69c784e-5bb0-48e1-a17a-39fcc887dd61", "rel_ix": "P279_691", "pattern_ix": 3}
+{"prompt": "Transferrin is a subclass of [MASK].", "sub_label": "Transferrin", "obj_label": "protein", "uuid": "6bfb8791-07de-4741-8afa-9f75e0cab499", "rel_ix": "P279_707", "pattern_ix": 0}
+{"prompt": "Transferrin, which is a subclass of [MASK].", "sub_label": "Transferrin", "obj_label": "protein", "uuid": "6bfb8791-07de-4741-8afa-9f75e0cab499", "rel_ix": "P279_707", "pattern_ix": 1}
+{"prompt": "Transferrin,  a subclass of [MASK].", "sub_label": "Transferrin", "obj_label": "protein", "uuid": "6bfb8791-07de-4741-8afa-9f75e0cab499", "rel_ix": "P279_707", "pattern_ix": 2}
+{"prompt": "Transferrin,  a type of [MASK].", "sub_label": "Transferrin", "obj_label": "protein", "uuid": "6bfb8791-07de-4741-8afa-9f75e0cab499", "rel_ix": "P279_707", "pattern_ix": 3}
+{"prompt": "NCAN is a subclass of [MASK].", "sub_label": "NCAN", "obj_label": "gene", "uuid": "a27b6d89-f462-4427-8989-503ed1d9a4f9", "rel_ix": "P279_712", "pattern_ix": 0}
+{"prompt": "NCAN, which is a subclass of [MASK].", "sub_label": "NCAN", "obj_label": "gene", "uuid": "a27b6d89-f462-4427-8989-503ed1d9a4f9", "rel_ix": "P279_712", "pattern_ix": 1}
+{"prompt": "NCAN,  a subclass of [MASK].", "sub_label": "NCAN", "obj_label": "gene", "uuid": "a27b6d89-f462-4427-8989-503ed1d9a4f9", "rel_ix": "P279_712", "pattern_ix": 2}
+{"prompt": "NCAN,  a type of [MASK].", "sub_label": "NCAN", "obj_label": "gene", "uuid": "a27b6d89-f462-4427-8989-503ed1d9a4f9", "rel_ix": "P279_712", "pattern_ix": 3}
+{"prompt": "patent attorney is a subclass of [MASK].", "sub_label": "patent attorney", "obj_label": "lawyer", "uuid": "b2bfd153-cccc-4a97-9d14-d9d584b4263c", "rel_ix": "P279_725", "pattern_ix": 0}
+{"prompt": "patent attorney, which is a subclass of [MASK].", "sub_label": "patent attorney", "obj_label": "lawyer", "uuid": "b2bfd153-cccc-4a97-9d14-d9d584b4263c", "rel_ix": "P279_725", "pattern_ix": 1}
+{"prompt": "patent attorney,  a subclass of [MASK].", "sub_label": "patent attorney", "obj_label": "lawyer", "uuid": "b2bfd153-cccc-4a97-9d14-d9d584b4263c", "rel_ix": "P279_725", "pattern_ix": 2}
+{"prompt": "patent attorney,  a type of [MASK].", "sub_label": "patent attorney", "obj_label": "lawyer", "uuid": "b2bfd153-cccc-4a97-9d14-d9d584b4263c", "rel_ix": "P279_725", "pattern_ix": 3}
+{"prompt": "computer font is a subclass of [MASK].", "sub_label": "computer font", "obj_label": "font", "uuid": "8b2f3a64-4b20-4e01-bccc-0d0427ef0157", "rel_ix": "P279_731", "pattern_ix": 0}
+{"prompt": "computer font, which is a subclass of [MASK].", "sub_label": "computer font", "obj_label": "font", "uuid": "8b2f3a64-4b20-4e01-bccc-0d0427ef0157", "rel_ix": "P279_731", "pattern_ix": 1}
+{"prompt": "computer font,  a subclass of [MASK].", "sub_label": "computer font", "obj_label": "font", "uuid": "8b2f3a64-4b20-4e01-bccc-0d0427ef0157", "rel_ix": "P279_731", "pattern_ix": 2}
+{"prompt": "computer font,  a type of [MASK].", "sub_label": "computer font", "obj_label": "font", "uuid": "8b2f3a64-4b20-4e01-bccc-0d0427ef0157", "rel_ix": "P279_731", "pattern_ix": 3}
+{"prompt": "jitterbug is a subclass of [MASK].", "sub_label": "jitterbug", "obj_label": "swing", "uuid": "d45d4ad9-0163-444d-8a9a-fd5bdadb06bf", "rel_ix": "P279_737", "pattern_ix": 0}
+{"prompt": "jitterbug, which is a subclass of [MASK].", "sub_label": "jitterbug", "obj_label": "swing", "uuid": "d45d4ad9-0163-444d-8a9a-fd5bdadb06bf", "rel_ix": "P279_737", "pattern_ix": 1}
+{"prompt": "jitterbug,  a subclass of [MASK].", "sub_label": "jitterbug", "obj_label": "swing", "uuid": "d45d4ad9-0163-444d-8a9a-fd5bdadb06bf", "rel_ix": "P279_737", "pattern_ix": 2}
+{"prompt": "jitterbug,  a type of [MASK].", "sub_label": "jitterbug", "obj_label": "swing", "uuid": "d45d4ad9-0163-444d-8a9a-fd5bdadb06bf", "rel_ix": "P279_737", "pattern_ix": 3}
+{"prompt": "Elastin is a subclass of [MASK].", "sub_label": "Elastin", "obj_label": "protein", "uuid": "40ffb2ef-2816-4fe1-a588-b5a25fa0f6a7", "rel_ix": "P279_775", "pattern_ix": 0}
+{"prompt": "Elastin, which is a subclass of [MASK].", "sub_label": "Elastin", "obj_label": "protein", "uuid": "40ffb2ef-2816-4fe1-a588-b5a25fa0f6a7", "rel_ix": "P279_775", "pattern_ix": 1}
+{"prompt": "Elastin,  a subclass of [MASK].", "sub_label": "Elastin", "obj_label": "protein", "uuid": "40ffb2ef-2816-4fe1-a588-b5a25fa0f6a7", "rel_ix": "P279_775", "pattern_ix": 2}
+{"prompt": "Elastin,  a type of [MASK].", "sub_label": "Elastin", "obj_label": "protein", "uuid": "40ffb2ef-2816-4fe1-a588-b5a25fa0f6a7", "rel_ix": "P279_775", "pattern_ix": 3}
+{"prompt": "Jazz piano is a subclass of [MASK].", "sub_label": "Jazz piano", "obj_label": "piano", "uuid": "8a61c3c1-bb64-495a-a4cd-9d7601f40d43", "rel_ix": "P279_777", "pattern_ix": 0}
+{"prompt": "Jazz piano, which is a subclass of [MASK].", "sub_label": "Jazz piano", "obj_label": "piano", "uuid": "8a61c3c1-bb64-495a-a4cd-9d7601f40d43", "rel_ix": "P279_777", "pattern_ix": 1}
+{"prompt": "Jazz piano,  a subclass of [MASK].", "sub_label": "Jazz piano", "obj_label": "piano", "uuid": "8a61c3c1-bb64-495a-a4cd-9d7601f40d43", "rel_ix": "P279_777", "pattern_ix": 2}
+{"prompt": "Jazz piano,  a type of [MASK].", "sub_label": "Jazz piano", "obj_label": "piano", "uuid": "8a61c3c1-bb64-495a-a4cd-9d7601f40d43", "rel_ix": "P279_777", "pattern_ix": 3}
+{"prompt": "Ponzi scheme is a subclass of [MASK].", "sub_label": "Ponzi scheme", "obj_label": "fraud", "uuid": "b763e62f-eff9-4017-8ee6-65fb0e89c6f5", "rel_ix": "P279_779", "pattern_ix": 0}
+{"prompt": "Ponzi scheme, which is a subclass of [MASK].", "sub_label": "Ponzi scheme", "obj_label": "fraud", "uuid": "b763e62f-eff9-4017-8ee6-65fb0e89c6f5", "rel_ix": "P279_779", "pattern_ix": 1}
+{"prompt": "Ponzi scheme,  a subclass of [MASK].", "sub_label": "Ponzi scheme", "obj_label": "fraud", "uuid": "b763e62f-eff9-4017-8ee6-65fb0e89c6f5", "rel_ix": "P279_779", "pattern_ix": 2}
+{"prompt": "Ponzi scheme,  a type of [MASK].", "sub_label": "Ponzi scheme", "obj_label": "fraud", "uuid": "b763e62f-eff9-4017-8ee6-65fb0e89c6f5", "rel_ix": "P279_779", "pattern_ix": 3}
+{"prompt": "double whole note is a subclass of [MASK].", "sub_label": "double whole note", "obj_label": "note", "uuid": "c5e78d1d-ab34-4a11-8dcb-63b0033ee9d2", "rel_ix": "P279_785", "pattern_ix": 0}
+{"prompt": "double whole note, which is a subclass of [MASK].", "sub_label": "double whole note", "obj_label": "note", "uuid": "c5e78d1d-ab34-4a11-8dcb-63b0033ee9d2", "rel_ix": "P279_785", "pattern_ix": 1}
+{"prompt": "double whole note,  a subclass of [MASK].", "sub_label": "double whole note", "obj_label": "note", "uuid": "c5e78d1d-ab34-4a11-8dcb-63b0033ee9d2", "rel_ix": "P279_785", "pattern_ix": 2}
+{"prompt": "double whole note,  a type of [MASK].", "sub_label": "double whole note", "obj_label": "note", "uuid": "c5e78d1d-ab34-4a11-8dcb-63b0033ee9d2", "rel_ix": "P279_785", "pattern_ix": 3}
+{"prompt": "Tumor protein p63 is a subclass of [MASK].", "sub_label": "Tumor protein p63", "obj_label": "protein", "uuid": "07a97932-0830-45ec-955d-c0eb4c9dc970", "rel_ix": "P279_786", "pattern_ix": 0}
+{"prompt": "Tumor protein p63, which is a subclass of [MASK].", "sub_label": "Tumor protein p63", "obj_label": "protein", "uuid": "07a97932-0830-45ec-955d-c0eb4c9dc970", "rel_ix": "P279_786", "pattern_ix": 1}
+{"prompt": "Tumor protein p63,  a subclass of [MASK].", "sub_label": "Tumor protein p63", "obj_label": "protein", "uuid": "07a97932-0830-45ec-955d-c0eb4c9dc970", "rel_ix": "P279_786", "pattern_ix": 2}
+{"prompt": "Tumor protein p63,  a type of [MASK].", "sub_label": "Tumor protein p63", "obj_label": "protein", "uuid": "07a97932-0830-45ec-955d-c0eb4c9dc970", "rel_ix": "P279_786", "pattern_ix": 3}
+{"prompt": "B-type asteroid is a subclass of [MASK].", "sub_label": "B-type asteroid", "obj_label": "asteroid", "uuid": "2f365a33-2975-45d5-93ef-aa9987b0e717", "rel_ix": "P279_788", "pattern_ix": 0}
+{"prompt": "B-type asteroid, which is a subclass of [MASK].", "sub_label": "B-type asteroid", "obj_label": "asteroid", "uuid": "2f365a33-2975-45d5-93ef-aa9987b0e717", "rel_ix": "P279_788", "pattern_ix": 1}
+{"prompt": "B-type asteroid,  a subclass of [MASK].", "sub_label": "B-type asteroid", "obj_label": "asteroid", "uuid": "2f365a33-2975-45d5-93ef-aa9987b0e717", "rel_ix": "P279_788", "pattern_ix": 2}
+{"prompt": "B-type asteroid,  a type of [MASK].", "sub_label": "B-type asteroid", "obj_label": "asteroid", "uuid": "2f365a33-2975-45d5-93ef-aa9987b0e717", "rel_ix": "P279_788", "pattern_ix": 3}
+{"prompt": "naval brigade is a subclass of [MASK].", "sub_label": "naval brigade", "obj_label": "brigade", "uuid": "8c6d5aae-faa6-4fa2-8a57-8a24eaf24723", "rel_ix": "P279_794", "pattern_ix": 0}
+{"prompt": "naval brigade, which is a subclass of [MASK].", "sub_label": "naval brigade", "obj_label": "brigade", "uuid": "8c6d5aae-faa6-4fa2-8a57-8a24eaf24723", "rel_ix": "P279_794", "pattern_ix": 1}
+{"prompt": "naval brigade,  a subclass of [MASK].", "sub_label": "naval brigade", "obj_label": "brigade", "uuid": "8c6d5aae-faa6-4fa2-8a57-8a24eaf24723", "rel_ix": "P279_794", "pattern_ix": 2}
+{"prompt": "naval brigade,  a type of [MASK].", "sub_label": "naval brigade", "obj_label": "brigade", "uuid": "8c6d5aae-faa6-4fa2-8a57-8a24eaf24723", "rel_ix": "P279_794", "pattern_ix": 3}
+{"prompt": "Sikorsky H-5 is a subclass of [MASK].", "sub_label": "Sikorsky H-5", "obj_label": "helicopter", "uuid": "b74cdf6c-89f9-4327-abb3-0594a11ea50a", "rel_ix": "P279_795", "pattern_ix": 0}
+{"prompt": "Sikorsky H-5, which is a subclass of [MASK].", "sub_label": "Sikorsky H-5", "obj_label": "helicopter", "uuid": "b74cdf6c-89f9-4327-abb3-0594a11ea50a", "rel_ix": "P279_795", "pattern_ix": 1}
+{"prompt": "Sikorsky H-5,  a subclass of [MASK].", "sub_label": "Sikorsky H-5", "obj_label": "helicopter", "uuid": "b74cdf6c-89f9-4327-abb3-0594a11ea50a", "rel_ix": "P279_795", "pattern_ix": 2}
+{"prompt": "Sikorsky H-5,  a type of [MASK].", "sub_label": "Sikorsky H-5", "obj_label": "helicopter", "uuid": "b74cdf6c-89f9-4327-abb3-0594a11ea50a", "rel_ix": "P279_795", "pattern_ix": 3}
+{"prompt": "sexual addiction is a subclass of [MASK].", "sub_label": "sexual addiction", "obj_label": "addiction", "uuid": "8eadf52b-0093-42ed-8310-551474a68fe4", "rel_ix": "P279_806", "pattern_ix": 0}
+{"prompt": "sexual addiction, which is a subclass of [MASK].", "sub_label": "sexual addiction", "obj_label": "addiction", "uuid": "8eadf52b-0093-42ed-8310-551474a68fe4", "rel_ix": "P279_806", "pattern_ix": 1}
+{"prompt": "sexual addiction,  a subclass of [MASK].", "sub_label": "sexual addiction", "obj_label": "addiction", "uuid": "8eadf52b-0093-42ed-8310-551474a68fe4", "rel_ix": "P279_806", "pattern_ix": 2}
+{"prompt": "sexual addiction,  a type of [MASK].", "sub_label": "sexual addiction", "obj_label": "addiction", "uuid": "8eadf52b-0093-42ed-8310-551474a68fe4", "rel_ix": "P279_806", "pattern_ix": 3}
+{"prompt": "mobile app is a subclass of [MASK].", "sub_label": "mobile app", "obj_label": "application", "uuid": "a777c768-9421-4520-b5dd-8c72ec8e915f", "rel_ix": "P279_807", "pattern_ix": 0}
+{"prompt": "mobile app, which is a subclass of [MASK].", "sub_label": "mobile app", "obj_label": "application", "uuid": "a777c768-9421-4520-b5dd-8c72ec8e915f", "rel_ix": "P279_807", "pattern_ix": 1}
+{"prompt": "mobile app,  a subclass of [MASK].", "sub_label": "mobile app", "obj_label": "application", "uuid": "a777c768-9421-4520-b5dd-8c72ec8e915f", "rel_ix": "P279_807", "pattern_ix": 2}
+{"prompt": "mobile app,  a type of [MASK].", "sub_label": "mobile app", "obj_label": "application", "uuid": "a777c768-9421-4520-b5dd-8c72ec8e915f", "rel_ix": "P279_807", "pattern_ix": 3}
+{"prompt": "sulfonic acid is a subclass of [MASK].", "sub_label": "sulfonic acid", "obj_label": "acid", "uuid": "265aa354-fdfc-440c-b481-a10245daa1a4", "rel_ix": "P279_815", "pattern_ix": 0}
+{"prompt": "sulfonic acid, which is a subclass of [MASK].", "sub_label": "sulfonic acid", "obj_label": "acid", "uuid": "265aa354-fdfc-440c-b481-a10245daa1a4", "rel_ix": "P279_815", "pattern_ix": 1}
+{"prompt": "sulfonic acid,  a subclass of [MASK].", "sub_label": "sulfonic acid", "obj_label": "acid", "uuid": "265aa354-fdfc-440c-b481-a10245daa1a4", "rel_ix": "P279_815", "pattern_ix": 2}
+{"prompt": "sulfonic acid,  a type of [MASK].", "sub_label": "sulfonic acid", "obj_label": "acid", "uuid": "265aa354-fdfc-440c-b481-a10245daa1a4", "rel_ix": "P279_815", "pattern_ix": 3}
+{"prompt": "sitting volleyball is a subclass of [MASK].", "sub_label": "sitting volleyball", "obj_label": "volleyball", "uuid": "69bd5794-30d1-4289-b0d3-739d59b3a89e", "rel_ix": "P279_821", "pattern_ix": 0}
+{"prompt": "sitting volleyball, which is a subclass of [MASK].", "sub_label": "sitting volleyball", "obj_label": "volleyball", "uuid": "69bd5794-30d1-4289-b0d3-739d59b3a89e", "rel_ix": "P279_821", "pattern_ix": 1}
+{"prompt": "sitting volleyball,  a subclass of [MASK].", "sub_label": "sitting volleyball", "obj_label": "volleyball", "uuid": "69bd5794-30d1-4289-b0d3-739d59b3a89e", "rel_ix": "P279_821", "pattern_ix": 2}
+{"prompt": "sitting volleyball,  a type of [MASK].", "sub_label": "sitting volleyball", "obj_label": "volleyball", "uuid": "69bd5794-30d1-4289-b0d3-739d59b3a89e", "rel_ix": "P279_821", "pattern_ix": 3}
+{"prompt": "United States H-class submarine is a subclass of [MASK].", "sub_label": "United States H-class submarine", "obj_label": "submarine", "uuid": "77369171-ecdd-4c99-86dd-bf00b8dc00ab", "rel_ix": "P279_823", "pattern_ix": 0}
+{"prompt": "United States H-class submarine, which is a subclass of [MASK].", "sub_label": "United States H-class submarine", "obj_label": "submarine", "uuid": "77369171-ecdd-4c99-86dd-bf00b8dc00ab", "rel_ix": "P279_823", "pattern_ix": 1}
+{"prompt": "United States H-class submarine,  a subclass of [MASK].", "sub_label": "United States H-class submarine", "obj_label": "submarine", "uuid": "77369171-ecdd-4c99-86dd-bf00b8dc00ab", "rel_ix": "P279_823", "pattern_ix": 2}
+{"prompt": "United States H-class submarine,  a type of [MASK].", "sub_label": "United States H-class submarine", "obj_label": "submarine", "uuid": "77369171-ecdd-4c99-86dd-bf00b8dc00ab", "rel_ix": "P279_823", "pattern_ix": 3}
+{"prompt": "Anthrax vaccines is a subclass of [MASK].", "sub_label": "Anthrax vaccines", "obj_label": "vaccine", "uuid": "3be5afca-b1a3-4686-ac7b-a594274e22c3", "rel_ix": "P279_825", "pattern_ix": 0}
+{"prompt": "Anthrax vaccines, which is a subclass of [MASK].", "sub_label": "Anthrax vaccines", "obj_label": "vaccine", "uuid": "3be5afca-b1a3-4686-ac7b-a594274e22c3", "rel_ix": "P279_825", "pattern_ix": 1}
+{"prompt": "Anthrax vaccines,  a subclass of [MASK].", "sub_label": "Anthrax vaccines", "obj_label": "vaccine", "uuid": "3be5afca-b1a3-4686-ac7b-a594274e22c3", "rel_ix": "P279_825", "pattern_ix": 2}
+{"prompt": "Anthrax vaccines,  a type of [MASK].", "sub_label": "Anthrax vaccines", "obj_label": "vaccine", "uuid": "3be5afca-b1a3-4686-ac7b-a594274e22c3", "rel_ix": "P279_825", "pattern_ix": 3}
+{"prompt": "Toll like receptor 9 is a subclass of [MASK].", "sub_label": "Toll like receptor 9", "obj_label": "protein", "uuid": "8eed687e-802d-48f6-a4ba-e826dfd3f974", "rel_ix": "P279_833", "pattern_ix": 0}
+{"prompt": "Toll like receptor 9, which is a subclass of [MASK].", "sub_label": "Toll like receptor 9", "obj_label": "protein", "uuid": "8eed687e-802d-48f6-a4ba-e826dfd3f974", "rel_ix": "P279_833", "pattern_ix": 1}
+{"prompt": "Toll like receptor 9,  a subclass of [MASK].", "sub_label": "Toll like receptor 9", "obj_label": "protein", "uuid": "8eed687e-802d-48f6-a4ba-e826dfd3f974", "rel_ix": "P279_833", "pattern_ix": 2}
+{"prompt": "Toll like receptor 9,  a type of [MASK].", "sub_label": "Toll like receptor 9", "obj_label": "protein", "uuid": "8eed687e-802d-48f6-a4ba-e826dfd3f974", "rel_ix": "P279_833", "pattern_ix": 3}
+{"prompt": "democratic socialism is a subclass of [MASK].", "sub_label": "democratic socialism", "obj_label": "socialism", "uuid": "3c42cf20-8260-4bb9-ac36-5ca340ea7ae5", "rel_ix": "P279_835", "pattern_ix": 0}
+{"prompt": "democratic socialism, which is a subclass of [MASK].", "sub_label": "democratic socialism", "obj_label": "socialism", "uuid": "3c42cf20-8260-4bb9-ac36-5ca340ea7ae5", "rel_ix": "P279_835", "pattern_ix": 1}
+{"prompt": "democratic socialism,  a subclass of [MASK].", "sub_label": "democratic socialism", "obj_label": "socialism", "uuid": "3c42cf20-8260-4bb9-ac36-5ca340ea7ae5", "rel_ix": "P279_835", "pattern_ix": 2}
+{"prompt": "democratic socialism,  a type of [MASK].", "sub_label": "democratic socialism", "obj_label": "socialism", "uuid": "3c42cf20-8260-4bb9-ac36-5ca340ea7ae5", "rel_ix": "P279_835", "pattern_ix": 3}
+{"prompt": "Old Dutch is a subclass of [MASK].", "sub_label": "Old Dutch", "obj_label": "Dutch", "uuid": "e6f9e097-806e-4408-bc2a-fccbe2ddbe8c", "rel_ix": "P279_838", "pattern_ix": 0}
+{"prompt": "Old Dutch, which is a subclass of [MASK].", "sub_label": "Old Dutch", "obj_label": "Dutch", "uuid": "e6f9e097-806e-4408-bc2a-fccbe2ddbe8c", "rel_ix": "P279_838", "pattern_ix": 1}
+{"prompt": "Old Dutch,  a subclass of [MASK].", "sub_label": "Old Dutch", "obj_label": "Dutch", "uuid": "e6f9e097-806e-4408-bc2a-fccbe2ddbe8c", "rel_ix": "P279_838", "pattern_ix": 2}
+{"prompt": "Old Dutch,  a type of [MASK].", "sub_label": "Old Dutch", "obj_label": "Dutch", "uuid": "e6f9e097-806e-4408-bc2a-fccbe2ddbe8c", "rel_ix": "P279_838", "pattern_ix": 3}
+{"prompt": "electromagnetism is a subclass of [MASK].", "sub_label": "electromagnetism", "obj_label": "physics", "uuid": "284dddd7-666d-41a1-954e-46e81e5ae48f", "rel_ix": "P279_839", "pattern_ix": 0}
+{"prompt": "electromagnetism, which is a subclass of [MASK].", "sub_label": "electromagnetism", "obj_label": "physics", "uuid": "284dddd7-666d-41a1-954e-46e81e5ae48f", "rel_ix": "P279_839", "pattern_ix": 1}
+{"prompt": "electromagnetism,  a subclass of [MASK].", "sub_label": "electromagnetism", "obj_label": "physics", "uuid": "284dddd7-666d-41a1-954e-46e81e5ae48f", "rel_ix": "P279_839", "pattern_ix": 2}
+{"prompt": "electromagnetism,  a type of [MASK].", "sub_label": "electromagnetism", "obj_label": "physics", "uuid": "284dddd7-666d-41a1-954e-46e81e5ae48f", "rel_ix": "P279_839", "pattern_ix": 3}
+{"prompt": "Cytochrome P450 family 2 subfamily C member 9 is a subclass of [MASK].", "sub_label": "Cytochrome P450 family 2 subfamily C member 9", "obj_label": "protein", "uuid": "4f0ab421-a693-4736-9f81-2fff95b230a9", "rel_ix": "P279_851", "pattern_ix": 0}
+{"prompt": "Cytochrome P450 family 2 subfamily C member 9, which is a subclass of [MASK].", "sub_label": "Cytochrome P450 family 2 subfamily C member 9", "obj_label": "protein", "uuid": "4f0ab421-a693-4736-9f81-2fff95b230a9", "rel_ix": "P279_851", "pattern_ix": 1}
+{"prompt": "Cytochrome P450 family 2 subfamily C member 9,  a subclass of [MASK].", "sub_label": "Cytochrome P450 family 2 subfamily C member 9", "obj_label": "protein", "uuid": "4f0ab421-a693-4736-9f81-2fff95b230a9", "rel_ix": "P279_851", "pattern_ix": 2}
+{"prompt": "Cytochrome P450 family 2 subfamily C member 9,  a type of [MASK].", "sub_label": "Cytochrome P450 family 2 subfamily C member 9", "obj_label": "protein", "uuid": "4f0ab421-a693-4736-9f81-2fff95b230a9", "rel_ix": "P279_851", "pattern_ix": 3}
+{"prompt": "softwood is a subclass of [MASK].", "sub_label": "softwood", "obj_label": "wood", "uuid": "88ba1fe7-b0a9-42ca-b1e6-1e9dc779a159", "rel_ix": "P279_853", "pattern_ix": 0}
+{"prompt": "softwood, which is a subclass of [MASK].", "sub_label": "softwood", "obj_label": "wood", "uuid": "88ba1fe7-b0a9-42ca-b1e6-1e9dc779a159", "rel_ix": "P279_853", "pattern_ix": 1}
+{"prompt": "softwood,  a subclass of [MASK].", "sub_label": "softwood", "obj_label": "wood", "uuid": "88ba1fe7-b0a9-42ca-b1e6-1e9dc779a159", "rel_ix": "P279_853", "pattern_ix": 2}
+{"prompt": "softwood,  a type of [MASK].", "sub_label": "softwood", "obj_label": "wood", "uuid": "88ba1fe7-b0a9-42ca-b1e6-1e9dc779a159", "rel_ix": "P279_853", "pattern_ix": 3}
+{"prompt": "sociology of education is a subclass of [MASK].", "sub_label": "sociology of education", "obj_label": "sociology", "uuid": "b190c8b0-c064-481a-b822-2de3abc7129b", "rel_ix": "P279_854", "pattern_ix": 0}
+{"prompt": "sociology of education, which is a subclass of [MASK].", "sub_label": "sociology of education", "obj_label": "sociology", "uuid": "b190c8b0-c064-481a-b822-2de3abc7129b", "rel_ix": "P279_854", "pattern_ix": 1}
+{"prompt": "sociology of education,  a subclass of [MASK].", "sub_label": "sociology of education", "obj_label": "sociology", "uuid": "b190c8b0-c064-481a-b822-2de3abc7129b", "rel_ix": "P279_854", "pattern_ix": 2}
+{"prompt": "sociology of education,  a type of [MASK].", "sub_label": "sociology of education", "obj_label": "sociology", "uuid": "b190c8b0-c064-481a-b822-2de3abc7129b", "rel_ix": "P279_854", "pattern_ix": 3}
+{"prompt": "flat bone is a subclass of [MASK].", "sub_label": "flat bone", "obj_label": "bone", "uuid": "64911df4-230f-447c-8fb3-cf3d01eec822", "rel_ix": "P279_860", "pattern_ix": 0}
+{"prompt": "flat bone, which is a subclass of [MASK].", "sub_label": "flat bone", "obj_label": "bone", "uuid": "64911df4-230f-447c-8fb3-cf3d01eec822", "rel_ix": "P279_860", "pattern_ix": 1}
+{"prompt": "flat bone,  a subclass of [MASK].", "sub_label": "flat bone", "obj_label": "bone", "uuid": "64911df4-230f-447c-8fb3-cf3d01eec822", "rel_ix": "P279_860", "pattern_ix": 2}
+{"prompt": "flat bone,  a type of [MASK].", "sub_label": "flat bone", "obj_label": "bone", "uuid": "64911df4-230f-447c-8fb3-cf3d01eec822", "rel_ix": "P279_860", "pattern_ix": 3}
+{"prompt": "acar is a subclass of [MASK].", "sub_label": "acar", "obj_label": "salad", "uuid": "7bc43f4d-9bc2-4a7a-816e-82a2b474ce47", "rel_ix": "P279_864", "pattern_ix": 0}
+{"prompt": "acar, which is a subclass of [MASK].", "sub_label": "acar", "obj_label": "salad", "uuid": "7bc43f4d-9bc2-4a7a-816e-82a2b474ce47", "rel_ix": "P279_864", "pattern_ix": 1}
+{"prompt": "acar,  a subclass of [MASK].", "sub_label": "acar", "obj_label": "salad", "uuid": "7bc43f4d-9bc2-4a7a-816e-82a2b474ce47", "rel_ix": "P279_864", "pattern_ix": 2}
+{"prompt": "acar,  a type of [MASK].", "sub_label": "acar", "obj_label": "salad", "uuid": "7bc43f4d-9bc2-4a7a-816e-82a2b474ce47", "rel_ix": "P279_864", "pattern_ix": 3}
+{"prompt": "Chain pump is a subclass of [MASK].", "sub_label": "Chain pump", "obj_label": "pump", "uuid": "b9f24ce7-6c07-4cbf-8039-0ca40d92f6fc", "rel_ix": "P279_866", "pattern_ix": 0}
+{"prompt": "Chain pump, which is a subclass of [MASK].", "sub_label": "Chain pump", "obj_label": "pump", "uuid": "b9f24ce7-6c07-4cbf-8039-0ca40d92f6fc", "rel_ix": "P279_866", "pattern_ix": 1}
+{"prompt": "Chain pump,  a subclass of [MASK].", "sub_label": "Chain pump", "obj_label": "pump", "uuid": "b9f24ce7-6c07-4cbf-8039-0ca40d92f6fc", "rel_ix": "P279_866", "pattern_ix": 2}
+{"prompt": "Chain pump,  a type of [MASK].", "sub_label": "Chain pump", "obj_label": "pump", "uuid": "b9f24ce7-6c07-4cbf-8039-0ca40d92f6fc", "rel_ix": "P279_866", "pattern_ix": 3}
+{"prompt": "homosexuality is a subclass of [MASK].", "sub_label": "homosexuality", "obj_label": "LGBT", "uuid": "ed567a5e-a6ff-4deb-a9ad-3ebb44912a1e", "rel_ix": "P279_874", "pattern_ix": 0}
+{"prompt": "homosexuality, which is a subclass of [MASK].", "sub_label": "homosexuality", "obj_label": "LGBT", "uuid": "ed567a5e-a6ff-4deb-a9ad-3ebb44912a1e", "rel_ix": "P279_874", "pattern_ix": 1}
+{"prompt": "homosexuality,  a subclass of [MASK].", "sub_label": "homosexuality", "obj_label": "LGBT", "uuid": "ed567a5e-a6ff-4deb-a9ad-3ebb44912a1e", "rel_ix": "P279_874", "pattern_ix": 2}
+{"prompt": "homosexuality,  a type of [MASK].", "sub_label": "homosexuality", "obj_label": "LGBT", "uuid": "ed567a5e-a6ff-4deb-a9ad-3ebb44912a1e", "rel_ix": "P279_874", "pattern_ix": 3}
+{"prompt": "amateur astronomy is a subclass of [MASK].", "sub_label": "amateur astronomy", "obj_label": "astronomy", "uuid": "2d85d922-755e-44bf-bc95-0d26310c8f2b", "rel_ix": "P279_878", "pattern_ix": 0}
+{"prompt": "amateur astronomy, which is a subclass of [MASK].", "sub_label": "amateur astronomy", "obj_label": "astronomy", "uuid": "2d85d922-755e-44bf-bc95-0d26310c8f2b", "rel_ix": "P279_878", "pattern_ix": 1}
+{"prompt": "amateur astronomy,  a subclass of [MASK].", "sub_label": "amateur astronomy", "obj_label": "astronomy", "uuid": "2d85d922-755e-44bf-bc95-0d26310c8f2b", "rel_ix": "P279_878", "pattern_ix": 2}
+{"prompt": "amateur astronomy,  a type of [MASK].", "sub_label": "amateur astronomy", "obj_label": "astronomy", "uuid": "2d85d922-755e-44bf-bc95-0d26310c8f2b", "rel_ix": "P279_878", "pattern_ix": 3}
+{"prompt": "working dog is a subclass of [MASK].", "sub_label": "working dog", "obj_label": "dog", "uuid": "c3d97d5a-ce05-43da-9606-d1f00f6e3280", "rel_ix": "P279_879", "pattern_ix": 0}
+{"prompt": "working dog, which is a subclass of [MASK].", "sub_label": "working dog", "obj_label": "dog", "uuid": "c3d97d5a-ce05-43da-9606-d1f00f6e3280", "rel_ix": "P279_879", "pattern_ix": 1}
+{"prompt": "working dog,  a subclass of [MASK].", "sub_label": "working dog", "obj_label": "dog", "uuid": "c3d97d5a-ce05-43da-9606-d1f00f6e3280", "rel_ix": "P279_879", "pattern_ix": 2}
+{"prompt": "working dog,  a type of [MASK].", "sub_label": "working dog", "obj_label": "dog", "uuid": "c3d97d5a-ce05-43da-9606-d1f00f6e3280", "rel_ix": "P279_879", "pattern_ix": 3}
+{"prompt": "Chicago blues is a subclass of [MASK].", "sub_label": "Chicago blues", "obj_label": "blues", "uuid": "62474a89-e24c-4617-b06b-862322d79b79", "rel_ix": "P279_880", "pattern_ix": 0}
+{"prompt": "Chicago blues, which is a subclass of [MASK].", "sub_label": "Chicago blues", "obj_label": "blues", "uuid": "62474a89-e24c-4617-b06b-862322d79b79", "rel_ix": "P279_880", "pattern_ix": 1}
+{"prompt": "Chicago blues,  a subclass of [MASK].", "sub_label": "Chicago blues", "obj_label": "blues", "uuid": "62474a89-e24c-4617-b06b-862322d79b79", "rel_ix": "P279_880", "pattern_ix": 2}
+{"prompt": "Chicago blues,  a type of [MASK].", "sub_label": "Chicago blues", "obj_label": "blues", "uuid": "62474a89-e24c-4617-b06b-862322d79b79", "rel_ix": "P279_880", "pattern_ix": 3}
+{"prompt": "Minutemen is a subclass of [MASK].", "sub_label": "Minutemen", "obj_label": "militia", "uuid": "5596d1cf-9fb7-4c3f-906d-ca9c3fa764e3", "rel_ix": "P279_882", "pattern_ix": 0}
+{"prompt": "Minutemen, which is a subclass of [MASK].", "sub_label": "Minutemen", "obj_label": "militia", "uuid": "5596d1cf-9fb7-4c3f-906d-ca9c3fa764e3", "rel_ix": "P279_882", "pattern_ix": 1}
+{"prompt": "Minutemen,  a subclass of [MASK].", "sub_label": "Minutemen", "obj_label": "militia", "uuid": "5596d1cf-9fb7-4c3f-906d-ca9c3fa764e3", "rel_ix": "P279_882", "pattern_ix": 2}
+{"prompt": "Minutemen,  a type of [MASK].", "sub_label": "Minutemen", "obj_label": "militia", "uuid": "5596d1cf-9fb7-4c3f-906d-ca9c3fa764e3", "rel_ix": "P279_882", "pattern_ix": 3}
+{"prompt": "Iceland (Supermarket) is a subclass of [MASK].", "sub_label": "Iceland (Supermarket)", "obj_label": "supermarket", "uuid": "2189b5d3-ca82-41c3-8459-e6b0470c5193", "rel_ix": "P279_884", "pattern_ix": 0}
+{"prompt": "Iceland (Supermarket), which is a subclass of [MASK].", "sub_label": "Iceland (Supermarket)", "obj_label": "supermarket", "uuid": "2189b5d3-ca82-41c3-8459-e6b0470c5193", "rel_ix": "P279_884", "pattern_ix": 1}
+{"prompt": "Iceland (Supermarket),  a subclass of [MASK].", "sub_label": "Iceland (Supermarket)", "obj_label": "supermarket", "uuid": "2189b5d3-ca82-41c3-8459-e6b0470c5193", "rel_ix": "P279_884", "pattern_ix": 2}
+{"prompt": "Iceland (Supermarket),  a type of [MASK].", "sub_label": "Iceland (Supermarket)", "obj_label": "supermarket", "uuid": "2189b5d3-ca82-41c3-8459-e6b0470c5193", "rel_ix": "P279_884", "pattern_ix": 3}
+{"prompt": "N-ethylmaleimide sensitive factor, vesicle fusing ATPase is a subclass of [MASK].", "sub_label": "N-ethylmaleimide sensitive factor, vesicle fusing ATPase", "obj_label": "protein", "uuid": "bbe33af1-5a88-49fb-b2bb-094279f2886f", "rel_ix": "P279_887", "pattern_ix": 0}
+{"prompt": "N-ethylmaleimide sensitive factor, vesicle fusing ATPase, which is a subclass of [MASK].", "sub_label": "N-ethylmaleimide sensitive factor, vesicle fusing ATPase", "obj_label": "protein", "uuid": "bbe33af1-5a88-49fb-b2bb-094279f2886f", "rel_ix": "P279_887", "pattern_ix": 1}
+{"prompt": "N-ethylmaleimide sensitive factor, vesicle fusing ATPase,  a subclass of [MASK].", "sub_label": "N-ethylmaleimide sensitive factor, vesicle fusing ATPase", "obj_label": "protein", "uuid": "bbe33af1-5a88-49fb-b2bb-094279f2886f", "rel_ix": "P279_887", "pattern_ix": 2}
+{"prompt": "N-ethylmaleimide sensitive factor, vesicle fusing ATPase,  a type of [MASK].", "sub_label": "N-ethylmaleimide sensitive factor, vesicle fusing ATPase", "obj_label": "protein", "uuid": "bbe33af1-5a88-49fb-b2bb-094279f2886f", "rel_ix": "P279_887", "pattern_ix": 3}
+{"prompt": "jazz fusion is a subclass of [MASK].", "sub_label": "jazz fusion", "obj_label": "jazz", "uuid": "8bf15538-9248-497b-9854-55e1e767fb30", "rel_ix": "P279_894", "pattern_ix": 0}
+{"prompt": "jazz fusion, which is a subclass of [MASK].", "sub_label": "jazz fusion", "obj_label": "jazz", "uuid": "8bf15538-9248-497b-9854-55e1e767fb30", "rel_ix": "P279_894", "pattern_ix": 1}
+{"prompt": "jazz fusion,  a subclass of [MASK].", "sub_label": "jazz fusion", "obj_label": "jazz", "uuid": "8bf15538-9248-497b-9854-55e1e767fb30", "rel_ix": "P279_894", "pattern_ix": 2}
+{"prompt": "jazz fusion,  a type of [MASK].", "sub_label": "jazz fusion", "obj_label": "jazz", "uuid": "8bf15538-9248-497b-9854-55e1e767fb30", "rel_ix": "P279_894", "pattern_ix": 3}

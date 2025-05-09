@@ -1,0 +1,187 @@
+{"prompt": "Dock Boggs is represented by music label [MASK] .", "sub_label": "Dock Boggs", "obj_label": "Brunswick", "uuid": "df8b7316-6283-44c7-a835-f157a09e18fe", "rel_ix": "P264_4", "pattern_ix": 0}
+{"prompt": "Dock Boggs is represented by record label [MASK] .", "sub_label": "Dock Boggs", "obj_label": "Brunswick", "uuid": "df8b7316-6283-44c7-a835-f157a09e18fe", "rel_ix": "P264_4", "pattern_ix": 1}
+{"prompt": "Dock Boggs is represented by [MASK] .", "sub_label": "Dock Boggs", "obj_label": "Brunswick", "uuid": "df8b7316-6283-44c7-a835-f157a09e18fe", "rel_ix": "P264_4", "pattern_ix": 2}
+{"prompt": "Dock Boggs, that is represented by [MASK].", "sub_label": "Dock Boggs", "obj_label": "Brunswick", "uuid": "df8b7316-6283-44c7-a835-f157a09e18fe", "rel_ix": "P264_4", "pattern_ix": 3}
+{"prompt": "Dock Boggs, which is represented by [MASK].", "sub_label": "Dock Boggs", "obj_label": "Brunswick", "uuid": "df8b7316-6283-44c7-a835-f157a09e18fe", "rel_ix": "P264_4", "pattern_ix": 4}
+{"prompt": "The music label representing Dock Boggs is [MASK].", "sub_label": "Dock Boggs", "obj_label": "Brunswick", "uuid": "df8b7316-6283-44c7-a835-f157a09e18fe", "rel_ix": "P264_4", "pattern_ix": 5}
+{"prompt": "The music label that is representing Dock Boggs is [MASK].", "sub_label": "Dock Boggs", "obj_label": "Brunswick", "uuid": "df8b7316-6283-44c7-a835-f157a09e18fe", "rel_ix": "P264_4", "pattern_ix": 6}
+{"prompt": "Dock Boggs's label is [MASK].", "sub_label": "Dock Boggs", "obj_label": "Brunswick", "uuid": "df8b7316-6283-44c7-a835-f157a09e18fe", "rel_ix": "P264_4", "pattern_ix": 7}
+{"prompt": "Dock Boggs's record label is [MASK].", "sub_label": "Dock Boggs", "obj_label": "Brunswick", "uuid": "df8b7316-6283-44c7-a835-f157a09e18fe", "rel_ix": "P264_4", "pattern_ix": 8}
+{"prompt": "Dock Boggs's record company is [MASK].", "sub_label": "Dock Boggs", "obj_label": "Brunswick", "uuid": "df8b7316-6283-44c7-a835-f157a09e18fe", "rel_ix": "P264_4", "pattern_ix": 9}
+{"prompt": "Dock Boggs's music label is [MASK].", "sub_label": "Dock Boggs", "obj_label": "Brunswick", "uuid": "df8b7316-6283-44c7-a835-f157a09e18fe", "rel_ix": "P264_4", "pattern_ix": 10}
+{"prompt": "Dock Boggs recorded for [MASK].", "sub_label": "Dock Boggs", "obj_label": "Brunswick", "uuid": "df8b7316-6283-44c7-a835-f157a09e18fe", "rel_ix": "P264_4", "pattern_ix": 11}
+{"prompt": "Dock Boggs label : [MASK].", "sub_label": "Dock Boggs", "obj_label": "Brunswick", "uuid": "df8b7316-6283-44c7-a835-f157a09e18fe", "rel_ix": "P264_4", "pattern_ix": 12}
+{"prompt": "Dock Boggs, released by [MASK].", "sub_label": "Dock Boggs", "obj_label": "Brunswick", "uuid": "df8b7316-6283-44c7-a835-f157a09e18fe", "rel_ix": "P264_4", "pattern_ix": 13}
+{"prompt": "[MASK] recording artist Dock Boggs.", "sub_label": "Dock Boggs", "obj_label": "Brunswick", "uuid": "df8b7316-6283-44c7-a835-f157a09e18fe", "rel_ix": "P264_4", "pattern_ix": 14}
+{"prompt": "[MASK] artists such as Dock Boggs.", "sub_label": "Dock Boggs", "obj_label": "Brunswick", "uuid": "df8b7316-6283-44c7-a835-f157a09e18fe", "rel_ix": "P264_4", "pattern_ix": 15}
+{"prompt": "[MASK] artists including Dock Boggs.", "sub_label": "Dock Boggs", "obj_label": "Brunswick", "uuid": "df8b7316-6283-44c7-a835-f157a09e18fe", "rel_ix": "P264_4", "pattern_ix": 16}
+{"prompt": "Harry James is represented by music label [MASK] .", "sub_label": "Harry James", "obj_label": "Brunswick", "uuid": "a9bbdf72-606f-47c8-8f92-03a91f25d375", "rel_ix": "P264_11", "pattern_ix": 0}
+{"prompt": "Harry James is represented by record label [MASK] .", "sub_label": "Harry James", "obj_label": "Brunswick", "uuid": "a9bbdf72-606f-47c8-8f92-03a91f25d375", "rel_ix": "P264_11", "pattern_ix": 1}
+{"prompt": "Harry James is represented by [MASK] .", "sub_label": "Harry James", "obj_label": "Brunswick", "uuid": "a9bbdf72-606f-47c8-8f92-03a91f25d375", "rel_ix": "P264_11", "pattern_ix": 2}
+{"prompt": "Harry James, that is represented by [MASK].", "sub_label": "Harry James", "obj_label": "Brunswick", "uuid": "a9bbdf72-606f-47c8-8f92-03a91f25d375", "rel_ix": "P264_11", "pattern_ix": 3}
+{"prompt": "Harry James, which is represented by [MASK].", "sub_label": "Harry James", "obj_label": "Brunswick", "uuid": "a9bbdf72-606f-47c8-8f92-03a91f25d375", "rel_ix": "P264_11", "pattern_ix": 4}
+{"prompt": "The music label representing Harry James is [MASK].", "sub_label": "Harry James", "obj_label": "Brunswick", "uuid": "a9bbdf72-606f-47c8-8f92-03a91f25d375", "rel_ix": "P264_11", "pattern_ix": 5}
+{"prompt": "The music label that is representing Harry James is [MASK].", "sub_label": "Harry James", "obj_label": "Brunswick", "uuid": "a9bbdf72-606f-47c8-8f92-03a91f25d375", "rel_ix": "P264_11", "pattern_ix": 6}
+{"prompt": "Harry James's label is [MASK].", "sub_label": "Harry James", "obj_label": "Brunswick", "uuid": "a9bbdf72-606f-47c8-8f92-03a91f25d375", "rel_ix": "P264_11", "pattern_ix": 7}
+{"prompt": "Harry James's record label is [MASK].", "sub_label": "Harry James", "obj_label": "Brunswick", "uuid": "a9bbdf72-606f-47c8-8f92-03a91f25d375", "rel_ix": "P264_11", "pattern_ix": 8}
+{"prompt": "Harry James's record company is [MASK].", "sub_label": "Harry James", "obj_label": "Brunswick", "uuid": "a9bbdf72-606f-47c8-8f92-03a91f25d375", "rel_ix": "P264_11", "pattern_ix": 9}
+{"prompt": "Harry James's music label is [MASK].", "sub_label": "Harry James", "obj_label": "Brunswick", "uuid": "a9bbdf72-606f-47c8-8f92-03a91f25d375", "rel_ix": "P264_11", "pattern_ix": 10}
+{"prompt": "Harry James recorded for [MASK].", "sub_label": "Harry James", "obj_label": "Brunswick", "uuid": "a9bbdf72-606f-47c8-8f92-03a91f25d375", "rel_ix": "P264_11", "pattern_ix": 11}
+{"prompt": "Harry James label : [MASK].", "sub_label": "Harry James", "obj_label": "Brunswick", "uuid": "a9bbdf72-606f-47c8-8f92-03a91f25d375", "rel_ix": "P264_11", "pattern_ix": 12}
+{"prompt": "Harry James, released by [MASK].", "sub_label": "Harry James", "obj_label": "Brunswick", "uuid": "a9bbdf72-606f-47c8-8f92-03a91f25d375", "rel_ix": "P264_11", "pattern_ix": 13}
+{"prompt": "[MASK] recording artist Harry James.", "sub_label": "Harry James", "obj_label": "Brunswick", "uuid": "a9bbdf72-606f-47c8-8f92-03a91f25d375", "rel_ix": "P264_11", "pattern_ix": 14}
+{"prompt": "[MASK] artists such as Harry James.", "sub_label": "Harry James", "obj_label": "Brunswick", "uuid": "a9bbdf72-606f-47c8-8f92-03a91f25d375", "rel_ix": "P264_11", "pattern_ix": 15}
+{"prompt": "[MASK] artists including Harry James.", "sub_label": "Harry James", "obj_label": "Brunswick", "uuid": "a9bbdf72-606f-47c8-8f92-03a91f25d375", "rel_ix": "P264_11", "pattern_ix": 16}
+{"prompt": "Rachael Lampa is represented by music label [MASK] .", "sub_label": "Rachael Lampa", "obj_label": "Word", "uuid": "e83d032b-f162-4cb5-94f4-93fb2ae56535", "rel_ix": "P264_15", "pattern_ix": 0}
+{"prompt": "Rachael Lampa is represented by record label [MASK] .", "sub_label": "Rachael Lampa", "obj_label": "Word", "uuid": "e83d032b-f162-4cb5-94f4-93fb2ae56535", "rel_ix": "P264_15", "pattern_ix": 1}
+{"prompt": "Rachael Lampa is represented by [MASK] .", "sub_label": "Rachael Lampa", "obj_label": "Word", "uuid": "e83d032b-f162-4cb5-94f4-93fb2ae56535", "rel_ix": "P264_15", "pattern_ix": 2}
+{"prompt": "Rachael Lampa, that is represented by [MASK].", "sub_label": "Rachael Lampa", "obj_label": "Word", "uuid": "e83d032b-f162-4cb5-94f4-93fb2ae56535", "rel_ix": "P264_15", "pattern_ix": 3}
+{"prompt": "Rachael Lampa, which is represented by [MASK].", "sub_label": "Rachael Lampa", "obj_label": "Word", "uuid": "e83d032b-f162-4cb5-94f4-93fb2ae56535", "rel_ix": "P264_15", "pattern_ix": 4}
+{"prompt": "The music label representing Rachael Lampa is [MASK].", "sub_label": "Rachael Lampa", "obj_label": "Word", "uuid": "e83d032b-f162-4cb5-94f4-93fb2ae56535", "rel_ix": "P264_15", "pattern_ix": 5}
+{"prompt": "The music label that is representing Rachael Lampa is [MASK].", "sub_label": "Rachael Lampa", "obj_label": "Word", "uuid": "e83d032b-f162-4cb5-94f4-93fb2ae56535", "rel_ix": "P264_15", "pattern_ix": 6}
+{"prompt": "Rachael Lampa's label is [MASK].", "sub_label": "Rachael Lampa", "obj_label": "Word", "uuid": "e83d032b-f162-4cb5-94f4-93fb2ae56535", "rel_ix": "P264_15", "pattern_ix": 7}
+{"prompt": "Rachael Lampa's record label is [MASK].", "sub_label": "Rachael Lampa", "obj_label": "Word", "uuid": "e83d032b-f162-4cb5-94f4-93fb2ae56535", "rel_ix": "P264_15", "pattern_ix": 8}
+{"prompt": "Rachael Lampa's record company is [MASK].", "sub_label": "Rachael Lampa", "obj_label": "Word", "uuid": "e83d032b-f162-4cb5-94f4-93fb2ae56535", "rel_ix": "P264_15", "pattern_ix": 9}
+{"prompt": "Rachael Lampa's music label is [MASK].", "sub_label": "Rachael Lampa", "obj_label": "Word", "uuid": "e83d032b-f162-4cb5-94f4-93fb2ae56535", "rel_ix": "P264_15", "pattern_ix": 10}
+{"prompt": "Rachael Lampa recorded for [MASK].", "sub_label": "Rachael Lampa", "obj_label": "Word", "uuid": "e83d032b-f162-4cb5-94f4-93fb2ae56535", "rel_ix": "P264_15", "pattern_ix": 11}
+{"prompt": "Rachael Lampa label : [MASK].", "sub_label": "Rachael Lampa", "obj_label": "Word", "uuid": "e83d032b-f162-4cb5-94f4-93fb2ae56535", "rel_ix": "P264_15", "pattern_ix": 12}
+{"prompt": "Rachael Lampa, released by [MASK].", "sub_label": "Rachael Lampa", "obj_label": "Word", "uuid": "e83d032b-f162-4cb5-94f4-93fb2ae56535", "rel_ix": "P264_15", "pattern_ix": 13}
+{"prompt": "[MASK] recording artist Rachael Lampa.", "sub_label": "Rachael Lampa", "obj_label": "Word", "uuid": "e83d032b-f162-4cb5-94f4-93fb2ae56535", "rel_ix": "P264_15", "pattern_ix": 14}
+{"prompt": "[MASK] artists such as Rachael Lampa.", "sub_label": "Rachael Lampa", "obj_label": "Word", "uuid": "e83d032b-f162-4cb5-94f4-93fb2ae56535", "rel_ix": "P264_15", "pattern_ix": 15}
+{"prompt": "[MASK] artists including Rachael Lampa.", "sub_label": "Rachael Lampa", "obj_label": "Word", "uuid": "e83d032b-f162-4cb5-94f4-93fb2ae56535", "rel_ix": "P264_15", "pattern_ix": 16}
+{"prompt": "Hank Ballard is represented by music label [MASK] .", "sub_label": "Hank Ballard", "obj_label": "Federal", "uuid": "0ef22c70-2c4f-41ed-af8d-4b79658d233c", "rel_ix": "P264_16", "pattern_ix": 0}
+{"prompt": "Hank Ballard is represented by record label [MASK] .", "sub_label": "Hank Ballard", "obj_label": "Federal", "uuid": "0ef22c70-2c4f-41ed-af8d-4b79658d233c", "rel_ix": "P264_16", "pattern_ix": 1}
+{"prompt": "Hank Ballard is represented by [MASK] .", "sub_label": "Hank Ballard", "obj_label": "Federal", "uuid": "0ef22c70-2c4f-41ed-af8d-4b79658d233c", "rel_ix": "P264_16", "pattern_ix": 2}
+{"prompt": "Hank Ballard, that is represented by [MASK].", "sub_label": "Hank Ballard", "obj_label": "Federal", "uuid": "0ef22c70-2c4f-41ed-af8d-4b79658d233c", "rel_ix": "P264_16", "pattern_ix": 3}
+{"prompt": "Hank Ballard, which is represented by [MASK].", "sub_label": "Hank Ballard", "obj_label": "Federal", "uuid": "0ef22c70-2c4f-41ed-af8d-4b79658d233c", "rel_ix": "P264_16", "pattern_ix": 4}
+{"prompt": "The music label representing Hank Ballard is [MASK].", "sub_label": "Hank Ballard", "obj_label": "Federal", "uuid": "0ef22c70-2c4f-41ed-af8d-4b79658d233c", "rel_ix": "P264_16", "pattern_ix": 5}
+{"prompt": "The music label that is representing Hank Ballard is [MASK].", "sub_label": "Hank Ballard", "obj_label": "Federal", "uuid": "0ef22c70-2c4f-41ed-af8d-4b79658d233c", "rel_ix": "P264_16", "pattern_ix": 6}
+{"prompt": "Hank Ballard's label is [MASK].", "sub_label": "Hank Ballard", "obj_label": "Federal", "uuid": "0ef22c70-2c4f-41ed-af8d-4b79658d233c", "rel_ix": "P264_16", "pattern_ix": 7}
+{"prompt": "Hank Ballard's record label is [MASK].", "sub_label": "Hank Ballard", "obj_label": "Federal", "uuid": "0ef22c70-2c4f-41ed-af8d-4b79658d233c", "rel_ix": "P264_16", "pattern_ix": 8}
+{"prompt": "Hank Ballard's record company is [MASK].", "sub_label": "Hank Ballard", "obj_label": "Federal", "uuid": "0ef22c70-2c4f-41ed-af8d-4b79658d233c", "rel_ix": "P264_16", "pattern_ix": 9}
+{"prompt": "Hank Ballard's music label is [MASK].", "sub_label": "Hank Ballard", "obj_label": "Federal", "uuid": "0ef22c70-2c4f-41ed-af8d-4b79658d233c", "rel_ix": "P264_16", "pattern_ix": 10}
+{"prompt": "Hank Ballard recorded for [MASK].", "sub_label": "Hank Ballard", "obj_label": "Federal", "uuid": "0ef22c70-2c4f-41ed-af8d-4b79658d233c", "rel_ix": "P264_16", "pattern_ix": 11}
+{"prompt": "Hank Ballard label : [MASK].", "sub_label": "Hank Ballard", "obj_label": "Federal", "uuid": "0ef22c70-2c4f-41ed-af8d-4b79658d233c", "rel_ix": "P264_16", "pattern_ix": 12}
+{"prompt": "Hank Ballard, released by [MASK].", "sub_label": "Hank Ballard", "obj_label": "Federal", "uuid": "0ef22c70-2c4f-41ed-af8d-4b79658d233c", "rel_ix": "P264_16", "pattern_ix": 13}
+{"prompt": "[MASK] recording artist Hank Ballard.", "sub_label": "Hank Ballard", "obj_label": "Federal", "uuid": "0ef22c70-2c4f-41ed-af8d-4b79658d233c", "rel_ix": "P264_16", "pattern_ix": 14}
+{"prompt": "[MASK] artists such as Hank Ballard.", "sub_label": "Hank Ballard", "obj_label": "Federal", "uuid": "0ef22c70-2c4f-41ed-af8d-4b79658d233c", "rel_ix": "P264_16", "pattern_ix": 15}
+{"prompt": "[MASK] artists including Hank Ballard.", "sub_label": "Hank Ballard", "obj_label": "Federal", "uuid": "0ef22c70-2c4f-41ed-af8d-4b79658d233c", "rel_ix": "P264_16", "pattern_ix": 16}
+{"prompt": "Pink Floyd is represented by music label [MASK] .", "sub_label": "Pink Floyd", "obj_label": "Harvest", "uuid": "4890a30d-c736-4630-b672-ebee9adbe42f", "rel_ix": "P264_20", "pattern_ix": 0}
+{"prompt": "Pink Floyd is represented by record label [MASK] .", "sub_label": "Pink Floyd", "obj_label": "Harvest", "uuid": "4890a30d-c736-4630-b672-ebee9adbe42f", "rel_ix": "P264_20", "pattern_ix": 1}
+{"prompt": "Pink Floyd is represented by [MASK] .", "sub_label": "Pink Floyd", "obj_label": "Harvest", "uuid": "4890a30d-c736-4630-b672-ebee9adbe42f", "rel_ix": "P264_20", "pattern_ix": 2}
+{"prompt": "Pink Floyd, that is represented by [MASK].", "sub_label": "Pink Floyd", "obj_label": "Harvest", "uuid": "4890a30d-c736-4630-b672-ebee9adbe42f", "rel_ix": "P264_20", "pattern_ix": 3}
+{"prompt": "Pink Floyd, which is represented by [MASK].", "sub_label": "Pink Floyd", "obj_label": "Harvest", "uuid": "4890a30d-c736-4630-b672-ebee9adbe42f", "rel_ix": "P264_20", "pattern_ix": 4}
+{"prompt": "The music label representing Pink Floyd is [MASK].", "sub_label": "Pink Floyd", "obj_label": "Harvest", "uuid": "4890a30d-c736-4630-b672-ebee9adbe42f", "rel_ix": "P264_20", "pattern_ix": 5}
+{"prompt": "The music label that is representing Pink Floyd is [MASK].", "sub_label": "Pink Floyd", "obj_label": "Harvest", "uuid": "4890a30d-c736-4630-b672-ebee9adbe42f", "rel_ix": "P264_20", "pattern_ix": 6}
+{"prompt": "Pink Floyd's label is [MASK].", "sub_label": "Pink Floyd", "obj_label": "Harvest", "uuid": "4890a30d-c736-4630-b672-ebee9adbe42f", "rel_ix": "P264_20", "pattern_ix": 7}
+{"prompt": "Pink Floyd's record label is [MASK].", "sub_label": "Pink Floyd", "obj_label": "Harvest", "uuid": "4890a30d-c736-4630-b672-ebee9adbe42f", "rel_ix": "P264_20", "pattern_ix": 8}
+{"prompt": "Pink Floyd's record company is [MASK].", "sub_label": "Pink Floyd", "obj_label": "Harvest", "uuid": "4890a30d-c736-4630-b672-ebee9adbe42f", "rel_ix": "P264_20", "pattern_ix": 9}
+{"prompt": "Pink Floyd's music label is [MASK].", "sub_label": "Pink Floyd", "obj_label": "Harvest", "uuid": "4890a30d-c736-4630-b672-ebee9adbe42f", "rel_ix": "P264_20", "pattern_ix": 10}
+{"prompt": "Pink Floyd recorded for [MASK].", "sub_label": "Pink Floyd", "obj_label": "Harvest", "uuid": "4890a30d-c736-4630-b672-ebee9adbe42f", "rel_ix": "P264_20", "pattern_ix": 11}
+{"prompt": "Pink Floyd label : [MASK].", "sub_label": "Pink Floyd", "obj_label": "Harvest", "uuid": "4890a30d-c736-4630-b672-ebee9adbe42f", "rel_ix": "P264_20", "pattern_ix": 12}
+{"prompt": "Pink Floyd, released by [MASK].", "sub_label": "Pink Floyd", "obj_label": "Harvest", "uuid": "4890a30d-c736-4630-b672-ebee9adbe42f", "rel_ix": "P264_20", "pattern_ix": 13}
+{"prompt": "[MASK] recording artist Pink Floyd.", "sub_label": "Pink Floyd", "obj_label": "Harvest", "uuid": "4890a30d-c736-4630-b672-ebee9adbe42f", "rel_ix": "P264_20", "pattern_ix": 14}
+{"prompt": "[MASK] artists such as Pink Floyd.", "sub_label": "Pink Floyd", "obj_label": "Harvest", "uuid": "4890a30d-c736-4630-b672-ebee9adbe42f", "rel_ix": "P264_20", "pattern_ix": 15}
+{"prompt": "[MASK] artists including Pink Floyd.", "sub_label": "Pink Floyd", "obj_label": "Harvest", "uuid": "4890a30d-c736-4630-b672-ebee9adbe42f", "rel_ix": "P264_20", "pattern_ix": 16}
+{"prompt": "Lookin' Out My Back Door is represented by music label [MASK] .", "sub_label": "Lookin' Out My Back Door", "obj_label": "Fantasy", "uuid": "3e4a4982-5d19-4069-a040-3f2e4b9a33d2", "rel_ix": "P264_30", "pattern_ix": 0}
+{"prompt": "Lookin' Out My Back Door is represented by record label [MASK] .", "sub_label": "Lookin' Out My Back Door", "obj_label": "Fantasy", "uuid": "3e4a4982-5d19-4069-a040-3f2e4b9a33d2", "rel_ix": "P264_30", "pattern_ix": 1}
+{"prompt": "Lookin' Out My Back Door is represented by [MASK] .", "sub_label": "Lookin' Out My Back Door", "obj_label": "Fantasy", "uuid": "3e4a4982-5d19-4069-a040-3f2e4b9a33d2", "rel_ix": "P264_30", "pattern_ix": 2}
+{"prompt": "Lookin' Out My Back Door, that is represented by [MASK].", "sub_label": "Lookin' Out My Back Door", "obj_label": "Fantasy", "uuid": "3e4a4982-5d19-4069-a040-3f2e4b9a33d2", "rel_ix": "P264_30", "pattern_ix": 3}
+{"prompt": "Lookin' Out My Back Door, which is represented by [MASK].", "sub_label": "Lookin' Out My Back Door", "obj_label": "Fantasy", "uuid": "3e4a4982-5d19-4069-a040-3f2e4b9a33d2", "rel_ix": "P264_30", "pattern_ix": 4}
+{"prompt": "The music label representing Lookin' Out My Back Door is [MASK].", "sub_label": "Lookin' Out My Back Door", "obj_label": "Fantasy", "uuid": "3e4a4982-5d19-4069-a040-3f2e4b9a33d2", "rel_ix": "P264_30", "pattern_ix": 5}
+{"prompt": "The music label that is representing Lookin' Out My Back Door is [MASK].", "sub_label": "Lookin' Out My Back Door", "obj_label": "Fantasy", "uuid": "3e4a4982-5d19-4069-a040-3f2e4b9a33d2", "rel_ix": "P264_30", "pattern_ix": 6}
+{"prompt": "Lookin' Out My Back Door's label is [MASK].", "sub_label": "Lookin' Out My Back Door", "obj_label": "Fantasy", "uuid": "3e4a4982-5d19-4069-a040-3f2e4b9a33d2", "rel_ix": "P264_30", "pattern_ix": 7}
+{"prompt": "Lookin' Out My Back Door's record label is [MASK].", "sub_label": "Lookin' Out My Back Door", "obj_label": "Fantasy", "uuid": "3e4a4982-5d19-4069-a040-3f2e4b9a33d2", "rel_ix": "P264_30", "pattern_ix": 8}
+{"prompt": "Lookin' Out My Back Door's record company is [MASK].", "sub_label": "Lookin' Out My Back Door", "obj_label": "Fantasy", "uuid": "3e4a4982-5d19-4069-a040-3f2e4b9a33d2", "rel_ix": "P264_30", "pattern_ix": 9}
+{"prompt": "Lookin' Out My Back Door's music label is [MASK].", "sub_label": "Lookin' Out My Back Door", "obj_label": "Fantasy", "uuid": "3e4a4982-5d19-4069-a040-3f2e4b9a33d2", "rel_ix": "P264_30", "pattern_ix": 10}
+{"prompt": "Lookin' Out My Back Door recorded for [MASK].", "sub_label": "Lookin' Out My Back Door", "obj_label": "Fantasy", "uuid": "3e4a4982-5d19-4069-a040-3f2e4b9a33d2", "rel_ix": "P264_30", "pattern_ix": 11}
+{"prompt": "Lookin' Out My Back Door label : [MASK].", "sub_label": "Lookin' Out My Back Door", "obj_label": "Fantasy", "uuid": "3e4a4982-5d19-4069-a040-3f2e4b9a33d2", "rel_ix": "P264_30", "pattern_ix": 12}
+{"prompt": "Lookin' Out My Back Door, released by [MASK].", "sub_label": "Lookin' Out My Back Door", "obj_label": "Fantasy", "uuid": "3e4a4982-5d19-4069-a040-3f2e4b9a33d2", "rel_ix": "P264_30", "pattern_ix": 13}
+{"prompt": "[MASK] recording artist Lookin' Out My Back Door.", "sub_label": "Lookin' Out My Back Door", "obj_label": "Fantasy", "uuid": "3e4a4982-5d19-4069-a040-3f2e4b9a33d2", "rel_ix": "P264_30", "pattern_ix": 14}
+{"prompt": "[MASK] artists such as Lookin' Out My Back Door.", "sub_label": "Lookin' Out My Back Door", "obj_label": "Fantasy", "uuid": "3e4a4982-5d19-4069-a040-3f2e4b9a33d2", "rel_ix": "P264_30", "pattern_ix": 15}
+{"prompt": "[MASK] artists including Lookin' Out My Back Door.", "sub_label": "Lookin' Out My Back Door", "obj_label": "Fantasy", "uuid": "3e4a4982-5d19-4069-a040-3f2e4b9a33d2", "rel_ix": "P264_30", "pattern_ix": 16}
+{"prompt": "Geeshie Wiley is represented by music label [MASK] .", "sub_label": "Geeshie Wiley", "obj_label": "Paramount", "uuid": "1f9d0407-c43b-46ed-a2e1-2ed3e3a7e897", "rel_ix": "P264_33", "pattern_ix": 0}
+{"prompt": "Geeshie Wiley is represented by record label [MASK] .", "sub_label": "Geeshie Wiley", "obj_label": "Paramount", "uuid": "1f9d0407-c43b-46ed-a2e1-2ed3e3a7e897", "rel_ix": "P264_33", "pattern_ix": 1}
+{"prompt": "Geeshie Wiley is represented by [MASK] .", "sub_label": "Geeshie Wiley", "obj_label": "Paramount", "uuid": "1f9d0407-c43b-46ed-a2e1-2ed3e3a7e897", "rel_ix": "P264_33", "pattern_ix": 2}
+{"prompt": "Geeshie Wiley, that is represented by [MASK].", "sub_label": "Geeshie Wiley", "obj_label": "Paramount", "uuid": "1f9d0407-c43b-46ed-a2e1-2ed3e3a7e897", "rel_ix": "P264_33", "pattern_ix": 3}
+{"prompt": "Geeshie Wiley, which is represented by [MASK].", "sub_label": "Geeshie Wiley", "obj_label": "Paramount", "uuid": "1f9d0407-c43b-46ed-a2e1-2ed3e3a7e897", "rel_ix": "P264_33", "pattern_ix": 4}
+{"prompt": "The music label representing Geeshie Wiley is [MASK].", "sub_label": "Geeshie Wiley", "obj_label": "Paramount", "uuid": "1f9d0407-c43b-46ed-a2e1-2ed3e3a7e897", "rel_ix": "P264_33", "pattern_ix": 5}
+{"prompt": "The music label that is representing Geeshie Wiley is [MASK].", "sub_label": "Geeshie Wiley", "obj_label": "Paramount", "uuid": "1f9d0407-c43b-46ed-a2e1-2ed3e3a7e897", "rel_ix": "P264_33", "pattern_ix": 6}
+{"prompt": "Geeshie Wiley's label is [MASK].", "sub_label": "Geeshie Wiley", "obj_label": "Paramount", "uuid": "1f9d0407-c43b-46ed-a2e1-2ed3e3a7e897", "rel_ix": "P264_33", "pattern_ix": 7}
+{"prompt": "Geeshie Wiley's record label is [MASK].", "sub_label": "Geeshie Wiley", "obj_label": "Paramount", "uuid": "1f9d0407-c43b-46ed-a2e1-2ed3e3a7e897", "rel_ix": "P264_33", "pattern_ix": 8}
+{"prompt": "Geeshie Wiley's record company is [MASK].", "sub_label": "Geeshie Wiley", "obj_label": "Paramount", "uuid": "1f9d0407-c43b-46ed-a2e1-2ed3e3a7e897", "rel_ix": "P264_33", "pattern_ix": 9}
+{"prompt": "Geeshie Wiley's music label is [MASK].", "sub_label": "Geeshie Wiley", "obj_label": "Paramount", "uuid": "1f9d0407-c43b-46ed-a2e1-2ed3e3a7e897", "rel_ix": "P264_33", "pattern_ix": 10}
+{"prompt": "Geeshie Wiley recorded for [MASK].", "sub_label": "Geeshie Wiley", "obj_label": "Paramount", "uuid": "1f9d0407-c43b-46ed-a2e1-2ed3e3a7e897", "rel_ix": "P264_33", "pattern_ix": 11}
+{"prompt": "Geeshie Wiley label : [MASK].", "sub_label": "Geeshie Wiley", "obj_label": "Paramount", "uuid": "1f9d0407-c43b-46ed-a2e1-2ed3e3a7e897", "rel_ix": "P264_33", "pattern_ix": 12}
+{"prompt": "Geeshie Wiley, released by [MASK].", "sub_label": "Geeshie Wiley", "obj_label": "Paramount", "uuid": "1f9d0407-c43b-46ed-a2e1-2ed3e3a7e897", "rel_ix": "P264_33", "pattern_ix": 13}
+{"prompt": "[MASK] recording artist Geeshie Wiley.", "sub_label": "Geeshie Wiley", "obj_label": "Paramount", "uuid": "1f9d0407-c43b-46ed-a2e1-2ed3e3a7e897", "rel_ix": "P264_33", "pattern_ix": 14}
+{"prompt": "[MASK] artists such as Geeshie Wiley.", "sub_label": "Geeshie Wiley", "obj_label": "Paramount", "uuid": "1f9d0407-c43b-46ed-a2e1-2ed3e3a7e897", "rel_ix": "P264_33", "pattern_ix": 15}
+{"prompt": "[MASK] artists including Geeshie Wiley.", "sub_label": "Geeshie Wiley", "obj_label": "Paramount", "uuid": "1f9d0407-c43b-46ed-a2e1-2ed3e3a7e897", "rel_ix": "P264_33", "pattern_ix": 16}
+{"prompt": "Freddy Cannon is represented by music label [MASK] .", "sub_label": "Freddy Cannon", "obj_label": "Swan", "uuid": "98c0aa3d-13d5-4066-9595-1c2ac24e9a17", "rel_ix": "P264_35", "pattern_ix": 0}
+{"prompt": "Freddy Cannon is represented by record label [MASK] .", "sub_label": "Freddy Cannon", "obj_label": "Swan", "uuid": "98c0aa3d-13d5-4066-9595-1c2ac24e9a17", "rel_ix": "P264_35", "pattern_ix": 1}
+{"prompt": "Freddy Cannon is represented by [MASK] .", "sub_label": "Freddy Cannon", "obj_label": "Swan", "uuid": "98c0aa3d-13d5-4066-9595-1c2ac24e9a17", "rel_ix": "P264_35", "pattern_ix": 2}
+{"prompt": "Freddy Cannon, that is represented by [MASK].", "sub_label": "Freddy Cannon", "obj_label": "Swan", "uuid": "98c0aa3d-13d5-4066-9595-1c2ac24e9a17", "rel_ix": "P264_35", "pattern_ix": 3}
+{"prompt": "Freddy Cannon, which is represented by [MASK].", "sub_label": "Freddy Cannon", "obj_label": "Swan", "uuid": "98c0aa3d-13d5-4066-9595-1c2ac24e9a17", "rel_ix": "P264_35", "pattern_ix": 4}
+{"prompt": "The music label representing Freddy Cannon is [MASK].", "sub_label": "Freddy Cannon", "obj_label": "Swan", "uuid": "98c0aa3d-13d5-4066-9595-1c2ac24e9a17", "rel_ix": "P264_35", "pattern_ix": 5}
+{"prompt": "The music label that is representing Freddy Cannon is [MASK].", "sub_label": "Freddy Cannon", "obj_label": "Swan", "uuid": "98c0aa3d-13d5-4066-9595-1c2ac24e9a17", "rel_ix": "P264_35", "pattern_ix": 6}
+{"prompt": "Freddy Cannon's label is [MASK].", "sub_label": "Freddy Cannon", "obj_label": "Swan", "uuid": "98c0aa3d-13d5-4066-9595-1c2ac24e9a17", "rel_ix": "P264_35", "pattern_ix": 7}
+{"prompt": "Freddy Cannon's record label is [MASK].", "sub_label": "Freddy Cannon", "obj_label": "Swan", "uuid": "98c0aa3d-13d5-4066-9595-1c2ac24e9a17", "rel_ix": "P264_35", "pattern_ix": 8}
+{"prompt": "Freddy Cannon's record company is [MASK].", "sub_label": "Freddy Cannon", "obj_label": "Swan", "uuid": "98c0aa3d-13d5-4066-9595-1c2ac24e9a17", "rel_ix": "P264_35", "pattern_ix": 9}
+{"prompt": "Freddy Cannon's music label is [MASK].", "sub_label": "Freddy Cannon", "obj_label": "Swan", "uuid": "98c0aa3d-13d5-4066-9595-1c2ac24e9a17", "rel_ix": "P264_35", "pattern_ix": 10}
+{"prompt": "Freddy Cannon recorded for [MASK].", "sub_label": "Freddy Cannon", "obj_label": "Swan", "uuid": "98c0aa3d-13d5-4066-9595-1c2ac24e9a17", "rel_ix": "P264_35", "pattern_ix": 11}
+{"prompt": "Freddy Cannon label : [MASK].", "sub_label": "Freddy Cannon", "obj_label": "Swan", "uuid": "98c0aa3d-13d5-4066-9595-1c2ac24e9a17", "rel_ix": "P264_35", "pattern_ix": 12}
+{"prompt": "Freddy Cannon, released by [MASK].", "sub_label": "Freddy Cannon", "obj_label": "Swan", "uuid": "98c0aa3d-13d5-4066-9595-1c2ac24e9a17", "rel_ix": "P264_35", "pattern_ix": 13}
+{"prompt": "[MASK] recording artist Freddy Cannon.", "sub_label": "Freddy Cannon", "obj_label": "Swan", "uuid": "98c0aa3d-13d5-4066-9595-1c2ac24e9a17", "rel_ix": "P264_35", "pattern_ix": 14}
+{"prompt": "[MASK] artists such as Freddy Cannon.", "sub_label": "Freddy Cannon", "obj_label": "Swan", "uuid": "98c0aa3d-13d5-4066-9595-1c2ac24e9a17", "rel_ix": "P264_35", "pattern_ix": 15}
+{"prompt": "[MASK] artists including Freddy Cannon.", "sub_label": "Freddy Cannon", "obj_label": "Swan", "uuid": "98c0aa3d-13d5-4066-9595-1c2ac24e9a17", "rel_ix": "P264_35", "pattern_ix": 16}
+{"prompt": "Bobbi Martin is represented by music label [MASK] .", "sub_label": "Bobbi Martin", "obj_label": "Coral", "uuid": "f85e0ae0-aa5a-4130-bf52-d07c0cfb98be", "rel_ix": "P264_38", "pattern_ix": 0}
+{"prompt": "Bobbi Martin is represented by record label [MASK] .", "sub_label": "Bobbi Martin", "obj_label": "Coral", "uuid": "f85e0ae0-aa5a-4130-bf52-d07c0cfb98be", "rel_ix": "P264_38", "pattern_ix": 1}
+{"prompt": "Bobbi Martin is represented by [MASK] .", "sub_label": "Bobbi Martin", "obj_label": "Coral", "uuid": "f85e0ae0-aa5a-4130-bf52-d07c0cfb98be", "rel_ix": "P264_38", "pattern_ix": 2}
+{"prompt": "Bobbi Martin, that is represented by [MASK].", "sub_label": "Bobbi Martin", "obj_label": "Coral", "uuid": "f85e0ae0-aa5a-4130-bf52-d07c0cfb98be", "rel_ix": "P264_38", "pattern_ix": 3}
+{"prompt": "Bobbi Martin, which is represented by [MASK].", "sub_label": "Bobbi Martin", "obj_label": "Coral", "uuid": "f85e0ae0-aa5a-4130-bf52-d07c0cfb98be", "rel_ix": "P264_38", "pattern_ix": 4}
+{"prompt": "The music label representing Bobbi Martin is [MASK].", "sub_label": "Bobbi Martin", "obj_label": "Coral", "uuid": "f85e0ae0-aa5a-4130-bf52-d07c0cfb98be", "rel_ix": "P264_38", "pattern_ix": 5}
+{"prompt": "The music label that is representing Bobbi Martin is [MASK].", "sub_label": "Bobbi Martin", "obj_label": "Coral", "uuid": "f85e0ae0-aa5a-4130-bf52-d07c0cfb98be", "rel_ix": "P264_38", "pattern_ix": 6}
+{"prompt": "Bobbi Martin's label is [MASK].", "sub_label": "Bobbi Martin", "obj_label": "Coral", "uuid": "f85e0ae0-aa5a-4130-bf52-d07c0cfb98be", "rel_ix": "P264_38", "pattern_ix": 7}
+{"prompt": "Bobbi Martin's record label is [MASK].", "sub_label": "Bobbi Martin", "obj_label": "Coral", "uuid": "f85e0ae0-aa5a-4130-bf52-d07c0cfb98be", "rel_ix": "P264_38", "pattern_ix": 8}
+{"prompt": "Bobbi Martin's record company is [MASK].", "sub_label": "Bobbi Martin", "obj_label": "Coral", "uuid": "f85e0ae0-aa5a-4130-bf52-d07c0cfb98be", "rel_ix": "P264_38", "pattern_ix": 9}
+{"prompt": "Bobbi Martin's music label is [MASK].", "sub_label": "Bobbi Martin", "obj_label": "Coral", "uuid": "f85e0ae0-aa5a-4130-bf52-d07c0cfb98be", "rel_ix": "P264_38", "pattern_ix": 10}
+{"prompt": "Bobbi Martin recorded for [MASK].", "sub_label": "Bobbi Martin", "obj_label": "Coral", "uuid": "f85e0ae0-aa5a-4130-bf52-d07c0cfb98be", "rel_ix": "P264_38", "pattern_ix": 11}
+{"prompt": "Bobbi Martin label : [MASK].", "sub_label": "Bobbi Martin", "obj_label": "Coral", "uuid": "f85e0ae0-aa5a-4130-bf52-d07c0cfb98be", "rel_ix": "P264_38", "pattern_ix": 12}
+{"prompt": "Bobbi Martin, released by [MASK].", "sub_label": "Bobbi Martin", "obj_label": "Coral", "uuid": "f85e0ae0-aa5a-4130-bf52-d07c0cfb98be", "rel_ix": "P264_38", "pattern_ix": 13}
+{"prompt": "[MASK] recording artist Bobbi Martin.", "sub_label": "Bobbi Martin", "obj_label": "Coral", "uuid": "f85e0ae0-aa5a-4130-bf52-d07c0cfb98be", "rel_ix": "P264_38", "pattern_ix": 14}
+{"prompt": "[MASK] artists such as Bobbi Martin.", "sub_label": "Bobbi Martin", "obj_label": "Coral", "uuid": "f85e0ae0-aa5a-4130-bf52-d07c0cfb98be", "rel_ix": "P264_38", "pattern_ix": 15}
+{"prompt": "[MASK] artists including Bobbi Martin.", "sub_label": "Bobbi Martin", "obj_label": "Coral", "uuid": "f85e0ae0-aa5a-4130-bf52-d07c0cfb98be", "rel_ix": "P264_38", "pattern_ix": 16}
+{"prompt": "Willie Nelson is represented by music label [MASK] .", "sub_label": "Willie Nelson", "obj_label": "Legacy", "uuid": "13f57eb1-39b8-455c-a166-83240a52bd8c", "rel_ix": "P264_39", "pattern_ix": 0}
+{"prompt": "Willie Nelson is represented by record label [MASK] .", "sub_label": "Willie Nelson", "obj_label": "Legacy", "uuid": "13f57eb1-39b8-455c-a166-83240a52bd8c", "rel_ix": "P264_39", "pattern_ix": 1}
+{"prompt": "Willie Nelson is represented by [MASK] .", "sub_label": "Willie Nelson", "obj_label": "Legacy", "uuid": "13f57eb1-39b8-455c-a166-83240a52bd8c", "rel_ix": "P264_39", "pattern_ix": 2}
+{"prompt": "Willie Nelson, that is represented by [MASK].", "sub_label": "Willie Nelson", "obj_label": "Legacy", "uuid": "13f57eb1-39b8-455c-a166-83240a52bd8c", "rel_ix": "P264_39", "pattern_ix": 3}
+{"prompt": "Willie Nelson, which is represented by [MASK].", "sub_label": "Willie Nelson", "obj_label": "Legacy", "uuid": "13f57eb1-39b8-455c-a166-83240a52bd8c", "rel_ix": "P264_39", "pattern_ix": 4}
+{"prompt": "The music label representing Willie Nelson is [MASK].", "sub_label": "Willie Nelson", "obj_label": "Legacy", "uuid": "13f57eb1-39b8-455c-a166-83240a52bd8c", "rel_ix": "P264_39", "pattern_ix": 5}
+{"prompt": "The music label that is representing Willie Nelson is [MASK].", "sub_label": "Willie Nelson", "obj_label": "Legacy", "uuid": "13f57eb1-39b8-455c-a166-83240a52bd8c", "rel_ix": "P264_39", "pattern_ix": 6}
+{"prompt": "Willie Nelson's label is [MASK].", "sub_label": "Willie Nelson", "obj_label": "Legacy", "uuid": "13f57eb1-39b8-455c-a166-83240a52bd8c", "rel_ix": "P264_39", "pattern_ix": 7}
+{"prompt": "Willie Nelson's record label is [MASK].", "sub_label": "Willie Nelson", "obj_label": "Legacy", "uuid": "13f57eb1-39b8-455c-a166-83240a52bd8c", "rel_ix": "P264_39", "pattern_ix": 8}
+{"prompt": "Willie Nelson's record company is [MASK].", "sub_label": "Willie Nelson", "obj_label": "Legacy", "uuid": "13f57eb1-39b8-455c-a166-83240a52bd8c", "rel_ix": "P264_39", "pattern_ix": 9}
+{"prompt": "Willie Nelson's music label is [MASK].", "sub_label": "Willie Nelson", "obj_label": "Legacy", "uuid": "13f57eb1-39b8-455c-a166-83240a52bd8c", "rel_ix": "P264_39", "pattern_ix": 10}
+{"prompt": "Willie Nelson recorded for [MASK].", "sub_label": "Willie Nelson", "obj_label": "Legacy", "uuid": "13f57eb1-39b8-455c-a166-83240a52bd8c", "rel_ix": "P264_39", "pattern_ix": 11}
+{"prompt": "Willie Nelson label : [MASK].", "sub_label": "Willie Nelson", "obj_label": "Legacy", "uuid": "13f57eb1-39b8-455c-a166-83240a52bd8c", "rel_ix": "P264_39", "pattern_ix": 12}
+{"prompt": "Willie Nelson, released by [MASK].", "sub_label": "Willie Nelson", "obj_label": "Legacy", "uuid": "13f57eb1-39b8-455c-a166-83240a52bd8c", "rel_ix": "P264_39", "pattern_ix": 13}
+{"prompt": "[MASK] recording artist Willie Nelson.", "sub_label": "Willie Nelson", "obj_label": "Legacy", "uuid": "13f57eb1-39b8-455c-a166-83240a52bd8c", "rel_ix": "P264_39", "pattern_ix": 14}
+{"prompt": "[MASK] artists such as Willie Nelson.", "sub_label": "Willie Nelson", "obj_label": "Legacy", "uuid": "13f57eb1-39b8-455c-a166-83240a52bd8c", "rel_ix": "P264_39", "pattern_ix": 15}
+{"prompt": "[MASK] artists including Willie Nelson.", "sub_label": "Willie Nelson", "obj_label": "Legacy", "uuid": "13f57eb1-39b8-455c-a166-83240a52bd8c", "rel_ix": "P264_39", "pattern_ix": 16}
+{"prompt": "Purple Hearts is represented by music label [MASK] .", "sub_label": "Purple Hearts", "obj_label": "Sunshine", "uuid": "cf5bddb4-e8c2-43c8-b549-9d0fb0e44b81", "rel_ix": "P264_50", "pattern_ix": 0}
+{"prompt": "Purple Hearts is represented by record label [MASK] .", "sub_label": "Purple Hearts", "obj_label": "Sunshine", "uuid": "cf5bddb4-e8c2-43c8-b549-9d0fb0e44b81", "rel_ix": "P264_50", "pattern_ix": 1}
+{"prompt": "Purple Hearts is represented by [MASK] .", "sub_label": "Purple Hearts", "obj_label": "Sunshine", "uuid": "cf5bddb4-e8c2-43c8-b549-9d0fb0e44b81", "rel_ix": "P264_50", "pattern_ix": 2}
+{"prompt": "Purple Hearts, that is represented by [MASK].", "sub_label": "Purple Hearts", "obj_label": "Sunshine", "uuid": "cf5bddb4-e8c2-43c8-b549-9d0fb0e44b81", "rel_ix": "P264_50", "pattern_ix": 3}
+{"prompt": "Purple Hearts, which is represented by [MASK].", "sub_label": "Purple Hearts", "obj_label": "Sunshine", "uuid": "cf5bddb4-e8c2-43c8-b549-9d0fb0e44b81", "rel_ix": "P264_50", "pattern_ix": 4}
+{"prompt": "The music label representing Purple Hearts is [MASK].", "sub_label": "Purple Hearts", "obj_label": "Sunshine", "uuid": "cf5bddb4-e8c2-43c8-b549-9d0fb0e44b81", "rel_ix": "P264_50", "pattern_ix": 5}
+{"prompt": "The music label that is representing Purple Hearts is [MASK].", "sub_label": "Purple Hearts", "obj_label": "Sunshine", "uuid": "cf5bddb4-e8c2-43c8-b549-9d0fb0e44b81", "rel_ix": "P264_50", "pattern_ix": 6}
+{"prompt": "Purple Hearts's label is [MASK].", "sub_label": "Purple Hearts", "obj_label": "Sunshine", "uuid": "cf5bddb4-e8c2-43c8-b549-9d0fb0e44b81", "rel_ix": "P264_50", "pattern_ix": 7}
+{"prompt": "Purple Hearts's record label is [MASK].", "sub_label": "Purple Hearts", "obj_label": "Sunshine", "uuid": "cf5bddb4-e8c2-43c8-b549-9d0fb0e44b81", "rel_ix": "P264_50", "pattern_ix": 8}
+{"prompt": "Purple Hearts's record company is [MASK].", "sub_label": "Purple Hearts", "obj_label": "Sunshine", "uuid": "cf5bddb4-e8c2-43c8-b549-9d0fb0e44b81", "rel_ix": "P264_50", "pattern_ix": 9}
+{"prompt": "Purple Hearts's music label is [MASK].", "sub_label": "Purple Hearts", "obj_label": "Sunshine", "uuid": "cf5bddb4-e8c2-43c8-b549-9d0fb0e44b81", "rel_ix": "P264_50", "pattern_ix": 10}
+{"prompt": "Purple Hearts recorded for [MASK].", "sub_label": "Purple Hearts", "obj_label": "Sunshine", "uuid": "cf5bddb4-e8c2-43c8-b549-9d0fb0e44b81", "rel_ix": "P264_50", "pattern_ix": 11}
+{"prompt": "Purple Hearts label : [MASK].", "sub_label": "Purple Hearts", "obj_label": "Sunshine", "uuid": "cf5bddb4-e8c2-43c8-b549-9d0fb0e44b81", "rel_ix": "P264_50", "pattern_ix": 12}
+{"prompt": "Purple Hearts, released by [MASK].", "sub_label": "Purple Hearts", "obj_label": "Sunshine", "uuid": "cf5bddb4-e8c2-43c8-b549-9d0fb0e44b81", "rel_ix": "P264_50", "pattern_ix": 13}
+{"prompt": "[MASK] recording artist Purple Hearts.", "sub_label": "Purple Hearts", "obj_label": "Sunshine", "uuid": "cf5bddb4-e8c2-43c8-b549-9d0fb0e44b81", "rel_ix": "P264_50", "pattern_ix": 14}
+{"prompt": "[MASK] artists such as Purple Hearts.", "sub_label": "Purple Hearts", "obj_label": "Sunshine", "uuid": "cf5bddb4-e8c2-43c8-b549-9d0fb0e44b81", "rel_ix": "P264_50", "pattern_ix": 15}
+{"prompt": "[MASK] artists including Purple Hearts.", "sub_label": "Purple Hearts", "obj_label": "Sunshine", "uuid": "cf5bddb4-e8c2-43c8-b549-9d0fb0e44b81", "rel_ix": "P264_50", "pattern_ix": 16}

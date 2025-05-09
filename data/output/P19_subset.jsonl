@@ -1,0 +1,16 @@
+{"prompt": "Allan Peiper was born in [MASK].", "sub_label": "Allan Peiper", "obj_label": "Alexandra", "uuid": "6a9d91c1-eb9b-4142-8371-3c063ec40700", "rel_ix": "P19_0", "pattern_ix": 0}
+{"prompt": "Allan Peiper is originally from [MASK].", "sub_label": "Allan Peiper", "obj_label": "Alexandra", "uuid": "6a9d91c1-eb9b-4142-8371-3c063ec40700", "rel_ix": "P19_0", "pattern_ix": 1}
+{"prompt": "Allan Peiper was originally from [MASK].", "sub_label": "Allan Peiper", "obj_label": "Alexandra", "uuid": "6a9d91c1-eb9b-4142-8371-3c063ec40700", "rel_ix": "P19_0", "pattern_ix": 2}
+{"prompt": "Allan Peiper is native to [MASK].", "sub_label": "Allan Peiper", "obj_label": "Alexandra", "uuid": "6a9d91c1-eb9b-4142-8371-3c063ec40700", "rel_ix": "P19_0", "pattern_ix": 3}
+{"prompt": "Allan Peiper was native to [MASK].", "sub_label": "Allan Peiper", "obj_label": "Alexandra", "uuid": "6a9d91c1-eb9b-4142-8371-3c063ec40700", "rel_ix": "P19_0", "pattern_ix": 4}
+{"prompt": "Paul Mounsey was born in [MASK].", "sub_label": "Paul Mounsey", "obj_label": "Scotland", "uuid": "9f747ed9-2ead-46d2-8914-80bce0d09335", "rel_ix": "P19_1", "pattern_ix": 0}
+{"prompt": "Paul Mounsey is originally from [MASK].", "sub_label": "Paul Mounsey", "obj_label": "Scotland", "uuid": "9f747ed9-2ead-46d2-8914-80bce0d09335", "rel_ix": "P19_1", "pattern_ix": 1}
+{"prompt": "Paul Mounsey was originally from [MASK].", "sub_label": "Paul Mounsey", "obj_label": "Scotland", "uuid": "9f747ed9-2ead-46d2-8914-80bce0d09335", "rel_ix": "P19_1", "pattern_ix": 2}
+{"prompt": "Paul Mounsey is native to [MASK].", "sub_label": "Paul Mounsey", "obj_label": "Scotland", "uuid": "9f747ed9-2ead-46d2-8914-80bce0d09335", "rel_ix": "P19_1", "pattern_ix": 3}
+{"prompt": "Paul Mounsey was native to [MASK].", "sub_label": "Paul Mounsey", "obj_label": "Scotland", "uuid": "9f747ed9-2ead-46d2-8914-80bce0d09335", "rel_ix": "P19_1", "pattern_ix": 4}
+{"prompt": "Moe Koffman was born in [MASK].", "sub_label": "Moe Koffman", "obj_label": "Toronto", "uuid": "461eb46c-078c-41d6-8d45-161d5584f513", "rel_ix": "P19_2", "pattern_ix": 0}
+{"prompt": "Moe Koffman is originally from [MASK].", "sub_label": "Moe Koffman", "obj_label": "Toronto", "uuid": "461eb46c-078c-41d6-8d45-161d5584f513", "rel_ix": "P19_2", "pattern_ix": 1}
+{"prompt": "Moe Koffman was originally from [MASK].", "sub_label": "Moe Koffman", "obj_label": "Toronto", "uuid": "461eb46c-078c-41d6-8d45-161d5584f513", "rel_ix": "P19_2", "pattern_ix": 2}
+{"prompt": "Moe Koffman is native to [MASK].", "sub_label": "Moe Koffman", "obj_label": "Toronto", "uuid": "461eb46c-078c-41d6-8d45-161d5584f513", "rel_ix": "P19_2", "pattern_ix": 3}
+{"prompt": "Moe Koffman was native to [MASK].", "sub_label": "Moe Koffman", "obj_label": "Toronto", "uuid": "461eb46c-078c-41d6-8d45-161d5584f513", "rel_ix": "P19_2", "pattern_ix": 4}
+{"prompt": "Moe Koffman originated from [MASK].", "sub_label": "Moe Koffman", "obj_label": "Toronto", "uuid": "461eb46c-078c-41d6-8d45-161d5584f513", "rel_ix": "P19_2", "pattern_ix": 5}

@@ -1,0 +1,546 @@
+{"prompt": "Cunter is located in [MASK] .", "sub_label": "Cunter", "obj_label": "Switzerland", "uuid": "962bdc20-e3bf-43dd-a844-fb6f4265518e", "rel_ix": "P17_3", "pattern_ix": 0}
+{"prompt": "Cunter, which is located in [MASK].", "sub_label": "Cunter", "obj_label": "Switzerland", "uuid": "962bdc20-e3bf-43dd-a844-fb6f4265518e", "rel_ix": "P17_3", "pattern_ix": 1}
+{"prompt": "Cunter, located in [MASK].", "sub_label": "Cunter", "obj_label": "Switzerland", "uuid": "962bdc20-e3bf-43dd-a844-fb6f4265518e", "rel_ix": "P17_3", "pattern_ix": 2}
+{"prompt": "SooToday.com is located in [MASK] .", "sub_label": "SooToday.com", "obj_label": "Canada", "uuid": "aca025b3-cdb2-4a07-abde-7f31c1c4bb94", "rel_ix": "P17_13", "pattern_ix": 0}
+{"prompt": "SooToday.com, which is located in [MASK].", "sub_label": "SooToday.com", "obj_label": "Canada", "uuid": "aca025b3-cdb2-4a07-abde-7f31c1c4bb94", "rel_ix": "P17_13", "pattern_ix": 1}
+{"prompt": "SooToday.com, located in [MASK].", "sub_label": "SooToday.com", "obj_label": "Canada", "uuid": "aca025b3-cdb2-4a07-abde-7f31c1c4bb94", "rel_ix": "P17_13", "pattern_ix": 2}
+{"prompt": "2004 Indian Ocean earthquake is located in [MASK] .", "sub_label": "2004 Indian Ocean earthquake", "obj_label": "Indonesia", "uuid": "7da680b0-df25-45ea-9189-aeda9d5046da", "rel_ix": "P17_17", "pattern_ix": 0}
+{"prompt": "2004 Indian Ocean earthquake, which is located in [MASK].", "sub_label": "2004 Indian Ocean earthquake", "obj_label": "Indonesia", "uuid": "7da680b0-df25-45ea-9189-aeda9d5046da", "rel_ix": "P17_17", "pattern_ix": 1}
+{"prompt": "2004 Indian Ocean earthquake, located in [MASK].", "sub_label": "2004 Indian Ocean earthquake", "obj_label": "Indonesia", "uuid": "7da680b0-df25-45ea-9189-aeda9d5046da", "rel_ix": "P17_17", "pattern_ix": 2}
+{"prompt": "Sands of Beirut is located in [MASK] .", "sub_label": "Sands of Beirut", "obj_label": "Lebanon", "uuid": "c7f8dc22-cb00-44b0-822a-87ec50eca1e3", "rel_ix": "P17_25", "pattern_ix": 0}
+{"prompt": "Sands of Beirut, which is located in [MASK].", "sub_label": "Sands of Beirut", "obj_label": "Lebanon", "uuid": "c7f8dc22-cb00-44b0-822a-87ec50eca1e3", "rel_ix": "P17_25", "pattern_ix": 1}
+{"prompt": "Sands of Beirut, located in [MASK].", "sub_label": "Sands of Beirut", "obj_label": "Lebanon", "uuid": "c7f8dc22-cb00-44b0-822a-87ec50eca1e3", "rel_ix": "P17_25", "pattern_ix": 2}
+{"prompt": "Baturyn is located in [MASK] .", "sub_label": "Baturyn", "obj_label": "Ukraine", "uuid": "7f293db1-36b7-4362-8245-e36b2befc06a", "rel_ix": "P17_26", "pattern_ix": 0}
+{"prompt": "Baturyn, which is located in [MASK].", "sub_label": "Baturyn", "obj_label": "Ukraine", "uuid": "7f293db1-36b7-4362-8245-e36b2befc06a", "rel_ix": "P17_26", "pattern_ix": 1}
+{"prompt": "Baturyn, located in [MASK].", "sub_label": "Baturyn", "obj_label": "Ukraine", "uuid": "7f293db1-36b7-4362-8245-e36b2befc06a", "rel_ix": "P17_26", "pattern_ix": 2}
+{"prompt": "Siquijor is located in [MASK] .", "sub_label": "Siquijor", "obj_label": "Philippines", "uuid": "530263dc-199b-4ce3-bd1b-f63861297b15", "rel_ix": "P17_34", "pattern_ix": 0}
+{"prompt": "Siquijor, which is located in [MASK].", "sub_label": "Siquijor", "obj_label": "Philippines", "uuid": "530263dc-199b-4ce3-bd1b-f63861297b15", "rel_ix": "P17_34", "pattern_ix": 1}
+{"prompt": "Siquijor, located in [MASK].", "sub_label": "Siquijor", "obj_label": "Philippines", "uuid": "530263dc-199b-4ce3-bd1b-f63861297b15", "rel_ix": "P17_34", "pattern_ix": 2}
+{"prompt": "Augustinergasse is located in [MASK] .", "sub_label": "Augustinergasse", "obj_label": "Switzerland", "uuid": "b5ba038d-d757-4d18-94d6-c08bf4a751f9", "rel_ix": "P17_36", "pattern_ix": 0}
+{"prompt": "Augustinergasse, which is located in [MASK].", "sub_label": "Augustinergasse", "obj_label": "Switzerland", "uuid": "b5ba038d-d757-4d18-94d6-c08bf4a751f9", "rel_ix": "P17_36", "pattern_ix": 1}
+{"prompt": "Augustinergasse, located in [MASK].", "sub_label": "Augustinergasse", "obj_label": "Switzerland", "uuid": "b5ba038d-d757-4d18-94d6-c08bf4a751f9", "rel_ix": "P17_36", "pattern_ix": 2}
+{"prompt": "Putyvl is located in [MASK] .", "sub_label": "Putyvl", "obj_label": "Ukraine", "uuid": "9d148b26-242e-4e2b-a2a3-a1209fafd738", "rel_ix": "P17_42", "pattern_ix": 0}
+{"prompt": "Putyvl, which is located in [MASK].", "sub_label": "Putyvl", "obj_label": "Ukraine", "uuid": "9d148b26-242e-4e2b-a2a3-a1209fafd738", "rel_ix": "P17_42", "pattern_ix": 1}
+{"prompt": "Putyvl, located in [MASK].", "sub_label": "Putyvl", "obj_label": "Ukraine", "uuid": "9d148b26-242e-4e2b-a2a3-a1209fafd738", "rel_ix": "P17_42", "pattern_ix": 2}
+{"prompt": "1931 Nicaragua earthquake is located in [MASK] .", "sub_label": "1931 Nicaragua earthquake", "obj_label": "Nicaragua", "uuid": "e3f4820e-ff9b-42e9-9181-b57c102f21b1", "rel_ix": "P17_48", "pattern_ix": 0}
+{"prompt": "1931 Nicaragua earthquake, which is located in [MASK].", "sub_label": "1931 Nicaragua earthquake", "obj_label": "Nicaragua", "uuid": "e3f4820e-ff9b-42e9-9181-b57c102f21b1", "rel_ix": "P17_48", "pattern_ix": 1}
+{"prompt": "1931 Nicaragua earthquake, located in [MASK].", "sub_label": "1931 Nicaragua earthquake", "obj_label": "Nicaragua", "uuid": "e3f4820e-ff9b-42e9-9181-b57c102f21b1", "rel_ix": "P17_48", "pattern_ix": 2}
+{"prompt": "K.S.V. Roeselare is located in [MASK] .", "sub_label": "K.S.V. Roeselare", "obj_label": "Belgium", "uuid": "eca6971f-3537-46ff-a110-57ba7ac2b5ad", "rel_ix": "P17_53", "pattern_ix": 0}
+{"prompt": "K.S.V. Roeselare, which is located in [MASK].", "sub_label": "K.S.V. Roeselare", "obj_label": "Belgium", "uuid": "eca6971f-3537-46ff-a110-57ba7ac2b5ad", "rel_ix": "P17_53", "pattern_ix": 1}
+{"prompt": "K.S.V. Roeselare, located in [MASK].", "sub_label": "K.S.V. Roeselare", "obj_label": "Belgium", "uuid": "eca6971f-3537-46ff-a110-57ba7ac2b5ad", "rel_ix": "P17_53", "pattern_ix": 2}
+{"prompt": "Sydney Hospital is located in [MASK] .", "sub_label": "Sydney Hospital", "obj_label": "Australia", "uuid": "feb9e99b-f145-4637-b3ef-0e05138a99e3", "rel_ix": "P17_55", "pattern_ix": 0}
+{"prompt": "Sydney Hospital, which is located in [MASK].", "sub_label": "Sydney Hospital", "obj_label": "Australia", "uuid": "feb9e99b-f145-4637-b3ef-0e05138a99e3", "rel_ix": "P17_55", "pattern_ix": 1}
+{"prompt": "Sydney Hospital, located in [MASK].", "sub_label": "Sydney Hospital", "obj_label": "Australia", "uuid": "feb9e99b-f145-4637-b3ef-0e05138a99e3", "rel_ix": "P17_55", "pattern_ix": 2}
+{"prompt": "Gaiola is located in [MASK] .", "sub_label": "Gaiola", "obj_label": "Italy", "uuid": "f3e38579-217d-4b86-9f00-093d3d84e98e", "rel_ix": "P17_59", "pattern_ix": 0}
+{"prompt": "Gaiola, which is located in [MASK].", "sub_label": "Gaiola", "obj_label": "Italy", "uuid": "f3e38579-217d-4b86-9f00-093d3d84e98e", "rel_ix": "P17_59", "pattern_ix": 1}
+{"prompt": "Gaiola, located in [MASK].", "sub_label": "Gaiola", "obj_label": "Italy", "uuid": "f3e38579-217d-4b86-9f00-093d3d84e98e", "rel_ix": "P17_59", "pattern_ix": 2}
+{"prompt": "Amsterdam dance event is located in [MASK] .", "sub_label": "Amsterdam dance event", "obj_label": "Netherlands", "uuid": "8ec2c296-a0fe-4ab6-8428-8ebe3b800aa0", "rel_ix": "P17_64", "pattern_ix": 0}
+{"prompt": "Amsterdam dance event, which is located in [MASK].", "sub_label": "Amsterdam dance event", "obj_label": "Netherlands", "uuid": "8ec2c296-a0fe-4ab6-8428-8ebe3b800aa0", "rel_ix": "P17_64", "pattern_ix": 1}
+{"prompt": "Amsterdam dance event, located in [MASK].", "sub_label": "Amsterdam dance event", "obj_label": "Netherlands", "uuid": "8ec2c296-a0fe-4ab6-8428-8ebe3b800aa0", "rel_ix": "P17_64", "pattern_ix": 2}
+{"prompt": "Galiano Island is located in [MASK] .", "sub_label": "Galiano Island", "obj_label": "Canada", "uuid": "df09e5a1-f0cc-4dd5-ad73-3beecdc78c97", "rel_ix": "P17_75", "pattern_ix": 0}
+{"prompt": "Galiano Island, which is located in [MASK].", "sub_label": "Galiano Island", "obj_label": "Canada", "uuid": "df09e5a1-f0cc-4dd5-ad73-3beecdc78c97", "rel_ix": "P17_75", "pattern_ix": 1}
+{"prompt": "Galiano Island, located in [MASK].", "sub_label": "Galiano Island", "obj_label": "Canada", "uuid": "df09e5a1-f0cc-4dd5-ad73-3beecdc78c97", "rel_ix": "P17_75", "pattern_ix": 2}
+{"prompt": "Eurasian Steppe is located in [MASK] .", "sub_label": "Eurasian Steppe", "obj_label": "Ukraine", "uuid": "c29e5cf3-7fd8-4a27-a450-43116c132156", "rel_ix": "P17_77", "pattern_ix": 0}
+{"prompt": "Eurasian Steppe, which is located in [MASK].", "sub_label": "Eurasian Steppe", "obj_label": "Ukraine", "uuid": "c29e5cf3-7fd8-4a27-a450-43116c132156", "rel_ix": "P17_77", "pattern_ix": 1}
+{"prompt": "Eurasian Steppe, located in [MASK].", "sub_label": "Eurasian Steppe", "obj_label": "Ukraine", "uuid": "c29e5cf3-7fd8-4a27-a450-43116c132156", "rel_ix": "P17_77", "pattern_ix": 2}
+{"prompt": "DESTATIS is located in [MASK] .", "sub_label": "DESTATIS", "obj_label": "Germany", "uuid": "f2d29eae-76a3-4068-89ad-ae510bfb9222", "rel_ix": "P17_79", "pattern_ix": 0}
+{"prompt": "DESTATIS, which is located in [MASK].", "sub_label": "DESTATIS", "obj_label": "Germany", "uuid": "f2d29eae-76a3-4068-89ad-ae510bfb9222", "rel_ix": "P17_79", "pattern_ix": 1}
+{"prompt": "DESTATIS, located in [MASK].", "sub_label": "DESTATIS", "obj_label": "Germany", "uuid": "f2d29eae-76a3-4068-89ad-ae510bfb9222", "rel_ix": "P17_79", "pattern_ix": 2}
+{"prompt": "Borgo San Martino is located in [MASK] .", "sub_label": "Borgo San Martino", "obj_label": "Italy", "uuid": "c2ba998a-526b-4462-8d97-0e09988bc672", "rel_ix": "P17_81", "pattern_ix": 0}
+{"prompt": "Borgo San Martino, which is located in [MASK].", "sub_label": "Borgo San Martino", "obj_label": "Italy", "uuid": "c2ba998a-526b-4462-8d97-0e09988bc672", "rel_ix": "P17_81", "pattern_ix": 1}
+{"prompt": "Borgo San Martino, located in [MASK].", "sub_label": "Borgo San Martino", "obj_label": "Italy", "uuid": "c2ba998a-526b-4462-8d97-0e09988bc672", "rel_ix": "P17_81", "pattern_ix": 2}
+{"prompt": "Aucanquilcha is located in [MASK] .", "sub_label": "Aucanquilcha", "obj_label": "Chile", "uuid": "0edd06a6-8de6-4766-be75-99ccff16cee7", "rel_ix": "P17_98", "pattern_ix": 0}
+{"prompt": "Aucanquilcha, which is located in [MASK].", "sub_label": "Aucanquilcha", "obj_label": "Chile", "uuid": "0edd06a6-8de6-4766-be75-99ccff16cee7", "rel_ix": "P17_98", "pattern_ix": 1}
+{"prompt": "Aucanquilcha, located in [MASK].", "sub_label": "Aucanquilcha", "obj_label": "Chile", "uuid": "0edd06a6-8de6-4766-be75-99ccff16cee7", "rel_ix": "P17_98", "pattern_ix": 2}
+{"prompt": "Mezhdurechensky District is located in [MASK] .", "sub_label": "Mezhdurechensky District", "obj_label": "Russia", "uuid": "8fd225d2-c6c0-48bb-bda4-1bd158ff789d", "rel_ix": "P17_101", "pattern_ix": 0}
+{"prompt": "Mezhdurechensky District, which is located in [MASK].", "sub_label": "Mezhdurechensky District", "obj_label": "Russia", "uuid": "8fd225d2-c6c0-48bb-bda4-1bd158ff789d", "rel_ix": "P17_101", "pattern_ix": 1}
+{"prompt": "Mezhdurechensky District, located in [MASK].", "sub_label": "Mezhdurechensky District", "obj_label": "Russia", "uuid": "8fd225d2-c6c0-48bb-bda4-1bd158ff789d", "rel_ix": "P17_101", "pattern_ix": 2}
+{"prompt": "Pilis Mountains is located in [MASK] .", "sub_label": "Pilis Mountains", "obj_label": "Hungary", "uuid": "8421efb0-7cf4-49b5-80bd-7e5df0facae2", "rel_ix": "P17_103", "pattern_ix": 0}
+{"prompt": "Pilis Mountains, which is located in [MASK].", "sub_label": "Pilis Mountains", "obj_label": "Hungary", "uuid": "8421efb0-7cf4-49b5-80bd-7e5df0facae2", "rel_ix": "P17_103", "pattern_ix": 1}
+{"prompt": "Pilis Mountains, located in [MASK].", "sub_label": "Pilis Mountains", "obj_label": "Hungary", "uuid": "8421efb0-7cf4-49b5-80bd-7e5df0facae2", "rel_ix": "P17_103", "pattern_ix": 2}
+{"prompt": "Kondotty is located in [MASK] .", "sub_label": "Kondotty", "obj_label": "India", "uuid": "0cadf56b-fc38-4d39-ae31-9f748488c45d", "rel_ix": "P17_115", "pattern_ix": 0}
+{"prompt": "Kondotty, which is located in [MASK].", "sub_label": "Kondotty", "obj_label": "India", "uuid": "0cadf56b-fc38-4d39-ae31-9f748488c45d", "rel_ix": "P17_115", "pattern_ix": 1}
+{"prompt": "Kondotty, located in [MASK].", "sub_label": "Kondotty", "obj_label": "India", "uuid": "0cadf56b-fc38-4d39-ae31-9f748488c45d", "rel_ix": "P17_115", "pattern_ix": 2}
+{"prompt": "Marstrand is located in [MASK] .", "sub_label": "Marstrand", "obj_label": "Sweden", "uuid": "25c9c1ee-97f4-4082-aaa6-14f1ba686fd5", "rel_ix": "P17_118", "pattern_ix": 0}
+{"prompt": "Marstrand, which is located in [MASK].", "sub_label": "Marstrand", "obj_label": "Sweden", "uuid": "25c9c1ee-97f4-4082-aaa6-14f1ba686fd5", "rel_ix": "P17_118", "pattern_ix": 1}
+{"prompt": "Marstrand, located in [MASK].", "sub_label": "Marstrand", "obj_label": "Sweden", "uuid": "25c9c1ee-97f4-4082-aaa6-14f1ba686fd5", "rel_ix": "P17_118", "pattern_ix": 2}
+{"prompt": "AA Drink-leontien.nl is located in [MASK] .", "sub_label": "AA Drink-leontien.nl", "obj_label": "Netherlands", "uuid": "d2d1b6bf-2e24-42e1-876b-02110ea378a5", "rel_ix": "P17_119", "pattern_ix": 0}
+{"prompt": "AA Drink-leontien.nl, which is located in [MASK].", "sub_label": "AA Drink-leontien.nl", "obj_label": "Netherlands", "uuid": "d2d1b6bf-2e24-42e1-876b-02110ea378a5", "rel_ix": "P17_119", "pattern_ix": 1}
+{"prompt": "AA Drink-leontien.nl, located in [MASK].", "sub_label": "AA Drink-leontien.nl", "obj_label": "Netherlands", "uuid": "d2d1b6bf-2e24-42e1-876b-02110ea378a5", "rel_ix": "P17_119", "pattern_ix": 2}
+{"prompt": "Palais de l'Industrie is located in [MASK] .", "sub_label": "Palais de l'Industrie", "obj_label": "France", "uuid": "9e166b6c-d1fd-44b0-bd45-724a575795d1", "rel_ix": "P17_120", "pattern_ix": 0}
+{"prompt": "Palais de l'Industrie, which is located in [MASK].", "sub_label": "Palais de l'Industrie", "obj_label": "France", "uuid": "9e166b6c-d1fd-44b0-bd45-724a575795d1", "rel_ix": "P17_120", "pattern_ix": 1}
+{"prompt": "Palais de l'Industrie, located in [MASK].", "sub_label": "Palais de l'Industrie", "obj_label": "France", "uuid": "9e166b6c-d1fd-44b0-bd45-724a575795d1", "rel_ix": "P17_120", "pattern_ix": 2}
+{"prompt": "Jan Amora is located in [MASK] .", "sub_label": "Jan Amora", "obj_label": "Ethiopia", "uuid": "5f193089-16c5-4ee9-b464-0d99c71d7a6c", "rel_ix": "P17_127", "pattern_ix": 0}
+{"prompt": "Jan Amora, which is located in [MASK].", "sub_label": "Jan Amora", "obj_label": "Ethiopia", "uuid": "5f193089-16c5-4ee9-b464-0d99c71d7a6c", "rel_ix": "P17_127", "pattern_ix": 1}
+{"prompt": "Jan Amora, located in [MASK].", "sub_label": "Jan Amora", "obj_label": "Ethiopia", "uuid": "5f193089-16c5-4ee9-b464-0d99c71d7a6c", "rel_ix": "P17_127", "pattern_ix": 2}
+{"prompt": "Alouette Lake is located in [MASK] .", "sub_label": "Alouette Lake", "obj_label": "Canada", "uuid": "02c0f83d-56b7-44e8-94b8-c584194f41be", "rel_ix": "P17_133", "pattern_ix": 0}
+{"prompt": "Alouette Lake, which is located in [MASK].", "sub_label": "Alouette Lake", "obj_label": "Canada", "uuid": "02c0f83d-56b7-44e8-94b8-c584194f41be", "rel_ix": "P17_133", "pattern_ix": 1}
+{"prompt": "Alouette Lake, located in [MASK].", "sub_label": "Alouette Lake", "obj_label": "Canada", "uuid": "02c0f83d-56b7-44e8-94b8-c584194f41be", "rel_ix": "P17_133", "pattern_ix": 2}
+{"prompt": "Lindholm station is located in [MASK] .", "sub_label": "Lindholm station", "obj_label": "Denmark", "uuid": "17863b3e-538b-4e2d-9261-34393b1d8c5e", "rel_ix": "P17_135", "pattern_ix": 0}
+{"prompt": "Lindholm station, which is located in [MASK].", "sub_label": "Lindholm station", "obj_label": "Denmark", "uuid": "17863b3e-538b-4e2d-9261-34393b1d8c5e", "rel_ix": "P17_135", "pattern_ix": 1}
+{"prompt": "Lindholm station, located in [MASK].", "sub_label": "Lindholm station", "obj_label": "Denmark", "uuid": "17863b3e-538b-4e2d-9261-34393b1d8c5e", "rel_ix": "P17_135", "pattern_ix": 2}
+{"prompt": "Canton of Schaffhausen is located in [MASK] .", "sub_label": "Canton of Schaffhausen", "obj_label": "Switzerland", "uuid": "adfd3b2d-3a8e-46a8-9c6f-f16f433be7de", "rel_ix": "P17_151", "pattern_ix": 0}
+{"prompt": "Canton of Schaffhausen, which is located in [MASK].", "sub_label": "Canton of Schaffhausen", "obj_label": "Switzerland", "uuid": "adfd3b2d-3a8e-46a8-9c6f-f16f433be7de", "rel_ix": "P17_151", "pattern_ix": 1}
+{"prompt": "Canton of Schaffhausen, located in [MASK].", "sub_label": "Canton of Schaffhausen", "obj_label": "Switzerland", "uuid": "adfd3b2d-3a8e-46a8-9c6f-f16f433be7de", "rel_ix": "P17_151", "pattern_ix": 2}
+{"prompt": "Nagoya University is located in [MASK] .", "sub_label": "Nagoya University", "obj_label": "Japan", "uuid": "61bd5b13-856f-4471-b08e-1cd680175e26", "rel_ix": "P17_155", "pattern_ix": 0}
+{"prompt": "Nagoya University, which is located in [MASK].", "sub_label": "Nagoya University", "obj_label": "Japan", "uuid": "61bd5b13-856f-4471-b08e-1cd680175e26", "rel_ix": "P17_155", "pattern_ix": 1}
+{"prompt": "Nagoya University, located in [MASK].", "sub_label": "Nagoya University", "obj_label": "Japan", "uuid": "61bd5b13-856f-4471-b08e-1cd680175e26", "rel_ix": "P17_155", "pattern_ix": 2}
+{"prompt": "Fort Madalena is located in [MASK] .", "sub_label": "Fort Madalena", "obj_label": "Malta", "uuid": "c9834849-cc49-4bb1-b3c3-18c3c064c0b5", "rel_ix": "P17_156", "pattern_ix": 0}
+{"prompt": "Fort Madalena, which is located in [MASK].", "sub_label": "Fort Madalena", "obj_label": "Malta", "uuid": "c9834849-cc49-4bb1-b3c3-18c3c064c0b5", "rel_ix": "P17_156", "pattern_ix": 1}
+{"prompt": "Fort Madalena, located in [MASK].", "sub_label": "Fort Madalena", "obj_label": "Malta", "uuid": "c9834849-cc49-4bb1-b3c3-18c3c064c0b5", "rel_ix": "P17_156", "pattern_ix": 2}
+{"prompt": "Sana'a International Airport is located in [MASK] .", "sub_label": "Sana'a International Airport", "obj_label": "Yemen", "uuid": "224bc312-e219-47e0-a1d0-cc3a4385e20f", "rel_ix": "P17_160", "pattern_ix": 0}
+{"prompt": "Sana'a International Airport, which is located in [MASK].", "sub_label": "Sana'a International Airport", "obj_label": "Yemen", "uuid": "224bc312-e219-47e0-a1d0-cc3a4385e20f", "rel_ix": "P17_160", "pattern_ix": 1}
+{"prompt": "Sana'a International Airport, located in [MASK].", "sub_label": "Sana'a International Airport", "obj_label": "Yemen", "uuid": "224bc312-e219-47e0-a1d0-cc3a4385e20f", "rel_ix": "P17_160", "pattern_ix": 2}
+{"prompt": "Les Bons Villers is located in [MASK] .", "sub_label": "Les Bons Villers", "obj_label": "Belgium", "uuid": "676f99f5-3af0-4bc8-a87d-4ae6fc67db48", "rel_ix": "P17_163", "pattern_ix": 0}
+{"prompt": "Les Bons Villers, which is located in [MASK].", "sub_label": "Les Bons Villers", "obj_label": "Belgium", "uuid": "676f99f5-3af0-4bc8-a87d-4ae6fc67db48", "rel_ix": "P17_163", "pattern_ix": 1}
+{"prompt": "Les Bons Villers, located in [MASK].", "sub_label": "Les Bons Villers", "obj_label": "Belgium", "uuid": "676f99f5-3af0-4bc8-a87d-4ae6fc67db48", "rel_ix": "P17_163", "pattern_ix": 2}
+{"prompt": "Catholic Syrian Bank is located in [MASK] .", "sub_label": "Catholic Syrian Bank", "obj_label": "India", "uuid": "fb61deda-3889-4971-b440-a3060f7d9a8a", "rel_ix": "P17_166", "pattern_ix": 0}
+{"prompt": "Catholic Syrian Bank, which is located in [MASK].", "sub_label": "Catholic Syrian Bank", "obj_label": "India", "uuid": "fb61deda-3889-4971-b440-a3060f7d9a8a", "rel_ix": "P17_166", "pattern_ix": 1}
+{"prompt": "Catholic Syrian Bank, located in [MASK].", "sub_label": "Catholic Syrian Bank", "obj_label": "India", "uuid": "fb61deda-3889-4971-b440-a3060f7d9a8a", "rel_ix": "P17_166", "pattern_ix": 2}
+{"prompt": "Tursi is located in [MASK] .", "sub_label": "Tursi", "obj_label": "Italy", "uuid": "709f23a2-2082-4cfd-a15a-d13eeb6f3018", "rel_ix": "P17_172", "pattern_ix": 0}
+{"prompt": "Tursi, which is located in [MASK].", "sub_label": "Tursi", "obj_label": "Italy", "uuid": "709f23a2-2082-4cfd-a15a-d13eeb6f3018", "rel_ix": "P17_172", "pattern_ix": 1}
+{"prompt": "Tursi, located in [MASK].", "sub_label": "Tursi", "obj_label": "Italy", "uuid": "709f23a2-2082-4cfd-a15a-d13eeb6f3018", "rel_ix": "P17_172", "pattern_ix": 2}
+{"prompt": "La famille Plouffe is located in [MASK] .", "sub_label": "La famille Plouffe", "obj_label": "Canada", "uuid": "115b7736-7329-43a8-bb7f-086ff257f41a", "rel_ix": "P17_178", "pattern_ix": 0}
+{"prompt": "La famille Plouffe, which is located in [MASK].", "sub_label": "La famille Plouffe", "obj_label": "Canada", "uuid": "115b7736-7329-43a8-bb7f-086ff257f41a", "rel_ix": "P17_178", "pattern_ix": 1}
+{"prompt": "La famille Plouffe, located in [MASK].", "sub_label": "La famille Plouffe", "obj_label": "Canada", "uuid": "115b7736-7329-43a8-bb7f-086ff257f41a", "rel_ix": "P17_178", "pattern_ix": 2}
+{"prompt": "Fort Calgary is located in [MASK] .", "sub_label": "Fort Calgary", "obj_label": "Canada", "uuid": "67e012ff-9971-41f7-9b93-cf987cfe72b0", "rel_ix": "P17_185", "pattern_ix": 0}
+{"prompt": "Fort Calgary, which is located in [MASK].", "sub_label": "Fort Calgary", "obj_label": "Canada", "uuid": "67e012ff-9971-41f7-9b93-cf987cfe72b0", "rel_ix": "P17_185", "pattern_ix": 1}
+{"prompt": "Fort Calgary, located in [MASK].", "sub_label": "Fort Calgary", "obj_label": "Canada", "uuid": "67e012ff-9971-41f7-9b93-cf987cfe72b0", "rel_ix": "P17_185", "pattern_ix": 2}
+{"prompt": "Chol Kiri District is located in [MASK] .", "sub_label": "Chol Kiri District", "obj_label": "Cambodia", "uuid": "a1862895-c874-49a3-aa02-9a79c617fd60", "rel_ix": "P17_186", "pattern_ix": 0}
+{"prompt": "Chol Kiri District, which is located in [MASK].", "sub_label": "Chol Kiri District", "obj_label": "Cambodia", "uuid": "a1862895-c874-49a3-aa02-9a79c617fd60", "rel_ix": "P17_186", "pattern_ix": 1}
+{"prompt": "Chol Kiri District, located in [MASK].", "sub_label": "Chol Kiri District", "obj_label": "Cambodia", "uuid": "a1862895-c874-49a3-aa02-9a79c617fd60", "rel_ix": "P17_186", "pattern_ix": 2}
+{"prompt": "Landskrona BoIS is located in [MASK] .", "sub_label": "Landskrona BoIS", "obj_label": "Sweden", "uuid": "824df3f3-10cb-41f2-a3f6-7d4878c83ff9", "rel_ix": "P17_191", "pattern_ix": 0}
+{"prompt": "Landskrona BoIS, which is located in [MASK].", "sub_label": "Landskrona BoIS", "obj_label": "Sweden", "uuid": "824df3f3-10cb-41f2-a3f6-7d4878c83ff9", "rel_ix": "P17_191", "pattern_ix": 1}
+{"prompt": "Landskrona BoIS, located in [MASK].", "sub_label": "Landskrona BoIS", "obj_label": "Sweden", "uuid": "824df3f3-10cb-41f2-a3f6-7d4878c83ff9", "rel_ix": "P17_191", "pattern_ix": 2}
+{"prompt": "Breege is located in [MASK] .", "sub_label": "Breege", "obj_label": "Germany", "uuid": "72fa5963-2d62-4a4b-97eb-a6bec3d56ca9", "rel_ix": "P17_197", "pattern_ix": 0}
+{"prompt": "Breege, which is located in [MASK].", "sub_label": "Breege", "obj_label": "Germany", "uuid": "72fa5963-2d62-4a4b-97eb-a6bec3d56ca9", "rel_ix": "P17_197", "pattern_ix": 1}
+{"prompt": "Breege, located in [MASK].", "sub_label": "Breege", "obj_label": "Germany", "uuid": "72fa5963-2d62-4a4b-97eb-a6bec3d56ca9", "rel_ix": "P17_197", "pattern_ix": 2}
+{"prompt": "Big Timothy Mountain is located in [MASK] .", "sub_label": "Big Timothy Mountain", "obj_label": "Canada", "uuid": "58a2dda0-9525-4342-9ffe-d1a70dc5434c", "rel_ix": "P17_201", "pattern_ix": 0}
+{"prompt": "Big Timothy Mountain, which is located in [MASK].", "sub_label": "Big Timothy Mountain", "obj_label": "Canada", "uuid": "58a2dda0-9525-4342-9ffe-d1a70dc5434c", "rel_ix": "P17_201", "pattern_ix": 1}
+{"prompt": "Big Timothy Mountain, located in [MASK].", "sub_label": "Big Timothy Mountain", "obj_label": "Canada", "uuid": "58a2dda0-9525-4342-9ffe-d1a70dc5434c", "rel_ix": "P17_201", "pattern_ix": 2}
+{"prompt": "Moscato d'Asti is located in [MASK] .", "sub_label": "Moscato d'Asti", "obj_label": "Italy", "uuid": "d95e6cb5-8833-4a66-8d3a-0f6991c0c0b6", "rel_ix": "P17_205", "pattern_ix": 0}
+{"prompt": "Moscato d'Asti, which is located in [MASK].", "sub_label": "Moscato d'Asti", "obj_label": "Italy", "uuid": "d95e6cb5-8833-4a66-8d3a-0f6991c0c0b6", "rel_ix": "P17_205", "pattern_ix": 1}
+{"prompt": "Moscato d'Asti, located in [MASK].", "sub_label": "Moscato d'Asti", "obj_label": "Italy", "uuid": "d95e6cb5-8833-4a66-8d3a-0f6991c0c0b6", "rel_ix": "P17_205", "pattern_ix": 2}
+{"prompt": "Naruto Strait is located in [MASK] .", "sub_label": "Naruto Strait", "obj_label": "Japan", "uuid": "fa0d457f-6a5a-41d2-8ce5-0597287d9236", "rel_ix": "P17_213", "pattern_ix": 0}
+{"prompt": "Naruto Strait, which is located in [MASK].", "sub_label": "Naruto Strait", "obj_label": "Japan", "uuid": "fa0d457f-6a5a-41d2-8ce5-0597287d9236", "rel_ix": "P17_213", "pattern_ix": 1}
+{"prompt": "Naruto Strait, located in [MASK].", "sub_label": "Naruto Strait", "obj_label": "Japan", "uuid": "fa0d457f-6a5a-41d2-8ce5-0597287d9236", "rel_ix": "P17_213", "pattern_ix": 2}
+{"prompt": "Augustdorf is located in [MASK] .", "sub_label": "Augustdorf", "obj_label": "Germany", "uuid": "f7f54986-f1db-4346-abe2-de29139c82b8", "rel_ix": "P17_217", "pattern_ix": 0}
+{"prompt": "Augustdorf, which is located in [MASK].", "sub_label": "Augustdorf", "obj_label": "Germany", "uuid": "f7f54986-f1db-4346-abe2-de29139c82b8", "rel_ix": "P17_217", "pattern_ix": 1}
+{"prompt": "Augustdorf, located in [MASK].", "sub_label": "Augustdorf", "obj_label": "Germany", "uuid": "f7f54986-f1db-4346-abe2-de29139c82b8", "rel_ix": "P17_217", "pattern_ix": 2}
+{"prompt": "Georgians is located in [MASK] .", "sub_label": "Georgians", "obj_label": "Azerbaijan", "uuid": "00fa8ab1-499b-46dd-9dec-78f875eaab48", "rel_ix": "P17_220", "pattern_ix": 0}
+{"prompt": "Georgians, which is located in [MASK].", "sub_label": "Georgians", "obj_label": "Azerbaijan", "uuid": "00fa8ab1-499b-46dd-9dec-78f875eaab48", "rel_ix": "P17_220", "pattern_ix": 1}
+{"prompt": "Georgians, located in [MASK].", "sub_label": "Georgians", "obj_label": "Azerbaijan", "uuid": "00fa8ab1-499b-46dd-9dec-78f875eaab48", "rel_ix": "P17_220", "pattern_ix": 2}
+{"prompt": "Sydney Peace Prize is located in [MASK] .", "sub_label": "Sydney Peace Prize", "obj_label": "Australia", "uuid": "e4f7d91f-a69b-425c-b3eb-2f210f3702e9", "rel_ix": "P17_225", "pattern_ix": 0}
+{"prompt": "Sydney Peace Prize, which is located in [MASK].", "sub_label": "Sydney Peace Prize", "obj_label": "Australia", "uuid": "e4f7d91f-a69b-425c-b3eb-2f210f3702e9", "rel_ix": "P17_225", "pattern_ix": 1}
+{"prompt": "Sydney Peace Prize, located in [MASK].", "sub_label": "Sydney Peace Prize", "obj_label": "Australia", "uuid": "e4f7d91f-a69b-425c-b3eb-2f210f3702e9", "rel_ix": "P17_225", "pattern_ix": 2}
+{"prompt": "Santa Maria da Feira Municipality is located in [MASK] .", "sub_label": "Santa Maria da Feira Municipality", "obj_label": "Portugal", "uuid": "9a131635-0a21-4104-8103-cdccf322966a", "rel_ix": "P17_227", "pattern_ix": 0}
+{"prompt": "Santa Maria da Feira Municipality, which is located in [MASK].", "sub_label": "Santa Maria da Feira Municipality", "obj_label": "Portugal", "uuid": "9a131635-0a21-4104-8103-cdccf322966a", "rel_ix": "P17_227", "pattern_ix": 1}
+{"prompt": "Santa Maria da Feira Municipality, located in [MASK].", "sub_label": "Santa Maria da Feira Municipality", "obj_label": "Portugal", "uuid": "9a131635-0a21-4104-8103-cdccf322966a", "rel_ix": "P17_227", "pattern_ix": 2}
+{"prompt": "Yoro is located in [MASK] .", "sub_label": "Yoro", "obj_label": "Honduras", "uuid": "3e9aa1eb-c243-4722-8451-8173ad7018bc", "rel_ix": "P17_228", "pattern_ix": 0}
+{"prompt": "Yoro, which is located in [MASK].", "sub_label": "Yoro", "obj_label": "Honduras", "uuid": "3e9aa1eb-c243-4722-8451-8173ad7018bc", "rel_ix": "P17_228", "pattern_ix": 1}
+{"prompt": "Yoro, located in [MASK].", "sub_label": "Yoro", "obj_label": "Honduras", "uuid": "3e9aa1eb-c243-4722-8451-8173ad7018bc", "rel_ix": "P17_228", "pattern_ix": 2}
+{"prompt": "Beckingen is located in [MASK] .", "sub_label": "Beckingen", "obj_label": "Germany", "uuid": "6cfabf1e-1762-40a7-a9d8-385455a776ad", "rel_ix": "P17_239", "pattern_ix": 0}
+{"prompt": "Beckingen, which is located in [MASK].", "sub_label": "Beckingen", "obj_label": "Germany", "uuid": "6cfabf1e-1762-40a7-a9d8-385455a776ad", "rel_ix": "P17_239", "pattern_ix": 1}
+{"prompt": "Beckingen, located in [MASK].", "sub_label": "Beckingen", "obj_label": "Germany", "uuid": "6cfabf1e-1762-40a7-a9d8-385455a776ad", "rel_ix": "P17_239", "pattern_ix": 2}
+{"prompt": "Japan National Route 47 is located in [MASK] .", "sub_label": "Japan National Route 47", "obj_label": "Japan", "uuid": "f925fa08-d8c0-436d-ad20-27d367cfb3e6", "rel_ix": "P17_240", "pattern_ix": 0}
+{"prompt": "Japan National Route 47, which is located in [MASK].", "sub_label": "Japan National Route 47", "obj_label": "Japan", "uuid": "f925fa08-d8c0-436d-ad20-27d367cfb3e6", "rel_ix": "P17_240", "pattern_ix": 1}
+{"prompt": "Japan National Route 47, located in [MASK].", "sub_label": "Japan National Route 47", "obj_label": "Japan", "uuid": "f925fa08-d8c0-436d-ad20-27d367cfb3e6", "rel_ix": "P17_240", "pattern_ix": 2}
+{"prompt": "Goseck circle is located in [MASK] .", "sub_label": "Goseck circle", "obj_label": "Germany", "uuid": "281831b0-7e4c-4a1f-97ea-cb8426e6a5e2", "rel_ix": "P17_241", "pattern_ix": 0}
+{"prompt": "Goseck circle, which is located in [MASK].", "sub_label": "Goseck circle", "obj_label": "Germany", "uuid": "281831b0-7e4c-4a1f-97ea-cb8426e6a5e2", "rel_ix": "P17_241", "pattern_ix": 1}
+{"prompt": "Goseck circle, located in [MASK].", "sub_label": "Goseck circle", "obj_label": "Germany", "uuid": "281831b0-7e4c-4a1f-97ea-cb8426e6a5e2", "rel_ix": "P17_241", "pattern_ix": 2}
+{"prompt": "Mannheim City Airport is located in [MASK] .", "sub_label": "Mannheim City Airport", "obj_label": "Germany", "uuid": "2278a2d3-2278-4ea4-92fd-462b27beaafe", "rel_ix": "P17_251", "pattern_ix": 0}
+{"prompt": "Mannheim City Airport, which is located in [MASK].", "sub_label": "Mannheim City Airport", "obj_label": "Germany", "uuid": "2278a2d3-2278-4ea4-92fd-462b27beaafe", "rel_ix": "P17_251", "pattern_ix": 1}
+{"prompt": "Mannheim City Airport, located in [MASK].", "sub_label": "Mannheim City Airport", "obj_label": "Germany", "uuid": "2278a2d3-2278-4ea4-92fd-462b27beaafe", "rel_ix": "P17_251", "pattern_ix": 2}
+{"prompt": "Royal Malaysian Navy is located in [MASK] .", "sub_label": "Royal Malaysian Navy", "obj_label": "Malaysia", "uuid": "096a224d-ef29-4ea7-8fb6-6ff938930938", "rel_ix": "P17_255", "pattern_ix": 0}
+{"prompt": "Royal Malaysian Navy, which is located in [MASK].", "sub_label": "Royal Malaysian Navy", "obj_label": "Malaysia", "uuid": "096a224d-ef29-4ea7-8fb6-6ff938930938", "rel_ix": "P17_255", "pattern_ix": 1}
+{"prompt": "Royal Malaysian Navy, located in [MASK].", "sub_label": "Royal Malaysian Navy", "obj_label": "Malaysia", "uuid": "096a224d-ef29-4ea7-8fb6-6ff938930938", "rel_ix": "P17_255", "pattern_ix": 2}
+{"prompt": "Maella is located in [MASK] .", "sub_label": "Maella", "obj_label": "Spain", "uuid": "6f61dfe7-f07e-44ca-b23e-a94879fea332", "rel_ix": "P17_260", "pattern_ix": 0}
+{"prompt": "Maella, which is located in [MASK].", "sub_label": "Maella", "obj_label": "Spain", "uuid": "6f61dfe7-f07e-44ca-b23e-a94879fea332", "rel_ix": "P17_260", "pattern_ix": 1}
+{"prompt": "Maella, located in [MASK].", "sub_label": "Maella", "obj_label": "Spain", "uuid": "6f61dfe7-f07e-44ca-b23e-a94879fea332", "rel_ix": "P17_260", "pattern_ix": 2}
+{"prompt": "Miramichi Centre is located in [MASK] .", "sub_label": "Miramichi Centre", "obj_label": "Canada", "uuid": "c05e9b11-5c8b-49c0-9c4a-0fd7c0df66c5", "rel_ix": "P17_276", "pattern_ix": 0}
+{"prompt": "Miramichi Centre, which is located in [MASK].", "sub_label": "Miramichi Centre", "obj_label": "Canada", "uuid": "c05e9b11-5c8b-49c0-9c4a-0fd7c0df66c5", "rel_ix": "P17_276", "pattern_ix": 1}
+{"prompt": "Miramichi Centre, located in [MASK].", "sub_label": "Miramichi Centre", "obj_label": "Canada", "uuid": "c05e9b11-5c8b-49c0-9c4a-0fd7c0df66c5", "rel_ix": "P17_276", "pattern_ix": 2}
+{"prompt": "Poissy is located in [MASK] .", "sub_label": "Poissy", "obj_label": "France", "uuid": "51da607b-ace6-46fe-b71f-e85274d1649a", "rel_ix": "P17_278", "pattern_ix": 0}
+{"prompt": "Poissy, which is located in [MASK].", "sub_label": "Poissy", "obj_label": "France", "uuid": "51da607b-ace6-46fe-b71f-e85274d1649a", "rel_ix": "P17_278", "pattern_ix": 1}
+{"prompt": "Poissy, located in [MASK].", "sub_label": "Poissy", "obj_label": "France", "uuid": "51da607b-ace6-46fe-b71f-e85274d1649a", "rel_ix": "P17_278", "pattern_ix": 2}
+{"prompt": "Kibungo Province is located in [MASK] .", "sub_label": "Kibungo Province", "obj_label": "Rwanda", "uuid": "db258538-5f4b-4adb-8a06-7623ee1ecf2f", "rel_ix": "P17_285", "pattern_ix": 0}
+{"prompt": "Kibungo Province, which is located in [MASK].", "sub_label": "Kibungo Province", "obj_label": "Rwanda", "uuid": "db258538-5f4b-4adb-8a06-7623ee1ecf2f", "rel_ix": "P17_285", "pattern_ix": 1}
+{"prompt": "Kibungo Province, located in [MASK].", "sub_label": "Kibungo Province", "obj_label": "Rwanda", "uuid": "db258538-5f4b-4adb-8a06-7623ee1ecf2f", "rel_ix": "P17_285", "pattern_ix": 2}
+{"prompt": "Idalium is located in [MASK] .", "sub_label": "Idalium", "obj_label": "Cyprus", "uuid": "68060104-9bdf-4b7a-93e9-dd80da5afffd", "rel_ix": "P17_286", "pattern_ix": 0}
+{"prompt": "Idalium, which is located in [MASK].", "sub_label": "Idalium", "obj_label": "Cyprus", "uuid": "68060104-9bdf-4b7a-93e9-dd80da5afffd", "rel_ix": "P17_286", "pattern_ix": 1}
+{"prompt": "Idalium, located in [MASK].", "sub_label": "Idalium", "obj_label": "Cyprus", "uuid": "68060104-9bdf-4b7a-93e9-dd80da5afffd", "rel_ix": "P17_286", "pattern_ix": 2}
+{"prompt": "Besazio is located in [MASK] .", "sub_label": "Besazio", "obj_label": "Switzerland", "uuid": "3522603a-939a-403c-aa50-5c6f8252081c", "rel_ix": "P17_287", "pattern_ix": 0}
+{"prompt": "Besazio, which is located in [MASK].", "sub_label": "Besazio", "obj_label": "Switzerland", "uuid": "3522603a-939a-403c-aa50-5c6f8252081c", "rel_ix": "P17_287", "pattern_ix": 1}
+{"prompt": "Besazio, located in [MASK].", "sub_label": "Besazio", "obj_label": "Switzerland", "uuid": "3522603a-939a-403c-aa50-5c6f8252081c", "rel_ix": "P17_287", "pattern_ix": 2}
+{"prompt": "Strait of Kerch is located in [MASK] .", "sub_label": "Strait of Kerch", "obj_label": "Russia", "uuid": "bd768ff1-1543-4580-82f9-e3b0a2306a58", "rel_ix": "P17_289", "pattern_ix": 0}
+{"prompt": "Strait of Kerch, which is located in [MASK].", "sub_label": "Strait of Kerch", "obj_label": "Russia", "uuid": "bd768ff1-1543-4580-82f9-e3b0a2306a58", "rel_ix": "P17_289", "pattern_ix": 1}
+{"prompt": "Strait of Kerch, located in [MASK].", "sub_label": "Strait of Kerch", "obj_label": "Russia", "uuid": "bd768ff1-1543-4580-82f9-e3b0a2306a58", "rel_ix": "P17_289", "pattern_ix": 2}
+{"prompt": "JVC Kenwood Victor Entertainment is located in [MASK] .", "sub_label": "JVC Kenwood Victor Entertainment", "obj_label": "Japan", "uuid": "64bfbd1b-ac7c-4177-b61d-ac16a5c59958", "rel_ix": "P17_297", "pattern_ix": 0}
+{"prompt": "JVC Kenwood Victor Entertainment, which is located in [MASK].", "sub_label": "JVC Kenwood Victor Entertainment", "obj_label": "Japan", "uuid": "64bfbd1b-ac7c-4177-b61d-ac16a5c59958", "rel_ix": "P17_297", "pattern_ix": 1}
+{"prompt": "JVC Kenwood Victor Entertainment, located in [MASK].", "sub_label": "JVC Kenwood Victor Entertainment", "obj_label": "Japan", "uuid": "64bfbd1b-ac7c-4177-b61d-ac16a5c59958", "rel_ix": "P17_297", "pattern_ix": 2}
+{"prompt": "Piedecuesta is located in [MASK] .", "sub_label": "Piedecuesta", "obj_label": "Colombia", "uuid": "2edb4527-e003-43b9-adf5-7bcdd31df97c", "rel_ix": "P17_298", "pattern_ix": 0}
+{"prompt": "Piedecuesta, which is located in [MASK].", "sub_label": "Piedecuesta", "obj_label": "Colombia", "uuid": "2edb4527-e003-43b9-adf5-7bcdd31df97c", "rel_ix": "P17_298", "pattern_ix": 1}
+{"prompt": "Piedecuesta, located in [MASK].", "sub_label": "Piedecuesta", "obj_label": "Colombia", "uuid": "2edb4527-e003-43b9-adf5-7bcdd31df97c", "rel_ix": "P17_298", "pattern_ix": 2}
+{"prompt": "VTB Capital is located in [MASK] .", "sub_label": "VTB Capital", "obj_label": "Russia", "uuid": "15d36e0f-cffa-4d5f-9fab-6490aedad807", "rel_ix": "P17_306", "pattern_ix": 0}
+{"prompt": "VTB Capital, which is located in [MASK].", "sub_label": "VTB Capital", "obj_label": "Russia", "uuid": "15d36e0f-cffa-4d5f-9fab-6490aedad807", "rel_ix": "P17_306", "pattern_ix": 1}
+{"prompt": "VTB Capital, located in [MASK].", "sub_label": "VTB Capital", "obj_label": "Russia", "uuid": "15d36e0f-cffa-4d5f-9fab-6490aedad807", "rel_ix": "P17_306", "pattern_ix": 2}
+{"prompt": "Eriksbergs Mekaniska Verkstad is located in [MASK] .", "sub_label": "Eriksbergs Mekaniska Verkstad", "obj_label": "Sweden", "uuid": "26ad0807-cdce-43c9-a16e-fcf3d58c505c", "rel_ix": "P17_310", "pattern_ix": 0}
+{"prompt": "Eriksbergs Mekaniska Verkstad, which is located in [MASK].", "sub_label": "Eriksbergs Mekaniska Verkstad", "obj_label": "Sweden", "uuid": "26ad0807-cdce-43c9-a16e-fcf3d58c505c", "rel_ix": "P17_310", "pattern_ix": 1}
+{"prompt": "Eriksbergs Mekaniska Verkstad, located in [MASK].", "sub_label": "Eriksbergs Mekaniska Verkstad", "obj_label": "Sweden", "uuid": "26ad0807-cdce-43c9-a16e-fcf3d58c505c", "rel_ix": "P17_310", "pattern_ix": 2}
+{"prompt": "Kresttsy is located in [MASK] .", "sub_label": "Kresttsy", "obj_label": "Russia", "uuid": "d18118c6-f125-4048-a601-fe4d387ff81f", "rel_ix": "P17_313", "pattern_ix": 0}
+{"prompt": "Kresttsy, which is located in [MASK].", "sub_label": "Kresttsy", "obj_label": "Russia", "uuid": "d18118c6-f125-4048-a601-fe4d387ff81f", "rel_ix": "P17_313", "pattern_ix": 1}
+{"prompt": "Kresttsy, located in [MASK].", "sub_label": "Kresttsy", "obj_label": "Russia", "uuid": "d18118c6-f125-4048-a601-fe4d387ff81f", "rel_ix": "P17_313", "pattern_ix": 2}
+{"prompt": "Dawa River is located in [MASK] .", "sub_label": "Dawa River", "obj_label": "Somalia", "uuid": "e23745a4-a27c-4bf7-9fdd-2446a6275325", "rel_ix": "P17_318", "pattern_ix": 0}
+{"prompt": "Dawa River, which is located in [MASK].", "sub_label": "Dawa River", "obj_label": "Somalia", "uuid": "e23745a4-a27c-4bf7-9fdd-2446a6275325", "rel_ix": "P17_318", "pattern_ix": 1}
+{"prompt": "Dawa River, located in [MASK].", "sub_label": "Dawa River", "obj_label": "Somalia", "uuid": "e23745a4-a27c-4bf7-9fdd-2446a6275325", "rel_ix": "P17_318", "pattern_ix": 2}
+{"prompt": "Plougonven is located in [MASK] .", "sub_label": "Plougonven", "obj_label": "France", "uuid": "77d71fbd-d658-4c14-8217-70ae15387756", "rel_ix": "P17_327", "pattern_ix": 0}
+{"prompt": "Plougonven, which is located in [MASK].", "sub_label": "Plougonven", "obj_label": "France", "uuid": "77d71fbd-d658-4c14-8217-70ae15387756", "rel_ix": "P17_327", "pattern_ix": 1}
+{"prompt": "Plougonven, located in [MASK].", "sub_label": "Plougonven", "obj_label": "France", "uuid": "77d71fbd-d658-4c14-8217-70ae15387756", "rel_ix": "P17_327", "pattern_ix": 2}
+{"prompt": "Narman is located in [MASK] .", "sub_label": "Narman", "obj_label": "Turkey", "uuid": "b4d3e315-94e2-4a4b-8424-9bf3f0a3ff75", "rel_ix": "P17_329", "pattern_ix": 0}
+{"prompt": "Narman, which is located in [MASK].", "sub_label": "Narman", "obj_label": "Turkey", "uuid": "b4d3e315-94e2-4a4b-8424-9bf3f0a3ff75", "rel_ix": "P17_329", "pattern_ix": 1}
+{"prompt": "Narman, located in [MASK].", "sub_label": "Narman", "obj_label": "Turkey", "uuid": "b4d3e315-94e2-4a4b-8424-9bf3f0a3ff75", "rel_ix": "P17_329", "pattern_ix": 2}
+{"prompt": "Wazzin is located in [MASK] .", "sub_label": "Wazzin", "obj_label": "Libya", "uuid": "2ae4069a-dcf7-4abe-bb4a-aafa69f19f18", "rel_ix": "P17_340", "pattern_ix": 0}
+{"prompt": "Wazzin, which is located in [MASK].", "sub_label": "Wazzin", "obj_label": "Libya", "uuid": "2ae4069a-dcf7-4abe-bb4a-aafa69f19f18", "rel_ix": "P17_340", "pattern_ix": 1}
+{"prompt": "Wazzin, located in [MASK].", "sub_label": "Wazzin", "obj_label": "Libya", "uuid": "2ae4069a-dcf7-4abe-bb4a-aafa69f19f18", "rel_ix": "P17_340", "pattern_ix": 2}
+{"prompt": "County Carlow is located in [MASK] .", "sub_label": "County Carlow", "obj_label": "Ireland", "uuid": "60e7afab-cc0a-4ca1-a314-412bca4a0d30", "rel_ix": "P17_344", "pattern_ix": 0}
+{"prompt": "County Carlow, which is located in [MASK].", "sub_label": "County Carlow", "obj_label": "Ireland", "uuid": "60e7afab-cc0a-4ca1-a314-412bca4a0d30", "rel_ix": "P17_344", "pattern_ix": 1}
+{"prompt": "County Carlow, located in [MASK].", "sub_label": "County Carlow", "obj_label": "Ireland", "uuid": "60e7afab-cc0a-4ca1-a314-412bca4a0d30", "rel_ix": "P17_344", "pattern_ix": 2}
+{"prompt": "Milltown Institute of Theology and Philosophy is located in [MASK] .", "sub_label": "Milltown Institute of Theology and Philosophy", "obj_label": "Ireland", "uuid": "6b1c94bd-a50e-43d7-aef7-46df54865755", "rel_ix": "P17_346", "pattern_ix": 0}
+{"prompt": "Milltown Institute of Theology and Philosophy, which is located in [MASK].", "sub_label": "Milltown Institute of Theology and Philosophy", "obj_label": "Ireland", "uuid": "6b1c94bd-a50e-43d7-aef7-46df54865755", "rel_ix": "P17_346", "pattern_ix": 1}
+{"prompt": "Milltown Institute of Theology and Philosophy, located in [MASK].", "sub_label": "Milltown Institute of Theology and Philosophy", "obj_label": "Ireland", "uuid": "6b1c94bd-a50e-43d7-aef7-46df54865755", "rel_ix": "P17_346", "pattern_ix": 2}
+{"prompt": "Western Finland Province is located in [MASK] .", "sub_label": "Western Finland Province", "obj_label": "Finland", "uuid": "c3bd923b-c2a6-4080-8252-67ec7900a4ef", "rel_ix": "P17_347", "pattern_ix": 0}
+{"prompt": "Western Finland Province, which is located in [MASK].", "sub_label": "Western Finland Province", "obj_label": "Finland", "uuid": "c3bd923b-c2a6-4080-8252-67ec7900a4ef", "rel_ix": "P17_347", "pattern_ix": 1}
+{"prompt": "Western Finland Province, located in [MASK].", "sub_label": "Western Finland Province", "obj_label": "Finland", "uuid": "c3bd923b-c2a6-4080-8252-67ec7900a4ef", "rel_ix": "P17_347", "pattern_ix": 2}
+{"prompt": "Autonomous University of Madrid is located in [MASK] .", "sub_label": "Autonomous University of Madrid", "obj_label": "Spain", "uuid": "8fe32aeb-45a3-40c3-8d96-66673a2d6df2", "rel_ix": "P17_348", "pattern_ix": 0}
+{"prompt": "Autonomous University of Madrid, which is located in [MASK].", "sub_label": "Autonomous University of Madrid", "obj_label": "Spain", "uuid": "8fe32aeb-45a3-40c3-8d96-66673a2d6df2", "rel_ix": "P17_348", "pattern_ix": 1}
+{"prompt": "Autonomous University of Madrid, located in [MASK].", "sub_label": "Autonomous University of Madrid", "obj_label": "Spain", "uuid": "8fe32aeb-45a3-40c3-8d96-66673a2d6df2", "rel_ix": "P17_348", "pattern_ix": 2}
+{"prompt": "Bernheze is located in [MASK] .", "sub_label": "Bernheze", "obj_label": "Netherlands", "uuid": "25b12ffb-3ef0-488c-9866-d857640890fa", "rel_ix": "P17_349", "pattern_ix": 0}
+{"prompt": "Bernheze, which is located in [MASK].", "sub_label": "Bernheze", "obj_label": "Netherlands", "uuid": "25b12ffb-3ef0-488c-9866-d857640890fa", "rel_ix": "P17_349", "pattern_ix": 1}
+{"prompt": "Bernheze, located in [MASK].", "sub_label": "Bernheze", "obj_label": "Netherlands", "uuid": "25b12ffb-3ef0-488c-9866-d857640890fa", "rel_ix": "P17_349", "pattern_ix": 2}
+{"prompt": "Alte Nationalgalerie is located in [MASK] .", "sub_label": "Alte Nationalgalerie", "obj_label": "Germany", "uuid": "c96e119d-73d9-4f57-a66c-1b7c1b19132b", "rel_ix": "P17_355", "pattern_ix": 0}
+{"prompt": "Alte Nationalgalerie, which is located in [MASK].", "sub_label": "Alte Nationalgalerie", "obj_label": "Germany", "uuid": "c96e119d-73d9-4f57-a66c-1b7c1b19132b", "rel_ix": "P17_355", "pattern_ix": 1}
+{"prompt": "Alte Nationalgalerie, located in [MASK].", "sub_label": "Alte Nationalgalerie", "obj_label": "Germany", "uuid": "c96e119d-73d9-4f57-a66c-1b7c1b19132b", "rel_ix": "P17_355", "pattern_ix": 2}
+{"prompt": "Buraswa is located in [MASK] .", "sub_label": "Buraswa", "obj_label": "India", "uuid": "da4ba902-8a8f-4ff8-9dc3-d7947d4f1bfe", "rel_ix": "P17_360", "pattern_ix": 0}
+{"prompt": "Buraswa, which is located in [MASK].", "sub_label": "Buraswa", "obj_label": "India", "uuid": "da4ba902-8a8f-4ff8-9dc3-d7947d4f1bfe", "rel_ix": "P17_360", "pattern_ix": 1}
+{"prompt": "Buraswa, located in [MASK].", "sub_label": "Buraswa", "obj_label": "India", "uuid": "da4ba902-8a8f-4ff8-9dc3-d7947d4f1bfe", "rel_ix": "P17_360", "pattern_ix": 2}
+{"prompt": "Tukvar Tea Estate is located in [MASK] .", "sub_label": "Tukvar Tea Estate", "obj_label": "India", "uuid": "abb528f1-5031-44a7-b929-7a3074f79c9f", "rel_ix": "P17_362", "pattern_ix": 0}
+{"prompt": "Tukvar Tea Estate, which is located in [MASK].", "sub_label": "Tukvar Tea Estate", "obj_label": "India", "uuid": "abb528f1-5031-44a7-b929-7a3074f79c9f", "rel_ix": "P17_362", "pattern_ix": 1}
+{"prompt": "Tukvar Tea Estate, located in [MASK].", "sub_label": "Tukvar Tea Estate", "obj_label": "India", "uuid": "abb528f1-5031-44a7-b929-7a3074f79c9f", "rel_ix": "P17_362", "pattern_ix": 2}
+{"prompt": "Skinnamarink TV is located in [MASK] .", "sub_label": "Skinnamarink TV", "obj_label": "Canada", "uuid": "f54dea31-60fc-4a53-b5e7-d3fc41562c05", "rel_ix": "P17_363", "pattern_ix": 0}
+{"prompt": "Skinnamarink TV, which is located in [MASK].", "sub_label": "Skinnamarink TV", "obj_label": "Canada", "uuid": "f54dea31-60fc-4a53-b5e7-d3fc41562c05", "rel_ix": "P17_363", "pattern_ix": 1}
+{"prompt": "Skinnamarink TV, located in [MASK].", "sub_label": "Skinnamarink TV", "obj_label": "Canada", "uuid": "f54dea31-60fc-4a53-b5e7-d3fc41562c05", "rel_ix": "P17_363", "pattern_ix": 2}
+{"prompt": "Sabburah Subdistrict is located in [MASK] .", "sub_label": "Sabburah Subdistrict", "obj_label": "Syria", "uuid": "c8189ead-b86b-4ebe-b834-ba20eae36543", "rel_ix": "P17_364", "pattern_ix": 0}
+{"prompt": "Sabburah Subdistrict, which is located in [MASK].", "sub_label": "Sabburah Subdistrict", "obj_label": "Syria", "uuid": "c8189ead-b86b-4ebe-b834-ba20eae36543", "rel_ix": "P17_364", "pattern_ix": 1}
+{"prompt": "Sabburah Subdistrict, located in [MASK].", "sub_label": "Sabburah Subdistrict", "obj_label": "Syria", "uuid": "c8189ead-b86b-4ebe-b834-ba20eae36543", "rel_ix": "P17_364", "pattern_ix": 2}
+{"prompt": "Hooge Crater Commonwealth War Graves Commission Cemetery is located in [MASK] .", "sub_label": "Hooge Crater Commonwealth War Graves Commission Cemetery", "obj_label": "Belgium", "uuid": "02429763-c7a4-48f6-97e8-ac83d62a394c", "rel_ix": "P17_377", "pattern_ix": 0}
+{"prompt": "Hooge Crater Commonwealth War Graves Commission Cemetery, which is located in [MASK].", "sub_label": "Hooge Crater Commonwealth War Graves Commission Cemetery", "obj_label": "Belgium", "uuid": "02429763-c7a4-48f6-97e8-ac83d62a394c", "rel_ix": "P17_377", "pattern_ix": 1}
+{"prompt": "Hooge Crater Commonwealth War Graves Commission Cemetery, located in [MASK].", "sub_label": "Hooge Crater Commonwealth War Graves Commission Cemetery", "obj_label": "Belgium", "uuid": "02429763-c7a4-48f6-97e8-ac83d62a394c", "rel_ix": "P17_377", "pattern_ix": 2}
+{"prompt": "Ustevatn is located in [MASK] .", "sub_label": "Ustevatn", "obj_label": "Norway", "uuid": "468570f3-1715-4510-aa7c-049068fb2124", "rel_ix": "P17_392", "pattern_ix": 0}
+{"prompt": "Ustevatn, which is located in [MASK].", "sub_label": "Ustevatn", "obj_label": "Norway", "uuid": "468570f3-1715-4510-aa7c-049068fb2124", "rel_ix": "P17_392", "pattern_ix": 1}
+{"prompt": "Ustevatn, located in [MASK].", "sub_label": "Ustevatn", "obj_label": "Norway", "uuid": "468570f3-1715-4510-aa7c-049068fb2124", "rel_ix": "P17_392", "pattern_ix": 2}
+{"prompt": "Imsland is located in [MASK] .", "sub_label": "Imsland", "obj_label": "Norway", "uuid": "72d92901-3091-4e19-b34f-21fb5b9e100a", "rel_ix": "P17_395", "pattern_ix": 0}
+{"prompt": "Imsland, which is located in [MASK].", "sub_label": "Imsland", "obj_label": "Norway", "uuid": "72d92901-3091-4e19-b34f-21fb5b9e100a", "rel_ix": "P17_395", "pattern_ix": 1}
+{"prompt": "Imsland, located in [MASK].", "sub_label": "Imsland", "obj_label": "Norway", "uuid": "72d92901-3091-4e19-b34f-21fb5b9e100a", "rel_ix": "P17_395", "pattern_ix": 2}
+{"prompt": "Sarpsborg 08 FF is located in [MASK] .", "sub_label": "Sarpsborg 08 FF", "obj_label": "Norway", "uuid": "64a9e612-8410-4e94-9209-e7c6c7c773ac", "rel_ix": "P17_401", "pattern_ix": 0}
+{"prompt": "Sarpsborg 08 FF, which is located in [MASK].", "sub_label": "Sarpsborg 08 FF", "obj_label": "Norway", "uuid": "64a9e612-8410-4e94-9209-e7c6c7c773ac", "rel_ix": "P17_401", "pattern_ix": 1}
+{"prompt": "Sarpsborg 08 FF, located in [MASK].", "sub_label": "Sarpsborg 08 FF", "obj_label": "Norway", "uuid": "64a9e612-8410-4e94-9209-e7c6c7c773ac", "rel_ix": "P17_401", "pattern_ix": 2}
+{"prompt": "Ginza is located in [MASK] .", "sub_label": "Ginza", "obj_label": "Japan", "uuid": "9b67ec74-8ff0-4209-a716-c947e6d91864", "rel_ix": "P17_407", "pattern_ix": 0}
+{"prompt": "Ginza, which is located in [MASK].", "sub_label": "Ginza", "obj_label": "Japan", "uuid": "9b67ec74-8ff0-4209-a716-c947e6d91864", "rel_ix": "P17_407", "pattern_ix": 1}
+{"prompt": "Ginza, located in [MASK].", "sub_label": "Ginza", "obj_label": "Japan", "uuid": "9b67ec74-8ff0-4209-a716-c947e6d91864", "rel_ix": "P17_407", "pattern_ix": 2}
+{"prompt": "Buchans is located in [MASK] .", "sub_label": "Buchans", "obj_label": "Canada", "uuid": "1b2c6d0c-9008-4a95-81cd-c36f47d4d930", "rel_ix": "P17_410", "pattern_ix": 0}
+{"prompt": "Buchans, which is located in [MASK].", "sub_label": "Buchans", "obj_label": "Canada", "uuid": "1b2c6d0c-9008-4a95-81cd-c36f47d4d930", "rel_ix": "P17_410", "pattern_ix": 1}
+{"prompt": "Buchans, located in [MASK].", "sub_label": "Buchans", "obj_label": "Canada", "uuid": "1b2c6d0c-9008-4a95-81cd-c36f47d4d930", "rel_ix": "P17_410", "pattern_ix": 2}
+{"prompt": "Valea lui Mihai is located in [MASK] .", "sub_label": "Valea lui Mihai", "obj_label": "Romania", "uuid": "0c1449f0-0f67-46a4-bbd8-ce22bccc578a", "rel_ix": "P17_416", "pattern_ix": 0}
+{"prompt": "Valea lui Mihai, which is located in [MASK].", "sub_label": "Valea lui Mihai", "obj_label": "Romania", "uuid": "0c1449f0-0f67-46a4-bbd8-ce22bccc578a", "rel_ix": "P17_416", "pattern_ix": 1}
+{"prompt": "Valea lui Mihai, located in [MASK].", "sub_label": "Valea lui Mihai", "obj_label": "Romania", "uuid": "0c1449f0-0f67-46a4-bbd8-ce22bccc578a", "rel_ix": "P17_416", "pattern_ix": 2}
+{"prompt": "Tehri Garhwal district is located in [MASK] .", "sub_label": "Tehri Garhwal district", "obj_label": "India", "uuid": "40614bfa-f8d4-437f-a64c-7726e2abbdec", "rel_ix": "P17_423", "pattern_ix": 0}
+{"prompt": "Tehri Garhwal district, which is located in [MASK].", "sub_label": "Tehri Garhwal district", "obj_label": "India", "uuid": "40614bfa-f8d4-437f-a64c-7726e2abbdec", "rel_ix": "P17_423", "pattern_ix": 1}
+{"prompt": "Tehri Garhwal district, located in [MASK].", "sub_label": "Tehri Garhwal district", "obj_label": "India", "uuid": "40614bfa-f8d4-437f-a64c-7726e2abbdec", "rel_ix": "P17_423", "pattern_ix": 2}
+{"prompt": "Virgin Classics is located in [MASK] .", "sub_label": "Virgin Classics", "obj_label": "France", "uuid": "1f8586db-62a6-4c5f-85ad-64e9321d3d5f", "rel_ix": "P17_428", "pattern_ix": 0}
+{"prompt": "Virgin Classics, which is located in [MASK].", "sub_label": "Virgin Classics", "obj_label": "France", "uuid": "1f8586db-62a6-4c5f-85ad-64e9321d3d5f", "rel_ix": "P17_428", "pattern_ix": 1}
+{"prompt": "Virgin Classics, located in [MASK].", "sub_label": "Virgin Classics", "obj_label": "France", "uuid": "1f8586db-62a6-4c5f-85ad-64e9321d3d5f", "rel_ix": "P17_428", "pattern_ix": 2}
+{"prompt": "Fukuno, Toyama is located in [MASK] .", "sub_label": "Fukuno, Toyama", "obj_label": "Japan", "uuid": "afb27750-ecf2-4440-ab5e-0abd21de3437", "rel_ix": "P17_434", "pattern_ix": 0}
+{"prompt": "Fukuno, Toyama, which is located in [MASK].", "sub_label": "Fukuno, Toyama", "obj_label": "Japan", "uuid": "afb27750-ecf2-4440-ab5e-0abd21de3437", "rel_ix": "P17_434", "pattern_ix": 1}
+{"prompt": "Fukuno, Toyama, located in [MASK].", "sub_label": "Fukuno, Toyama", "obj_label": "Japan", "uuid": "afb27750-ecf2-4440-ab5e-0abd21de3437", "rel_ix": "P17_434", "pattern_ix": 2}
+{"prompt": "Danish Sign Language is located in [MASK] .", "sub_label": "Danish Sign Language", "obj_label": "Denmark", "uuid": "5e65c98f-56ec-4f8d-940b-293ad164b1b1", "rel_ix": "P17_441", "pattern_ix": 0}
+{"prompt": "Danish Sign Language, which is located in [MASK].", "sub_label": "Danish Sign Language", "obj_label": "Denmark", "uuid": "5e65c98f-56ec-4f8d-940b-293ad164b1b1", "rel_ix": "P17_441", "pattern_ix": 1}
+{"prompt": "Danish Sign Language, located in [MASK].", "sub_label": "Danish Sign Language", "obj_label": "Denmark", "uuid": "5e65c98f-56ec-4f8d-940b-293ad164b1b1", "rel_ix": "P17_441", "pattern_ix": 2}
+{"prompt": "Sardent is located in [MASK] .", "sub_label": "Sardent", "obj_label": "France", "uuid": "7c040817-75b1-40cf-a699-636e69e9a801", "rel_ix": "P17_444", "pattern_ix": 0}
+{"prompt": "Sardent, which is located in [MASK].", "sub_label": "Sardent", "obj_label": "France", "uuid": "7c040817-75b1-40cf-a699-636e69e9a801", "rel_ix": "P17_444", "pattern_ix": 1}
+{"prompt": "Sardent, located in [MASK].", "sub_label": "Sardent", "obj_label": "France", "uuid": "7c040817-75b1-40cf-a699-636e69e9a801", "rel_ix": "P17_444", "pattern_ix": 2}
+{"prompt": "Bilecik Province is located in [MASK] .", "sub_label": "Bilecik Province", "obj_label": "Turkey", "uuid": "47bd9872-6ae4-46a8-a6c9-f98abffa32fe", "rel_ix": "P17_447", "pattern_ix": 0}
+{"prompt": "Bilecik Province, which is located in [MASK].", "sub_label": "Bilecik Province", "obj_label": "Turkey", "uuid": "47bd9872-6ae4-46a8-a6c9-f98abffa32fe", "rel_ix": "P17_447", "pattern_ix": 1}
+{"prompt": "Bilecik Province, located in [MASK].", "sub_label": "Bilecik Province", "obj_label": "Turkey", "uuid": "47bd9872-6ae4-46a8-a6c9-f98abffa32fe", "rel_ix": "P17_447", "pattern_ix": 2}
+{"prompt": "Wabush Airport is located in [MASK] .", "sub_label": "Wabush Airport", "obj_label": "Canada", "uuid": "a5cc6a87-b10e-4ea6-a926-cb9980d8eba9", "rel_ix": "P17_449", "pattern_ix": 0}
+{"prompt": "Wabush Airport, which is located in [MASK].", "sub_label": "Wabush Airport", "obj_label": "Canada", "uuid": "a5cc6a87-b10e-4ea6-a926-cb9980d8eba9", "rel_ix": "P17_449", "pattern_ix": 1}
+{"prompt": "Wabush Airport, located in [MASK].", "sub_label": "Wabush Airport", "obj_label": "Canada", "uuid": "a5cc6a87-b10e-4ea6-a926-cb9980d8eba9", "rel_ix": "P17_449", "pattern_ix": 2}
+{"prompt": "La Ribera Baixa is located in [MASK] .", "sub_label": "La Ribera Baixa", "obj_label": "Spain", "uuid": "8b028883-138b-424d-a0ec-3c9e5ff65598", "rel_ix": "P17_451", "pattern_ix": 0}
+{"prompt": "La Ribera Baixa, which is located in [MASK].", "sub_label": "La Ribera Baixa", "obj_label": "Spain", "uuid": "8b028883-138b-424d-a0ec-3c9e5ff65598", "rel_ix": "P17_451", "pattern_ix": 1}
+{"prompt": "La Ribera Baixa, located in [MASK].", "sub_label": "La Ribera Baixa", "obj_label": "Spain", "uuid": "8b028883-138b-424d-a0ec-3c9e5ff65598", "rel_ix": "P17_451", "pattern_ix": 2}
+{"prompt": "Tsuno District, Yamaguchi is located in [MASK] .", "sub_label": "Tsuno District, Yamaguchi", "obj_label": "Japan", "uuid": "a56517c2-4f0b-48b1-ae62-c3207f9f2489", "rel_ix": "P17_455", "pattern_ix": 0}
+{"prompt": "Tsuno District, Yamaguchi, which is located in [MASK].", "sub_label": "Tsuno District, Yamaguchi", "obj_label": "Japan", "uuid": "a56517c2-4f0b-48b1-ae62-c3207f9f2489", "rel_ix": "P17_455", "pattern_ix": 1}
+{"prompt": "Tsuno District, Yamaguchi, located in [MASK].", "sub_label": "Tsuno District, Yamaguchi", "obj_label": "Japan", "uuid": "a56517c2-4f0b-48b1-ae62-c3207f9f2489", "rel_ix": "P17_455", "pattern_ix": 2}
+{"prompt": "Knight Inlet is located in [MASK] .", "sub_label": "Knight Inlet", "obj_label": "Canada", "uuid": "38e9f1b8-e0ce-4492-a6a4-d2bd34552770", "rel_ix": "P17_461", "pattern_ix": 0}
+{"prompt": "Knight Inlet, which is located in [MASK].", "sub_label": "Knight Inlet", "obj_label": "Canada", "uuid": "38e9f1b8-e0ce-4492-a6a4-d2bd34552770", "rel_ix": "P17_461", "pattern_ix": 1}
+{"prompt": "Knight Inlet, located in [MASK].", "sub_label": "Knight Inlet", "obj_label": "Canada", "uuid": "38e9f1b8-e0ce-4492-a6a4-d2bd34552770", "rel_ix": "P17_461", "pattern_ix": 2}
+{"prompt": "Manyakheta is located in [MASK] .", "sub_label": "Manyakheta", "obj_label": "India", "uuid": "984ecc55-474f-4ab5-a6ea-80d43b72aa36", "rel_ix": "P17_464", "pattern_ix": 0}
+{"prompt": "Manyakheta, which is located in [MASK].", "sub_label": "Manyakheta", "obj_label": "India", "uuid": "984ecc55-474f-4ab5-a6ea-80d43b72aa36", "rel_ix": "P17_464", "pattern_ix": 1}
+{"prompt": "Manyakheta, located in [MASK].", "sub_label": "Manyakheta", "obj_label": "India", "uuid": "984ecc55-474f-4ab5-a6ea-80d43b72aa36", "rel_ix": "P17_464", "pattern_ix": 2}
+{"prompt": "Munich Residence is located in [MASK] .", "sub_label": "Munich Residence", "obj_label": "Germany", "uuid": "5e99180f-1917-4da8-9acd-3cc7a711a35c", "rel_ix": "P17_477", "pattern_ix": 0}
+{"prompt": "Munich Residence, which is located in [MASK].", "sub_label": "Munich Residence", "obj_label": "Germany", "uuid": "5e99180f-1917-4da8-9acd-3cc7a711a35c", "rel_ix": "P17_477", "pattern_ix": 1}
+{"prompt": "Munich Residence, located in [MASK].", "sub_label": "Munich Residence", "obj_label": "Germany", "uuid": "5e99180f-1917-4da8-9acd-3cc7a711a35c", "rel_ix": "P17_477", "pattern_ix": 2}
+{"prompt": "Shoranur is located in [MASK] .", "sub_label": "Shoranur", "obj_label": "India", "uuid": "f7093495-d9a6-4380-be1b-f152fc61c726", "rel_ix": "P17_478", "pattern_ix": 0}
+{"prompt": "Shoranur, which is located in [MASK].", "sub_label": "Shoranur", "obj_label": "India", "uuid": "f7093495-d9a6-4380-be1b-f152fc61c726", "rel_ix": "P17_478", "pattern_ix": 1}
+{"prompt": "Shoranur, located in [MASK].", "sub_label": "Shoranur", "obj_label": "India", "uuid": "f7093495-d9a6-4380-be1b-f152fc61c726", "rel_ix": "P17_478", "pattern_ix": 2}
+{"prompt": "Gmina Dziemiany is located in [MASK] .", "sub_label": "Gmina Dziemiany", "obj_label": "Poland", "uuid": "8b3f37fa-2948-4548-bbf2-025e6bd06fa5", "rel_ix": "P17_480", "pattern_ix": 0}
+{"prompt": "Gmina Dziemiany, which is located in [MASK].", "sub_label": "Gmina Dziemiany", "obj_label": "Poland", "uuid": "8b3f37fa-2948-4548-bbf2-025e6bd06fa5", "rel_ix": "P17_480", "pattern_ix": 1}
+{"prompt": "Gmina Dziemiany, located in [MASK].", "sub_label": "Gmina Dziemiany", "obj_label": "Poland", "uuid": "8b3f37fa-2948-4548-bbf2-025e6bd06fa5", "rel_ix": "P17_480", "pattern_ix": 2}
+{"prompt": "Blackrock Castle is located in [MASK] .", "sub_label": "Blackrock Castle", "obj_label": "Ireland", "uuid": "f536d72d-7f99-480f-b603-2a85a909252b", "rel_ix": "P17_486", "pattern_ix": 0}
+{"prompt": "Blackrock Castle, which is located in [MASK].", "sub_label": "Blackrock Castle", "obj_label": "Ireland", "uuid": "f536d72d-7f99-480f-b603-2a85a909252b", "rel_ix": "P17_486", "pattern_ix": 1}
+{"prompt": "Blackrock Castle, located in [MASK].", "sub_label": "Blackrock Castle", "obj_label": "Ireland", "uuid": "f536d72d-7f99-480f-b603-2a85a909252b", "rel_ix": "P17_486", "pattern_ix": 2}
+{"prompt": "Instituto Pedro Nunes is located in [MASK] .", "sub_label": "Instituto Pedro Nunes", "obj_label": "Portugal", "uuid": "59830a32-6585-41fb-a1ad-4380c151beb8", "rel_ix": "P17_487", "pattern_ix": 0}
+{"prompt": "Instituto Pedro Nunes, which is located in [MASK].", "sub_label": "Instituto Pedro Nunes", "obj_label": "Portugal", "uuid": "59830a32-6585-41fb-a1ad-4380c151beb8", "rel_ix": "P17_487", "pattern_ix": 1}
+{"prompt": "Instituto Pedro Nunes, located in [MASK].", "sub_label": "Instituto Pedro Nunes", "obj_label": "Portugal", "uuid": "59830a32-6585-41fb-a1ad-4380c151beb8", "rel_ix": "P17_487", "pattern_ix": 2}
+{"prompt": "Ikuno-ku is located in [MASK] .", "sub_label": "Ikuno-ku", "obj_label": "Japan", "uuid": "b40b7553-7fd7-4a00-9f5b-c2ce216a69da", "rel_ix": "P17_494", "pattern_ix": 0}
+{"prompt": "Ikuno-ku, which is located in [MASK].", "sub_label": "Ikuno-ku", "obj_label": "Japan", "uuid": "b40b7553-7fd7-4a00-9f5b-c2ce216a69da", "rel_ix": "P17_494", "pattern_ix": 1}
+{"prompt": "Ikuno-ku, located in [MASK].", "sub_label": "Ikuno-ku", "obj_label": "Japan", "uuid": "b40b7553-7fd7-4a00-9f5b-c2ce216a69da", "rel_ix": "P17_494", "pattern_ix": 2}
+{"prompt": "Zulia is located in [MASK] .", "sub_label": "Zulia", "obj_label": "Venezuela", "uuid": "816e1acb-11a2-47da-898e-ef2dde7d175a", "rel_ix": "P17_512", "pattern_ix": 0}
+{"prompt": "Zulia, which is located in [MASK].", "sub_label": "Zulia", "obj_label": "Venezuela", "uuid": "816e1acb-11a2-47da-898e-ef2dde7d175a", "rel_ix": "P17_512", "pattern_ix": 1}
+{"prompt": "Zulia, located in [MASK].", "sub_label": "Zulia", "obj_label": "Venezuela", "uuid": "816e1acb-11a2-47da-898e-ef2dde7d175a", "rel_ix": "P17_512", "pattern_ix": 2}
+{"prompt": "Adliswil is located in [MASK] .", "sub_label": "Adliswil", "obj_label": "Switzerland", "uuid": "148f32ac-64f5-452a-b83d-ac2d01cb3966", "rel_ix": "P17_518", "pattern_ix": 0}
+{"prompt": "Adliswil, which is located in [MASK].", "sub_label": "Adliswil", "obj_label": "Switzerland", "uuid": "148f32ac-64f5-452a-b83d-ac2d01cb3966", "rel_ix": "P17_518", "pattern_ix": 1}
+{"prompt": "Adliswil, located in [MASK].", "sub_label": "Adliswil", "obj_label": "Switzerland", "uuid": "148f32ac-64f5-452a-b83d-ac2d01cb3966", "rel_ix": "P17_518", "pattern_ix": 2}
+{"prompt": "Penna Ahobilam is located in [MASK] .", "sub_label": "Penna Ahobilam", "obj_label": "India", "uuid": "5c4bdda7-883a-4b98-8db3-6b5428e623cd", "rel_ix": "P17_519", "pattern_ix": 0}
+{"prompt": "Penna Ahobilam, which is located in [MASK].", "sub_label": "Penna Ahobilam", "obj_label": "India", "uuid": "5c4bdda7-883a-4b98-8db3-6b5428e623cd", "rel_ix": "P17_519", "pattern_ix": 1}
+{"prompt": "Penna Ahobilam, located in [MASK].", "sub_label": "Penna Ahobilam", "obj_label": "India", "uuid": "5c4bdda7-883a-4b98-8db3-6b5428e623cd", "rel_ix": "P17_519", "pattern_ix": 2}
+{"prompt": "Halton County, Ontario is located in [MASK] .", "sub_label": "Halton County, Ontario", "obj_label": "Canada", "uuid": "d9edaa71-2b2f-40e2-a84e-3ac43f4098b0", "rel_ix": "P17_521", "pattern_ix": 0}
+{"prompt": "Halton County, Ontario, which is located in [MASK].", "sub_label": "Halton County, Ontario", "obj_label": "Canada", "uuid": "d9edaa71-2b2f-40e2-a84e-3ac43f4098b0", "rel_ix": "P17_521", "pattern_ix": 1}
+{"prompt": "Halton County, Ontario, located in [MASK].", "sub_label": "Halton County, Ontario", "obj_label": "Canada", "uuid": "d9edaa71-2b2f-40e2-a84e-3ac43f4098b0", "rel_ix": "P17_521", "pattern_ix": 2}
+{"prompt": "Central Black Forest is located in [MASK] .", "sub_label": "Central Black Forest", "obj_label": "Germany", "uuid": "b511e64a-0c02-4357-a64d-8d188aecf7fe", "rel_ix": "P17_531", "pattern_ix": 0}
+{"prompt": "Central Black Forest, which is located in [MASK].", "sub_label": "Central Black Forest", "obj_label": "Germany", "uuid": "b511e64a-0c02-4357-a64d-8d188aecf7fe", "rel_ix": "P17_531", "pattern_ix": 1}
+{"prompt": "Central Black Forest, located in [MASK].", "sub_label": "Central Black Forest", "obj_label": "Germany", "uuid": "b511e64a-0c02-4357-a64d-8d188aecf7fe", "rel_ix": "P17_531", "pattern_ix": 2}
+{"prompt": "Cultural Center of the Philippines is located in [MASK] .", "sub_label": "Cultural Center of the Philippines", "obj_label": "Philippines", "uuid": "d871dbb1-123d-4147-a731-1d24cb5789fe", "rel_ix": "P17_532", "pattern_ix": 0}
+{"prompt": "Cultural Center of the Philippines, which is located in [MASK].", "sub_label": "Cultural Center of the Philippines", "obj_label": "Philippines", "uuid": "d871dbb1-123d-4147-a731-1d24cb5789fe", "rel_ix": "P17_532", "pattern_ix": 1}
+{"prompt": "Cultural Center of the Philippines, located in [MASK].", "sub_label": "Cultural Center of the Philippines", "obj_label": "Philippines", "uuid": "d871dbb1-123d-4147-a731-1d24cb5789fe", "rel_ix": "P17_532", "pattern_ix": 2}
+{"prompt": "Garibaldi Ranges is located in [MASK] .", "sub_label": "Garibaldi Ranges", "obj_label": "Canada", "uuid": "67e632ab-a14f-4983-8dad-ac19f1103eeb", "rel_ix": "P17_537", "pattern_ix": 0}
+{"prompt": "Garibaldi Ranges, which is located in [MASK].", "sub_label": "Garibaldi Ranges", "obj_label": "Canada", "uuid": "67e632ab-a14f-4983-8dad-ac19f1103eeb", "rel_ix": "P17_537", "pattern_ix": 1}
+{"prompt": "Garibaldi Ranges, located in [MASK].", "sub_label": "Garibaldi Ranges", "obj_label": "Canada", "uuid": "67e632ab-a14f-4983-8dad-ac19f1103eeb", "rel_ix": "P17_537", "pattern_ix": 2}
+{"prompt": "Montreal Centre is located in [MASK] .", "sub_label": "Montreal Centre", "obj_label": "Canada", "uuid": "f56e9900-7d34-4570-8025-1cedba579184", "rel_ix": "P17_538", "pattern_ix": 0}
+{"prompt": "Montreal Centre, which is located in [MASK].", "sub_label": "Montreal Centre", "obj_label": "Canada", "uuid": "f56e9900-7d34-4570-8025-1cedba579184", "rel_ix": "P17_538", "pattern_ix": 1}
+{"prompt": "Montreal Centre, located in [MASK].", "sub_label": "Montreal Centre", "obj_label": "Canada", "uuid": "f56e9900-7d34-4570-8025-1cedba579184", "rel_ix": "P17_538", "pattern_ix": 2}
+{"prompt": "Club Aurora is located in [MASK] .", "sub_label": "Club Aurora", "obj_label": "Bolivia", "uuid": "b0c2ee12-120f-44ef-ac78-59a2f007eb41", "rel_ix": "P17_540", "pattern_ix": 0}
+{"prompt": "Club Aurora, which is located in [MASK].", "sub_label": "Club Aurora", "obj_label": "Bolivia", "uuid": "b0c2ee12-120f-44ef-ac78-59a2f007eb41", "rel_ix": "P17_540", "pattern_ix": 1}
+{"prompt": "Club Aurora, located in [MASK].", "sub_label": "Club Aurora", "obj_label": "Bolivia", "uuid": "b0c2ee12-120f-44ef-ac78-59a2f007eb41", "rel_ix": "P17_540", "pattern_ix": 2}
+{"prompt": "Trento is located in [MASK] .", "sub_label": "Trento", "obj_label": "Italy", "uuid": "a1590c3b-5988-4b81-9b54-a342e869e21d", "rel_ix": "P17_546", "pattern_ix": 0}
+{"prompt": "Trento, which is located in [MASK].", "sub_label": "Trento", "obj_label": "Italy", "uuid": "a1590c3b-5988-4b81-9b54-a342e869e21d", "rel_ix": "P17_546", "pattern_ix": 1}
+{"prompt": "Trento, located in [MASK].", "sub_label": "Trento", "obj_label": "Italy", "uuid": "a1590c3b-5988-4b81-9b54-a342e869e21d", "rel_ix": "P17_546", "pattern_ix": 2}
+{"prompt": "New Democratic Party Socialist Caucus is located in [MASK] .", "sub_label": "New Democratic Party Socialist Caucus", "obj_label": "Canada", "uuid": "ecbbb628-0906-4e7f-ad29-e1ea928d99f2", "rel_ix": "P17_553", "pattern_ix": 0}
+{"prompt": "New Democratic Party Socialist Caucus, which is located in [MASK].", "sub_label": "New Democratic Party Socialist Caucus", "obj_label": "Canada", "uuid": "ecbbb628-0906-4e7f-ad29-e1ea928d99f2", "rel_ix": "P17_553", "pattern_ix": 1}
+{"prompt": "New Democratic Party Socialist Caucus, located in [MASK].", "sub_label": "New Democratic Party Socialist Caucus", "obj_label": "Canada", "uuid": "ecbbb628-0906-4e7f-ad29-e1ea928d99f2", "rel_ix": "P17_553", "pattern_ix": 2}
+{"prompt": "Askola is located in [MASK] .", "sub_label": "Askola", "obj_label": "Finland", "uuid": "8644e321-df3f-400e-b6ed-8d1fd7164278", "rel_ix": "P17_565", "pattern_ix": 0}
+{"prompt": "Askola, which is located in [MASK].", "sub_label": "Askola", "obj_label": "Finland", "uuid": "8644e321-df3f-400e-b6ed-8d1fd7164278", "rel_ix": "P17_565", "pattern_ix": 1}
+{"prompt": "Askola, located in [MASK].", "sub_label": "Askola", "obj_label": "Finland", "uuid": "8644e321-df3f-400e-b6ed-8d1fd7164278", "rel_ix": "P17_565", "pattern_ix": 2}
+{"prompt": "Jiul de Vest River is located in [MASK] .", "sub_label": "Jiul de Vest River", "obj_label": "Romania", "uuid": "afede817-1235-4e4a-9cf3-2713a648db02", "rel_ix": "P17_568", "pattern_ix": 0}
+{"prompt": "Jiul de Vest River, which is located in [MASK].", "sub_label": "Jiul de Vest River", "obj_label": "Romania", "uuid": "afede817-1235-4e4a-9cf3-2713a648db02", "rel_ix": "P17_568", "pattern_ix": 1}
+{"prompt": "Jiul de Vest River, located in [MASK].", "sub_label": "Jiul de Vest River", "obj_label": "Romania", "uuid": "afede817-1235-4e4a-9cf3-2713a648db02", "rel_ix": "P17_568", "pattern_ix": 2}
+{"prompt": "Hilir Perak is located in [MASK] .", "sub_label": "Hilir Perak", "obj_label": "Malaysia", "uuid": "b88f5652-88c9-4e71-ac03-998e84b7e158", "rel_ix": "P17_573", "pattern_ix": 0}
+{"prompt": "Hilir Perak, which is located in [MASK].", "sub_label": "Hilir Perak", "obj_label": "Malaysia", "uuid": "b88f5652-88c9-4e71-ac03-998e84b7e158", "rel_ix": "P17_573", "pattern_ix": 1}
+{"prompt": "Hilir Perak, located in [MASK].", "sub_label": "Hilir Perak", "obj_label": "Malaysia", "uuid": "b88f5652-88c9-4e71-ac03-998e84b7e158", "rel_ix": "P17_573", "pattern_ix": 2}
+{"prompt": "Queen Charlotte Mountains is located in [MASK] .", "sub_label": "Queen Charlotte Mountains", "obj_label": "Canada", "uuid": "9091d3e5-cd67-47f9-b819-c339ed12302a", "rel_ix": "P17_578", "pattern_ix": 0}
+{"prompt": "Queen Charlotte Mountains, which is located in [MASK].", "sub_label": "Queen Charlotte Mountains", "obj_label": "Canada", "uuid": "9091d3e5-cd67-47f9-b819-c339ed12302a", "rel_ix": "P17_578", "pattern_ix": 1}
+{"prompt": "Queen Charlotte Mountains, located in [MASK].", "sub_label": "Queen Charlotte Mountains", "obj_label": "Canada", "uuid": "9091d3e5-cd67-47f9-b819-c339ed12302a", "rel_ix": "P17_578", "pattern_ix": 2}
+{"prompt": "St James' Church, Sydney is located in [MASK] .", "sub_label": "St James' Church, Sydney", "obj_label": "Australia", "uuid": "70edb23c-2935-479e-9ef9-429f76d79671", "rel_ix": "P17_580", "pattern_ix": 0}
+{"prompt": "St James' Church, Sydney, which is located in [MASK].", "sub_label": "St James' Church, Sydney", "obj_label": "Australia", "uuid": "70edb23c-2935-479e-9ef9-429f76d79671", "rel_ix": "P17_580", "pattern_ix": 1}
+{"prompt": "St James' Church, Sydney, located in [MASK].", "sub_label": "St James' Church, Sydney", "obj_label": "Australia", "uuid": "70edb23c-2935-479e-9ef9-429f76d79671", "rel_ix": "P17_580", "pattern_ix": 2}
+{"prompt": "Perpignan is located in [MASK] .", "sub_label": "Perpignan", "obj_label": "France", "uuid": "922c0f97-5d45-4369-a819-f5eb98445772", "rel_ix": "P17_584", "pattern_ix": 0}
+{"prompt": "Perpignan, which is located in [MASK].", "sub_label": "Perpignan", "obj_label": "France", "uuid": "922c0f97-5d45-4369-a819-f5eb98445772", "rel_ix": "P17_584", "pattern_ix": 1}
+{"prompt": "Perpignan, located in [MASK].", "sub_label": "Perpignan", "obj_label": "France", "uuid": "922c0f97-5d45-4369-a819-f5eb98445772", "rel_ix": "P17_584", "pattern_ix": 2}
+{"prompt": "Al Ahmadi Governorate is located in [MASK] .", "sub_label": "Al Ahmadi Governorate", "obj_label": "Kuwait", "uuid": "b754ab08-2596-4112-a702-0df9883945a9", "rel_ix": "P17_588", "pattern_ix": 0}
+{"prompt": "Al Ahmadi Governorate, which is located in [MASK].", "sub_label": "Al Ahmadi Governorate", "obj_label": "Kuwait", "uuid": "b754ab08-2596-4112-a702-0df9883945a9", "rel_ix": "P17_588", "pattern_ix": 1}
+{"prompt": "Al Ahmadi Governorate, located in [MASK].", "sub_label": "Al Ahmadi Governorate", "obj_label": "Kuwait", "uuid": "b754ab08-2596-4112-a702-0df9883945a9", "rel_ix": "P17_588", "pattern_ix": 2}
+{"prompt": "Dziemiany is located in [MASK] .", "sub_label": "Dziemiany", "obj_label": "Poland", "uuid": "ade75f77-4108-4c34-9799-d9a81d2cab3e", "rel_ix": "P17_596", "pattern_ix": 0}
+{"prompt": "Dziemiany, which is located in [MASK].", "sub_label": "Dziemiany", "obj_label": "Poland", "uuid": "ade75f77-4108-4c34-9799-d9a81d2cab3e", "rel_ix": "P17_596", "pattern_ix": 1}
+{"prompt": "Dziemiany, located in [MASK].", "sub_label": "Dziemiany", "obj_label": "Poland", "uuid": "ade75f77-4108-4c34-9799-d9a81d2cab3e", "rel_ix": "P17_596", "pattern_ix": 2}
+{"prompt": "Sarnia is located in [MASK] .", "sub_label": "Sarnia", "obj_label": "Canada", "uuid": "28d55af0-4d94-478d-904f-f0fc875fd95a", "rel_ix": "P17_600", "pattern_ix": 0}
+{"prompt": "Sarnia, which is located in [MASK].", "sub_label": "Sarnia", "obj_label": "Canada", "uuid": "28d55af0-4d94-478d-904f-f0fc875fd95a", "rel_ix": "P17_600", "pattern_ix": 1}
+{"prompt": "Sarnia, located in [MASK].", "sub_label": "Sarnia", "obj_label": "Canada", "uuid": "28d55af0-4d94-478d-904f-f0fc875fd95a", "rel_ix": "P17_600", "pattern_ix": 2}
+{"prompt": "Catalonia is located in [MASK] .", "sub_label": "Catalonia", "obj_label": "Spain", "uuid": "091703e4-61a9-4ce4-93b0-b72a4ff113c5", "rel_ix": "P17_614", "pattern_ix": 0}
+{"prompt": "Catalonia, which is located in [MASK].", "sub_label": "Catalonia", "obj_label": "Spain", "uuid": "091703e4-61a9-4ce4-93b0-b72a4ff113c5", "rel_ix": "P17_614", "pattern_ix": 1}
+{"prompt": "Catalonia, located in [MASK].", "sub_label": "Catalonia", "obj_label": "Spain", "uuid": "091703e4-61a9-4ce4-93b0-b72a4ff113c5", "rel_ix": "P17_614", "pattern_ix": 2}
+{"prompt": "Skole Raion is located in [MASK] .", "sub_label": "Skole Raion", "obj_label": "Ukraine", "uuid": "adaecb7d-30e7-435f-a0ef-a12fe1ca6190", "rel_ix": "P17_615", "pattern_ix": 0}
+{"prompt": "Skole Raion, which is located in [MASK].", "sub_label": "Skole Raion", "obj_label": "Ukraine", "uuid": "adaecb7d-30e7-435f-a0ef-a12fe1ca6190", "rel_ix": "P17_615", "pattern_ix": 1}
+{"prompt": "Skole Raion, located in [MASK].", "sub_label": "Skole Raion", "obj_label": "Ukraine", "uuid": "adaecb7d-30e7-435f-a0ef-a12fe1ca6190", "rel_ix": "P17_615", "pattern_ix": 2}
+{"prompt": "Tienen is located in [MASK] .", "sub_label": "Tienen", "obj_label": "Belgium", "uuid": "598db038-4acf-4052-9e20-3ffb106ef2eb", "rel_ix": "P17_622", "pattern_ix": 0}
+{"prompt": "Tienen, which is located in [MASK].", "sub_label": "Tienen", "obj_label": "Belgium", "uuid": "598db038-4acf-4052-9e20-3ffb106ef2eb", "rel_ix": "P17_622", "pattern_ix": 1}
+{"prompt": "Tienen, located in [MASK].", "sub_label": "Tienen", "obj_label": "Belgium", "uuid": "598db038-4acf-4052-9e20-3ffb106ef2eb", "rel_ix": "P17_622", "pattern_ix": 2}
+{"prompt": "Singarapettai is located in [MASK] .", "sub_label": "Singarapettai", "obj_label": "India", "uuid": "7f570425-30e9-4f5e-8436-a46c183fa6c9", "rel_ix": "P17_627", "pattern_ix": 0}
+{"prompt": "Singarapettai, which is located in [MASK].", "sub_label": "Singarapettai", "obj_label": "India", "uuid": "7f570425-30e9-4f5e-8436-a46c183fa6c9", "rel_ix": "P17_627", "pattern_ix": 1}
+{"prompt": "Singarapettai, located in [MASK].", "sub_label": "Singarapettai", "obj_label": "India", "uuid": "7f570425-30e9-4f5e-8436-a46c183fa6c9", "rel_ix": "P17_627", "pattern_ix": 2}
+{"prompt": "Mudgee is located in [MASK] .", "sub_label": "Mudgee", "obj_label": "Australia", "uuid": "49a4135b-1f09-45ce-a88b-44750d19823b", "rel_ix": "P17_629", "pattern_ix": 0}
+{"prompt": "Mudgee, which is located in [MASK].", "sub_label": "Mudgee", "obj_label": "Australia", "uuid": "49a4135b-1f09-45ce-a88b-44750d19823b", "rel_ix": "P17_629", "pattern_ix": 1}
+{"prompt": "Mudgee, located in [MASK].", "sub_label": "Mudgee", "obj_label": "Australia", "uuid": "49a4135b-1f09-45ce-a88b-44750d19823b", "rel_ix": "P17_629", "pattern_ix": 2}
+{"prompt": "Sialkot district is located in [MASK] .", "sub_label": "Sialkot district", "obj_label": "Pakistan", "uuid": "006a3453-4897-4192-b389-04a2957f376c", "rel_ix": "P17_633", "pattern_ix": 0}
+{"prompt": "Sialkot district, which is located in [MASK].", "sub_label": "Sialkot district", "obj_label": "Pakistan", "uuid": "006a3453-4897-4192-b389-04a2957f376c", "rel_ix": "P17_633", "pattern_ix": 1}
+{"prompt": "Sialkot district, located in [MASK].", "sub_label": "Sialkot district", "obj_label": "Pakistan", "uuid": "006a3453-4897-4192-b389-04a2957f376c", "rel_ix": "P17_633", "pattern_ix": 2}
+{"prompt": "Surat Basin is located in [MASK] .", "sub_label": "Surat Basin", "obj_label": "Australia", "uuid": "db9d0346-bef1-4847-94dc-a583e72a9962", "rel_ix": "P17_642", "pattern_ix": 0}
+{"prompt": "Surat Basin, which is located in [MASK].", "sub_label": "Surat Basin", "obj_label": "Australia", "uuid": "db9d0346-bef1-4847-94dc-a583e72a9962", "rel_ix": "P17_642", "pattern_ix": 1}
+{"prompt": "Surat Basin, located in [MASK].", "sub_label": "Surat Basin", "obj_label": "Australia", "uuid": "db9d0346-bef1-4847-94dc-a583e72a9962", "rel_ix": "P17_642", "pattern_ix": 2}
+{"prompt": "Bhamdoun is located in [MASK] .", "sub_label": "Bhamdoun", "obj_label": "Lebanon", "uuid": "b2fa615f-c6ed-4b93-9d8d-bee30cd17d7f", "rel_ix": "P17_644", "pattern_ix": 0}
+{"prompt": "Bhamdoun, which is located in [MASK].", "sub_label": "Bhamdoun", "obj_label": "Lebanon", "uuid": "b2fa615f-c6ed-4b93-9d8d-bee30cd17d7f", "rel_ix": "P17_644", "pattern_ix": 1}
+{"prompt": "Bhamdoun, located in [MASK].", "sub_label": "Bhamdoun", "obj_label": "Lebanon", "uuid": "b2fa615f-c6ed-4b93-9d8d-bee30cd17d7f", "rel_ix": "P17_644", "pattern_ix": 2}
+{"prompt": "Emscher is located in [MASK] .", "sub_label": "Emscher", "obj_label": "Germany", "uuid": "16bbee4e-0f6c-4339-8504-2586ab6f7660", "rel_ix": "P17_648", "pattern_ix": 0}
+{"prompt": "Emscher, which is located in [MASK].", "sub_label": "Emscher", "obj_label": "Germany", "uuid": "16bbee4e-0f6c-4339-8504-2586ab6f7660", "rel_ix": "P17_648", "pattern_ix": 1}
+{"prompt": "Emscher, located in [MASK].", "sub_label": "Emscher", "obj_label": "Germany", "uuid": "16bbee4e-0f6c-4339-8504-2586ab6f7660", "rel_ix": "P17_648", "pattern_ix": 2}
+{"prompt": "Etobicoke North is located in [MASK] .", "sub_label": "Etobicoke North", "obj_label": "Canada", "uuid": "e458c41b-99c3-4c51-91a5-71540eb289fc", "rel_ix": "P17_651", "pattern_ix": 0}
+{"prompt": "Etobicoke North, which is located in [MASK].", "sub_label": "Etobicoke North", "obj_label": "Canada", "uuid": "e458c41b-99c3-4c51-91a5-71540eb289fc", "rel_ix": "P17_651", "pattern_ix": 1}
+{"prompt": "Etobicoke North, located in [MASK].", "sub_label": "Etobicoke North", "obj_label": "Canada", "uuid": "e458c41b-99c3-4c51-91a5-71540eb289fc", "rel_ix": "P17_651", "pattern_ix": 2}
+{"prompt": "Lund Municipality is located in [MASK] .", "sub_label": "Lund Municipality", "obj_label": "Sweden", "uuid": "f3a943b3-f906-4369-94f2-3a59cb95b31d", "rel_ix": "P17_652", "pattern_ix": 0}
+{"prompt": "Lund Municipality, which is located in [MASK].", "sub_label": "Lund Municipality", "obj_label": "Sweden", "uuid": "f3a943b3-f906-4369-94f2-3a59cb95b31d", "rel_ix": "P17_652", "pattern_ix": 1}
+{"prompt": "Lund Municipality, located in [MASK].", "sub_label": "Lund Municipality", "obj_label": "Sweden", "uuid": "f3a943b3-f906-4369-94f2-3a59cb95b31d", "rel_ix": "P17_652", "pattern_ix": 2}
+{"prompt": "East Karelia is located in [MASK] .", "sub_label": "East Karelia", "obj_label": "Russia", "uuid": "43dc2393-7abc-431f-9e85-bd73c951f9ec", "rel_ix": "P17_654", "pattern_ix": 0}
+{"prompt": "East Karelia, which is located in [MASK].", "sub_label": "East Karelia", "obj_label": "Russia", "uuid": "43dc2393-7abc-431f-9e85-bd73c951f9ec", "rel_ix": "P17_654", "pattern_ix": 1}
+{"prompt": "East Karelia, located in [MASK].", "sub_label": "East Karelia", "obj_label": "Russia", "uuid": "43dc2393-7abc-431f-9e85-bd73c951f9ec", "rel_ix": "P17_654", "pattern_ix": 2}
+{"prompt": "Barnhartvale, Kamloops is located in [MASK] .", "sub_label": "Barnhartvale, Kamloops", "obj_label": "Canada", "uuid": "7eb8a6cb-7c32-409b-96fe-20c72c23a2a5", "rel_ix": "P17_657", "pattern_ix": 0}
+{"prompt": "Barnhartvale, Kamloops, which is located in [MASK].", "sub_label": "Barnhartvale, Kamloops", "obj_label": "Canada", "uuid": "7eb8a6cb-7c32-409b-96fe-20c72c23a2a5", "rel_ix": "P17_657", "pattern_ix": 1}
+{"prompt": "Barnhartvale, Kamloops, located in [MASK].", "sub_label": "Barnhartvale, Kamloops", "obj_label": "Canada", "uuid": "7eb8a6cb-7c32-409b-96fe-20c72c23a2a5", "rel_ix": "P17_657", "pattern_ix": 2}
+{"prompt": "bpost is located in [MASK] .", "sub_label": "bpost", "obj_label": "Belgium", "uuid": "3eea7a52-f30a-4193-9dbb-ce1076f6c846", "rel_ix": "P17_669", "pattern_ix": 0}
+{"prompt": "bpost, which is located in [MASK].", "sub_label": "bpost", "obj_label": "Belgium", "uuid": "3eea7a52-f30a-4193-9dbb-ce1076f6c846", "rel_ix": "P17_669", "pattern_ix": 1}
+{"prompt": "bpost, located in [MASK].", "sub_label": "bpost", "obj_label": "Belgium", "uuid": "3eea7a52-f30a-4193-9dbb-ce1076f6c846", "rel_ix": "P17_669", "pattern_ix": 2}
+{"prompt": "Niederweningen is located in [MASK] .", "sub_label": "Niederweningen", "obj_label": "Switzerland", "uuid": "9cbb4115-dafd-46ba-8b9b-88c369f7118b", "rel_ix": "P17_673", "pattern_ix": 0}
+{"prompt": "Niederweningen, which is located in [MASK].", "sub_label": "Niederweningen", "obj_label": "Switzerland", "uuid": "9cbb4115-dafd-46ba-8b9b-88c369f7118b", "rel_ix": "P17_673", "pattern_ix": 1}
+{"prompt": "Niederweningen, located in [MASK].", "sub_label": "Niederweningen", "obj_label": "Switzerland", "uuid": "9cbb4115-dafd-46ba-8b9b-88c369f7118b", "rel_ix": "P17_673", "pattern_ix": 2}
+{"prompt": "Petseri County is located in [MASK] .", "sub_label": "Petseri County", "obj_label": "Estonia", "uuid": "e4e76a11-3741-4b2e-8c9c-88a941ed5865", "rel_ix": "P17_683", "pattern_ix": 0}
+{"prompt": "Petseri County, which is located in [MASK].", "sub_label": "Petseri County", "obj_label": "Estonia", "uuid": "e4e76a11-3741-4b2e-8c9c-88a941ed5865", "rel_ix": "P17_683", "pattern_ix": 1}
+{"prompt": "Petseri County, located in [MASK].", "sub_label": "Petseri County", "obj_label": "Estonia", "uuid": "e4e76a11-3741-4b2e-8c9c-88a941ed5865", "rel_ix": "P17_683", "pattern_ix": 2}
+{"prompt": "Pindamonhangaba is located in [MASK] .", "sub_label": "Pindamonhangaba", "obj_label": "Brazil", "uuid": "4f7e967b-c437-41e0-8c2a-681b6a664e2f", "rel_ix": "P17_688", "pattern_ix": 0}
+{"prompt": "Pindamonhangaba, which is located in [MASK].", "sub_label": "Pindamonhangaba", "obj_label": "Brazil", "uuid": "4f7e967b-c437-41e0-8c2a-681b6a664e2f", "rel_ix": "P17_688", "pattern_ix": 1}
+{"prompt": "Pindamonhangaba, located in [MASK].", "sub_label": "Pindamonhangaba", "obj_label": "Brazil", "uuid": "4f7e967b-c437-41e0-8c2a-681b6a664e2f", "rel_ix": "P17_688", "pattern_ix": 2}
+{"prompt": "community development block in India is located in [MASK] .", "sub_label": "community development block in India", "obj_label": "India", "uuid": "a5eb2759-75ec-4a92-b5ff-9a3a73f31881", "rel_ix": "P17_691", "pattern_ix": 0}
+{"prompt": "community development block in India, which is located in [MASK].", "sub_label": "community development block in India", "obj_label": "India", "uuid": "a5eb2759-75ec-4a92-b5ff-9a3a73f31881", "rel_ix": "P17_691", "pattern_ix": 1}
+{"prompt": "community development block in India, located in [MASK].", "sub_label": "community development block in India", "obj_label": "India", "uuid": "a5eb2759-75ec-4a92-b5ff-9a3a73f31881", "rel_ix": "P17_691", "pattern_ix": 2}
+{"prompt": ".af is located in [MASK] .", "sub_label": ".af", "obj_label": "Afghanistan", "uuid": "dc5f73a0-a22c-418a-9cb3-b40e167b959e", "rel_ix": "P17_693", "pattern_ix": 0}
+{"prompt": ".af, which is located in [MASK].", "sub_label": ".af", "obj_label": "Afghanistan", "uuid": "dc5f73a0-a22c-418a-9cb3-b40e167b959e", "rel_ix": "P17_693", "pattern_ix": 1}
+{"prompt": ".af, located in [MASK].", "sub_label": ".af", "obj_label": "Afghanistan", "uuid": "dc5f73a0-a22c-418a-9cb3-b40e167b959e", "rel_ix": "P17_693", "pattern_ix": 2}
+{"prompt": "Augusta Raurica is located in [MASK] .", "sub_label": "Augusta Raurica", "obj_label": "Switzerland", "uuid": "c0185abe-0d0c-4f19-93af-ba64e8fb69bb", "rel_ix": "P17_699", "pattern_ix": 0}
+{"prompt": "Augusta Raurica, which is located in [MASK].", "sub_label": "Augusta Raurica", "obj_label": "Switzerland", "uuid": "c0185abe-0d0c-4f19-93af-ba64e8fb69bb", "rel_ix": "P17_699", "pattern_ix": 1}
+{"prompt": "Augusta Raurica, located in [MASK].", "sub_label": "Augusta Raurica", "obj_label": "Switzerland", "uuid": "c0185abe-0d0c-4f19-93af-ba64e8fb69bb", "rel_ix": "P17_699", "pattern_ix": 2}
+{"prompt": "Eupen-Malmedy is located in [MASK] .", "sub_label": "Eupen-Malmedy", "obj_label": "Belgium", "uuid": "82c5ef56-0769-47d6-b803-67af2eff6e0d", "rel_ix": "P17_701", "pattern_ix": 0}
+{"prompt": "Eupen-Malmedy, which is located in [MASK].", "sub_label": "Eupen-Malmedy", "obj_label": "Belgium", "uuid": "82c5ef56-0769-47d6-b803-67af2eff6e0d", "rel_ix": "P17_701", "pattern_ix": 1}
+{"prompt": "Eupen-Malmedy, located in [MASK].", "sub_label": "Eupen-Malmedy", "obj_label": "Belgium", "uuid": "82c5ef56-0769-47d6-b803-67af2eff6e0d", "rel_ix": "P17_701", "pattern_ix": 2}
+{"prompt": "Tesco Organisation is located in [MASK] .", "sub_label": "Tesco Organisation", "obj_label": "Germany", "uuid": "d56a25cd-796f-47c0-934b-0b9a3b501c3f", "rel_ix": "P17_702", "pattern_ix": 0}
+{"prompt": "Tesco Organisation, which is located in [MASK].", "sub_label": "Tesco Organisation", "obj_label": "Germany", "uuid": "d56a25cd-796f-47c0-934b-0b9a3b501c3f", "rel_ix": "P17_702", "pattern_ix": 1}
+{"prompt": "Tesco Organisation, located in [MASK].", "sub_label": "Tesco Organisation", "obj_label": "Germany", "uuid": "d56a25cd-796f-47c0-934b-0b9a3b501c3f", "rel_ix": "P17_702", "pattern_ix": 2}
+{"prompt": "Waldshut-Tiengen is located in [MASK] .", "sub_label": "Waldshut-Tiengen", "obj_label": "Germany", "uuid": "65f4b346-6856-417f-8068-4ddc1780deb8", "rel_ix": "P17_704", "pattern_ix": 0}
+{"prompt": "Waldshut-Tiengen, which is located in [MASK].", "sub_label": "Waldshut-Tiengen", "obj_label": "Germany", "uuid": "65f4b346-6856-417f-8068-4ddc1780deb8", "rel_ix": "P17_704", "pattern_ix": 1}
+{"prompt": "Waldshut-Tiengen, located in [MASK].", "sub_label": "Waldshut-Tiengen", "obj_label": "Germany", "uuid": "65f4b346-6856-417f-8068-4ddc1780deb8", "rel_ix": "P17_704", "pattern_ix": 2}
+{"prompt": "Hohenlohe-Langenburg is located in [MASK] .", "sub_label": "Hohenlohe-Langenburg", "obj_label": "Germany", "uuid": "432348ea-2ffd-48f6-9b8e-a25b560fc28d", "rel_ix": "P17_705", "pattern_ix": 0}
+{"prompt": "Hohenlohe-Langenburg, which is located in [MASK].", "sub_label": "Hohenlohe-Langenburg", "obj_label": "Germany", "uuid": "432348ea-2ffd-48f6-9b8e-a25b560fc28d", "rel_ix": "P17_705", "pattern_ix": 1}
+{"prompt": "Hohenlohe-Langenburg, located in [MASK].", "sub_label": "Hohenlohe-Langenburg", "obj_label": "Germany", "uuid": "432348ea-2ffd-48f6-9b8e-a25b560fc28d", "rel_ix": "P17_705", "pattern_ix": 2}
+{"prompt": "Alpokalja is located in [MASK] .", "sub_label": "Alpokalja", "obj_label": "Hungary", "uuid": "f808681a-428d-4b55-b3b1-c0071bd53ee2", "rel_ix": "P17_706", "pattern_ix": 0}
+{"prompt": "Alpokalja, which is located in [MASK].", "sub_label": "Alpokalja", "obj_label": "Hungary", "uuid": "f808681a-428d-4b55-b3b1-c0071bd53ee2", "rel_ix": "P17_706", "pattern_ix": 1}
+{"prompt": "Alpokalja, located in [MASK].", "sub_label": "Alpokalja", "obj_label": "Hungary", "uuid": "f808681a-428d-4b55-b3b1-c0071bd53ee2", "rel_ix": "P17_706", "pattern_ix": 2}
+{"prompt": "Prieto Diaz is located in [MASK] .", "sub_label": "Prieto Diaz", "obj_label": "Philippines", "uuid": "a8934731-142b-4cf6-b6fa-10a4216ef851", "rel_ix": "P17_712", "pattern_ix": 0}
+{"prompt": "Prieto Diaz, which is located in [MASK].", "sub_label": "Prieto Diaz", "obj_label": "Philippines", "uuid": "a8934731-142b-4cf6-b6fa-10a4216ef851", "rel_ix": "P17_712", "pattern_ix": 1}
+{"prompt": "Prieto Diaz, located in [MASK].", "sub_label": "Prieto Diaz", "obj_label": "Philippines", "uuid": "a8934731-142b-4cf6-b6fa-10a4216ef851", "rel_ix": "P17_712", "pattern_ix": 2}
+{"prompt": "Rathen is located in [MASK] .", "sub_label": "Rathen", "obj_label": "Germany", "uuid": "b82fd0f1-7428-4512-bcd9-9c40439fedb8", "rel_ix": "P17_716", "pattern_ix": 0}
+{"prompt": "Rathen, which is located in [MASK].", "sub_label": "Rathen", "obj_label": "Germany", "uuid": "b82fd0f1-7428-4512-bcd9-9c40439fedb8", "rel_ix": "P17_716", "pattern_ix": 1}
+{"prompt": "Rathen, located in [MASK].", "sub_label": "Rathen", "obj_label": "Germany", "uuid": "b82fd0f1-7428-4512-bcd9-9c40439fedb8", "rel_ix": "P17_716", "pattern_ix": 2}
+{"prompt": "Astrid Lindgren Memorial Award is located in [MASK] .", "sub_label": "Astrid Lindgren Memorial Award", "obj_label": "Sweden", "uuid": "9291cb85-7526-4bcc-a4cb-86f768fc2334", "rel_ix": "P17_729", "pattern_ix": 0}
+{"prompt": "Astrid Lindgren Memorial Award, which is located in [MASK].", "sub_label": "Astrid Lindgren Memorial Award", "obj_label": "Sweden", "uuid": "9291cb85-7526-4bcc-a4cb-86f768fc2334", "rel_ix": "P17_729", "pattern_ix": 1}
+{"prompt": "Astrid Lindgren Memorial Award, located in [MASK].", "sub_label": "Astrid Lindgren Memorial Award", "obj_label": "Sweden", "uuid": "9291cb85-7526-4bcc-a4cb-86f768fc2334", "rel_ix": "P17_729", "pattern_ix": 2}
+{"prompt": "Chaville is located in [MASK] .", "sub_label": "Chaville", "obj_label": "France", "uuid": "43d8fdcf-f8f5-4900-a4ce-0c3ec2736eed", "rel_ix": "P17_732", "pattern_ix": 0}
+{"prompt": "Chaville, which is located in [MASK].", "sub_label": "Chaville", "obj_label": "France", "uuid": "43d8fdcf-f8f5-4900-a4ce-0c3ec2736eed", "rel_ix": "P17_732", "pattern_ix": 1}
+{"prompt": "Chaville, located in [MASK].", "sub_label": "Chaville", "obj_label": "France", "uuid": "43d8fdcf-f8f5-4900-a4ce-0c3ec2736eed", "rel_ix": "P17_732", "pattern_ix": 2}
+{"prompt": "Hotel Oloffson is located in [MASK] .", "sub_label": "Hotel Oloffson", "obj_label": "Haiti", "uuid": "ad757797-a51f-44e7-b674-46f113a5fe6b", "rel_ix": "P17_736", "pattern_ix": 0}
+{"prompt": "Hotel Oloffson, which is located in [MASK].", "sub_label": "Hotel Oloffson", "obj_label": "Haiti", "uuid": "ad757797-a51f-44e7-b674-46f113a5fe6b", "rel_ix": "P17_736", "pattern_ix": 1}
+{"prompt": "Hotel Oloffson, located in [MASK].", "sub_label": "Hotel Oloffson", "obj_label": "Haiti", "uuid": "ad757797-a51f-44e7-b674-46f113a5fe6b", "rel_ix": "P17_736", "pattern_ix": 2}
+{"prompt": "Sapo National Park is located in [MASK] .", "sub_label": "Sapo National Park", "obj_label": "Liberia", "uuid": "c479427c-6144-401c-9b85-5c964e23aef3", "rel_ix": "P17_747", "pattern_ix": 0}
+{"prompt": "Sapo National Park, which is located in [MASK].", "sub_label": "Sapo National Park", "obj_label": "Liberia", "uuid": "c479427c-6144-401c-9b85-5c964e23aef3", "rel_ix": "P17_747", "pattern_ix": 1}
+{"prompt": "Sapo National Park, located in [MASK].", "sub_label": "Sapo National Park", "obj_label": "Liberia", "uuid": "c479427c-6144-401c-9b85-5c964e23aef3", "rel_ix": "P17_747", "pattern_ix": 2}
+{"prompt": "Bird's Head Peninsula is located in [MASK] .", "sub_label": "Bird's Head Peninsula", "obj_label": "Indonesia", "uuid": "5e8e938b-3d0b-4cfc-ac44-9f843eb72b2c", "rel_ix": "P17_752", "pattern_ix": 0}
+{"prompt": "Bird's Head Peninsula, which is located in [MASK].", "sub_label": "Bird's Head Peninsula", "obj_label": "Indonesia", "uuid": "5e8e938b-3d0b-4cfc-ac44-9f843eb72b2c", "rel_ix": "P17_752", "pattern_ix": 1}
+{"prompt": "Bird's Head Peninsula, located in [MASK].", "sub_label": "Bird's Head Peninsula", "obj_label": "Indonesia", "uuid": "5e8e938b-3d0b-4cfc-ac44-9f843eb72b2c", "rel_ix": "P17_752", "pattern_ix": 2}
+{"prompt": "Kukawa is located in [MASK] .", "sub_label": "Kukawa", "obj_label": "Nigeria", "uuid": "9c355af2-b354-476b-96c3-b9baa45e925a", "rel_ix": "P17_754", "pattern_ix": 0}
+{"prompt": "Kukawa, which is located in [MASK].", "sub_label": "Kukawa", "obj_label": "Nigeria", "uuid": "9c355af2-b354-476b-96c3-b9baa45e925a", "rel_ix": "P17_754", "pattern_ix": 1}
+{"prompt": "Kukawa, located in [MASK].", "sub_label": "Kukawa", "obj_label": "Nigeria", "uuid": "9c355af2-b354-476b-96c3-b9baa45e925a", "rel_ix": "P17_754", "pattern_ix": 2}
+{"prompt": "Soalala is located in [MASK] .", "sub_label": "Soalala", "obj_label": "Madagascar", "uuid": "318d0afe-7aac-4ca2-8f04-b54cc6c50e14", "rel_ix": "P17_755", "pattern_ix": 0}
+{"prompt": "Soalala, which is located in [MASK].", "sub_label": "Soalala", "obj_label": "Madagascar", "uuid": "318d0afe-7aac-4ca2-8f04-b54cc6c50e14", "rel_ix": "P17_755", "pattern_ix": 1}
+{"prompt": "Soalala, located in [MASK].", "sub_label": "Soalala", "obj_label": "Madagascar", "uuid": "318d0afe-7aac-4ca2-8f04-b54cc6c50e14", "rel_ix": "P17_755", "pattern_ix": 2}
+{"prompt": "Neighbourhoods in Kolkata is located in [MASK] .", "sub_label": "Neighbourhoods in Kolkata", "obj_label": "India", "uuid": "0c69a411-bc91-46ac-9e40-026ca8ca8f42", "rel_ix": "P17_770", "pattern_ix": 0}
+{"prompt": "Neighbourhoods in Kolkata, which is located in [MASK].", "sub_label": "Neighbourhoods in Kolkata", "obj_label": "India", "uuid": "0c69a411-bc91-46ac-9e40-026ca8ca8f42", "rel_ix": "P17_770", "pattern_ix": 1}
+{"prompt": "Neighbourhoods in Kolkata, located in [MASK].", "sub_label": "Neighbourhoods in Kolkata", "obj_label": "India", "uuid": "0c69a411-bc91-46ac-9e40-026ca8ca8f42", "rel_ix": "P17_770", "pattern_ix": 2}
+{"prompt": "Gmina Sorkwity is located in [MASK] .", "sub_label": "Gmina Sorkwity", "obj_label": "Poland", "uuid": "351e1d23-fc1d-4981-8706-e6e01553ba77", "rel_ix": "P17_775", "pattern_ix": 0}
+{"prompt": "Gmina Sorkwity, which is located in [MASK].", "sub_label": "Gmina Sorkwity", "obj_label": "Poland", "uuid": "351e1d23-fc1d-4981-8706-e6e01553ba77", "rel_ix": "P17_775", "pattern_ix": 1}
+{"prompt": "Gmina Sorkwity, located in [MASK].", "sub_label": "Gmina Sorkwity", "obj_label": "Poland", "uuid": "351e1d23-fc1d-4981-8706-e6e01553ba77", "rel_ix": "P17_775", "pattern_ix": 2}
+{"prompt": "Guru Nanak Dev University is located in [MASK] .", "sub_label": "Guru Nanak Dev University", "obj_label": "India", "uuid": "68f1a406-8b8d-4eb7-b53a-ff93785e1b7f", "rel_ix": "P17_779", "pattern_ix": 0}
+{"prompt": "Guru Nanak Dev University, which is located in [MASK].", "sub_label": "Guru Nanak Dev University", "obj_label": "India", "uuid": "68f1a406-8b8d-4eb7-b53a-ff93785e1b7f", "rel_ix": "P17_779", "pattern_ix": 1}
+{"prompt": "Guru Nanak Dev University, located in [MASK].", "sub_label": "Guru Nanak Dev University", "obj_label": "India", "uuid": "68f1a406-8b8d-4eb7-b53a-ff93785e1b7f", "rel_ix": "P17_779", "pattern_ix": 2}
+{"prompt": "El Djem is located in [MASK] .", "sub_label": "El Djem", "obj_label": "Tunisia", "uuid": "7c512f25-1ad4-4a3e-97cc-d1385ff900e0", "rel_ix": "P17_784", "pattern_ix": 0}
+{"prompt": "El Djem, which is located in [MASK].", "sub_label": "El Djem", "obj_label": "Tunisia", "uuid": "7c512f25-1ad4-4a3e-97cc-d1385ff900e0", "rel_ix": "P17_784", "pattern_ix": 1}
+{"prompt": "El Djem, located in [MASK].", "sub_label": "El Djem", "obj_label": "Tunisia", "uuid": "7c512f25-1ad4-4a3e-97cc-d1385ff900e0", "rel_ix": "P17_784", "pattern_ix": 2}
+{"prompt": "Noyon is located in [MASK] .", "sub_label": "Noyon", "obj_label": "France", "uuid": "03c9d9d7-aecb-4c02-b1f1-c285ac1f7e09", "rel_ix": "P17_785", "pattern_ix": 0}
+{"prompt": "Noyon, which is located in [MASK].", "sub_label": "Noyon", "obj_label": "France", "uuid": "03c9d9d7-aecb-4c02-b1f1-c285ac1f7e09", "rel_ix": "P17_785", "pattern_ix": 1}
+{"prompt": "Noyon, located in [MASK].", "sub_label": "Noyon", "obj_label": "France", "uuid": "03c9d9d7-aecb-4c02-b1f1-c285ac1f7e09", "rel_ix": "P17_785", "pattern_ix": 2}
+{"prompt": "Democratic Russia is located in [MASK] .", "sub_label": "Democratic Russia", "obj_label": "Russia", "uuid": "a9ebf533-d21b-4287-95d2-7e56c8864a04", "rel_ix": "P17_790", "pattern_ix": 0}
+{"prompt": "Democratic Russia, which is located in [MASK].", "sub_label": "Democratic Russia", "obj_label": "Russia", "uuid": "a9ebf533-d21b-4287-95d2-7e56c8864a04", "rel_ix": "P17_790", "pattern_ix": 1}
+{"prompt": "Democratic Russia, located in [MASK].", "sub_label": "Democratic Russia", "obj_label": "Russia", "uuid": "a9ebf533-d21b-4287-95d2-7e56c8864a04", "rel_ix": "P17_790", "pattern_ix": 2}
+{"prompt": "Soalala District is located in [MASK] .", "sub_label": "Soalala District", "obj_label": "Madagascar", "uuid": "345521ce-669c-4f2d-8881-549975bf67f8", "rel_ix": "P17_803", "pattern_ix": 0}
+{"prompt": "Soalala District, which is located in [MASK].", "sub_label": "Soalala District", "obj_label": "Madagascar", "uuid": "345521ce-669c-4f2d-8881-549975bf67f8", "rel_ix": "P17_803", "pattern_ix": 1}
+{"prompt": "Soalala District, located in [MASK].", "sub_label": "Soalala District", "obj_label": "Madagascar", "uuid": "345521ce-669c-4f2d-8881-549975bf67f8", "rel_ix": "P17_803", "pattern_ix": 2}
+{"prompt": "Infocomm Development Authority of Singapore is located in [MASK] .", "sub_label": "Infocomm Development Authority of Singapore", "obj_label": "Singapore", "uuid": "7cf17357-5d29-4c02-bd30-19ad4d94d885", "rel_ix": "P17_804", "pattern_ix": 0}
+{"prompt": "Infocomm Development Authority of Singapore, which is located in [MASK].", "sub_label": "Infocomm Development Authority of Singapore", "obj_label": "Singapore", "uuid": "7cf17357-5d29-4c02-bd30-19ad4d94d885", "rel_ix": "P17_804", "pattern_ix": 1}
+{"prompt": "Infocomm Development Authority of Singapore, located in [MASK].", "sub_label": "Infocomm Development Authority of Singapore", "obj_label": "Singapore", "uuid": "7cf17357-5d29-4c02-bd30-19ad4d94d885", "rel_ix": "P17_804", "pattern_ix": 2}
+{"prompt": "Maybach is located in [MASK] .", "sub_label": "Maybach", "obj_label": "Germany", "uuid": "9416ec49-8872-4a5b-a85e-51f6890f99a9", "rel_ix": "P17_806", "pattern_ix": 0}
+{"prompt": "Maybach, which is located in [MASK].", "sub_label": "Maybach", "obj_label": "Germany", "uuid": "9416ec49-8872-4a5b-a85e-51f6890f99a9", "rel_ix": "P17_806", "pattern_ix": 1}
+{"prompt": "Maybach, located in [MASK].", "sub_label": "Maybach", "obj_label": "Germany", "uuid": "9416ec49-8872-4a5b-a85e-51f6890f99a9", "rel_ix": "P17_806", "pattern_ix": 2}
+{"prompt": "Saint Gayane Church is located in [MASK] .", "sub_label": "Saint Gayane Church", "obj_label": "Armenia", "uuid": "1158fd17-38b6-4a0a-a177-125bb0a42031", "rel_ix": "P17_824", "pattern_ix": 0}
+{"prompt": "Saint Gayane Church, which is located in [MASK].", "sub_label": "Saint Gayane Church", "obj_label": "Armenia", "uuid": "1158fd17-38b6-4a0a-a177-125bb0a42031", "rel_ix": "P17_824", "pattern_ix": 1}
+{"prompt": "Saint Gayane Church, located in [MASK].", "sub_label": "Saint Gayane Church", "obj_label": "Armenia", "uuid": "1158fd17-38b6-4a0a-a177-125bb0a42031", "rel_ix": "P17_824", "pattern_ix": 2}
+{"prompt": "Mandara Mountains is located in [MASK] .", "sub_label": "Mandara Mountains", "obj_label": "Nigeria", "uuid": "b7fa7751-3546-4df5-a87f-d871b6a7456e", "rel_ix": "P17_833", "pattern_ix": 0}
+{"prompt": "Mandara Mountains, which is located in [MASK].", "sub_label": "Mandara Mountains", "obj_label": "Nigeria", "uuid": "b7fa7751-3546-4df5-a87f-d871b6a7456e", "rel_ix": "P17_833", "pattern_ix": 1}
+{"prompt": "Mandara Mountains, located in [MASK].", "sub_label": "Mandara Mountains", "obj_label": "Nigeria", "uuid": "b7fa7751-3546-4df5-a87f-d871b6a7456e", "rel_ix": "P17_833", "pattern_ix": 2}
+{"prompt": "Drumheller-Stettler is located in [MASK] .", "sub_label": "Drumheller-Stettler", "obj_label": "Canada", "uuid": "b2502dfd-6879-445c-9b31-21519d12d588", "rel_ix": "P17_839", "pattern_ix": 0}
+{"prompt": "Drumheller-Stettler, which is located in [MASK].", "sub_label": "Drumheller-Stettler", "obj_label": "Canada", "uuid": "b2502dfd-6879-445c-9b31-21519d12d588", "rel_ix": "P17_839", "pattern_ix": 1}
+{"prompt": "Drumheller-Stettler, located in [MASK].", "sub_label": "Drumheller-Stettler", "obj_label": "Canada", "uuid": "b2502dfd-6879-445c-9b31-21519d12d588", "rel_ix": "P17_839", "pattern_ix": 2}
+{"prompt": "Eirodziesma is located in [MASK] .", "sub_label": "Eirodziesma", "obj_label": "Latvia", "uuid": "d16d9cce-69a8-452d-b72a-29d9785ca2d5", "rel_ix": "P17_842", "pattern_ix": 0}
+{"prompt": "Eirodziesma, which is located in [MASK].", "sub_label": "Eirodziesma", "obj_label": "Latvia", "uuid": "d16d9cce-69a8-452d-b72a-29d9785ca2d5", "rel_ix": "P17_842", "pattern_ix": 1}
+{"prompt": "Eirodziesma, located in [MASK].", "sub_label": "Eirodziesma", "obj_label": "Latvia", "uuid": "d16d9cce-69a8-452d-b72a-29d9785ca2d5", "rel_ix": "P17_842", "pattern_ix": 2}
+{"prompt": "Hamilton Mountain is located in [MASK] .", "sub_label": "Hamilton Mountain", "obj_label": "Canada", "uuid": "2d4e330a-e5ba-4438-9b69-4c181f5eec59", "rel_ix": "P17_860", "pattern_ix": 0}
+{"prompt": "Hamilton Mountain, which is located in [MASK].", "sub_label": "Hamilton Mountain", "obj_label": "Canada", "uuid": "2d4e330a-e5ba-4438-9b69-4c181f5eec59", "rel_ix": "P17_860", "pattern_ix": 1}
+{"prompt": "Hamilton Mountain, located in [MASK].", "sub_label": "Hamilton Mountain", "obj_label": "Canada", "uuid": "2d4e330a-e5ba-4438-9b69-4c181f5eec59", "rel_ix": "P17_860", "pattern_ix": 2}
+{"prompt": "Mahalangur Himal is located in [MASK] .", "sub_label": "Mahalangur Himal", "obj_label": "Nepal", "uuid": "b4a8cef4-4ab3-411d-a816-df3ca4ce759c", "rel_ix": "P17_861", "pattern_ix": 0}
+{"prompt": "Mahalangur Himal, which is located in [MASK].", "sub_label": "Mahalangur Himal", "obj_label": "Nepal", "uuid": "b4a8cef4-4ab3-411d-a816-df3ca4ce759c", "rel_ix": "P17_861", "pattern_ix": 1}
+{"prompt": "Mahalangur Himal, located in [MASK].", "sub_label": "Mahalangur Himal", "obj_label": "Nepal", "uuid": "b4a8cef4-4ab3-411d-a816-df3ca4ce759c", "rel_ix": "P17_861", "pattern_ix": 2}
+{"prompt": "Ky\u014dto Prefecture is located in [MASK] .", "sub_label": "Ky\u014dto Prefecture", "obj_label": "Japan", "uuid": "c25005ef-e369-434b-b931-8acde62adbb1", "rel_ix": "P17_865", "pattern_ix": 0}
+{"prompt": "Ky\u014dto Prefecture, which is located in [MASK].", "sub_label": "Ky\u014dto Prefecture", "obj_label": "Japan", "uuid": "c25005ef-e369-434b-b931-8acde62adbb1", "rel_ix": "P17_865", "pattern_ix": 1}
+{"prompt": "Ky\u014dto Prefecture, located in [MASK].", "sub_label": "Ky\u014dto Prefecture", "obj_label": "Japan", "uuid": "c25005ef-e369-434b-b931-8acde62adbb1", "rel_ix": "P17_865", "pattern_ix": 2}
+{"prompt": "Bukit Panjang Single Member Constituency is located in [MASK] .", "sub_label": "Bukit Panjang Single Member Constituency", "obj_label": "Singapore", "uuid": "15a786b5-3fed-477b-a008-09924f66e622", "rel_ix": "P17_877", "pattern_ix": 0}
+{"prompt": "Bukit Panjang Single Member Constituency, which is located in [MASK].", "sub_label": "Bukit Panjang Single Member Constituency", "obj_label": "Singapore", "uuid": "15a786b5-3fed-477b-a008-09924f66e622", "rel_ix": "P17_877", "pattern_ix": 1}
+{"prompt": "Bukit Panjang Single Member Constituency, located in [MASK].", "sub_label": "Bukit Panjang Single Member Constituency", "obj_label": "Singapore", "uuid": "15a786b5-3fed-477b-a008-09924f66e622", "rel_ix": "P17_877", "pattern_ix": 2}
+{"prompt": "Venezuelan recall referendum is located in [MASK] .", "sub_label": "Venezuelan recall referendum", "obj_label": "Venezuela", "uuid": "54f552c9-8ae7-4337-9358-2ed8ce6ec758", "rel_ix": "P17_879", "pattern_ix": 0}
+{"prompt": "Venezuelan recall referendum, which is located in [MASK].", "sub_label": "Venezuelan recall referendum", "obj_label": "Venezuela", "uuid": "54f552c9-8ae7-4337-9358-2ed8ce6ec758", "rel_ix": "P17_879", "pattern_ix": 1}
+{"prompt": "Venezuelan recall referendum, located in [MASK].", "sub_label": "Venezuelan recall referendum", "obj_label": "Venezuela", "uuid": "54f552c9-8ae7-4337-9358-2ed8ce6ec758", "rel_ix": "P17_879", "pattern_ix": 2}
+{"prompt": "Mittag-Leffler Institute is located in [MASK] .", "sub_label": "Mittag-Leffler Institute", "obj_label": "Sweden", "uuid": "0c62c424-0d7c-4501-b700-8075c39d1d91", "rel_ix": "P17_880", "pattern_ix": 0}
+{"prompt": "Mittag-Leffler Institute, which is located in [MASK].", "sub_label": "Mittag-Leffler Institute", "obj_label": "Sweden", "uuid": "0c62c424-0d7c-4501-b700-8075c39d1d91", "rel_ix": "P17_880", "pattern_ix": 1}
+{"prompt": "Mittag-Leffler Institute, located in [MASK].", "sub_label": "Mittag-Leffler Institute", "obj_label": "Sweden", "uuid": "0c62c424-0d7c-4501-b700-8075c39d1d91", "rel_ix": "P17_880", "pattern_ix": 2}
+{"prompt": "Nishi-Matsuura District is located in [MASK] .", "sub_label": "Nishi-Matsuura District", "obj_label": "Japan", "uuid": "478368c7-ffa3-4d80-b187-6989e13f4af5", "rel_ix": "P17_890", "pattern_ix": 0}
+{"prompt": "Nishi-Matsuura District, which is located in [MASK].", "sub_label": "Nishi-Matsuura District", "obj_label": "Japan", "uuid": "478368c7-ffa3-4d80-b187-6989e13f4af5", "rel_ix": "P17_890", "pattern_ix": 1}
+{"prompt": "Nishi-Matsuura District, located in [MASK].", "sub_label": "Nishi-Matsuura District", "obj_label": "Japan", "uuid": "478368c7-ffa3-4d80-b187-6989e13f4af5", "rel_ix": "P17_890", "pattern_ix": 2}
+{"prompt": "Castleisland Desmonds GAA is located in [MASK] .", "sub_label": "Castleisland Desmonds GAA", "obj_label": "Ireland", "uuid": "b55ce6c0-fe2d-4aff-a739-973bcce1379a", "rel_ix": "P17_893", "pattern_ix": 0}
+{"prompt": "Castleisland Desmonds GAA, which is located in [MASK].", "sub_label": "Castleisland Desmonds GAA", "obj_label": "Ireland", "uuid": "b55ce6c0-fe2d-4aff-a739-973bcce1379a", "rel_ix": "P17_893", "pattern_ix": 1}
+{"prompt": "Castleisland Desmonds GAA, located in [MASK].", "sub_label": "Castleisland Desmonds GAA", "obj_label": "Ireland", "uuid": "b55ce6c0-fe2d-4aff-a739-973bcce1379a", "rel_ix": "P17_893", "pattern_ix": 2}
+{"prompt": "Shire of Wambo is located in [MASK] .", "sub_label": "Shire of Wambo", "obj_label": "Australia", "uuid": "c02c90c1-4435-4684-88cd-e5169b25e147", "rel_ix": "P17_894", "pattern_ix": 0}
+{"prompt": "Shire of Wambo, which is located in [MASK].", "sub_label": "Shire of Wambo", "obj_label": "Australia", "uuid": "c02c90c1-4435-4684-88cd-e5169b25e147", "rel_ix": "P17_894", "pattern_ix": 1}
+{"prompt": "Shire of Wambo, located in [MASK].", "sub_label": "Shire of Wambo", "obj_label": "Australia", "uuid": "c02c90c1-4435-4684-88cd-e5169b25e147", "rel_ix": "P17_894", "pattern_ix": 2}
+{"prompt": "Santo Spirito in Sassia is located in [MASK] .", "sub_label": "Santo Spirito in Sassia", "obj_label": "Italy", "uuid": "0fcf50ee-a676-4a70-9302-4d6b577bd4ee", "rel_ix": "P17_899", "pattern_ix": 0}
+{"prompt": "Santo Spirito in Sassia, which is located in [MASK].", "sub_label": "Santo Spirito in Sassia", "obj_label": "Italy", "uuid": "0fcf50ee-a676-4a70-9302-4d6b577bd4ee", "rel_ix": "P17_899", "pattern_ix": 1}
+{"prompt": "Santo Spirito in Sassia, located in [MASK].", "sub_label": "Santo Spirito in Sassia", "obj_label": "Italy", "uuid": "0fcf50ee-a676-4a70-9302-4d6b577bd4ee", "rel_ix": "P17_899", "pattern_ix": 2}
+{"prompt": "Kennedy Highway is located in [MASK] .", "sub_label": "Kennedy Highway", "obj_label": "Australia", "uuid": "ddba7e5f-42fd-4838-b60f-eda997a1ac3f", "rel_ix": "P17_900", "pattern_ix": 0}
+{"prompt": "Kennedy Highway, which is located in [MASK].", "sub_label": "Kennedy Highway", "obj_label": "Australia", "uuid": "ddba7e5f-42fd-4838-b60f-eda997a1ac3f", "rel_ix": "P17_900", "pattern_ix": 1}
+{"prompt": "Kennedy Highway, located in [MASK].", "sub_label": "Kennedy Highway", "obj_label": "Australia", "uuid": "ddba7e5f-42fd-4838-b60f-eda997a1ac3f", "rel_ix": "P17_900", "pattern_ix": 2}
+{"prompt": "Christian Democrats is located in [MASK] .", "sub_label": "Christian Democrats", "obj_label": "Finland", "uuid": "e09bb7c3-f5b3-49d4-871a-ef3ad2bc94a5", "rel_ix": "P17_904", "pattern_ix": 0}
+{"prompt": "Christian Democrats, which is located in [MASK].", "sub_label": "Christian Democrats", "obj_label": "Finland", "uuid": "e09bb7c3-f5b3-49d4-871a-ef3ad2bc94a5", "rel_ix": "P17_904", "pattern_ix": 1}
+{"prompt": "Christian Democrats, located in [MASK].", "sub_label": "Christian Democrats", "obj_label": "Finland", "uuid": "e09bb7c3-f5b3-49d4-871a-ef3ad2bc94a5", "rel_ix": "P17_904", "pattern_ix": 2}
+{"prompt": "IJmuiden is located in [MASK] .", "sub_label": "IJmuiden", "obj_label": "Netherlands", "uuid": "256bf53c-e2e5-45cd-b0bf-c06e23a84443", "rel_ix": "P17_905", "pattern_ix": 0}
+{"prompt": "IJmuiden, which is located in [MASK].", "sub_label": "IJmuiden", "obj_label": "Netherlands", "uuid": "256bf53c-e2e5-45cd-b0bf-c06e23a84443", "rel_ix": "P17_905", "pattern_ix": 1}
+{"prompt": "IJmuiden, located in [MASK].", "sub_label": "IJmuiden", "obj_label": "Netherlands", "uuid": "256bf53c-e2e5-45cd-b0bf-c06e23a84443", "rel_ix": "P17_905", "pattern_ix": 2}

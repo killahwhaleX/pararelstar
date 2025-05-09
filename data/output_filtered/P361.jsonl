@@ -1,0 +1,274 @@
+{"prompt": "algorithm is part of [MASK].", "sub_label": "algorithm", "obj_label": "mathematics", "uuid": "57d237a5-8190-44d7-bdbd-56151a87eb36", "rel_ix": "P361_6", "pattern_ix": 0}
+{"prompt": "algorithm is a part of [MASK].", "sub_label": "algorithm", "obj_label": "mathematics", "uuid": "57d237a5-8190-44d7-bdbd-56151a87eb36", "rel_ix": "P361_6", "pattern_ix": 1}
+{"prompt": "subgenus is part of [MASK].", "sub_label": "subgenus", "obj_label": "genus", "uuid": "90ee3bfc-a3ad-4b0e-96e1-e73cb368b98a", "rel_ix": "P361_10", "pattern_ix": 0}
+{"prompt": "subgenus is a part of [MASK].", "sub_label": "subgenus", "obj_label": "genus", "uuid": "90ee3bfc-a3ad-4b0e-96e1-e73cb368b98a", "rel_ix": "P361_10", "pattern_ix": 1}
+{"prompt": "lithosphere is part of [MASK].", "sub_label": "lithosphere", "obj_label": "Earth", "uuid": "f64ae487-7f4c-4f16-ad47-04d7a468cbde", "rel_ix": "P361_13", "pattern_ix": 0}
+{"prompt": "lithosphere is a part of [MASK].", "sub_label": "lithosphere", "obj_label": "Earth", "uuid": "f64ae487-7f4c-4f16-ad47-04d7a468cbde", "rel_ix": "P361_13", "pattern_ix": 1}
+{"prompt": "Gautama Buddha is part of [MASK].", "sub_label": "Gautama Buddha", "obj_label": "Buddhism", "uuid": "612ed5e3-fbd3-48dc-a226-d1d424c9ea81", "rel_ix": "P361_15", "pattern_ix": 0}
+{"prompt": "Gautama Buddha is a part of [MASK].", "sub_label": "Gautama Buddha", "obj_label": "Buddhism", "uuid": "612ed5e3-fbd3-48dc-a226-d1d424c9ea81", "rel_ix": "P361_15", "pattern_ix": 1}
+{"prompt": "Antarctic is part of [MASK].", "sub_label": "Antarctic", "obj_label": "Earth", "uuid": "bc928c9c-187a-4484-8535-a172b55b68fd", "rel_ix": "P361_16", "pattern_ix": 0}
+{"prompt": "Antarctic is a part of [MASK].", "sub_label": "Antarctic", "obj_label": "Earth", "uuid": "bc928c9c-187a-4484-8535-a172b55b68fd", "rel_ix": "P361_16", "pattern_ix": 1}
+{"prompt": "Ahimsa is part of [MASK].", "sub_label": "Ahimsa", "obj_label": "Buddhism", "uuid": "d422bb36-519c-462a-9f23-f0a3f36e638a", "rel_ix": "P361_26", "pattern_ix": 0}
+{"prompt": "Ahimsa is a part of [MASK].", "sub_label": "Ahimsa", "obj_label": "Buddhism", "uuid": "d422bb36-519c-462a-9f23-f0a3f36e638a", "rel_ix": "P361_26", "pattern_ix": 1}
+{"prompt": "geometry is part of [MASK].", "sub_label": "geometry", "obj_label": "mathematics", "uuid": "401f01e2-c9e2-4b74-9510-e03175fd99b5", "rel_ix": "P361_29", "pattern_ix": 0}
+{"prompt": "geometry is a part of [MASK].", "sub_label": "geometry", "obj_label": "mathematics", "uuid": "401f01e2-c9e2-4b74-9510-e03175fd99b5", "rel_ix": "P361_29", "pattern_ix": 1}
+{"prompt": "ANSI C is part of [MASK].", "sub_label": "ANSI C", "obj_label": "C", "uuid": "86345aee-0977-429b-9781-30336eef4cea", "rel_ix": "P361_31", "pattern_ix": 0}
+{"prompt": "ANSI C is a part of [MASK].", "sub_label": "ANSI C", "obj_label": "C", "uuid": "86345aee-0977-429b-9781-30336eef4cea", "rel_ix": "P361_31", "pattern_ix": 1}
+{"prompt": "runway is part of [MASK].", "sub_label": "runway", "obj_label": "airport", "uuid": "87faf022-646d-4764-a3f4-e402d8fc8e17", "rel_ix": "P361_36", "pattern_ix": 0}
+{"prompt": "runway is a part of [MASK].", "sub_label": "runway", "obj_label": "airport", "uuid": "87faf022-646d-4764-a3f4-e402d8fc8e17", "rel_ix": "P361_36", "pattern_ix": 1}
+{"prompt": "Western Europe is part of [MASK].", "sub_label": "Western Europe", "obj_label": "Europe", "uuid": "4e63ffe1-a096-479e-9d89-6945b901c522", "rel_ix": "P361_37", "pattern_ix": 0}
+{"prompt": "Western Europe is a part of [MASK].", "sub_label": "Western Europe", "obj_label": "Europe", "uuid": "4e63ffe1-a096-479e-9d89-6945b901c522", "rel_ix": "P361_37", "pattern_ix": 1}
+{"prompt": "celestial sphere is part of [MASK].", "sub_label": "celestial sphere", "obj_label": "astronomy", "uuid": "817fb673-8619-4d81-accf-e23c1b9d3f48", "rel_ix": "P361_50", "pattern_ix": 0}
+{"prompt": "celestial sphere is a part of [MASK].", "sub_label": "celestial sphere", "obj_label": "astronomy", "uuid": "817fb673-8619-4d81-accf-e23c1b9d3f48", "rel_ix": "P361_50", "pattern_ix": 1}
+{"prompt": "Supreme Headquarters Allied Powers Europe is part of [MASK].", "sub_label": "Supreme Headquarters Allied Powers Europe", "obj_label": "NATO", "uuid": "2c298af9-7372-433c-9050-a651eb191420", "rel_ix": "P361_51", "pattern_ix": 0}
+{"prompt": "Supreme Headquarters Allied Powers Europe is a part of [MASK].", "sub_label": "Supreme Headquarters Allied Powers Europe", "obj_label": "NATO", "uuid": "2c298af9-7372-433c-9050-a651eb191420", "rel_ix": "P361_51", "pattern_ix": 1}
+{"prompt": "Lesser Antilles is part of [MASK].", "sub_label": "Lesser Antilles", "obj_label": "Caribbean", "uuid": "29705384-fb9b-4a97-91e6-57f8e2452df7", "rel_ix": "P361_52", "pattern_ix": 0}
+{"prompt": "Lesser Antilles is a part of [MASK].", "sub_label": "Lesser Antilles", "obj_label": "Caribbean", "uuid": "29705384-fb9b-4a97-91e6-57f8e2452df7", "rel_ix": "P361_52", "pattern_ix": 1}
+{"prompt": "whey is part of [MASK].", "sub_label": "whey", "obj_label": "milk", "uuid": "e69a9a01-b518-46f1-8c44-4e8288c6150b", "rel_ix": "P361_56", "pattern_ix": 0}
+{"prompt": "whey is a part of [MASK].", "sub_label": "whey", "obj_label": "milk", "uuid": "e69a9a01-b518-46f1-8c44-4e8288c6150b", "rel_ix": "P361_56", "pattern_ix": 1}
+{"prompt": "physical cosmology is part of [MASK].", "sub_label": "physical cosmology", "obj_label": "astronomy", "uuid": "66dc6746-3176-4f6a-a98c-f43f8c6d8a18", "rel_ix": "P361_58", "pattern_ix": 0}
+{"prompt": "physical cosmology is a part of [MASK].", "sub_label": "physical cosmology", "obj_label": "astronomy", "uuid": "66dc6746-3176-4f6a-a98c-f43f8c6d8a18", "rel_ix": "P361_58", "pattern_ix": 1}
+{"prompt": "cannon is part of [MASK].", "sub_label": "cannon", "obj_label": "artillery", "uuid": "3571a256-0d1e-4f57-a4a7-2d7dddfa00bf", "rel_ix": "P361_60", "pattern_ix": 0}
+{"prompt": "cannon is a part of [MASK].", "sub_label": "cannon", "obj_label": "artillery", "uuid": "3571a256-0d1e-4f57-a4a7-2d7dddfa00bf", "rel_ix": "P361_60", "pattern_ix": 1}
+{"prompt": "Jewish denomination is part of [MASK].", "sub_label": "Jewish denomination", "obj_label": "Judaism", "uuid": "b4f7fcc3-509b-4b01-bd87-96495fd6850e", "rel_ix": "P361_62", "pattern_ix": 0}
+{"prompt": "Jewish denomination is a part of [MASK].", "sub_label": "Jewish denomination", "obj_label": "Judaism", "uuid": "b4f7fcc3-509b-4b01-bd87-96495fd6850e", "rel_ix": "P361_62", "pattern_ix": 1}
+{"prompt": "oral medicine is part of [MASK].", "sub_label": "oral medicine", "obj_label": "medicine", "uuid": "f232b7e7-2c32-4e5b-83e7-a67873d307fa", "rel_ix": "P361_71", "pattern_ix": 0}
+{"prompt": "oral medicine is a part of [MASK].", "sub_label": "oral medicine", "obj_label": "medicine", "uuid": "f232b7e7-2c32-4e5b-83e7-a67873d307fa", "rel_ix": "P361_71", "pattern_ix": 1}
+{"prompt": "Greater Antilles is part of [MASK].", "sub_label": "Greater Antilles", "obj_label": "Caribbean", "uuid": "b08e7cbf-d52b-49c0-8ea9-6f88186bee9f", "rel_ix": "P361_72", "pattern_ix": 0}
+{"prompt": "Greater Antilles is a part of [MASK].", "sub_label": "Greater Antilles", "obj_label": "Caribbean", "uuid": "b08e7cbf-d52b-49c0-8ea9-6f88186bee9f", "rel_ix": "P361_72", "pattern_ix": 1}
+{"prompt": "Denial of Peter is part of [MASK].", "sub_label": "Denial of Peter", "obj_label": "gospel", "uuid": "aa5c4002-3c42-4fc4-a9c9-edb2ee650216", "rel_ix": "P361_73", "pattern_ix": 0}
+{"prompt": "Denial of Peter is a part of [MASK].", "sub_label": "Denial of Peter", "obj_label": "gospel", "uuid": "aa5c4002-3c42-4fc4-a9c9-edb2ee650216", "rel_ix": "P361_73", "pattern_ix": 1}
+{"prompt": "Nile Delta is part of [MASK].", "sub_label": "Nile Delta", "obj_label": "Nile", "uuid": "7d4424a4-ba7e-4dd8-bc8f-e07cedb90b21", "rel_ix": "P361_80", "pattern_ix": 0}
+{"prompt": "Nile Delta is a part of [MASK].", "sub_label": "Nile Delta", "obj_label": "Nile", "uuid": "7d4424a4-ba7e-4dd8-bc8f-e07cedb90b21", "rel_ix": "P361_80", "pattern_ix": 1}
+{"prompt": "hydrosphere is part of [MASK].", "sub_label": "hydrosphere", "obj_label": "Earth", "uuid": "7ad6a34e-8d1a-477f-b48e-c12bb1754bdd", "rel_ix": "P361_82", "pattern_ix": 0}
+{"prompt": "hydrosphere is a part of [MASK].", "sub_label": "hydrosphere", "obj_label": "Earth", "uuid": "7ad6a34e-8d1a-477f-b48e-c12bb1754bdd", "rel_ix": "P361_82", "pattern_ix": 1}
+{"prompt": "chessboard is part of [MASK].", "sub_label": "chessboard", "obj_label": "chess", "uuid": "bac7d70d-1775-4c62-8001-c8ac07742482", "rel_ix": "P361_86", "pattern_ix": 0}
+{"prompt": "chessboard is a part of [MASK].", "sub_label": "chessboard", "obj_label": "chess", "uuid": "bac7d70d-1775-4c62-8001-c8ac07742482", "rel_ix": "P361_86", "pattern_ix": 1}
+{"prompt": "sura is part of [MASK].", "sub_label": "sura", "obj_label": "Quran", "uuid": "37088056-8d88-4876-bc99-8fd92dd98755", "rel_ix": "P361_91", "pattern_ix": 0}
+{"prompt": "sura is a part of [MASK].", "sub_label": "sura", "obj_label": "Quran", "uuid": "37088056-8d88-4876-bc99-8fd92dd98755", "rel_ix": "P361_91", "pattern_ix": 1}
+{"prompt": "Iran is part of [MASK].", "sub_label": "Iran", "obj_label": "Asia", "uuid": "c1467628-6340-418d-961c-41151d70ce98", "rel_ix": "P361_99", "pattern_ix": 0}
+{"prompt": "Iran is a part of [MASK].", "sub_label": "Iran", "obj_label": "Asia", "uuid": "c1467628-6340-418d-961c-41151d70ce98", "rel_ix": "P361_99", "pattern_ix": 1}
+{"prompt": "economic history is part of [MASK].", "sub_label": "economic history", "obj_label": "economics", "uuid": "7825ceb3-4e4d-4e60-ac36-1da3120ea514", "rel_ix": "P361_116", "pattern_ix": 0}
+{"prompt": "economic history is a part of [MASK].", "sub_label": "economic history", "obj_label": "economics", "uuid": "7825ceb3-4e4d-4e60-ac36-1da3120ea514", "rel_ix": "P361_116", "pattern_ix": 1}
+{"prompt": "Jamaica Plain is part of [MASK].", "sub_label": "Jamaica Plain", "obj_label": "Boston", "uuid": "9e94b586-2db2-487a-9c39-69b38c6b7d51", "rel_ix": "P361_120", "pattern_ix": 0}
+{"prompt": "Jamaica Plain is a part of [MASK].", "sub_label": "Jamaica Plain", "obj_label": "Boston", "uuid": "9e94b586-2db2-487a-9c39-69b38c6b7d51", "rel_ix": "P361_120", "pattern_ix": 1}
+{"prompt": "theoretical chemistry is part of [MASK].", "sub_label": "theoretical chemistry", "obj_label": "chemistry", "uuid": "65726386-0684-4062-858a-dc62dbb34b36", "rel_ix": "P361_122", "pattern_ix": 0}
+{"prompt": "theoretical chemistry is a part of [MASK].", "sub_label": "theoretical chemistry", "obj_label": "chemistry", "uuid": "65726386-0684-4062-858a-dc62dbb34b36", "rel_ix": "P361_122", "pattern_ix": 1}
+{"prompt": "pericarp is part of [MASK].", "sub_label": "pericarp", "obj_label": "fruit", "uuid": "3deb6a22-5337-42c0-8949-455271f660d6", "rel_ix": "P361_139", "pattern_ix": 0}
+{"prompt": "pericarp is a part of [MASK].", "sub_label": "pericarp", "obj_label": "fruit", "uuid": "3deb6a22-5337-42c0-8949-455271f660d6", "rel_ix": "P361_139", "pattern_ix": 1}
+{"prompt": "covert feather is part of [MASK].", "sub_label": "covert feather", "obj_label": "bird", "uuid": "af9d59d3-bec8-4fa4-880a-e731ec559d5d", "rel_ix": "P361_143", "pattern_ix": 0}
+{"prompt": "covert feather is a part of [MASK].", "sub_label": "covert feather", "obj_label": "bird", "uuid": "af9d59d3-bec8-4fa4-880a-e731ec559d5d", "rel_ix": "P361_143", "pattern_ix": 1}
+{"prompt": "obverse is part of [MASK].", "sub_label": "obverse", "obj_label": "coin", "uuid": "b3bdc8da-e6ab-4cda-b182-7007e7967036", "rel_ix": "P361_147", "pattern_ix": 0}
+{"prompt": "obverse is a part of [MASK].", "sub_label": "obverse", "obj_label": "coin", "uuid": "b3bdc8da-e6ab-4cda-b182-7007e7967036", "rel_ix": "P361_147", "pattern_ix": 1}
+{"prompt": "English grammar is part of [MASK].", "sub_label": "English grammar", "obj_label": "English", "uuid": "5f56f59a-6ef8-44f0-b430-01d5f7e7d013", "rel_ix": "P361_148", "pattern_ix": 0}
+{"prompt": "English grammar is a part of [MASK].", "sub_label": "English grammar", "obj_label": "English", "uuid": "5f56f59a-6ef8-44f0-b430-01d5f7e7d013", "rel_ix": "P361_148", "pattern_ix": 1}
+{"prompt": "frontal bone is part of [MASK].", "sub_label": "frontal bone", "obj_label": "skull", "uuid": "ce2d0e9a-12ab-4fae-af9d-6632e15ea7b8", "rel_ix": "P361_158", "pattern_ix": 0}
+{"prompt": "frontal bone is a part of [MASK].", "sub_label": "frontal bone", "obj_label": "skull", "uuid": "ce2d0e9a-12ab-4fae-af9d-6632e15ea7b8", "rel_ix": "P361_158", "pattern_ix": 1}
+{"prompt": "rennet is part of [MASK].", "sub_label": "rennet", "obj_label": "cheese", "uuid": "1353f934-c57d-4969-b721-912ac0fae7a3", "rel_ix": "P361_159", "pattern_ix": 0}
+{"prompt": "rennet is a part of [MASK].", "sub_label": "rennet", "obj_label": "cheese", "uuid": "1353f934-c57d-4969-b721-912ac0fae7a3", "rel_ix": "P361_159", "pattern_ix": 1}
+{"prompt": "nuclear physics is part of [MASK].", "sub_label": "nuclear physics", "obj_label": "physics", "uuid": "76c9b9d1-4426-4165-9ad2-413f8cc68fcf", "rel_ix": "P361_162", "pattern_ix": 0}
+{"prompt": "nuclear physics is a part of [MASK].", "sub_label": "nuclear physics", "obj_label": "physics", "uuid": "76c9b9d1-4426-4165-9ad2-413f8cc68fcf", "rel_ix": "P361_162", "pattern_ix": 1}
+{"prompt": "parish church is part of [MASK].", "sub_label": "parish church", "obj_label": "parish", "uuid": "77b868d3-3c6c-43e9-9a6d-f6672d800ab0", "rel_ix": "P361_174", "pattern_ix": 0}
+{"prompt": "parish church is a part of [MASK].", "sub_label": "parish church", "obj_label": "parish", "uuid": "77b868d3-3c6c-43e9-9a6d-f6672d800ab0", "rel_ix": "P361_174", "pattern_ix": 1}
+{"prompt": "sex organ is part of [MASK].", "sub_label": "sex organ", "obj_label": "organism", "uuid": "0fb21b02-ca7d-4560-b0e9-2d7e407b4a22", "rel_ix": "P361_184", "pattern_ix": 0}
+{"prompt": "sex organ is a part of [MASK].", "sub_label": "sex organ", "obj_label": "organism", "uuid": "0fb21b02-ca7d-4560-b0e9-2d7e407b4a22", "rel_ix": "P361_184", "pattern_ix": 1}
+{"prompt": "Tate Liverpool is part of [MASK].", "sub_label": "Tate Liverpool", "obj_label": "Tate", "uuid": "c8ffdc99-f9e4-4a84-a5ee-1d47485c1994", "rel_ix": "P361_185", "pattern_ix": 0}
+{"prompt": "Tate Liverpool is a part of [MASK].", "sub_label": "Tate Liverpool", "obj_label": "Tate", "uuid": "c8ffdc99-f9e4-4a84-a5ee-1d47485c1994", "rel_ix": "P361_185", "pattern_ix": 1}
+{"prompt": "human evolution is part of [MASK].", "sub_label": "human evolution", "obj_label": "anthropology", "uuid": "7c1f642c-274e-42fe-a8c6-6259cdde9f69", "rel_ix": "P361_187", "pattern_ix": 0}
+{"prompt": "human evolution is a part of [MASK].", "sub_label": "human evolution", "obj_label": "anthropology", "uuid": "7c1f642c-274e-42fe-a8c6-6259cdde9f69", "rel_ix": "P361_187", "pattern_ix": 1}
+{"prompt": "brain stem is part of [MASK].", "sub_label": "brain stem", "obj_label": "brain", "uuid": "1c3f9c46-b14a-49d9-8954-8a3994998f7a", "rel_ix": "P361_190", "pattern_ix": 0}
+{"prompt": "brain stem is a part of [MASK].", "sub_label": "brain stem", "obj_label": "brain", "uuid": "1c3f9c46-b14a-49d9-8954-8a3994998f7a", "rel_ix": "P361_190", "pattern_ix": 1}
+{"prompt": "volcanic crater is part of [MASK].", "sub_label": "volcanic crater", "obj_label": "volcano", "uuid": "7c08f41f-b65f-46d8-9456-762d175b47f8", "rel_ix": "P361_192", "pattern_ix": 0}
+{"prompt": "volcanic crater is a part of [MASK].", "sub_label": "volcanic crater", "obj_label": "volcano", "uuid": "7c08f41f-b65f-46d8-9456-762d175b47f8", "rel_ix": "P361_192", "pattern_ix": 1}
+{"prompt": "atmosphere of Mars is part of [MASK].", "sub_label": "atmosphere of Mars", "obj_label": "Mars", "uuid": "6929ff5a-2abb-4309-8aee-ddd64b8b75b8", "rel_ix": "P361_193", "pattern_ix": 0}
+{"prompt": "atmosphere of Mars is a part of [MASK].", "sub_label": "atmosphere of Mars", "obj_label": "Mars", "uuid": "6929ff5a-2abb-4309-8aee-ddd64b8b75b8", "rel_ix": "P361_193", "pattern_ix": 1}
+{"prompt": "philosophy of language is part of [MASK].", "sub_label": "philosophy of language", "obj_label": "philosophy", "uuid": "928f102a-51cb-4d5a-abf9-294b533f32d3", "rel_ix": "P361_194", "pattern_ix": 0}
+{"prompt": "philosophy of language is a part of [MASK].", "sub_label": "philosophy of language", "obj_label": "philosophy", "uuid": "928f102a-51cb-4d5a-abf9-294b533f32d3", "rel_ix": "P361_194", "pattern_ix": 1}
+{"prompt": "periodization is part of [MASK].", "sub_label": "periodization", "obj_label": "history", "uuid": "d830f670-98a8-4a63-a9e1-d06d0ca3772c", "rel_ix": "P361_201", "pattern_ix": 0}
+{"prompt": "periodization is a part of [MASK].", "sub_label": "periodization", "obj_label": "history", "uuid": "d830f670-98a8-4a63-a9e1-d06d0ca3772c", "rel_ix": "P361_201", "pattern_ix": 1}
+{"prompt": "C preprocessor is part of [MASK].", "sub_label": "C preprocessor", "obj_label": "C", "uuid": "47422680-6d84-4cd7-a99f-1bf60fb64ec4", "rel_ix": "P361_211", "pattern_ix": 0}
+{"prompt": "C preprocessor is a part of [MASK].", "sub_label": "C preprocessor", "obj_label": "C", "uuid": "47422680-6d84-4cd7-a99f-1bf60fb64ec4", "rel_ix": "P361_211", "pattern_ix": 1}
+{"prompt": "stupa is part of [MASK].", "sub_label": "stupa", "obj_label": "Buddhism", "uuid": "888dc850-b962-4ef1-bbcc-ae3a0dbdf407", "rel_ix": "P361_212", "pattern_ix": 0}
+{"prompt": "stupa is a part of [MASK].", "sub_label": "stupa", "obj_label": "Buddhism", "uuid": "888dc850-b962-4ef1-bbcc-ae3a0dbdf407", "rel_ix": "P361_212", "pattern_ix": 1}
+{"prompt": "Valby is part of [MASK].", "sub_label": "Valby", "obj_label": "Copenhagen", "uuid": "c96402bd-891f-469f-80de-0afa37c033dc", "rel_ix": "P361_213", "pattern_ix": 0}
+{"prompt": "Valby is a part of [MASK].", "sub_label": "Valby", "obj_label": "Copenhagen", "uuid": "c96402bd-891f-469f-80de-0afa37c033dc", "rel_ix": "P361_213", "pattern_ix": 1}
+{"prompt": "foreskin is part of [MASK].", "sub_label": "foreskin", "obj_label": "penis", "uuid": "cdc01f5b-7586-4f7b-b2c6-f2d7a6b5b79a", "rel_ix": "P361_220", "pattern_ix": 0}
+{"prompt": "foreskin is a part of [MASK].", "sub_label": "foreskin", "obj_label": "penis", "uuid": "cdc01f5b-7586-4f7b-b2c6-f2d7a6b5b79a", "rel_ix": "P361_220", "pattern_ix": 1}
+{"prompt": "malleolus is part of [MASK].", "sub_label": "malleolus", "obj_label": "ankle", "uuid": "b72e8691-7b68-4406-92d9-0c5c282f8059", "rel_ix": "P361_221", "pattern_ix": 0}
+{"prompt": "malleolus is a part of [MASK].", "sub_label": "malleolus", "obj_label": "ankle", "uuid": "b72e8691-7b68-4406-92d9-0c5c282f8059", "rel_ix": "P361_221", "pattern_ix": 1}
+{"prompt": "understory is part of [MASK].", "sub_label": "understory", "obj_label": "forest", "uuid": "b0503141-dbd2-4d50-88a1-837f6c0e7d33", "rel_ix": "P361_222", "pattern_ix": 0}
+{"prompt": "understory is a part of [MASK].", "sub_label": "understory", "obj_label": "forest", "uuid": "b0503141-dbd2-4d50-88a1-837f6c0e7d33", "rel_ix": "P361_222", "pattern_ix": 1}
+{"prompt": "IBM Research is part of [MASK].", "sub_label": "IBM Research", "obj_label": "IBM", "uuid": "cb3b3315-872f-4c7c-bf62-e639552ee72c", "rel_ix": "P361_223", "pattern_ix": 0}
+{"prompt": "IBM Research is a part of [MASK].", "sub_label": "IBM Research", "obj_label": "IBM", "uuid": "cb3b3315-872f-4c7c-bf62-e639552ee72c", "rel_ix": "P361_223", "pattern_ix": 1}
+{"prompt": "mesencephalon is part of [MASK].", "sub_label": "mesencephalon", "obj_label": "brain", "uuid": "1dc3170f-1880-4555-afc0-5070ad99ed43", "rel_ix": "P361_229", "pattern_ix": 0}
+{"prompt": "mesencephalon is a part of [MASK].", "sub_label": "mesencephalon", "obj_label": "brain", "uuid": "1dc3170f-1880-4555-afc0-5070ad99ed43", "rel_ix": "P361_229", "pattern_ix": 1}
+{"prompt": "experimental physics is part of [MASK].", "sub_label": "experimental physics", "obj_label": "physics", "uuid": "cefebeb1-371b-436b-a0d3-469efbc3811c", "rel_ix": "P361_234", "pattern_ix": 0}
+{"prompt": "experimental physics is a part of [MASK].", "sub_label": "experimental physics", "obj_label": "physics", "uuid": "cefebeb1-371b-436b-a0d3-469efbc3811c", "rel_ix": "P361_234", "pattern_ix": 1}
+{"prompt": "inorganic chemistry is part of [MASK].", "sub_label": "inorganic chemistry", "obj_label": "chemistry", "uuid": "a7dca426-4433-42ec-a4c4-9d85d2ef6549", "rel_ix": "P361_236", "pattern_ix": 0}
+{"prompt": "inorganic chemistry is a part of [MASK].", "sub_label": "inorganic chemistry", "obj_label": "chemistry", "uuid": "a7dca426-4433-42ec-a4c4-9d85d2ef6549", "rel_ix": "P361_236", "pattern_ix": 1}
+{"prompt": "Bergen-Enkheim is part of [MASK].", "sub_label": "Bergen-Enkheim", "obj_label": "Frankfurt", "uuid": "433e5243-717b-4293-9260-1898473da379", "rel_ix": "P361_242", "pattern_ix": 0}
+{"prompt": "Bergen-Enkheim is a part of [MASK].", "sub_label": "Bergen-Enkheim", "obj_label": "Frankfurt", "uuid": "433e5243-717b-4293-9260-1898473da379", "rel_ix": "P361_242", "pattern_ix": 1}
+{"prompt": "stratum is part of [MASK].", "sub_label": "stratum", "obj_label": "formation", "uuid": "2ffc9c69-047a-4ffc-9325-b99163e40215", "rel_ix": "P361_243", "pattern_ix": 0}
+{"prompt": "stratum is a part of [MASK].", "sub_label": "stratum", "obj_label": "formation", "uuid": "2ffc9c69-047a-4ffc-9325-b99163e40215", "rel_ix": "P361_243", "pattern_ix": 1}
+{"prompt": "Northern Crusades is part of [MASK].", "sub_label": "Northern Crusades", "obj_label": "Crusade", "uuid": "5bded2f5-5aa5-4953-9fcb-21f4fe4cf5a0", "rel_ix": "P361_245", "pattern_ix": 0}
+{"prompt": "Northern Crusades is a part of [MASK].", "sub_label": "Northern Crusades", "obj_label": "Crusade", "uuid": "5bded2f5-5aa5-4953-9fcb-21f4fe4cf5a0", "rel_ix": "P361_245", "pattern_ix": 1}
+{"prompt": "Umbral calculus is part of [MASK].", "sub_label": "Umbral calculus", "obj_label": "mathematics", "uuid": "46468148-3bd8-42cf-9223-ccb4526b0f69", "rel_ix": "P361_249", "pattern_ix": 0}
+{"prompt": "Umbral calculus is a part of [MASK].", "sub_label": "Umbral calculus", "obj_label": "mathematics", "uuid": "46468148-3bd8-42cf-9223-ccb4526b0f69", "rel_ix": "P361_249", "pattern_ix": 1}
+{"prompt": "hydrology is part of [MASK].", "sub_label": "hydrology", "obj_label": "ecology", "uuid": "675960fb-e875-416e-9af9-19079b15ef22", "rel_ix": "P361_256", "pattern_ix": 0}
+{"prompt": "hydrology is a part of [MASK].", "sub_label": "hydrology", "obj_label": "ecology", "uuid": "675960fb-e875-416e-9af9-19079b15ef22", "rel_ix": "P361_256", "pattern_ix": 1}
+{"prompt": "hepatocyte is part of [MASK].", "sub_label": "hepatocyte", "obj_label": "liver", "uuid": "8f64dc7a-6329-4d3b-8009-cba796454d15", "rel_ix": "P361_259", "pattern_ix": 0}
+{"prompt": "hepatocyte is a part of [MASK].", "sub_label": "hepatocyte", "obj_label": "liver", "uuid": "8f64dc7a-6329-4d3b-8009-cba796454d15", "rel_ix": "P361_259", "pattern_ix": 1}
+{"prompt": "organ system is part of [MASK].", "sub_label": "organ system", "obj_label": "organism", "uuid": "9585c505-d8dd-4600-ac1b-5d538c64231c", "rel_ix": "P361_260", "pattern_ix": 0}
+{"prompt": "organ system is a part of [MASK].", "sub_label": "organ system", "obj_label": "organism", "uuid": "9585c505-d8dd-4600-ac1b-5d538c64231c", "rel_ix": "P361_260", "pattern_ix": 1}
+{"prompt": "physiology is part of [MASK].", "sub_label": "physiology", "obj_label": "biology", "uuid": "0b118454-45a3-4453-9fd4-bcc2e32ab13c", "rel_ix": "P361_268", "pattern_ix": 0}
+{"prompt": "physiology is a part of [MASK].", "sub_label": "physiology", "obj_label": "biology", "uuid": "0b118454-45a3-4453-9fd4-bcc2e32ab13c", "rel_ix": "P361_268", "pattern_ix": 1}
+{"prompt": "Harburg-Wilhelmsburg is part of [MASK].", "sub_label": "Harburg-Wilhelmsburg", "obj_label": "Hamburg", "uuid": "3c835499-7e02-498d-8081-f1535f510424", "rel_ix": "P361_273", "pattern_ix": 0}
+{"prompt": "Harburg-Wilhelmsburg is a part of [MASK].", "sub_label": "Harburg-Wilhelmsburg", "obj_label": "Hamburg", "uuid": "3c835499-7e02-498d-8081-f1535f510424", "rel_ix": "P361_273", "pattern_ix": 1}
+{"prompt": "Imamiyyah is part of [MASK].", "sub_label": "Imamiyyah", "obj_label": "Islam", "uuid": "c88bf6fe-5ad5-4f87-80d5-daa628a4f4d9", "rel_ix": "P361_274", "pattern_ix": 0}
+{"prompt": "Imamiyyah is a part of [MASK].", "sub_label": "Imamiyyah", "obj_label": "Islam", "uuid": "c88bf6fe-5ad5-4f87-80d5-daa628a4f4d9", "rel_ix": "P361_274", "pattern_ix": 1}
+{"prompt": "galactic halo is part of [MASK].", "sub_label": "galactic halo", "obj_label": "galaxy", "uuid": "04c744f8-fd85-442d-a56b-39833a492895", "rel_ix": "P361_276", "pattern_ix": 0}
+{"prompt": "galactic halo is a part of [MASK].", "sub_label": "galactic halo", "obj_label": "galaxy", "uuid": "04c744f8-fd85-442d-a56b-39833a492895", "rel_ix": "P361_276", "pattern_ix": 1}
+{"prompt": "lacrimal bone is part of [MASK].", "sub_label": "lacrimal bone", "obj_label": "skull", "uuid": "5b629c27-df8c-4d40-a43f-c597d2993724", "rel_ix": "P361_278", "pattern_ix": 0}
+{"prompt": "lacrimal bone is a part of [MASK].", "sub_label": "lacrimal bone", "obj_label": "skull", "uuid": "5b629c27-df8c-4d40-a43f-c597d2993724", "rel_ix": "P361_278", "pattern_ix": 1}
+{"prompt": "semiotics is part of [MASK].", "sub_label": "semiotics", "obj_label": "philosophy", "uuid": "21325482-b84c-4075-8bde-0a27bf074314", "rel_ix": "P361_280", "pattern_ix": 0}
+{"prompt": "semiotics is a part of [MASK].", "sub_label": "semiotics", "obj_label": "philosophy", "uuid": "21325482-b84c-4075-8bde-0a27bf074314", "rel_ix": "P361_280", "pattern_ix": 1}
+{"prompt": "Government of France is part of [MASK].", "sub_label": "Government of France", "obj_label": "France", "uuid": "9ad8caa1-1d39-4c94-ba87-71c694eeee51", "rel_ix": "P361_284", "pattern_ix": 0}
+{"prompt": "Government of France is a part of [MASK].", "sub_label": "Government of France", "obj_label": "France", "uuid": "9ad8caa1-1d39-4c94-ba87-71c694eeee51", "rel_ix": "P361_284", "pattern_ix": 1}
+{"prompt": "Surcingle is part of [MASK].", "sub_label": "Surcingle", "obj_label": "saddle", "uuid": "6cef446f-2935-4e02-b017-043445ec6099", "rel_ix": "P361_288", "pattern_ix": 0}
+{"prompt": "Surcingle is a part of [MASK].", "sub_label": "Surcingle", "obj_label": "saddle", "uuid": "6cef446f-2935-4e02-b017-043445ec6099", "rel_ix": "P361_288", "pattern_ix": 1}
+{"prompt": "Gunung Merbabu is part of [MASK].", "sub_label": "Gunung Merbabu", "obj_label": "Java", "uuid": "be1a94a7-4872-4446-8300-4a5c2d56af06", "rel_ix": "P361_296", "pattern_ix": 0}
+{"prompt": "Gunung Merbabu is a part of [MASK].", "sub_label": "Gunung Merbabu", "obj_label": "Java", "uuid": "be1a94a7-4872-4446-8300-4a5c2d56af06", "rel_ix": "P361_296", "pattern_ix": 1}
+{"prompt": "Director-General of the BBC is part of [MASK].", "sub_label": "Director-General of the BBC", "obj_label": "BBC", "uuid": "25dc9d33-43f5-42b4-89f1-67ab581a600e", "rel_ix": "P361_302", "pattern_ix": 0}
+{"prompt": "Director-General of the BBC is a part of [MASK].", "sub_label": "Director-General of the BBC", "obj_label": "BBC", "uuid": "25dc9d33-43f5-42b4-89f1-67ab581a600e", "rel_ix": "P361_302", "pattern_ix": 1}
+{"prompt": "Norwegian dialects is part of [MASK].", "sub_label": "Norwegian dialects", "obj_label": "Norwegian", "uuid": "8ba3a336-943d-47f9-a449-ac5ac5a304fc", "rel_ix": "P361_303", "pattern_ix": 0}
+{"prompt": "Norwegian dialects is a part of [MASK].", "sub_label": "Norwegian dialects", "obj_label": "Norwegian", "uuid": "8ba3a336-943d-47f9-a449-ac5ac5a304fc", "rel_ix": "P361_303", "pattern_ix": 1}
+{"prompt": "neurosurgery is part of [MASK].", "sub_label": "neurosurgery", "obj_label": "surgery", "uuid": "7d620117-95b4-4b2e-b28c-52158a44f0db", "rel_ix": "P361_304", "pattern_ix": 0}
+{"prompt": "neurosurgery is a part of [MASK].", "sub_label": "neurosurgery", "obj_label": "surgery", "uuid": "7d620117-95b4-4b2e-b28c-52158a44f0db", "rel_ix": "P361_304", "pattern_ix": 1}
+{"prompt": "informatics is part of [MASK].", "sub_label": "informatics", "obj_label": "science", "uuid": "fe8950a3-569e-41dc-bdc7-11dd9ac66478", "rel_ix": "P361_305", "pattern_ix": 0}
+{"prompt": "informatics is a part of [MASK].", "sub_label": "informatics", "obj_label": "science", "uuid": "fe8950a3-569e-41dc-bdc7-11dd9ac66478", "rel_ix": "P361_305", "pattern_ix": 1}
+{"prompt": "2nd arrondissement of Lyon is part of [MASK].", "sub_label": "2nd arrondissement of Lyon", "obj_label": "Lyon", "uuid": "6a810923-e0f1-4eb7-8efd-14d16932df2d", "rel_ix": "P361_307", "pattern_ix": 0}
+{"prompt": "2nd arrondissement of Lyon is a part of [MASK].", "sub_label": "2nd arrondissement of Lyon", "obj_label": "Lyon", "uuid": "6a810923-e0f1-4eb7-8efd-14d16932df2d", "rel_ix": "P361_307", "pattern_ix": 1}
+{"prompt": "toilet paper is part of [MASK].", "sub_label": "toilet paper", "obj_label": "toilet", "uuid": "0bad3ef7-864a-49bd-81a9-4cd9b7e93fb3", "rel_ix": "P361_312", "pattern_ix": 0}
+{"prompt": "toilet paper is a part of [MASK].", "sub_label": "toilet paper", "obj_label": "toilet", "uuid": "0bad3ef7-864a-49bd-81a9-4cd9b7e93fb3", "rel_ix": "P361_312", "pattern_ix": 1}
+{"prompt": "Spektr is part of [MASK].", "sub_label": "Spektr", "obj_label": "Mir", "uuid": "49e7c70b-8b62-4c68-90ce-207877cca843", "rel_ix": "P361_318", "pattern_ix": 0}
+{"prompt": "Spektr is a part of [MASK].", "sub_label": "Spektr", "obj_label": "Mir", "uuid": "49e7c70b-8b62-4c68-90ce-207877cca843", "rel_ix": "P361_318", "pattern_ix": 1}
+{"prompt": "Early Jurassic is part of [MASK].", "sub_label": "Early Jurassic", "obj_label": "Jurassic", "uuid": "cde7bcc8-be46-4a06-9866-88b82979abfe", "rel_ix": "P361_332", "pattern_ix": 0}
+{"prompt": "Early Jurassic is a part of [MASK].", "sub_label": "Early Jurassic", "obj_label": "Jurassic", "uuid": "cde7bcc8-be46-4a06-9866-88b82979abfe", "rel_ix": "P361_332", "pattern_ix": 1}
+{"prompt": "purple drank is part of [MASK].", "sub_label": "purple drank", "obj_label": "slang", "uuid": "e4f2addd-37bb-4820-9d8d-b82399002bd3", "rel_ix": "P361_336", "pattern_ix": 0}
+{"prompt": "purple drank is a part of [MASK].", "sub_label": "purple drank", "obj_label": "slang", "uuid": "e4f2addd-37bb-4820-9d8d-b82399002bd3", "rel_ix": "P361_336", "pattern_ix": 1}
+{"prompt": "stochastic is part of [MASK].", "sub_label": "stochastic", "obj_label": "mathematics", "uuid": "bf4db635-0c2d-45d2-bf85-ed4845954ca1", "rel_ix": "P361_339", "pattern_ix": 0}
+{"prompt": "stochastic is a part of [MASK].", "sub_label": "stochastic", "obj_label": "mathematics", "uuid": "bf4db635-0c2d-45d2-bf85-ed4845954ca1", "rel_ix": "P361_339", "pattern_ix": 1}
+{"prompt": "administrative district of Prague is part of [MASK].", "sub_label": "administrative district of Prague", "obj_label": "Prague", "uuid": "5fa800a1-9e3e-4333-9681-4a70f5d86ee9", "rel_ix": "P361_347", "pattern_ix": 0}
+{"prompt": "administrative district of Prague is a part of [MASK].", "sub_label": "administrative district of Prague", "obj_label": "Prague", "uuid": "5fa800a1-9e3e-4333-9681-4a70f5d86ee9", "rel_ix": "P361_347", "pattern_ix": 1}
+{"prompt": "Gunung Muria is part of [MASK].", "sub_label": "Gunung Muria", "obj_label": "Java", "uuid": "bf9e1241-939a-467d-8218-c4ed847e6021", "rel_ix": "P361_360", "pattern_ix": 0}
+{"prompt": "Gunung Muria is a part of [MASK].", "sub_label": "Gunung Muria", "obj_label": "Java", "uuid": "bf9e1241-939a-467d-8218-c4ed847e6021", "rel_ix": "P361_360", "pattern_ix": 1}
+{"prompt": "allotropy is part of [MASK].", "sub_label": "allotropy", "obj_label": "chemistry", "uuid": "ddbd51e5-c27f-4d4a-8e7d-86139285396a", "rel_ix": "P361_363", "pattern_ix": 0}
+{"prompt": "allotropy is a part of [MASK].", "sub_label": "allotropy", "obj_label": "chemistry", "uuid": "ddbd51e5-c27f-4d4a-8e7d-86139285396a", "rel_ix": "P361_363", "pattern_ix": 1}
+{"prompt": "magnetosphere of Jupiter is part of [MASK].", "sub_label": "magnetosphere of Jupiter", "obj_label": "Jupiter", "uuid": "d71d11a0-5484-423a-acd6-c505e87e0a75", "rel_ix": "P361_366", "pattern_ix": 0}
+{"prompt": "magnetosphere of Jupiter is a part of [MASK].", "sub_label": "magnetosphere of Jupiter", "obj_label": "Jupiter", "uuid": "d71d11a0-5484-423a-acd6-c505e87e0a75", "rel_ix": "P361_366", "pattern_ix": 1}
+{"prompt": "Downtown Denver is part of [MASK].", "sub_label": "Downtown Denver", "obj_label": "Denver", "uuid": "5ba6744c-94b1-4aac-a13a-3c660c4a01c2", "rel_ix": "P361_367", "pattern_ix": 0}
+{"prompt": "Downtown Denver is a part of [MASK].", "sub_label": "Downtown Denver", "obj_label": "Denver", "uuid": "5ba6744c-94b1-4aac-a13a-3c660c4a01c2", "rel_ix": "P361_367", "pattern_ix": 1}
+{"prompt": "gangster is part of [MASK].", "sub_label": "gangster", "obj_label": "gang", "uuid": "1de5ad04-19bc-4701-894f-1b0907876a39", "rel_ix": "P361_371", "pattern_ix": 0}
+{"prompt": "gangster is a part of [MASK].", "sub_label": "gangster", "obj_label": "gang", "uuid": "1de5ad04-19bc-4701-894f-1b0907876a39", "rel_ix": "P361_371", "pattern_ix": 1}
+{"prompt": "electrolyte is part of [MASK].", "sub_label": "electrolyte", "obj_label": "battery", "uuid": "afa06d4b-d4f4-4e23-8802-783a09c16b8a", "rel_ix": "P361_372", "pattern_ix": 0}
+{"prompt": "electrolyte is a part of [MASK].", "sub_label": "electrolyte", "obj_label": "battery", "uuid": "afa06d4b-d4f4-4e23-8802-783a09c16b8a", "rel_ix": "P361_372", "pattern_ix": 1}
+{"prompt": "image editing is part of [MASK].", "sub_label": "image editing", "obj_label": "photography", "uuid": "ffd0ce02-d45c-4d48-9cb9-9d7dd996962a", "rel_ix": "P361_377", "pattern_ix": 0}
+{"prompt": "image editing is a part of [MASK].", "sub_label": "image editing", "obj_label": "photography", "uuid": "ffd0ce02-d45c-4d48-9cb9-9d7dd996962a", "rel_ix": "P361_377", "pattern_ix": 1}
+{"prompt": "C99 shell is part of [MASK].", "sub_label": "C99 shell", "obj_label": "C", "uuid": "37373a41-2850-499c-b890-e3f7e870ec2f", "rel_ix": "P361_378", "pattern_ix": 0}
+{"prompt": "C99 shell is a part of [MASK].", "sub_label": "C99 shell", "obj_label": "C", "uuid": "37373a41-2850-499c-b890-e3f7e870ec2f", "rel_ix": "P361_378", "pattern_ix": 1}
+{"prompt": "triangle center is part of [MASK].", "sub_label": "triangle center", "obj_label": "triangle", "uuid": "ade25be6-5ddf-4a62-acfd-1c4b65b4d142", "rel_ix": "P361_381", "pattern_ix": 0}
+{"prompt": "triangle center is a part of [MASK].", "sub_label": "triangle center", "obj_label": "triangle", "uuid": "ade25be6-5ddf-4a62-acfd-1c4b65b4d142", "rel_ix": "P361_381", "pattern_ix": 1}
+{"prompt": "rocket is part of [MASK].", "sub_label": "rocket", "obj_label": "spacecraft", "uuid": "c9989f63-b2f1-46d9-aeef-5323b6c15e30", "rel_ix": "P361_385", "pattern_ix": 0}
+{"prompt": "rocket is a part of [MASK].", "sub_label": "rocket", "obj_label": "spacecraft", "uuid": "c9989f63-b2f1-46d9-aeef-5323b6c15e30", "rel_ix": "P361_385", "pattern_ix": 1}
+{"prompt": "mathematical notation is part of [MASK].", "sub_label": "mathematical notation", "obj_label": "mathematics", "uuid": "7b7bee39-e2f2-4dfa-b8bc-23bbdc85c24f", "rel_ix": "P361_393", "pattern_ix": 0}
+{"prompt": "mathematical notation is a part of [MASK].", "sub_label": "mathematical notation", "obj_label": "mathematics", "uuid": "7b7bee39-e2f2-4dfa-b8bc-23bbdc85c24f", "rel_ix": "P361_393", "pattern_ix": 1}
+{"prompt": "theodicy is part of [MASK].", "sub_label": "theodicy", "obj_label": "theology", "uuid": "81808853-6c9c-4d3a-9b2c-c8443e7f6939", "rel_ix": "P361_408", "pattern_ix": 0}
+{"prompt": "theodicy is a part of [MASK].", "sub_label": "theodicy", "obj_label": "theology", "uuid": "81808853-6c9c-4d3a-9b2c-c8443e7f6939", "rel_ix": "P361_408", "pattern_ix": 1}
+{"prompt": "bicycle fork is part of [MASK].", "sub_label": "bicycle fork", "obj_label": "bicycle", "uuid": "ce039f6e-f197-4b4a-9fe8-97807326aed1", "rel_ix": "P361_424", "pattern_ix": 0}
+{"prompt": "bicycle fork is a part of [MASK].", "sub_label": "bicycle fork", "obj_label": "bicycle", "uuid": "ce039f6e-f197-4b4a-9fe8-97807326aed1", "rel_ix": "P361_424", "pattern_ix": 1}
+{"prompt": "Cima Palon is part of [MASK].", "sub_label": "Cima Palon", "obj_label": "Alps", "uuid": "a45903c5-92c2-4cd1-9d18-0646bcd3e949", "rel_ix": "P361_425", "pattern_ix": 0}
+{"prompt": "Cima Palon is a part of [MASK].", "sub_label": "Cima Palon", "obj_label": "Alps", "uuid": "a45903c5-92c2-4cd1-9d18-0646bcd3e949", "rel_ix": "P361_425", "pattern_ix": 1}
+{"prompt": "pedagogy is part of [MASK].", "sub_label": "pedagogy", "obj_label": "education", "uuid": "198ff890-70fe-4fbe-8aa6-e44a22e0902d", "rel_ix": "P361_427", "pattern_ix": 0}
+{"prompt": "pedagogy is a part of [MASK].", "sub_label": "pedagogy", "obj_label": "education", "uuid": "198ff890-70fe-4fbe-8aa6-e44a22e0902d", "rel_ix": "P361_427", "pattern_ix": 1}
+{"prompt": "United Airlines is part of [MASK].", "sub_label": "United Airlines", "obj_label": "airline", "uuid": "accae8d9-d048-492c-b6f5-c37b3953687e", "rel_ix": "P361_433", "pattern_ix": 0}
+{"prompt": "United Airlines is a part of [MASK].", "sub_label": "United Airlines", "obj_label": "airline", "uuid": "accae8d9-d048-492c-b6f5-c37b3953687e", "rel_ix": "P361_433", "pattern_ix": 1}
+{"prompt": "Joshua is part of [MASK].", "sub_label": "Joshua", "obj_label": "Bible", "uuid": "865a22a2-40ab-4f7b-bbe7-197533aa3693", "rel_ix": "P361_438", "pattern_ix": 0}
+{"prompt": "Joshua is a part of [MASK].", "sub_label": "Joshua", "obj_label": "Bible", "uuid": "865a22a2-40ab-4f7b-bbe7-197533aa3693", "rel_ix": "P361_438", "pattern_ix": 1}
+{"prompt": "Northern Range is part of [MASK].", "sub_label": "Northern Range", "obj_label": "Trinidad", "uuid": "07ffe1c3-df51-4785-9741-dc6fde8ecf80", "rel_ix": "P361_444", "pattern_ix": 0}
+{"prompt": "Northern Range is a part of [MASK].", "sub_label": "Northern Range", "obj_label": "Trinidad", "uuid": "07ffe1c3-df51-4785-9741-dc6fde8ecf80", "rel_ix": "P361_444", "pattern_ix": 1}
+{"prompt": "Western Belorussia is part of [MASK].", "sub_label": "Western Belorussia", "obj_label": "Belarus", "uuid": "75c068e0-1d1e-419a-8e4c-0c08a970577f", "rel_ix": "P361_455", "pattern_ix": 0}
+{"prompt": "Western Belorussia is a part of [MASK].", "sub_label": "Western Belorussia", "obj_label": "Belarus", "uuid": "75c068e0-1d1e-419a-8e4c-0c08a970577f", "rel_ix": "P361_455", "pattern_ix": 1}
+{"prompt": "Idol 2008 is part of [MASK].", "sub_label": "Idol 2008", "obj_label": "Idol", "uuid": "f4578534-e1db-487f-b585-516844956294", "rel_ix": "P361_462", "pattern_ix": 0}
+{"prompt": "Idol 2008 is a part of [MASK].", "sub_label": "Idol 2008", "obj_label": "Idol", "uuid": "f4578534-e1db-487f-b585-516844956294", "rel_ix": "P361_462", "pattern_ix": 1}
+{"prompt": "scientific racism is part of [MASK].", "sub_label": "scientific racism", "obj_label": "racism", "uuid": "f55a04c0-b4a6-40aa-883e-aafdb1fe85ea", "rel_ix": "P361_471", "pattern_ix": 0}
+{"prompt": "scientific racism is a part of [MASK].", "sub_label": "scientific racism", "obj_label": "racism", "uuid": "f55a04c0-b4a6-40aa-883e-aafdb1fe85ea", "rel_ix": "P361_471", "pattern_ix": 1}
+{"prompt": "chinese philosophy is part of [MASK].", "sub_label": "chinese philosophy", "obj_label": "philosophy", "uuid": "e35c6341-f537-4b46-8a02-451d353a5195", "rel_ix": "P361_477", "pattern_ix": 0}
+{"prompt": "chinese philosophy is a part of [MASK].", "sub_label": "chinese philosophy", "obj_label": "philosophy", "uuid": "e35c6341-f537-4b46-8a02-451d353a5195", "rel_ix": "P361_477", "pattern_ix": 1}
+{"prompt": "insurance policy is part of [MASK].", "sub_label": "insurance policy", "obj_label": "insurance", "uuid": "64823b1b-948a-42cf-a16d-e82097b22a52", "rel_ix": "P361_484", "pattern_ix": 0}
+{"prompt": "insurance policy is a part of [MASK].", "sub_label": "insurance policy", "obj_label": "insurance", "uuid": "64823b1b-948a-42cf-a16d-e82097b22a52", "rel_ix": "P361_484", "pattern_ix": 1}
+{"prompt": "Army National Guard is part of [MASK].", "sub_label": "Army National Guard", "obj_label": "Militia", "uuid": "7aebd221-f700-4235-b819-61de9062f1a6", "rel_ix": "P361_490", "pattern_ix": 0}
+{"prompt": "Army National Guard is a part of [MASK].", "sub_label": "Army National Guard", "obj_label": "Militia", "uuid": "7aebd221-f700-4235-b819-61de9062f1a6", "rel_ix": "P361_490", "pattern_ix": 1}
+{"prompt": "harquebusier is part of [MASK].", "sub_label": "harquebusier", "obj_label": "cavalry", "uuid": "37ea9dd4-6ae5-4208-ba00-482e468163fd", "rel_ix": "P361_492", "pattern_ix": 0}
+{"prompt": "harquebusier is a part of [MASK].", "sub_label": "harquebusier", "obj_label": "cavalry", "uuid": "37ea9dd4-6ae5-4208-ba00-482e468163fd", "rel_ix": "P361_492", "pattern_ix": 1}
+{"prompt": "psephology is part of [MASK].", "sub_label": "psephology", "obj_label": "sociology", "uuid": "cd9a7074-324e-403e-91a8-27a054c72470", "rel_ix": "P361_497", "pattern_ix": 0}
+{"prompt": "psephology is a part of [MASK].", "sub_label": "psephology", "obj_label": "sociology", "uuid": "cd9a7074-324e-403e-91a8-27a054c72470", "rel_ix": "P361_497", "pattern_ix": 1}
+{"prompt": "simulation is part of [MASK].", "sub_label": "simulation", "obj_label": "physics", "uuid": "26e0122c-48cd-4a1a-9e1d-5233d1cc5f81", "rel_ix": "P361_498", "pattern_ix": 0}
+{"prompt": "simulation is a part of [MASK].", "sub_label": "simulation", "obj_label": "physics", "uuid": "26e0122c-48cd-4a1a-9e1d-5233d1cc5f81", "rel_ix": "P361_498", "pattern_ix": 1}
+{"prompt": "Ottoman Greeks is part of [MASK].", "sub_label": "Ottoman Greeks", "obj_label": "Greeks", "uuid": "e29f8e77-49f0-4c2c-9690-93ea0350b861", "rel_ix": "P361_504", "pattern_ix": 0}
+{"prompt": "Ottoman Greeks is a part of [MASK].", "sub_label": "Ottoman Greeks", "obj_label": "Greeks", "uuid": "e29f8e77-49f0-4c2c-9690-93ea0350b861", "rel_ix": "P361_504", "pattern_ix": 1}
+{"prompt": "Gunung Raung is part of [MASK].", "sub_label": "Gunung Raung", "obj_label": "Java", "uuid": "56f0888c-941d-4e40-a239-927cfe5c58bb", "rel_ix": "P361_506", "pattern_ix": 0}
+{"prompt": "Gunung Raung is a part of [MASK].", "sub_label": "Gunung Raung", "obj_label": "Java", "uuid": "56f0888c-941d-4e40-a239-927cfe5c58bb", "rel_ix": "P361_506", "pattern_ix": 1}
+{"prompt": "consciousness raising is part of [MASK].", "sub_label": "consciousness raising", "obj_label": "feminism", "uuid": "c4ae53b6-43df-4684-8352-4cc43f8a0ba3", "rel_ix": "P361_517", "pattern_ix": 0}
+{"prompt": "consciousness raising is a part of [MASK].", "sub_label": "consciousness raising", "obj_label": "feminism", "uuid": "c4ae53b6-43df-4684-8352-4cc43f8a0ba3", "rel_ix": "P361_517", "pattern_ix": 1}
+{"prompt": "international economics is part of [MASK].", "sub_label": "international economics", "obj_label": "economics", "uuid": "f03c56a6-444e-47e3-8bae-b1cd31fee1de", "rel_ix": "P361_518", "pattern_ix": 0}
+{"prompt": "international economics is a part of [MASK].", "sub_label": "international economics", "obj_label": "economics", "uuid": "f03c56a6-444e-47e3-8bae-b1cd31fee1de", "rel_ix": "P361_518", "pattern_ix": 1}
+{"prompt": "Izz ad-Din al-Qassam Brigades is part of [MASK].", "sub_label": "Izz ad-Din al-Qassam Brigades", "obj_label": "Hamas", "uuid": "ded42d16-4c52-47b8-9170-304112ed0b42", "rel_ix": "P361_542", "pattern_ix": 0}
+{"prompt": "Izz ad-Din al-Qassam Brigades is a part of [MASK].", "sub_label": "Izz ad-Din al-Qassam Brigades", "obj_label": "Hamas", "uuid": "ded42d16-4c52-47b8-9170-304112ed0b42", "rel_ix": "P361_542", "pattern_ix": 1}
+{"prompt": "pharmaceutical science is part of [MASK].", "sub_label": "pharmaceutical science", "obj_label": "biology", "uuid": "a277fc50-a15a-4216-9a06-3a50141bba9e", "rel_ix": "P361_547", "pattern_ix": 0}
+{"prompt": "pharmaceutical science is a part of [MASK].", "sub_label": "pharmaceutical science", "obj_label": "biology", "uuid": "a277fc50-a15a-4216-9a06-3a50141bba9e", "rel_ix": "P361_547", "pattern_ix": 1}
+{"prompt": "Liberal Christianity is part of [MASK].", "sub_label": "Liberal Christianity", "obj_label": "Christianity", "uuid": "9d503041-d909-4b26-a7e6-7d826e0b78f0", "rel_ix": "P361_558", "pattern_ix": 0}
+{"prompt": "Liberal Christianity is a part of [MASK].", "sub_label": "Liberal Christianity", "obj_label": "Christianity", "uuid": "9d503041-d909-4b26-a7e6-7d826e0b78f0", "rel_ix": "P361_558", "pattern_ix": 1}
+{"prompt": "Trevor Rabin is part of [MASK].", "sub_label": "Trevor Rabin", "obj_label": "Yes", "uuid": "b456c4d4-02fa-4226-8f28-81a7a9d5654f", "rel_ix": "P361_562", "pattern_ix": 0}
+{"prompt": "Trevor Rabin is a part of [MASK].", "sub_label": "Trevor Rabin", "obj_label": "Yes", "uuid": "b456c4d4-02fa-4226-8f28-81a7a9d5654f", "rel_ix": "P361_562", "pattern_ix": 1}
+{"prompt": "accounting standard is part of [MASK].", "sub_label": "accounting standard", "obj_label": "accounting", "uuid": "f74cb148-2516-4b6b-b167-3fb1ec7eacb5", "rel_ix": "P361_565", "pattern_ix": 0}
+{"prompt": "accounting standard is a part of [MASK].", "sub_label": "accounting standard", "obj_label": "accounting", "uuid": "f74cb148-2516-4b6b-b167-3fb1ec7eacb5", "rel_ix": "P361_565", "pattern_ix": 1}
+{"prompt": "percussion cap is part of [MASK].", "sub_label": "percussion cap", "obj_label": "cartridge", "uuid": "36695aec-971f-4e88-8edc-4f1dd10d350f", "rel_ix": "P361_566", "pattern_ix": 0}
+{"prompt": "percussion cap is a part of [MASK].", "sub_label": "percussion cap", "obj_label": "cartridge", "uuid": "36695aec-971f-4e88-8edc-4f1dd10d350f", "rel_ix": "P361_566", "pattern_ix": 1}
+{"prompt": "Monte San Giorgio is part of [MASK].", "sub_label": "Monte San Giorgio", "obj_label": "Alps", "uuid": "7276c2a3-6651-4a96-952a-b05e9d8aff35", "rel_ix": "P361_570", "pattern_ix": 0}
+{"prompt": "Monte San Giorgio is a part of [MASK].", "sub_label": "Monte San Giorgio", "obj_label": "Alps", "uuid": "7276c2a3-6651-4a96-952a-b05e9d8aff35", "rel_ix": "P361_570", "pattern_ix": 1}
+{"prompt": "Mauna Kea is part of [MASK].", "sub_label": "Mauna Kea", "obj_label": "Hawaii", "uuid": "1297679e-0478-4c67-989d-5e2bc3bd378d", "rel_ix": "P361_579", "pattern_ix": 0}
+{"prompt": "Mauna Kea is a part of [MASK].", "sub_label": "Mauna Kea", "obj_label": "Hawaii", "uuid": "1297679e-0478-4c67-989d-5e2bc3bd378d", "rel_ix": "P361_579", "pattern_ix": 1}
+{"prompt": "radiation is part of [MASK].", "sub_label": "radiation", "obj_label": "physics", "uuid": "d8533290-b89d-4cd1-ba53-e7f7b4d39c8a", "rel_ix": "P361_584", "pattern_ix": 0}
+{"prompt": "radiation is a part of [MASK].", "sub_label": "radiation", "obj_label": "physics", "uuid": "d8533290-b89d-4cd1-ba53-e7f7b4d39c8a", "rel_ix": "P361_584", "pattern_ix": 1}
+{"prompt": "star cluster is part of [MASK].", "sub_label": "star cluster", "obj_label": "galaxy", "uuid": "ed360bf4-6c72-4bc2-85dc-e90638893462", "rel_ix": "P361_597", "pattern_ix": 0}
+{"prompt": "star cluster is a part of [MASK].", "sub_label": "star cluster", "obj_label": "galaxy", "uuid": "ed360bf4-6c72-4bc2-85dc-e90638893462", "rel_ix": "P361_597", "pattern_ix": 1}
+{"prompt": "FIFA Congress is part of [MASK].", "sub_label": "FIFA Congress", "obj_label": "FIFA", "uuid": "6fa2562c-303f-4082-b826-c330abd52b59", "rel_ix": "P361_598", "pattern_ix": 0}
+{"prompt": "FIFA Congress is a part of [MASK].", "sub_label": "FIFA Congress", "obj_label": "FIFA", "uuid": "6fa2562c-303f-4082-b826-c330abd52b59", "rel_ix": "P361_598", "pattern_ix": 1}
+{"prompt": "Thin disk is part of [MASK].", "sub_label": "Thin disk", "obj_label": "galaxy", "uuid": "8eb2cf20-b2d9-4b7e-a1a1-9c32a823c689", "rel_ix": "P361_617", "pattern_ix": 0}
+{"prompt": "Thin disk is a part of [MASK].", "sub_label": "Thin disk", "obj_label": "galaxy", "uuid": "8eb2cf20-b2d9-4b7e-a1a1-9c32a823c689", "rel_ix": "P361_617", "pattern_ix": 1}
+{"prompt": "Thick disk is part of [MASK].", "sub_label": "Thick disk", "obj_label": "galaxy", "uuid": "926d7f3d-ec9b-41ce-a4cd-3e81e47a370c", "rel_ix": "P361_618", "pattern_ix": 0}
+{"prompt": "Thick disk is a part of [MASK].", "sub_label": "Thick disk", "obj_label": "galaxy", "uuid": "926d7f3d-ec9b-41ce-a4cd-3e81e47a370c", "rel_ix": "P361_618", "pattern_ix": 1}
+{"prompt": "YouTube Original Channel Initiative is part of [MASK].", "sub_label": "YouTube Original Channel Initiative", "obj_label": "YouTube", "uuid": "2dfe92de-5abb-4811-b3be-6f5ebf20029b", "rel_ix": "P361_621", "pattern_ix": 0}
+{"prompt": "YouTube Original Channel Initiative is a part of [MASK].", "sub_label": "YouTube Original Channel Initiative", "obj_label": "YouTube", "uuid": "2dfe92de-5abb-4811-b3be-6f5ebf20029b", "rel_ix": "P361_621", "pattern_ix": 1}
+{"prompt": "phonetics is part of [MASK].", "sub_label": "phonetics", "obj_label": "biology", "uuid": "f202059f-800f-437b-bd57-c701711f11b0", "rel_ix": "P361_625", "pattern_ix": 0}
+{"prompt": "phonetics is a part of [MASK].", "sub_label": "phonetics", "obj_label": "biology", "uuid": "f202059f-800f-437b-bd57-c701711f11b0", "rel_ix": "P361_625", "pattern_ix": 1}
+{"prompt": "Idol 2013 is part of [MASK].", "sub_label": "Idol 2013", "obj_label": "Idol", "uuid": "1829ac66-11f2-48d0-8d4c-f60310e2fcfa", "rel_ix": "P361_633", "pattern_ix": 0}
+{"prompt": "Idol 2013 is a part of [MASK].", "sub_label": "Idol 2013", "obj_label": "Idol", "uuid": "1829ac66-11f2-48d0-8d4c-f60310e2fcfa", "rel_ix": "P361_633", "pattern_ix": 1}
+{"prompt": "dispositio is part of [MASK].", "sub_label": "dispositio", "obj_label": "rhetoric", "uuid": "5d05e60b-d0d8-4492-bd6f-6af118a938e4", "rel_ix": "P361_636", "pattern_ix": 0}
+{"prompt": "dispositio is a part of [MASK].", "sub_label": "dispositio", "obj_label": "rhetoric", "uuid": "5d05e60b-d0d8-4492-bd6f-6af118a938e4", "rel_ix": "P361_636", "pattern_ix": 1}
+{"prompt": "Jewish wedding is part of [MASK].", "sub_label": "Jewish wedding", "obj_label": "Judaism", "uuid": "ab383a46-885a-494c-b65a-e12def18ecfe", "rel_ix": "P361_648", "pattern_ix": 0}
+{"prompt": "Jewish wedding is a part of [MASK].", "sub_label": "Jewish wedding", "obj_label": "Judaism", "uuid": "ab383a46-885a-494c-b65a-e12def18ecfe", "rel_ix": "P361_648", "pattern_ix": 1}
+{"prompt": "You Want This is part of [MASK].", "sub_label": "You Want This", "obj_label": "Janet", "uuid": "8378f2c8-51f1-4d2f-a25c-2c68733b7ae9", "rel_ix": "P361_650", "pattern_ix": 0}
+{"prompt": "You Want This is a part of [MASK].", "sub_label": "You Want This", "obj_label": "Janet", "uuid": "8378f2c8-51f1-4d2f-a25c-2c68733b7ae9", "rel_ix": "P361_650", "pattern_ix": 1}
+{"prompt": "Grauspitz is part of [MASK].", "sub_label": "Grauspitz", "obj_label": "Alps", "uuid": "aead4dea-3872-4479-b29a-6b679ff50d4e", "rel_ix": "P361_651", "pattern_ix": 0}
+{"prompt": "Grauspitz is a part of [MASK].", "sub_label": "Grauspitz", "obj_label": "Alps", "uuid": "aead4dea-3872-4479-b29a-6b679ff50d4e", "rel_ix": "P361_651", "pattern_ix": 1}
+{"prompt": "cornea is part of [MASK].", "sub_label": "cornea", "obj_label": "eye", "uuid": "ce7ab6a8-941f-4b98-bb13-8dea4d180399", "rel_ix": "P361_653", "pattern_ix": 0}
+{"prompt": "cornea is a part of [MASK].", "sub_label": "cornea", "obj_label": "eye", "uuid": "ce7ab6a8-941f-4b98-bb13-8dea4d180399", "rel_ix": "P361_653", "pattern_ix": 1}
+{"prompt": "Pro-feminism is part of [MASK].", "sub_label": "Pro-feminism", "obj_label": "feminism", "uuid": "49c8d938-f0ab-484d-88b3-00b556458740", "rel_ix": "P361_655", "pattern_ix": 0}
+{"prompt": "Pro-feminism is a part of [MASK].", "sub_label": "Pro-feminism", "obj_label": "feminism", "uuid": "49c8d938-f0ab-484d-88b3-00b556458740", "rel_ix": "P361_655", "pattern_ix": 1}
+{"prompt": "pH indicator is part of [MASK].", "sub_label": "pH indicator", "obj_label": "chemistry", "uuid": "f5d9b35f-2f34-404a-8680-be3e274d1ebc", "rel_ix": "P361_663", "pattern_ix": 0}
+{"prompt": "pH indicator is a part of [MASK].", "sub_label": "pH indicator", "obj_label": "chemistry", "uuid": "f5d9b35f-2f34-404a-8680-be3e274d1ebc", "rel_ix": "P361_663", "pattern_ix": 1}
+{"prompt": "Red Blood Cell is part of [MASK].", "sub_label": "Red Blood Cell", "obj_label": "blood", "uuid": "6291b2d2-2143-490a-8092-a3d73364b525", "rel_ix": "P361_669", "pattern_ix": 0}
+{"prompt": "Red Blood Cell is a part of [MASK].", "sub_label": "Red Blood Cell", "obj_label": "blood", "uuid": "6291b2d2-2143-490a-8092-a3d73364b525", "rel_ix": "P361_669", "pattern_ix": 1}
+{"prompt": "Los Angeles Union Station is part of [MASK].", "sub_label": "Los Angeles Union Station", "obj_label": "Amtrak", "uuid": "4e4474ca-7a48-49bf-88ae-a61486f0c4db", "rel_ix": "P361_679", "pattern_ix": 0}
+{"prompt": "Los Angeles Union Station is a part of [MASK].", "sub_label": "Los Angeles Union Station", "obj_label": "Amtrak", "uuid": "4e4474ca-7a48-49bf-88ae-a61486f0c4db", "rel_ix": "P361_679", "pattern_ix": 1}
